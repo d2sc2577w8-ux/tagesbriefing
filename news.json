@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-06-20T14:00:21.751882+00:00",
+  "updated_at": "2026-06-20T20:52:06.437137+00:00",
   "politik": [
+    {
+      "title": "Datenleck gibt Einblick – Die Radiologie lastet immer schwerer auf dem Gesundheitswesen",
+      "link": "https://www.srf.ch/news/dialog/datenleck-gibt-einblick-die-radiologie-lastet-immer-schwerer-auf-dem-gesundheitswesen",
+      "published": "Sat, 20 Jun 2026 21:03:42 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Solothurner Uhrenindustrie – Als Uhrenarbeiter täglich Dutzende Tabletten schluckten",
+      "link": "https://www.srf.ch/news/schweiz/solothurner-uhrenindustrie-als-uhrenarbeiter-taeglich-dutzende-tabletten-schluckten",
+      "published": "Sat, 20 Jun 2026 18:00:05 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Todesfälle und Katastrophen – Freiwillige Arbeit im Care-Team: Wer tut sich das an?",
+      "link": "https://www.srf.ch/news/schweiz/todesfaelle-und-katastrophen-freiwillige-arbeit-im-care-team-wer-tut-sich-das-an",
+      "published": "Sat, 20 Jun 2026 17:30:33 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
     {
       "title": "Abkommen mit der EU – Bauernpräsident droht mit Nein zum Vertragspaket",
       "link": "https://www.srf.ch/news/schweiz/abkommen-mit-der-eu-bauernpraesident-droht-mit-nein-zum-vertragspaket",
@@ -8,49 +26,37 @@
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Diskussion um Wachstum – Wachstumsschmerzen: Luxusproblem oder Wohlstandsverlust?",
-      "link": "https://www.srf.ch/news/wirtschaft/diskussion-um-wachstum-wachstumsschmerzen-luxusproblem-oder-wohlstandsverlust",
-      "published": "Sat, 20 Jun 2026 12:54:55 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Die etwas anderen News – Lasst die Leute doch mal arbeiten!",
-      "link": "https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-lasst-die-leute-doch-mal-arbeiten",
-      "published": "Sat, 20 Jun 2026 11:05:11 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Abwechslung im Altersheim – Clownin Freud(h)a bringt Leichtigkeit in die Demenz-Abteilung",
-      "link": "https://www.srf.ch/news/schweiz/abwechslung-im-altersheim-clownin-freud-h-a-bringt-leichtigkeit-in-die-demenz-abteilung",
-      "published": "Sat, 20 Jun 2026 10:28:10 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Behörden in Australien melden ersten Fall von Vogelgrippe",
-      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-vogelgrippe-100.html",
-      "published": "Sat, 20 Jun 2026 15:37:34 +0200",
+      "title": "Luigi Pantisano: Auftrag mit schwierigem Auftakt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/luigi-pantisano-106.html",
+      "published": "Sat, 20 Jun 2026 21:51:11 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Iranisches Militär erklärt Straße von Hormus erneut für gesperrt",
-      "link": "https://www.tagesschau.de/ausland/asien/hormus-gesperrt-iran-usa-100.html",
-      "published": "Sat, 20 Jun 2026 15:55:37 +0200",
+      "title": "Selenskyj schickt polnischen Orden zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-ukraine-112.html",
+      "published": "Sat, 20 Jun 2026 21:19:42 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Studien: Wie gut berechnet KI den Fußball-Weltmeister?",
-      "link": "https://www.tagesschau.de/wissen/forschung/fussball-ki-vorhersage-tippspiel-100.html",
-      "published": "Sat, 20 Jun 2026 12:44:20 +0200",
+      "title": "Wetter: Schäden durch Hitze und Gewitter - und es bleibt heiß",
+      "link": "https://www.tagesschau.de/inland/unwetter-hitze-102.html",
+      "published": "Sat, 20 Jun 2026 21:02:28 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Experte zu Pflegerefom: \"Schlag ins Gesicht der pflegenden Angehörigen\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rothgang-finanzierung-pflegereform-100.html",
-      "published": "Sat, 20 Jun 2026 12:41:52 +0200",
+      "title": "Vorschläge an Bundesregierung: Das sind die Empfehlungen der Rentenkommission",
+      "link": "https://www.tagesschau.de/inland/rentenkommission-renteneintrittsalter-fonds-100.html",
+      "published": "Sat, 20 Jun 2026 19:42:31 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Handelsriesen wollen KI-Werbung von Deepfake-Kennzeichnung des EU AI Act befreien",
+      "link": "https://the-decoder.de/handelsriesen-wollen-ki-werbung-von-deepfake-kennzeichnung-des-eu-ai-act-befreien/",
+      "published": "Sat, 20 Jun 2026 17:08:38 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "OpenAIs Codex kann jetzt Arbeitsabläufe aufzeichnen und als wiederverwendbare Skills selbstständig wiederholen",
       "link": "https://the-decoder.de/openais-codex-kann-jetzt-arbeitsablaeufe-aufzeichnen-und-als-wiederverwendbare-skills-selbststaendig-wiederholen/",
@@ -73,12 +79,6 @@
       "title": "OpenAI macht ChatGPTs Aufgabenplanung schneller und übersichtlicher",
       "link": "https://the-decoder.de/openai-macht-chatgpts-aufgabenplanung-schneller-und-uebersichtlicher/",
       "published": "Sat, 20 Jun 2026 08:44:19 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Verdreifachter Umsatz, verdreifachter Cashburn: OpenAIs verliert 9,3 Milliarden US-Dollar im ersten Quartal",
-      "link": "https://the-decoder.de/verdreifachter-umsatz-verdreifachter-cashburn-openais-verliert-93-milliarden-us-dollar-im-ersten-quartal/",
-      "published": "Sat, 20 Jun 2026 07:52:07 +0000",
       "source": "The Decoder"
     }
   ]
