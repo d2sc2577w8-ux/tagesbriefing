@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-06-23T21:52:50.904508+00:00",
+  "updated_at": "2026-06-24T12:35:26.880542+00:00",
   "politik": [
     {
-      "title": "Regierungsratswahlen Zürich – FDP Zürich nominiert Andri Silberschmidt und Martin Huber",
-      "link": "https://www.srf.ch/news/schweiz/regierungsratswahlen-zuerich-fdp-zuerich-nominiert-andri-silberschmidt-und-martin-huber",
-      "published": "Tue, 23 Jun 2026 21:47:43 +0200",
+      "title": "Schlangen in der Schweiz – Schlangenbisse: Weniger gefährlich als gedacht",
+      "link": "https://www.srf.ch/news/dialog/schlangen-in-der-schweiz-schlangenbisse-weniger-gefaehrlich-als-gedacht",
+      "published": "Wed, 24 Jun 2026 13:36:00 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Bruch zwischen Lega und SVP – Tessiner Rechtsparteien gehen getrennte Wege",
-      "link": "https://www.srf.ch/news/schweiz/bruch-zwischen-lega-und-svp-tessiner-rechtsparteien-gehen-getrennte-wege",
-      "published": "Tue, 23 Jun 2026 20:47:18 +0200",
+      "title": "Staatshaushalt – Bundesrat verzichtet auf weitere Sparpakete – dank Gewinnsteuern",
+      "link": "https://www.srf.ch/news/schweiz/staatshaushalt-bundesrat-verzichtet-auf-weitere-sparpakete-dank-gewinnsteuern-1",
+      "published": "Wed, 24 Jun 2026 13:35:39 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "BAG-Gesundheitsbericht – Schweizer Mädchen geht es schlechter",
-      "link": "https://www.srf.ch/news/schweiz/bag-gesundheitsbericht-schweizer-maedchen-geht-es-schlechter",
-      "published": "Tue, 23 Jun 2026 19:00:05 +0200",
+      "title": "Mädchen-Mord im Könizbergwald – Bundesgericht bestätigt Urteil gegen Mutter – 18 Jahre Haft",
+      "link": "https://www.srf.ch/news/schweiz/maedchen-mord-im-koenizbergwald-bundesgericht-bestaetigt-urteil-gegen-mutter-18-jahre-haft",
+      "published": "Wed, 24 Jun 2026 14:24:56 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Tod von SP-Politikerin – Ehemalige SP-Fraktionspräsidentin Hildegard Fässler gestorben",
-      "link": "https://www.srf.ch/news/schweiz/tod-von-sp-politikerin-ehemalige-sp-fraktionspraesidentin-hildegard-faessler-gestorben",
-      "published": "Tue, 23 Jun 2026 16:39:06 +0200",
+      "title": "Bewältigung von Notlagen – Fusion Zivilschutz und -dienst: Bundesrat plant Sicherheitsdienst",
+      "link": "https://www.srf.ch/news/schweiz/bewaeltigung-von-notlagen-fusion-zivilschutz-und-dienst-bundesrat-plant-sicherheitsdienst",
+      "published": "Wed, 24 Jun 2026 10:56:14 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Zugverkehr wegen Funkstörung bundesweit eingestellt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/deutsche-bahn-stoerung-zugfunk-100.html",
-      "published": "Tue, 23 Jun 2026 23:31:12 +0200",
+      "title": "Panzerhersteller KNDS will  aufs Parkett",
+      "link": "https://www.tagesschau.de/wirtschaft/knds-130.html",
+      "published": "Wed, 24 Jun 2026 14:09:34 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Schiffsverkehr in der Straße von Hormus nimmt zu",
-      "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-verkehr-absichtserklaerung-100.html",
-      "published": "Tue, 23 Jun 2026 18:48:37 +0200",
+      "title": "Nordkorea rüstet Marine massiv auf - auch mit Atomwaffen",
+      "link": "https://www.tagesschau.de/ausland/asien/nordkorea-aufruestung-marine-100.html",
+      "published": "Wed, 24 Jun 2026 13:50:42 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Marktbericht: KI-Verkaufswelle belastet den DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-spacex-geldanlage-100.html",
-      "published": "Tue, 23 Jun 2026 18:19:44 +0200",
+      "title": "Störung bei der DB: Managementversagen auf vielen Ebenen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/stoerung-deutsche-bahn-100.html",
+      "published": "Wed, 24 Jun 2026 13:20:02 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Streit um Armeeeinheit: Selenskyj nicht bei Konferenz in Polen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-polen-streit-100.html",
-      "published": "Tue, 23 Jun 2026 17:49:12 +0200",
+      "title": "Wirtschaft blickt kritisch auf Teile der Rentenreform",
+      "link": "https://www.tagesschau.de/wirtschaft/rente-reaktionen-wirtschaft-100.html",
+      "published": "Wed, 24 Jun 2026 13:03:13 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "KI-Text-Detektion durch Pangram: Sprachmodelle verraten sich durch uniforme Argumente",
+      "link": "https://the-decoder.de/ki-text-detektion-durch-pangram-sprachmodelle-verraten-sich-durch-uniforme-argumente/",
+      "published": "Wed, 24 Jun 2026 10:20:31 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Claude Tag: Anthropic lässt seine KI per @Claude in Slack mitarbeiten",
+      "link": "https://the-decoder.de/claude-tag-anthropic-laesst-seine-ki-per-claude-in-slack-mitarbeiten/",
+      "published": "Wed, 24 Jun 2026 09:22:01 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Neue Dokumentenerkennung von Mistral soll die Konkurrenz in 72 Prozent der Fälle schlagen",
+      "link": "https://the-decoder.de/neue-dokumentenerkennung-von-mistral-soll-die-konkurrenz-in-72-prozent-der-faelle-schlagen/",
+      "published": "Wed, 24 Jun 2026 09:06:40 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "ByteDance knackt mit Videomodell Seedance 2.5 erstmals die 30-Sekunden-Marke",
       "link": "https://the-decoder.de/bytedance-knackt-mit-videomodell-seedance-2-5-erstmals-die-30-sekunden-marke/",
@@ -61,24 +79,6 @@
       "title": "Neues Modell, eigene Git-Plattform und Mobile-App von Cursor angekündigt",
       "link": "https://the-decoder.de/neues-modell-eigene-git-plattform-und-mobile-app-von-cursor-angekuendigt/",
       "published": "Tue, 23 Jun 2026 11:42:40 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "KI-Schwarmintelligenz: Orchestrator Sakana Fugu soll Claude Mythos und Fable übertreffen",
-      "link": "https://the-decoder.de/ki-schwarmintelligenz-orchestrator-sakana-fugu-soll-claude-mythos-und-fable-uebertreffen/",
-      "published": "Tue, 23 Jun 2026 09:50:59 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI baut KI-Cybersecurity-Programm Daybreak aus und will Software-Patching automatisieren",
-      "link": "https://the-decoder.de/openai-baut-ki-cybersecurity-programm-daybreak-aus-und-will-software-patching-automatisieren/",
-      "published": "Tue, 23 Jun 2026 08:47:17 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Google Deepmind macht Interactions API zum neuen Standard für Gemini-Modelle und Agenten",
-      "link": "https://the-decoder.de/google-deepmind-macht-interactions-api-zum-neuen-standard-fuer-gemini-modelle-und-agenten/",
-      "published": "Mon, 22 Jun 2026 18:07:34 +0000",
       "source": "The Decoder"
     }
   ]
