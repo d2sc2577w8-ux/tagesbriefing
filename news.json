@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-06-25T13:26:44.455326+00:00",
+  "updated_at": "2026-06-25T21:19:04.767821+00:00",
   "politik": [
     {
-      "title": "Experimente mit Adoptivkindern – Politik reagiert auf Skandal bei Terre des Hommes",
-      "link": "https://www.srf.ch/news/dialog/experimente-mit-adoptivkindern-politik-reagiert-auf-skandal-bei-terre-des-hommes",
-      "published": "Thu, 25 Jun 2026 14:33:58 +0200",
+      "title": "Rettungswesen – Neue Rega-Basis: Hoffnung im Goms, Widerstand im Wallis",
+      "link": "https://www.srf.ch/news/schweiz/rettungswesen-neue-rega-basis-hoffnung-im-goms-widerstand-im-wallis",
+      "published": "Thu, 25 Jun 2026 17:08:37 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Die Hälfte ist 60+ – Die abstimmende Bevölkerung wird immer älter",
-      "link": "https://www.srf.ch/news/schweiz/die-haelfte-ist-60-die-abstimmende-bevoelkerung-wird-immer-aelter",
-      "published": "Thu, 25 Jun 2026 13:52:11 +0200",
+      "title": "Gefährliche Hautkrankheit – Krätzefälle in Romandie, aber keine Epidemie",
+      "link": "https://www.srf.ch/news/schweiz/gefaehrliche-hautkrankheit-kraetzefaelle-in-romandie-aber-keine-epidemie",
+      "published": "Thu, 25 Jun 2026 16:16:42 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Ab 2027 – Die Post steigt aus dem Patientendossier EPD aus",
-      "link": "https://www.srf.ch/news/schweiz/ab-2027-die-post-steigt-aus-dem-patientendossier-epd-aus",
-      "published": "Thu, 25 Jun 2026 13:08:30 +0200",
+      "title": "Stimmen aus der Community – «Klimaerwärmung kommt schneller als Anpassung der Gesellschaft»",
+      "link": "https://www.srf.ch/news/dialog/stimmen-aus-der-community-klimaerwaermung-kommt-schneller-als-anpassung-der-gesellschaft",
+      "published": "Thu, 25 Jun 2026 16:05:46 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Hitze und Sport – Baspo-Direktorin: «Mit Klimakammern simulieren wir Hitze»",
-      "link": "https://www.srf.ch/news/schweiz/hitze-und-sport-baspo-direktorin-mit-klimakammern-simulieren-wir-hitze",
-      "published": "Thu, 25 Jun 2026 10:38:21 +0200",
+      "title": "NDB-Bericht 2026 – NDB: Sicherheitslage der Schweiz weiter verschlechtert",
+      "link": "https://www.srf.ch/news/schweiz/ndb-bericht-2026-ndb-sicherheitslage-der-schweiz-weiter-verschlechtert",
+      "published": "Thu, 25 Jun 2026 17:02:33 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Sind Klimageräte Stromfresser? So hoch sind Verbrauch und Kosten",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hitze-klimaanlagen-stromverbrauch-100.html",
-      "published": "Thu, 25 Jun 2026 15:06:28 +0200",
+      "title": "Organspende-Debatte im Bundestag: \"Der Mensch ist kein Ersatzteillager\"",
+      "link": "https://www.tagesschau.de/inland/organspende-debatte-bundestag-100.html",
+      "published": "Thu, 25 Jun 2026 20:24:21 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Wie Freiwillige in Kiew Trümmer wegräumen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-freiwillige-truemmer-helfer-100.html",
-      "published": "Thu, 25 Jun 2026 14:50:00 +0200",
+      "title": "Konferenz in Danzig: EU-Partner bereiten Wiederaufbau der Ukraine vor",
+      "link": "https://www.tagesschau.de/ausland/europa/wiederaufbaukonferenz-danzig-100.html",
+      "published": "Thu, 25 Jun 2026 19:56:42 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Landgericht Berlin: Palliativarzt gesteht Tötung von zwölf Patienten",
-      "link": "https://www.tagesschau.de/inland/berlin-prozess-palliativarzt-100.html",
-      "published": "Thu, 25 Jun 2026 14:30:51 +0200",
+      "title": "Bund und Länder einigen sich auf Finanzentlastung für Kommunen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bund-laender-entlastung-kommunen-100.html",
+      "published": "Thu, 25 Jun 2026 21:09:29 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Marktbericht: Der KI-Goldrausch geht weiter",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-104.html",
-      "published": "Thu, 25 Jun 2026 14:18:49 +0200",
+      "title": "Debatte um Verbotsverfahren: Ein neues AfD-Gutachten - und was daraus folgt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-gutachten-verfassung-100.html",
+      "published": "Thu, 25 Jun 2026 19:24:57 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "KI-Chatbots wie ChatGPT antworten bei politischen Fragen weiterhin deutlich linkslastig",
+      "link": "https://the-decoder.de/ki-chatbots-wie-chatgpt-antworten-bei-politischen-fragen-weiterhin-deutlich-linkslastig/",
+      "published": "Thu, 25 Jun 2026 15:26:32 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Wie generative KI die Katastrophenmodellierung der Versicherer umkrempelt",
+      "link": "https://the-decoder.de/wie-generative-ki-die-katastrophenmodellierung-der-versicherer-umkrempelt/",
+      "published": "Thu, 25 Jun 2026 13:42:14 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Elon Musks Grok: Mehr als die Hälfte des Traffics geht angeblich auf Pornografie zurück",
+      "link": "https://the-decoder.de/elon-musks-grok-mehr-als-die-haelfte-des-traffics-geht-angeblich-auf-pornografie-zurueck/",
+      "published": "Thu, 25 Jun 2026 13:30:46 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Authors-Guild-Test zeigt: Pangram und Grammarly erkennen menschliche Texte zuverlässig als solche",
       "link": "https://the-decoder.de/authors-guild-test-zeigt-pangram-und-grammarly-erkennen-menschliche-texte-zuverlaessig-als-solche/",
@@ -61,24 +79,6 @@
       "title": "Mitarbeiter warnen: Metas KI-Moderation kommt zu schnell",
       "link": "https://the-decoder.de/mitarbeiter-warnen-metas-ki-moderation-kommt-zu-schnell/",
       "published": "Thu, 25 Jun 2026 09:11:19 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Gemini 3.5 Flash kann jetzt Computer, Browser und Smartphones selbstständig steuern",
-      "link": "https://the-decoder.de/gemini-3-5-flash-kann-jetzt-computer-browser-und-smartphones-selbststaendig-steuern/",
-      "published": "Thu, 25 Jun 2026 08:55:46 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Weitere Gemini-Mitentwickler wollen Google in Richtung Anthropic verlassen",
-      "link": "https://the-decoder.de/weitere-gemini-mitentwickler-wollen-google-in-richtung-anthropic-verlassen/",
-      "published": "Thu, 25 Jun 2026 08:41:32 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Dragonfly C1000: Qualcomms neuer Prozessor für KI-Agenten soll ab 2028 bei Meta laufen",
-      "link": "https://the-decoder.de/dragonfly-c1000-qualcomms-neuer-prozessor-fuer-ki-agenten-soll-ab-2028-bei-meta-laufen/",
-      "published": "Thu, 25 Jun 2026 08:31:21 +0000",
       "source": "The Decoder"
     }
   ]
