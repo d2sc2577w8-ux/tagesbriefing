@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-06-26T21:10:01.347309+00:00",
+  "updated_at": "2026-06-27T11:12:24.194443+00:00",
   "politik": [
     {
-      "title": "«Arena» zu heissen Eisen – EU, AKW und AHV sorgen für Gewitter zwischen Parteispitzen",
-      "link": "https://www.srf.ch/news/schweiz/arena-zu-heissen-eisen-eu-akw-und-ahv-sorgen-fuer-gewitter-zwischen-parteispitzen",
-      "published": "Fri, 26 Jun 2026 23:06:42 +0200",
+      "title": "FDP-Co-Präsident im Interview – Mühlemann: «Bundesrat will lieber den Konsum belasten als sparen»",
+      "link": "https://www.srf.ch/news/schweiz/fdp-co-praesident-im-interview-muehlemann-bundesrat-will-lieber-den-konsum-belasten-als-sparen",
+      "published": "Sat, 27 Jun 2026 12:01:54 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Unterschätztes Risiko Hitze – Wie die Hitze die Schweiz verändert",
-      "link": "https://www.srf.ch/news/schweiz/unterschaetztes-risiko-hitze-wie-die-hitze-die-schweiz-veraendert",
-      "published": "Fri, 26 Jun 2026 21:35:15 +0200",
+      "title": "Wenn eine Person verschwindet – Von vermisst zu verschollen – für Angehörige eine Herausforderung",
+      "link": "https://www.srf.ch/news/schweiz/wenn-eine-person-verschwindet-von-vermisst-zu-verschollen-fuer-angehoerige-eine-herausforderung",
+      "published": "Sat, 27 Jun 2026 10:46:59 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Schweizer Landwirtschaft – Fenaco-Chef: «Ertragssicherheit in der Schweiz nimmt stark ab»",
-      "link": "https://www.srf.ch/news/schweiz/schweizer-landwirtschaft-fenaco-chef-ertragssicherheit-in-der-schweiz-nimmt-stark-ab",
-      "published": "Fri, 26 Jun 2026 20:39:37 +0200",
+      "title": "Im Dienst der SNB – Ehemaliger SNB-Chef Hans Meyer mit 90 Jahren gestorben",
+      "link": "https://www.srf.ch/news/schweiz/im-dienst-der-snb-ehemaliger-snb-chef-hans-meyer-mit-90-jahren-gestorben",
+      "published": "Sat, 27 Jun 2026 09:17:44 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "CO₂-Ziele bei Neuwagen – Das 100-Millionen-Geschenk von Bundesrat Rösti an die Autobranche",
-      "link": "https://www.srf.ch/news/schweiz/co2-ziele-bei-neuwagen-das-100-millionen-geschenk-von-bundesrat-roesti-an-die-autobranche",
-      "published": "Fri, 26 Jun 2026 18:54:18 +0200",
+      "title": "Schlachten, Wursten, Würzen – Immer weniger Metzger: Wandel oder Bedrohung?",
+      "link": "https://www.srf.ch/news/schweiz/schlachten-wursten-wuerzen-immer-weniger-metzger-wandel-oder-bedrohung",
+      "published": "Sat, 27 Jun 2026 09:02:11 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "US-Militär: Haben Angriffe gegen Iran durchgeführt",
-      "link": "https://www.tagesschau.de/ausland/asien/us-militaer-greift-iran-an-100.html",
-      "published": "Fri, 26 Jun 2026 23:00:59 +0200",
+      "title": "Baden bei Extremhitze: Zahl der Badeunfälle steigt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/baden-extremhitze-gefahren-100.html",
+      "published": "Sat, 27 Jun 2026 13:09:51 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Israel und Libanon unterzeichnen Rahmenabkommen für Ende der Kämpfe",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-abkommen-100.html",
-      "published": "Fri, 26 Jun 2026 22:11:12 +0200",
+      "title": "Interview: Wie der Projektleiter das AfD-Gutachten bewertet",
+      "link": "https://www.tagesschau.de/inland/afd-verbot-gff-100.html",
+      "published": "Sat, 27 Jun 2026 12:31:15 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Trump droht EU-Ländern wegen Digitalsteuer mit Strafzöllen",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-mit-strafzoellen-100.html",
-      "published": "Fri, 26 Jun 2026 21:59:37 +0200",
+      "title": "NATO-Treffen im Juli: Ankara vor dem Gipfel im Ausnahmezustand",
+      "link": "https://www.tagesschau.de/ausland/asien/nato-gipfel-ankara-vorbereitungen-100.html",
+      "published": "Sat, 27 Jun 2026 12:04:36 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Umgang mit geheimen Akten: Ex-Berater von Trump bekennt sich schuldig",
-      "link": "https://www.tagesschau.de/ausland/amerika/bolton-regierungsakten-100.html",
-      "published": "Fri, 26 Jun 2026 21:27:57 +0200",
+      "title": "Hitzeresistente Häuser: Wie ein Architekt gegen die Hitze kämpft",
+      "link": "https://www.tagesschau.de/ausland/afrika/bioklimatische-architektur-afrika-100.html",
+      "published": "Sat, 27 Jun 2026 11:47:53 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "US-Regierung gibt Anthropics Claude Mythos 5 für kritische Infrastruktur wieder frei",
+      "link": "https://the-decoder.de/us-regierung-gibt-anthropics-claude-mythos-5-fuer-kritische-infrastruktur-wieder-frei/",
+      "published": "Sat, 27 Jun 2026 09:37:39 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "GPT-5.6 Sol schummelt bei Software-Tests so viel wie kein anderes KI-Modell zuvor",
+      "link": "https://the-decoder.de/gpt-5-6-sol-schummelt-bei-software-tests-so-viel-wie-kein-anderes-ki-modell-zuvor/",
+      "published": "Sat, 27 Jun 2026 09:08:42 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Diffusionsmodell iLLaDA: Bytedance-Forscher fordern die Wort-für-Wort-Logik von Sprach-KI heraus",
+      "link": "https://the-decoder.de/diffusionsmodell-illada-bytedance-forscher-fordern-die-wort-fuer-wort-logik-von-sprach-ki-heraus/",
+      "published": "Sat, 27 Jun 2026 07:27:24 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Antwort auf Claude Mythos: OpenAI startet GPT-5.6 Sol, doch die US-Regierung bremst den Zugang",
       "link": "https://the-decoder.de/openai-stellt-gpt-5-6-sol-vor-und-uebertrifft-claude-mythos-in-zentralen-benchmarks/",
@@ -61,24 +79,6 @@
       "title": "19 Tage ohne menschliche Hilfe: KI-Benchmark MirrorCode lässt Modelle tagelang autonom programmieren",
       "link": "https://the-decoder.de/19-tage-ohne-menschliche-hilfe-ki-benchmark-mirrorcode-laesst-modelle-tagelang-autonom-programmieren/",
       "published": "Fri, 26 Jun 2026 17:07:27 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "KI-Startup spart Millionen: Lindy wechselt komplett von Claude zu Deepseek",
-      "link": "https://the-decoder.de/ki-startup-spart-millionen-lindy-wechselt-komplett-von-claude-zu-deepseek/",
-      "published": "Fri, 26 Jun 2026 14:50:26 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI verschiebt Börsengang offenbar auf 2027, SoftBank-Aktie stürzt ab",
-      "link": "https://the-decoder.de/openai-verschiebt-boersengang-offenbar-auf-2027-softbank-aktie-stuerzt-ab/",
-      "published": "Fri, 26 Jun 2026 12:23:53 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Anthropic braucht dank KI keine Junioren mehr und warnt vor einem Wirtschaftsschock, wenn andere Branchen folgen",
-      "link": "https://the-decoder.de/anthropic-braucht-dank-ki-keine-junioren-mehr-und-warnt-vor-einem-wirtschaftsschock-wenn-andere-branchen-folgen/",
-      "published": "Fri, 26 Jun 2026 11:10:07 +0000",
       "source": "The Decoder"
     }
   ]
