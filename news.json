@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-06-27T20:17:51.077426+00:00",
+  "updated_at": "2026-06-28T11:25:08.901425+00:00",
   "politik": [
     {
-      "title": "Forschungsprojekt in Luzern – Kein Patentrezept gegen Nährstoffverluste auf Bauernhöfen",
-      "link": "https://www.srf.ch/news/schweiz/forschungsprojekt-in-luzern-kein-patentrezept-gegen-naehrstoffverluste-auf-bauernhoefen",
-      "published": "Sat, 27 Jun 2026 20:34:04 +0200",
+      "title": "«Alone Together» – Zu zweit auf einer Insel – woran es bei vier Paaren hakt",
+      "link": "https://www.srf.ch/sendungen/unterhaltungssendungen/alone-together-zu-zweit-auf-einer-insel-woran-es-bei-vier-paaren-hakt",
+      "published": "Sun, 28 Jun 2026 12:49:37 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "National- und Ständeratswahlen – Die FDP will Wähler mit klaren Botschaften gewinnen",
-      "link": "https://www.srf.ch/news/schweiz/national-und-staenderatswahlen-die-fdp-will-waehler-mit-klaren-botschaften-gewinnen",
-      "published": "Sat, 27 Jun 2026 20:04:49 +0200",
+      "title": "Schweizer Luftwaffe – Schweiz zahlte vorzeitig 500 Millionen an die USA – für F-35-Jets",
+      "link": "https://www.srf.ch/news/schweiz/schweizer-luftwaffe-schweiz-zahlte-vorzeitig-500-millionen-an-die-usa-fuer-f-35-jets",
+      "published": "Sun, 28 Jun 2026 12:28:25 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Abstimmungen 27. September – GLP sagt Nein zu Neutralitäts- und Ernährungsinitiative",
-      "link": "https://www.srf.ch/news/schweiz/abstimmungen-27-september-glp-sagt-nein-zu-neutralitaets-und-ernaehrungsinitiative",
-      "published": "Sat, 27 Jun 2026 20:30:58 +0200",
+      "title": "Aktion der Krebsliga – Gratis-Sonnencreme für Hautkrebs-Hotspot Schweiz",
+      "link": "https://www.srf.ch/news/dialog/aktion-der-krebsliga-gratis-sonnencreme-fuer-hautkrebs-hotspot-schweiz",
+      "published": "Sun, 28 Jun 2026 11:47:45 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Mord im Könizbergwald – Was die Spurensicherung am Tatort erschweren kann",
-      "link": "https://www.srf.ch/news/schweiz/mord-im-koenizbergwald-was-die-spurensicherung-am-tatort-erschweren-kann",
-      "published": "Sat, 27 Jun 2026 14:53:11 +0200",
+      "title": "Schlacht bei Murten – Die erstaunlichen Überbleibsel der eidgenössischen Heldentat",
+      "link": "https://www.srf.ch/news/dialog/schlacht-bei-murten-die-erstaunlichen-ueberbleibsel-der-eidgenoessischen-heldentat",
+      "published": "Sun, 28 Jun 2026 11:17:53 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Zahl der Toten nach Erdbeben in Venezuela weiter gestiegen",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-134.html",
-      "published": "Sat, 27 Jun 2026 20:37:33 +0200",
+      "title": "US-Einwanderungsbehörde: Trump nominiert neuen ICE-Chef",
+      "link": "https://www.tagesschau.de/ausland/amerika/ice-trump-100.html",
+      "published": "Sun, 28 Jun 2026 12:56:44 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Kuba kündigt Wirtschaftsreformen an - hilft das den Menschen?",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kuba-wirtschaft-reform-100.html",
-      "published": "Sat, 27 Jun 2026 20:08:52 +0200",
+      "title": "Verkauf von Glasfaserverträgen: Fragwürdige Methoden an der Haustür",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/glasfaser-vertraege-haustuerverkauf-100.html",
+      "published": "Sun, 28 Jun 2026 12:47:41 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Zehntausende feiern bei Pride-Parade in Budapest - ohne Verbot",
-      "link": "https://www.tagesschau.de/ausland/europa/pride-parade-budapest-102.html",
-      "published": "Sat, 27 Jun 2026 19:57:25 +0200",
+      "title": "Nach dem Erdbeben: Die unermüdlichen Helfer von Venezuela",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-136.html",
+      "published": "Sun, 28 Jun 2026 12:35:35 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Ukraine greift Fabrik mit \"Flamingo\"-Marschflugkörpern an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-russland-104.html",
-      "published": "Sat, 27 Jun 2026 17:41:38 +0200",
+      "title": "Grüne fordern Sofortprogramm für Klimaanlagen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-hitze-klima-100.html",
+      "published": "Sun, 28 Jun 2026 11:42:31 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "KI-Agenten als Start-up-Chef: Neuer Benchmark lässt Sprachmodelle 500 Tage ein Unternehmen führen",
+      "link": "https://the-decoder.de/ki-agenten-als-start-up-chef-neuer-benchmark-laesst-sprachmodelle-500-tage-ein-unternehmen-fuehren/",
+      "published": "Sun, 28 Jun 2026 10:09:17 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "\"Cyber-Atomwaffen des KI-Zeitalters\": Neue chinesische Tools sollen Gegengewicht zu Anthropics Mythos bilden",
+      "link": "https://the-decoder.de/cyber-atomwaffen-des-ki-zeitalters-neue-chinesische-tools-sollen-gegengewicht-zu-anthropics-mythos-bilden/",
+      "published": "Sun, 28 Jun 2026 09:05:18 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Kleines Mathe-Modell soll zeigen, dass sich Reasoning auf wenige Parameter verdichten lässt",
+      "link": "https://the-decoder.de/kleines-mathe-modell-soll-zeigen-dass-sich-reasoning-auf-wenige-parameter-verdichten-laesst/",
+      "published": "Sun, 28 Jun 2026 07:11:41 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Anthropics Fable 5 soll zeitnah wieder online gehen",
       "link": "https://the-decoder.de/anthropics-fable-5-soll-zeitnah-wieder-online-gehen/",
@@ -61,24 +79,6 @@
       "title": "Anthropic-Umfrage: Jeder zweite Claude-Nutzer sagt, dass KI schon die Hälfte seiner Arbeit erledigen kann",
       "link": "https://the-decoder.de/anthropic-umfrage-jeder-zweite-claude-nutzer-sagt-dass-ki-schon-die-haelfte-seiner-arbeit-erledigen-kann/",
       "published": "Sat, 27 Jun 2026 15:15:59 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "US-Bank J.P. Morgan sieht eine Menge roter Flaggen am KI-Finanzmarkt",
-      "link": "https://the-decoder.de/us-bank-j-p-morgan-sieht-eine-menge-roter-flaggen-am-ki-finanzmarkt/",
-      "published": "Sat, 27 Jun 2026 13:01:44 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Führende KI-Unternehmen unterstützen Initiative gegen KI-bedingte Jobverluste",
-      "link": "https://the-decoder.de/fuehrende-ki-unternehmen-unterstuetzen-initiative-gegen-ki-bedingte-jobverluste/",
-      "published": "Sat, 27 Jun 2026 12:04:21 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "US-Regierung gibt Anthropics Claude Mythos 5 für kritische Infrastruktur wieder frei",
-      "link": "https://the-decoder.de/us-regierung-gibt-anthropics-claude-mythos-5-fuer-kritische-infrastruktur-wieder-frei/",
-      "published": "Sat, 27 Jun 2026 09:37:39 +0000",
       "source": "The Decoder"
     }
   ]
