@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-07-01T13:43:52.544239+00:00",
+  "updated_at": "2026-07-01T21:13:02.626998+00:00",
   "politik": [
     {
-      "title": "Mord an Entwicklungshelfer – «Die Frage nach dem Warum ist das Quälendste»",
-      "link": "https://www.srf.ch/news/schweiz/mord-an-entwicklungshelfer-die-frage-nach-dem-warum-ist-das-quaelendste",
-      "published": "Wed, 01 Jul 2026 13:59:51 +0200",
+      "title": "Zwei Jahre nach dem Unwetter – Das Maggiatal zwischen offenen und verheilten Wunden",
+      "link": "https://www.srf.ch/news/dialog/zwei-jahre-nach-dem-unwetter-das-maggiatal-zwischen-offenen-und-verheilten-wunden",
+      "published": "Wed, 01 Jul 2026 21:17:28 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Umstrittene Einbürgerung – Thurgauer Parlament bürgert Syrer nach acht Jahren ein",
-      "link": "https://www.srf.ch/news/schweiz/umstrittene-einbuergerung-thurgauer-parlament-buergert-syrer-nach-acht-jahren-ein",
-      "published": "Wed, 01 Jul 2026 12:48:17 +0200",
+      "title": "Verkehrsminister – Röstis Sommerspaziergang in Luzern war kein Spaziergang",
+      "link": "https://www.srf.ch/news/schweiz/verkehrsminister-roestis-sommerspaziergang-in-luzern-war-kein-spaziergang",
+      "published": "Wed, 01 Jul 2026 20:21:44 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Neue Regeln ab 1. Juli – Autorennen, Kinderschutz, Handybetrug: Das gilt ab jetzt",
-      "link": "https://www.srf.ch/news/schweiz/neue-regeln-ab-1-juli-autorennen-kinderschutz-handybetrug-das-gilt-ab-jetzt",
-      "published": "Wed, 01 Jul 2026 12:43:40 +0200",
+      "title": "Armeechef alarmiert – Mehrere unbekannte Drohnen über Militäranlage aufgetaucht",
+      "link": "https://www.srf.ch/news/schweiz/armeechef-alarmiert-mehrere-unbekannte-drohnen-ueber-militaeranlage-aufgetaucht",
+      "published": "Wed, 01 Jul 2026 19:12:24 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Verbot aufgehoben – Gibt es bald wieder Formel-1-Rennen in der Schweiz?",
-      "link": "https://www.srf.ch/news/schweiz/verbot-aufgehoben-gibt-es-bald-wieder-formel-1-rennen-in-der-schweiz",
-      "published": "Wed, 01 Jul 2026 09:07:08 +0200",
+      "title": "Einsatz in den Morgenstunden – Besetztes Chemie-Areal in Basel geräumt – Debatte geht weiter",
+      "link": "https://www.srf.ch/news/schweiz/einsatz-in-den-morgenstunden-besetztes-chemie-areal-in-basel-geraeumt-debatte-geht-weiter",
+      "published": "Wed, 01 Jul 2026 18:49:26 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Tankstellen-Pächter befürchten neuen Unmut von Autofahrern",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-bilanz-100.html",
-      "published": "Wed, 01 Jul 2026 15:01:00 +0200",
+      "title": "In Polen explodieren nach Ende der Preisbremse die Spritpreise",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-spritpreise-100.html",
+      "published": "Wed, 01 Jul 2026 21:35:55 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Spritpreise ziehen mit dem Ende des Tankrabatts kräftig an",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-steuererleichterung-100.html",
-      "published": "Wed, 01 Jul 2026 14:59:42 +0200",
+      "title": "Was die Supreme-Court-Urteile für die Macht des Präsidenten bedeuten",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-supreme-court-urteile-100.html",
+      "published": "Wed, 01 Jul 2026 21:25:33 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Anschläge in Griechenland - wohl gegen Politiker",
-      "link": "https://www.tagesschau.de/ausland/europa/brandanschlaege-griechenland-100.html",
-      "published": "Wed, 01 Jul 2026 14:47:01 +0200",
+      "title": "Rente erhöht - und plötzlich steuerpflichtig",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rente-erhoehung-steuern-100.html",
+      "published": "Wed, 01 Jul 2026 20:11:49 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Auswärtiges Amt weitet Reisewarnung auf ganz Russland aus",
-      "link": "https://www.tagesschau.de/ausland/europa/reisewarnung-russland-104.html",
-      "published": "Wed, 01 Jul 2026 14:45:25 +0200",
+      "title": "Village-People-Sänger Victor Willis mit 74 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/village-people-saenger-victor-willis-tot-100.html",
+      "published": "Wed, 01 Jul 2026 18:54:19 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "SpaceX zeigt Investoren Prototyp eines KI-Smartphones mit xAI-Technologie von Musk",
+      "link": "https://the-decoder.de/spacex-zeigt-investoren-prototyp-eines-ki-smartphones-mit-xai-technologie-von-musk/",
+      "published": "Wed, 01 Jul 2026 19:41:31 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Meta will überschüssige KI-Rechenkapazität als Cloud-Geschäft an externe Kunden verkaufen",
+      "link": "https://the-decoder.de/meta-will-ueberschuessige-ki-rechenkapazitaet-als-cloud-geschaeft-an-externe-kunden-verkaufen/",
+      "published": "Wed, 01 Jul 2026 15:50:43 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Nicht-invasive Hirn-zu-Text-KI von Meta nähert sich der Leistung von Implantaten",
+      "link": "https://the-decoder.de/nicht-invasive-hirn-zu-text-ki-von-meta-naehert-sich-der-leistung-von-implantaten/",
+      "published": "Wed, 01 Jul 2026 14:44:09 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Getarnte Signale im System-Prompt: Wie Claude Code chinesische Nutzer markierte",
       "link": "https://the-decoder.de/getarnte-signale-im-system-prompt-wie-claude-code-chinesische-nutzer-markierte/",
@@ -61,24 +79,6 @@
       "title": "Sol Pro, Terra Pro, Luna Pro: OpenAI-Paper zeigt eine neue Pro-Staffelung für GPT-5.6",
       "link": "https://the-decoder.de/sol-pro-terra-pro-luna-pro-openai-paper-zeigt-eine-neue-pro-staffelung-fuer-gpt-5-6/",
       "published": "Wed, 01 Jul 2026 09:40:41 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Auch Anthropics Sonnet 5 kommt mit versteckten Kosten und ist deutlich teurer als der Vorgänger",
-      "link": "https://the-decoder.de/auch-anthropics-sonnet-5-kommt-mit-versteckten-kosten-und-ist-deutlich-teurer-als-der-vorgaenger/",
-      "published": "Wed, 01 Jul 2026 08:49:09 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "US-Regierung gibt KI-Modell Fable 5 von Anthropic wieder frei",
-      "link": "https://the-decoder.de/us-regierung-gibt-ki-modell-fable-5-von-anthropic-wieder-frei/",
-      "published": "Wed, 01 Jul 2026 07:23:29 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Anthropics neues Claude Sonnet 5 soll die Preis-Leistungs-Lücke zum Opus-Modell schließen",
-      "link": "https://the-decoder.de/anthropics-neues-claude-sonnet-5-soll-die-preis-leistungs-luecke-zum-teureren-opus-modell-schliessen/",
-      "published": "Tue, 30 Jun 2026 18:31:10 +0000",
       "source": "The Decoder"
     }
   ]
