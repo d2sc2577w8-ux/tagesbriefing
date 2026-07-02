@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-07-02T12:29:54.053528+00:00",
+  "updated_at": "2026-07-02T20:42:39.355349+00:00",
   "politik": [
     {
-      "title": "Als erster Kanton – In Zug bekommt die Bevölkerung in guten Jahren Steuergeld zurück",
-      "link": "https://www.srf.ch/news/schweiz/als-erster-kanton-in-zug-bekommt-die-bevoelkerung-in-guten-jahren-steuergeld-zurueck",
-      "published": "Thu, 02 Jul 2026 12:37:34 +0200",
+      "title": "Nach dem Erdbeben – Schweizer Rettungskräfte haben Einsatz in Venezuela beendet",
+      "link": "https://www.srf.ch/news/schweiz/nach-dem-erdbeben-schweizer-rettungskraefte-haben-einsatz-in-venezuela-beendet",
+      "published": "Thu, 02 Jul 2026 18:43:35 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Ausschreitungen in Basel – Nach Räumung von Chemie-Areal eskaliert die Demonstration dagegen",
-      "link": "https://www.srf.ch/news/schweiz/ausschreitungen-in-basel-nach-raeumung-von-chemie-areal-eskaliert-die-demonstration-dagegen",
-      "published": "Thu, 02 Jul 2026 12:15:56 +0200",
+      "title": "Deutscher Bundespräsident – Frank-Walter Steinmeier besucht die Schweiz – mit dem Velo",
+      "link": "https://www.srf.ch/news/schweiz/deutscher-bundespraesident-frank-walter-steinmeier-besucht-die-schweiz-mit-dem-velo",
+      "published": "Thu, 02 Jul 2026 18:04:53 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Solothurner Spitäler – Eine halbe Million Franken zu viel für Ex-Spitalchef",
-      "link": "https://www.srf.ch/news/schweiz/solothurner-spitaeler-eine-halbe-million-franken-zu-viel-fuer-ex-spitalchef",
-      "published": "Thu, 02 Jul 2026 12:27:54 +0200",
+      "title": "Schweizer WM-Sechzehntelfinal – Public Viewing im Morgengrauen: Wo gemeinsam mitgefiebert wird",
+      "link": "https://www.srf.ch/news/schweiz/schweizer-wm-sechzehntelfinal-public-viewing-im-morgengrauen-wo-gemeinsam-mitgefiebert-wird",
+      "published": "Thu, 02 Jul 2026 16:50:39 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Geschützter Drogenkonsum – Warum Konsumräume bis heute wichtig sind",
-      "link": "https://www.srf.ch/news/schweiz/geschuetzter-drogenkonsum-warum-konsumraeume-bis-heute-wichtig-sind",
-      "published": "Thu, 02 Jul 2026 11:42:14 +0200",
+      "title": "Keine Zölle mehr auf Fisch – Efta und Vietnam unterzeichnen Freihandelsabkommen",
+      "link": "https://www.srf.ch/news/schweiz/keine-zoelle-mehr-auf-fisch-efta-und-vietnam-unterzeichnen-freihandelsabkommen",
+      "published": "Thu, 02 Jul 2026 17:29:15 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Kurserholung: Bayer-Aktie schafft es an die DAX-Spitze",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/bayer-aktie-glyphosat-usa-100.html",
-      "published": "Thu, 02 Jul 2026 13:38:49 +0200",
+      "title": "Selenskyj möchte Patriot-Raketen in der Ukraine produzieren lassen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-patriot-104.html",
+      "published": "Thu, 02 Jul 2026 22:36:06 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Erste Sommerreisewelle erwartet: Wo Stau droht",
-      "link": "https://www.tagesschau.de/inland/sommerferien-reiseverkehr-stau-100.html",
-      "published": "Thu, 02 Jul 2026 13:34:42 +0200",
+      "title": "Vatikan schließt Piusbrüder aus der Kirche aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/pius-papst-exkommunikation-100.html",
+      "published": "Thu, 02 Jul 2026 21:31:53 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Vatikan schließt erzkonservative Piusbrüder aus Kirche aus",
-      "link": "https://www.tagesschau.de/ausland/europa/exkommunikation-piusbrueder-100.html",
-      "published": "Thu, 02 Jul 2026 13:17:21 +0200",
+      "title": "Kanzler Merz verteidigt Reformpläne der Bundesregierung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-interview-reformen-100.html",
+      "published": "Thu, 02 Jul 2026 19:56:40 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Wie die Koalition Steuerzahler entlasten will",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/steuerreform-koalition-einigung-100.html",
-      "published": "Thu, 02 Jul 2026 13:13:22 +0200",
+      "title": "Reformpläne: Kritik und Lob von Opposition und Verbänden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-reaktionen-100.html",
+      "published": "Thu, 02 Jul 2026 19:54:56 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Microsoft gründet \"Frontier Company\" mit 6.000 Ingenieuren für KI-Integration bei Unternehmenskunden",
+      "link": "https://the-decoder.de/microsoft-gruendet-frontier-company-mit-6-000-ingenieuren-fuer-ki-integration-bei-unternehmenskunden/",
+      "published": "Thu, 02 Jul 2026 19:02:29 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Anthropic arbeitet offenbar an eigenem KI-Chip und spricht mit Samsung über die Fertigung",
+      "link": "https://the-decoder.de/anthropic-arbeitet-offenbar-an-eigenem-ki-chip-und-spricht-mit-samsung-ueber-die-fertigung/",
+      "published": "Thu, 02 Jul 2026 17:18:57 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Weniger ist mehr: Anthropic steuert Mythos-Klasse mit Kontext statt mit Verboten",
+      "link": "https://the-decoder.de/weniger-ist-mehr-anthropic-steuert-mythos-klasse-mit-kontext-statt-mit-verboten/",
+      "published": "Thu, 02 Jul 2026 16:06:29 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Angriff auf die Tech-Giganten: Nvidia fördert junge Cloud-Anbieter mit finanziellen Absicherungen",
       "link": "https://the-decoder.de/angriff-auf-die-tech-giganten-nvidia-foerdert-junge-cloud-anbieter-mit-finanziellen-absicherungen/",
@@ -61,24 +79,6 @@
       "title": "Freelance-Benchmark zeigt: KI-Agenten erledigen viermal mehr Profi-Aufträge als noch vor acht Monaten",
       "link": "https://the-decoder.de/freelance-benchmark-zeigt-ki-agenten-erledigen-viermal-mehr-profi-auftraege-als-noch-vor-acht-monaten/",
       "published": "Thu, 02 Jul 2026 11:04:49 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI bietet der Trump-Regierung offenbar fünf Prozent des Unternehmens an",
-      "link": "https://the-decoder.de/openai-bietet-der-trump-regierung-offenbar-fuenf-prozent-des-unternehmens-an/",
-      "published": "Thu, 02 Jul 2026 10:37:16 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Google NotebookLM erstellt aus Quellen jetzt kurze Erklär-Shorts",
-      "link": "https://the-decoder.de/google-notebooklm-erstellt-aus-quellen-jetzt-kurze-erklaer-shorts/",
-      "published": "Thu, 02 Jul 2026 09:58:15 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "SpaceX zeigt Investoren Prototyp eines KI-Smartphones mit xAI-Technologie von Musk",
-      "link": "https://the-decoder.de/spacex-zeigt-investoren-prototyp-eines-ki-smartphones-mit-xai-technologie-von-musk/",
-      "published": "Wed, 01 Jul 2026 19:41:31 +0000",
       "source": "The Decoder"
     }
   ]
