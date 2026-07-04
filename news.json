@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-07-04T11:06:03.348280+00:00",
+  "updated_at": "2026-07-04T20:14:59.740677+00:00",
   "politik": [
+    {
+      "title": "Gesunder Fisch – Beliebte Sardinen: Steigende Nachfrage mit Folgen für Ökosystem",
+      "link": "https://www.srf.ch/news/dialog/gesunder-fisch-beliebte-sardinen-steigende-nachfrage-mit-folgen-fuer-oekosystem",
+      "published": "Sat, 04 Jul 2026 17:49:11 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Schaukelstuhl bis Fernsehtisch – So hat die Schweiz im letzten Jahrhundert gewohnt",
+      "link": "https://www.srf.ch/news/schweiz/schaukelstuhl-bis-fernsehtisch-so-hat-die-schweiz-im-letzten-jahrhundert-gewohnt",
+      "published": "Sat, 04 Jul 2026 15:58:45 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
     {
       "title": "Die etwas anderen News – Serena Williams spritzt sich zurück ins Spitzentennis",
       "link": "https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-serena-williams-spritzt-sich-zurueck-ins-spitzentennis",
@@ -14,43 +26,43 @@
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Nach Bergsturz von Blatten – Aufatmen im hinteren Lötschental: Der ÖV ist zurück",
-      "link": "https://www.srf.ch/news/schweiz/nach-bergsturz-von-blatten-aufatmen-im-hinteren-loetschental-der-oev-ist-zurueck",
-      "published": "Sat, 04 Jul 2026 11:29:23 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Grossfahndung im Wallis – Einbruch in Sittener Waffengeschäft: Mutmassliche Täter gefasst",
-      "link": "https://www.srf.ch/news/schweiz/grossfahndung-im-wallis-einbruch-in-sittener-waffengeschaeft-mutmassliche-taeter-gefasst",
-      "published": "Sat, 04 Jul 2026 10:33:53 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Hitzewelle: Parade beim US-Unabhängigkeitstag abgesagt",
-      "link": "https://www.tagesschau.de/ausland/amerika/unabhaengigkeitstag-hitze-100.html",
-      "published": "Sat, 04 Jul 2026 12:37:35 +0200",
+      "title": "Analyse zu AfD-Bundesparteitag in Erfurt: Professionelle Radikale",
+      "link": "https://www.tagesschau.de/inland/afd-parteitag-erfurt-110.html",
+      "published": "Sat, 04 Jul 2026 20:11:30 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "250 Jahre USA: Eine verpasste Chance für ein gespaltenes Land?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-250-jahre-unabhaengig-feier-trump-100.html",
-      "published": "Sat, 04 Jul 2026 12:37:28 +0200",
+      "title": "Parlamentswahl in Israel: Geben arabische Frauen den Ausschlag?",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-araber-frauen-100.html",
+      "published": "Sat, 04 Jul 2026 17:54:50 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Kinder in Venezuela: Spielen zwischen den Trümmern",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-kinder-100.html",
-      "published": "Sat, 04 Jul 2026 11:26:25 +0200",
+      "title": "Haushaltsentwurf: Klingbeil will auch beim Klimafonds sparen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-klimafonds-100.html",
+      "published": "Sat, 04 Jul 2026 17:33:12 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Tote bei russischen Angriffen - Ukraine attackiert Ölanlagen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-174.html",
-      "published": "Sat, 04 Jul 2026 11:45:56 +0200",
+      "title": "Papst auf Lampedusa - \"Habt den Mut, anders zu denken\"",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-papst-lampedusa-100.html",
+      "published": "Sat, 04 Jul 2026 15:59:01 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "pxpipe: Token-Kosten für Claude Code durch Bild-Rendering senken",
+      "link": "https://the-decoder.de/pxpipe-token-kosten-fuer-claude-code-durch-bild-rendering-senken/",
+      "published": "Sat, 04 Jul 2026 17:52:33 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Prompting-Tipps für Fable 5: Zuerst die \"unbekannten Unbekannten\" finden",
+      "link": "https://the-decoder.de/prompting-tipps-fuer-fable-5-zuerst-die-unbekannten-unbekannten-finden/",
+      "published": "Sat, 04 Jul 2026 12:18:51 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "\"Fast kein Interface, fast kein Produkt\": OpenAI-Mitgründer skizziert ChatGPT-Vision",
       "link": "https://the-decoder.de/fast-kein-interface-fast-kein-produkt-openai-mitgruender-skizziert-chatgpt-vision/",
@@ -67,18 +79,6 @@
       "title": "Anthropic will mit KI Wirkstoffe gegen Krankheiten erforschen, die für Pharmakonzerne unattraktiv sind",
       "link": "https://the-decoder.de/anthropic-will-mit-ki-wirkstoffe-gegen-krankheiten-erforschen-die-fuer-pharmakonzerne-unattraktiv-sind/",
       "published": "Sat, 04 Jul 2026 08:04:18 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Mistral veröffentlicht Open-Source-Modell für formale Mathematik und Code-Verifikation",
-      "link": "https://the-decoder.de/mistral-veroeffentlicht-open-source-modell-fuer-formale-mathematik-und-code-verifikation/",
-      "published": "Sat, 04 Jul 2026 07:06:47 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Microsofts kommender Copilot soll mit KI-Agenten im Hintergrund \"echte Arbeit\" erledigen",
-      "link": "https://the-decoder.de/microsofts-kommender-copilot-soll-mit-ki-agenten-im-hintergrund-echte-arbeit-erledigen/",
-      "published": "Fri, 03 Jul 2026 19:12:40 +0000",
       "source": "The Decoder"
     }
   ]
