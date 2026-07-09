@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-07-09T14:19:17.110838+00:00",
+  "updated_at": "2026-07-09T21:06:48.862551+00:00",
   "politik": [
     {
-      "title": "21 Überholmanöver – Mann rast in sechs Minuten durch den Gotthard",
-      "link": "https://www.srf.ch/news/schweiz/21-ueberholmanoever-mann-rast-in-sechs-minuten-durch-den-gotthard",
-      "published": "Thu, 09 Jul 2026 15:43:22 +0200",
+      "title": "Drohnensichtungen – Drohnenexpertin: «Mich beunruhigen die zunehmenden Sichtungen»",
+      "link": "https://www.srf.ch/news/schweiz/drohnensichtungen-drohnenexpertin-mich-beunruhigen-die-zunehmenden-sichtungen",
+      "published": "Thu, 09 Jul 2026 20:56:54 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "«Schönster Coach ever» – Muri national: So feiert das Internet unseren Nati-Trainer",
-      "link": "https://www.srf.ch/news/gesellschaft/schoenster-coach-ever-muri-national-so-feiert-das-internet-unseren-nati-trainer",
-      "published": "Thu, 09 Jul 2026 15:18:12 +0200",
+      "title": "Neue Umfrage – Sparen statt Steuern erhöhen für die Armee",
+      "link": "https://www.srf.ch/news/schweiz/neue-umfrage-sparen-statt-steuern-erhoehen-fuer-die-armee",
+      "published": "Thu, 09 Jul 2026 21:07:14 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Nach Boom – Verkauf von Solaranlagen erstmals rückläufig",
-      "link": "https://www.srf.ch/news/schweiz/nach-boom-verkauf-von-solaranlagen-erstmals-ruecklaeufig",
-      "published": "Thu, 09 Jul 2026 14:36:29 +0200",
+      "title": "Ewigkeitschemikalien – Umweltpanel: Allgemeinheit weiss kaum etwas über PFAS",
+      "link": "https://www.srf.ch/news/schweiz/ewigkeitschemikalien-umweltpanel-allgemeinheit-weiss-kaum-etwas-ueber-pfas",
+      "published": "Thu, 09 Jul 2026 16:34:58 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Wirtschaftliche Unsicherheiten – Schweizer KMU bleiben trotz Unsicherheiten zuversichtlich",
-      "link": "https://www.srf.ch/news/schweiz/wirtschaftliche-unsicherheiten-schweizer-kmu-bleiben-trotz-unsicherheiten-zuversichtlich",
-      "published": "Thu, 09 Jul 2026 13:22:14 +0200",
+      "title": "Bundesverwaltungsgericht – Uber Eats hat neu Pöstlerinnen und Pöstler",
+      "link": "https://www.srf.ch/news/schweiz/bundesverwaltungsgericht-uber-eats-hat-neu-poestlerinnen-und-poestler",
+      "published": "Thu, 09 Jul 2026 16:26:00 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Mehr Verletzte bei Unfall am Frankfurter Flughafen als bisher bekannt",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/frankfurt-flughafen-122.html",
-      "published": "Thu, 09 Jul 2026 16:06:04 +0200",
+      "title": "Beratungen von VW-Aufsichtsrat enden ohne Klarheit zu Sparplänen",
+      "link": "https://www.tagesschau.de/wirtschaft/vw-zukunftsplan-100.html",
+      "published": "Thu, 09 Jul 2026 22:43:27 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "\"Irans Regime hat sich zumindest gefestigt\"",
-      "link": "https://www.tagesschau.de/ausland/adebahr-iran-100.html",
-      "published": "Thu, 09 Jul 2026 16:03:33 +0200",
+      "title": "Revolver mit sechs Patronen: Erdoğans Geschenk irritiert Gäste des NATO-Gipfels",
+      "link": "https://www.tagesschau.de/ausland/asien/erdogan-nato-gipfel-ankara-100.html",
+      "published": "Thu, 09 Jul 2026 20:19:08 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Wie Trump ethische Regeln bei seinen Finanzen missachtet",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-einnahmen-krypto-aktien-100.html",
-      "published": "Thu, 09 Jul 2026 15:50:25 +0200",
+      "title": "Regierungserklärung von Merz: Ein Treuebekenntnis vor der Sommerpause",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungserklaerung-merz-vor-sommerpause-100.html",
+      "published": "Thu, 09 Jul 2026 20:04:41 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Kompromiss der Koalition: BAföG-Erhöhung verschiebt sich um halbes Jahr",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bafoeg-erhoehung-bundesregierung-100.html",
-      "published": "Thu, 09 Jul 2026 14:57:04 +0200",
+      "title": "Gericht weist Klage gegen Zurückweisung aus formalen Gründen ab",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gericht-zurueckweisung-grenze-100.html",
+      "published": "Thu, 09 Jul 2026 18:26:15 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "OpenAIs GPT-5.6 Sol erreicht in Benchmarks fast das Niveau von Claude Fable 5, kostet aber nur ein Drittel",
+      "link": "https://the-decoder.de/openais-gpt-5-6-sol-erreicht-in-benchmarks-fast-das-niveau-von-claude-fable-5-kostet-aber-nur-ein-drittel/",
+      "published": "Thu, 09 Jul 2026 18:26:51 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "OpenAI startet \"ChatGPT Work\" und gibt GPT-5.6 für alle frei",
+      "link": "https://the-decoder.de/openai-startet-chatgpt-work-und-gibt-gpt-5-6-fuer-alle-frei/",
+      "published": "Thu, 09 Jul 2026 17:41:22 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Neues Modell und API: Meta kickt mit Muse Spark 1.1 die KI-Preiskämpfe aufs nächste Level",
+      "link": "https://the-decoder.de/neues-modell-und-api-meta-kickt-mit-muse-spark-1-1-die-ki-preiskaempfe-aufs-naechste-level/",
+      "published": "Thu, 09 Jul 2026 16:38:44 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Wenn ein Leerzeichen über Bestehen entscheidet: OpenAI deckt Mängel in KI-Programmiertest auf",
       "link": "https://the-decoder.de/wenn-ein-leerzeichen-ueber-bestehen-entscheidet-openai-deckt-maengel-in-ki-programmiertest-auf/",
@@ -61,24 +79,6 @@
       "title": "Auch Databricks springt auf den China-Zug: GLM 5.2 wird das Standardmodell fürs Coding",
       "link": "https://the-decoder.de/auch-databricks-springt-auf-den-china-zug-glm-5-2-wird-das-standardmodell-fuers-coding/",
       "published": "Thu, 09 Jul 2026 10:41:39 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Kein Mensch hatte eine Chance: OpenAI-KI gewinnt prestigeträchtigen Programmierwettbewerb deutlich",
-      "link": "https://the-decoder.de/openai-ki-schlaegt-einige-der-besten-wettkampfprogrammierer-der-welt-bei-internationalem-coding-wettbewerb-deutlich/",
-      "published": "Thu, 09 Jul 2026 09:39:57 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "xAI veröffentlicht Grok 4.5: Fast auf Frontier-Niveau, aber deutlich günstiger als die Konkurrenz",
-      "link": "https://the-decoder.de/xai-veroeffentlicht-grok-4-5-fast-auf-frontier-niveau-aber-deutlich-guenstiger-als-die-konkurrenz/",
-      "published": "Thu, 09 Jul 2026 07:30:44 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "ChatGPT bekommt eine natürlichere KI-Stimme mit flexibler Interaktion",
-      "link": "https://the-decoder.de/chatgpt-bekommt-eine-natuerlichere-ki-stimme-mit-flexibler-interaktion/",
-      "published": "Wed, 08 Jul 2026 17:59:55 +0000",
       "source": "The Decoder"
     }
   ]
