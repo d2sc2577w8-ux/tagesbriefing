@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-07-11T10:05:06.516269+00:00",
+  "updated_at": "2026-07-11T18:38:19.833384+00:00",
   "politik": [
     {
-      "title": "Alte Reussbrücke Mellingen AG – Aargauer Brücke um 2.6 Meter angehoben – für kommende Hochwasser",
-      "link": "https://www.srf.ch/news/schweiz/alte-reussbruecke-mellingen-ag-aargauer-bruecke-um-2-6-meter-angehoben-fuer-kommende-hochwasser",
-      "published": "Sat, 11 Jul 2026 11:41:44 +0200",
+      "title": "Nutzungskonflikte in den Alpen – Kontroverse nach Kuh‑Video aus dem Wallis",
+      "link": "https://www.srf.ch/news/dialog/nutzungskonflikte-in-den-alpen-kontroverse-nach-kuh-video-aus-dem-wallis",
+      "published": "Sat, 11 Jul 2026 17:50:26 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Einsatz am Freitagabend – Polizisten verletzt bei Explosion in einem Haus in Leontica TI",
-      "link": "https://www.srf.ch/news/schweiz/einsatz-am-freitagabend-polizisten-verletzt-bei-explosion-in-einem-haus-in-leontica-ti",
-      "published": "Sat, 11 Jul 2026 10:35:39 +0200",
+      "title": "Drohender Bergsturz – 82.5 Millionen für die Umsiedlung von Brienz GR",
+      "link": "https://www.srf.ch/news/dialog/drohender-bergsturz-82-5-millionen-fuer-die-umsiedlung-von-brienz-gr",
+      "published": "Sat, 11 Jul 2026 17:17:35 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Zukunft der Alpwirtschaft – GPS statt Weidezaun?",
-      "link": "https://www.srf.ch/news/dialog/zukunft-der-alpwirtschaft-gps-statt-weidezaun",
-      "published": "Sat, 11 Jul 2026 09:59:44 +0200",
+      "title": "SFV zum Yakin-Video – «Unsere einzige böse Absicht: Spiele zu gewinnen»",
+      "link": "https://www.srf.ch/news/schweiz/sfv-zum-yakin-video-unsere-einzige-boese-absicht-spiele-zu-gewinnen",
+      "published": "Sat, 11 Jul 2026 16:56:08 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "KI in der Tourismusbranche – Hotel buchen über Chat GPT? Online-Plattformen droht der Abstieg",
-      "link": "https://www.srf.ch/news/wirtschaft/ki-in-der-tourismusbranche-hotel-buchen-ueber-chat-gpt-online-plattformen-droht-der-abstieg",
-      "published": "Sat, 11 Jul 2026 09:13:30 +0200",
+      "title": "SFV gelingt Coup – Yakin kontert «Bösewicht»-Sprüche von Late-Night-Star",
+      "link": "https://www.srf.ch/news/schweiz/sfv-gelingt-coup-yakin-kontert-boesewicht-sprueche-von-late-night-star",
+      "published": "Sat, 11 Jul 2026 15:40:10 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Krieg gegen die Ukraine: Wieder russische Angriffe auf Kiew",
+      "title": "Neuer Anlauf für Iran-Verhandlungen im Oman",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-102.html",
+      "published": "Sat, 11 Jul 2026 20:08:54 +0200",
+      "source": "tagesschau.de - Die Nachrichten der ARD"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
       "link": "https://www.tagesschau.de/ausland/angriffe-kiew-wadephul-100.html",
-      "published": "Sat, 11 Jul 2026 11:44:49 +0200",
+      "published": "Sat, 11 Jul 2026 19:36:00 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Forderung aus Wirtschaft und Politik: Deutsche Klimaneutralität erst 2050",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wirtschaft-klimaziele-100.html",
-      "published": "Sat, 11 Jul 2026 10:50:25 +0200",
+      "title": "Indien: Im Land der sinkenden Geburtenrate",
+      "link": "https://www.tagesschau.de/ausland/asien/bevoelkerung-indien-weniger-geburten-100.html",
+      "published": "Sat, 11 Jul 2026 17:27:58 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Kommunen bedauern das Ja des Bundesrats zur Gesundheitsreform",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kritik-gesundheitspolitik-sparpaket-100.html",
-      "published": "Sat, 11 Jul 2026 11:10:12 +0200",
-      "source": "tagesschau.de - Die Nachrichten der ARD"
-    },
-    {
-      "title": "Geiselnahme in Berliner Supermarkt beendet - Großeinsatz der Polizei",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/geiselnahme-supermarkt-berlin-100.html",
-      "published": "Sat, 11 Jul 2026 11:24:41 +0200",
+      "title": "Nigeria am Weltbevölkerungstag: \"Der schlafende Riese ist erwacht\"",
+      "link": "https://www.tagesschau.de/ausland/afrika/nigeria-bevoelkerungswachstum-100.html",
+      "published": "Sat, 11 Jul 2026 17:27:17 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "OpenAIs GPT-5.6 Sol Ultra löst angeblich 50 Jahre altes Mathe-Problem in unter einer Stunde",
+      "link": "https://the-decoder.de/openais-gpt-5-6-sol-ultra-loest-angeblich-50-jahre-altes-mathe-problem-in-unter-einer-stunde/",
+      "published": "Sat, 11 Jul 2026 17:14:35 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Terrorgruppen nutzen laut Studie gängige KI-Chatbots für Angriffsplanung und Waffenbau",
+      "link": "https://the-decoder.de/terrorgruppen-nutzen-laut-studie-gaengige-ki-chatbots-fuer-angriffsplanung-und-waffenbau/",
+      "published": "Sat, 11 Jul 2026 16:42:28 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Chinesisches KI-Labor stellt \"Orca\" vor: Weltmodell sagt Zustände statt Tokens vorher",
       "link": "https://the-decoder.de/chinesisches-ki-labor-stellt-orca-vor-weltmodell-sagt-zustaende-statt-tokens-vorher/",
@@ -67,18 +79,6 @@
       "title": "Kritik an ChatGPT Work: OpenAI will Kosten transparenter machen und Desktop-App nachbessern",
       "link": "https://the-decoder.de/kritik-an-chatgpt-work-openai-will-kosten-transparenter-machen-und-desktop-app-nachbessern/",
       "published": "Sat, 11 Jul 2026 07:37:09 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Apple verklagt OpenAI wegen systematischen Diebstahls von Geschäftsgeheimnissen",
-      "link": "https://the-decoder.de/apple-verklagt-openai-wegen-systematischen-diebstahls-von-geschaeftsgeheimnissen/",
-      "published": "Sat, 11 Jul 2026 06:27:20 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "KI, die KI verbessert: OpenAIs GPT-5.6 Sol trainierte angeblich kleineres Modell Luna",
-      "link": "https://the-decoder.de/ki-die-ki-verbessert-openais-gpt-5-6-sol-trainierte-angeblich-kleineres-modell-luna/",
-      "published": "Fri, 10 Jul 2026 21:07:47 +0000",
       "source": "The Decoder"
     }
   ]
