@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-07-12T19:57:20.359237+00:00",
+  "updated_at": "2026-07-13T13:31:53.584298+00:00",
   "politik": [
     {
-      "title": "Wegen Bahnumbau – Ohne Säntisbahn fehlen der Käserei die Gäste",
-      "link": "https://www.srf.ch/news/schweiz/wegen-bahnumbau-ohne-saentisbahn-fehlen-der-kaeserei-die-gaeste",
-      "published": "Sun, 12 Jul 2026 21:12:48 +0200",
+      "title": "Tourismus im Wallis – Nach Brand: Crans-Montana fährt Werbung schrittweise hoch",
+      "link": "https://www.srf.ch/news/schweiz/tourismus-im-wallis-nach-brand-crans-montana-faehrt-werbung-schrittweise-hoch",
+      "published": "Mon, 13 Jul 2026 12:32:07 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Historische Wetterstation – Seit 1755 misst Basel das Klima – und die Hitze steigt",
-      "link": "https://www.srf.ch/news/schweiz/historische-wetterstation-seit-1755-misst-basel-das-klima-und-die-hitze-steigt",
-      "published": "Sun, 12 Jul 2026 19:42:17 +0200",
+      "title": "Vernetzung ohne Männer – Diese Wirtschaftszirkel stehen nur Frauen offen",
+      "link": "https://www.srf.ch/news/schweiz/vernetzung-ohne-maenner-diese-wirtschaftszirkel-stehen-nur-frauen-offen",
+      "published": "Mon, 13 Jul 2026 12:03:14 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Wenn der Redefluss stockt – Im Stottercamp reden lernen",
-      "link": "https://www.srf.ch/news/schweiz/wenn-der-redefluss-stockt-im-stottercamp-reden-lernen",
-      "published": "Sun, 12 Jul 2026 17:42:03 +0200",
+      "title": "Hitzesommer – Jahrhundertsommer? Der August wird entscheiden",
+      "link": "https://www.srf.ch/news/schweiz/hitzesommer-jahrhundertsommer-der-august-wird-entscheiden",
+      "published": "Mon, 13 Jul 2026 11:53:37 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Viral auf Instagram – So geht Reissverschluss richtig: Kapo Zürich räumt mit Mythos auf",
-      "link": "https://www.srf.ch/news/schweiz/viral-auf-instagram-so-geht-reissverschluss-richtig-kapo-zuerich-raeumt-mit-mythos-auf",
-      "published": "Sun, 12 Jul 2026 14:00:59 +0200",
+      "title": "Wegen Naturgefahren – Nach Camping-Schliessung strömen Gäste ins Goms",
+      "link": "https://www.srf.ch/news/schweiz/wegen-naturgefahren-nach-camping-schliessung-stroemen-gaeste-ins-goms",
+      "published": "Mon, 13 Jul 2026 05:21:21 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Berichte über Tote bei israelischen Angriffen in Gaza",
-      "link": "https://www.tagesschau.de/ausland/asien/nahost-gaza-108.html",
-      "published": "Sun, 12 Jul 2026 21:38:00 +0200",
+      "title": "tagesschau-App wird smarter, persönlicher und interaktiver",
+      "link": "https://www.tagesschau.de/mehr/in-eigener-sache-app-100.html",
+      "published": "Mon, 13 Jul 2026 14:58:48 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Unklarheit über Status der Straße von Hormus und gegenseitige Angriffe",
-      "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-geschlossen-oder-nicht-100.html",
-      "published": "Sun, 12 Jul 2026 21:01:38 +0200",
+      "title": "Kann die wachsende Rüstungsindustrie Arbeitsplätze retten?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/smag-ruestung-boersengang-verteidigung-100.html",
+      "published": "Mon, 13 Jul 2026 14:49:52 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Feuerwehr kämpft in mehreren Bundesländern gegen Wald- und Feldbrände",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/feuer-hitze-waldbrand-100.html",
-      "published": "Sun, 12 Jul 2026 20:52:54 +0200",
+      "title": "Realitätscheck voraus: Berichtssaison läuft an",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-berichtssaison-100.html",
+      "published": "Mon, 13 Jul 2026 14:04:01 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Terrorverdacht nach Waffenfund nahe Synagoge in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-synagoge-terrorermittlungen-100.html",
-      "published": "Sun, 12 Jul 2026 19:38:34 +0200",
+      "title": "Cyberangriffe: Auswärtiges Amt bestellt russischen Botschafter ein",
+      "link": "https://www.tagesschau.de/ausland/cyberangriffe-russland-sanktionen-botschafter-100.html",
+      "published": "Mon, 13 Jul 2026 13:58:54 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Deutsches Konsortium veröffentlicht offenes KI-Modell Soofi S für Deutsch und Englisch",
+      "link": "https://the-decoder.de/deutsches-konsortium-veroeffentlicht-offenes-ki-modell-soofi-s-fuer-deutsch-und-englisch/",
+      "published": "Mon, 13 Jul 2026 10:52:01 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Google trainiert KI-Gesundheitsmodell mit mehr als einer Billion Minuten Wearable-Daten",
+      "link": "https://the-decoder.de/google-trainiert-ki-gesundheitsmodell-mit-mehr-als-einer-billion-minuten-wearable-daten/",
+      "published": "Mon, 13 Jul 2026 09:11:48 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Claude Fable 5 bleibt doch im Abo: Anthropic gibt Abo-Nutzern mehr Zeit",
+      "link": "https://the-decoder.de/claude-fable-5-bleibt-doch-im-abo-anthropic-gibt-abo-nutzern-mehr-zeit/",
+      "published": "Mon, 13 Jul 2026 07:28:34 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "LinkedIn ist laut Analyse die KI-Slop-Schleuder unter den Social-Media-Plattformen",
       "link": "https://the-decoder.de/linkedin-ist-laut-analyse-die-ki-slop-schleuder-unter-den-social-media-plattformen/",
@@ -61,24 +79,6 @@
       "title": "Claude Code bekommt integrierten Browser direkt in der Desktop-App",
       "link": "https://the-decoder.de/claude-code-bekommt-integrierten-browser-direkt-in-der-desktop-app/",
       "published": "Sun, 12 Jul 2026 15:00:06 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "S&P sieht OpenAI als zentrales Risiko für Oracle und senkt Kreditbewertung",
-      "link": "https://the-decoder.de/sp-sieht-openai-als-zentrales-risiko-fuer-oracle-und-senkt-kreditbewertung/",
-      "published": "Sun, 12 Jul 2026 11:36:36 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Meta zieht KI-Bildfunktion zurück, die ohne Zustimmung Fotos von Instagram-Nutzern generierte",
-      "link": "https://the-decoder.de/meta-zieht-ki-bildfunktion-zurueck-die-ohne-zustimmung-fotos-von-instagram-nutzern-generierte/",
-      "published": "Sun, 12 Jul 2026 11:08:30 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Claude Cowork: Nutzer greifen zur KI vor allem für die Arbeit neben ihrer Arbeit",
-      "link": "https://the-decoder.de/claude-cowork-nutzer-greifen-zur-ki-vor-allem-fuer-die-arbeit-neben-ihrer-arbeit/",
-      "published": "Sun, 12 Jul 2026 09:22:39 +0000",
       "source": "The Decoder"
     }
   ]
