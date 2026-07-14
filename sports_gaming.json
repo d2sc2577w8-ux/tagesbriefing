@@ -1,16 +1,22 @@
 {
-  "updated_at": "2026-07-14T10:59:34.058104+00:00",
+  "updated_at": "2026-07-14T20:20:39.617963+00:00",
   "sport": [
     {
-      "title": "Empfang auf Turbinenplatz – Tausende Fans bejubeln die Schweizer WM-Helden in Zürich",
-      "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/empfang-auf-turbinenplatz-tausende-fans-bejubeln-die-schweizer-wm-helden-in-zuerich",
-      "published": "Tue, 14 Jul 2026 12:57:42 +0200",
+      "title": "Abschiedsvorstellung zu Ende – Wawrinka in Gstaad nach grossem Kampf ausgeschieden",
+      "link": "https://www.srf.ch/sport/tennis/atp-tour/abschiedsvorstellung-zu-ende-wawrinka-in-gstaad-nach-grossem-kampf-ausgeschieden",
+      "published": "Tue, 14 Jul 2026 20:56:28 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Preisgeld der Fifa – SFV erhält Millionen für die WM-Kampagne – Erfolg war budgetiert",
-      "link": "https://www.srf.ch/news/schweiz/preisgeld-der-fifa-sfv-erhaelt-millionen-fuer-die-wm-kampagne-erfolg-war-budgetiert",
-      "published": "Tue, 14 Jul 2026 05:56:51 +0200",
+      "title": "ATP-Turnier in Gstaad – Nur wenig hat gefehlt: Dietrich unterliegt bei ATP-Debüt Kym",
+      "link": "https://www.srf.ch/sport/tennis/atp-tour/atp-turnier-in-gstaad-nur-wenig-hat-gefehlt-dietrich-unterliegt-bei-atp-debuet-kym",
+      "published": "Tue, 14 Jul 2026 18:38:42 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Sie kommt von PSV Eindhoven – Xhemaili zieht's an den Comer See",
+      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/sie-kommt-von-psv-eindhoven-xhemaili-zieht-s-an-den-comer-see",
+      "published": "Tue, 14 Jul 2026 19:42:41 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
@@ -20,22 +26,34 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Neuer Fussball-Experte – Bruno Berner kehrt als SRF-Experte zurück",
-      "link": "https://www.srf.ch/sport/mehr-sport/allgemein/neuer-fussball-experte-bruno-berner-kehrt-als-srf-experte-zurueck",
-      "published": "Tue, 14 Jul 2026 11:26:43 +0200",
+      "title": "Internationale Fussball-News – Manchester United schnappt sich Belgien-Captain",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-manchester-united-schnappt-sich-belgien-captain",
+      "published": "Tue, 14 Jul 2026 20:05:09 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Besuch im Studio – «Sportpanorama»-Anmeldung",
-      "link": "https://www.srf.ch/sendungen/sportpanorama/sportpanorama-sportpanorama-anmeldung",
-      "published": "Tue, 05 May 2026 16:01:06 +0200",
+      "title": "News aus der Super League – Saipi verlässt Lugano – Zoukit nach Thun – neues Personal für FCB",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-saipi-verlaesst-lugano-zoukit-nach-thun-neues-personal-fuer-fcb",
+      "published": "Tue, 14 Jul 2026 18:58:16 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Vor WM-Halbfinal FRA-ESP – Spanien: Urvertrauen in eigene Stärke > Respekt vor Gegner",
-      "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/vor-wm-halbfinal-fra-esp-spanien-urvertrauen-in-eigene-staerke-respekt-vor-gegner",
-      "published": "Mon, 13 Jul 2026 20:43:18 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "Internationale Fussball-News – Manchester United schnappt sich Belgien-Captain",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-manchester-united-schnappt-sich-belgien-captain",
+      "published": "Tue, 14 Jul 2026 20:05:09 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Sie kommt von PSV Eindhoven – Xhemaili zieht's an den Comer See",
+      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/sie-kommt-von-psv-eindhoven-xhemaili-zieht-s-an-den-comer-see",
+      "published": "Tue, 14 Jul 2026 19:42:41 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "News aus der Super League – Saipi verlässt Lugano – Zoukit nach Thun – neues Personal für FCB",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-saipi-verlaesst-lugano-zoukit-nach-thun-neues-personal-fuer-fcb",
+      "published": "Tue, 14 Jul 2026 18:58:16 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "Empfang auf Turbinenplatz – Tausende Fans bejubeln die Schweizer WM-Helden in Zürich",
@@ -54,61 +72,43 @@
       "link": "https://www.srf.ch/sport/fussball/internationale-ligen/vertrag-bis-2029-sommer-setzt-karriere-bei-bruegge-fort",
       "published": "Tue, 14 Jul 2026 08:14:39 +0200",
       "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Grosser Empfang für Norweger – 90'000 Menschen sorgen in Oslo für das vorerst letzte «Ruuh»",
-      "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/grosser-empfang-fuer-norweger-90-000-menschen-sorgen-in-oslo-fuer-das-vorerst-letzte-ruuh",
-      "published": "Mon, 13 Jul 2026 23:54:21 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Vor WM-Halbfinal FRA-ESP – Spanien: Urvertrauen in eigene Stärke > Respekt vor Gegner",
-      "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/vor-wm-halbfinal-fra-esp-spanien-urvertrauen-in-eigene-staerke-respekt-vor-gegner",
-      "published": "Mon, 13 Jul 2026 20:43:18 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "News aus der Super League – FCZ schnappt sich Luzerns Spadanuda – GC verliert Ngom",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-fcz-schnappt-sich-luzerns-spadanuda-gc-verliert-ngom",
-      "published": "Mon, 13 Jul 2026 20:32:39 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Nach One Piece: Endlich gibt es Neuigkeiten zum Live-Action-Film von Naruto",
-      "link": "https://www.pcgames.de/Anime-und-Manga-Thema-278180/News/One-Piece-netflix-Anime-Live-Action-Naruto-Film-Casting-1548181/",
-      "published": "Tue, 14 Jul 2026 12:29:00 +0200",
+      "title": "Ryse sollte Xbox' eigenes Assassin's Creed werden - doch ein Streit ließ die Reihe sterben",
+      "link": "https://www.pcgames.de/Ryse-Spiel-31218/News/fortsetzungen-historsche-setttings-wikinger-samurai-1548259/",
+      "published": "Tue, 14 Jul 2026 20:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Sanctuary Shattered Sun will das klassische RTS-Feeling zurückbringen",
-      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Neues-RTS-Sanctuary-Shattered-Sun-mit-Kickstarter-Aktion-1548156/",
-      "published": "Tue, 14 Jul 2026 12:01:00 +0200",
+      "title": "Der Herr der Ringe: Die Jagd auf Gollum - Lösung für das größte Problem ist KI",
+      "link": "https://www.pcgames.de/Der-Herr-der-Ringe-Brands-136200/News/schauspieler-25-jahre-aelter-verjuengt-mit-KI-1548242/",
+      "published": "Tue, 14 Jul 2026 19:32:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Riot zeigt erstes Gameplay zu LoL Classic - Fans massiv enttäuscht",
-      "link": "https://www.pcgames.de/League-of-Legends-Spiel-11721/News/Classic-Riot-Games-Season-3-Release-Termin-Moba-1548159/",
-      "published": "Tue, 14 Jul 2026 11:29:00 +0200",
+      "title": "Die ganze Welt spielt Palworld, aber mit Enshrouded geht bald das bessere Survival-Spiel an den Start",
+      "link": "https://www.pcgames.de/Enshrouded-Spiel-74267/Specials/Release-Palworld-Survival-PS5-Crossplay-1548177/",
+      "published": "Tue, 14 Jul 2026 18:59:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Diablo 4 Saison 14: Erste Spieler knacken Grube-Stufe 150 - eine Klasse dominiert",
-      "link": "https://www.pcgames.de/Diablo-4-Spiel-55956/News/Saison-14-Grube-Rangliste-Update-1548154/",
-      "published": "Tue, 14 Jul 2026 11:01:00 +0200",
+      "title": "WoW: Patch 12.1 lässt einen alten Klassiker neu aufleben",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Patch-121-laesst-einen-alten-WoW-Klassiker-neu-aufleben-1548155/",
+      "published": "Tue, 14 Jul 2026 18:30:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Counter-Strike 2: Diese kleine Änderung aus Season 5 hat riesige Folgen",
-      "link": "https://www.pcgames.de/Counter-Strike-2-Spiel-74230/News/Season-5-Balance-Aenderung-Granaten-Bombe-1548146/",
-      "published": "Tue, 14 Jul 2026 10:29:00 +0200",
+      "title": "Das beste RPG aller Zeiten hat ein Remake bekommen - und ist unser absoluter Geheimtipp",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/Specials/Geheimtipp-PC-Games-Rollenspiel-Steam-Puzzle-Game-Tunic-Outer-Wilds-1548246/",
+      "published": "Tue, 14 Jul 2026 18:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Palworld 1.0: Fans entdecken versteckte Änderungen an mehreren Pals",
-      "link": "https://www.pcgames.de/Palworld-Spiel-74505/News/Version-10-aendert-Designs-wohl-wegen-Aehnlichkeit-zu-Pokemon-1548143/",
-      "published": "Tue, 14 Jul 2026 10:01:00 +0200",
+      "title": "Neues Arcade-Game auf Steam sperrt Tony Hawks unsterbliche Seele in ein Dampfross",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Denshattack-Tony-Hawks-Pro-Skater-Steam-Arcade-Game-1548212/",
+      "published": "Tue, 14 Jul 2026 17:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
