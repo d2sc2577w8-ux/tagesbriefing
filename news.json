@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-07-14T20:20:38.209693+00:00",
+  "updated_at": "2026-07-15T11:12:06.361554+00:00",
   "politik": [
     {
-      "title": "Aufbau der Luftverteidigung – Pfister will auch wegen Zollverhandlungen an Patriot festhalten",
-      "link": "https://www.srf.ch/news/schweiz/aufbau-der-luftverteidigung-pfister-will-auch-wegen-zollverhandlungen-an-patriot-festhalten",
-      "published": "Tue, 14 Jul 2026 18:29:28 +0200",
+      "title": "Bundesgerichtsurteil – Kanton Wallis darf Einweg-E-Zigaretten verbieten",
+      "link": "https://www.srf.ch/news/schweiz/bundesgerichtsurteil-kanton-wallis-darf-einweg-e-zigaretten-verbieten",
+      "published": "Wed, 15 Jul 2026 12:52:12 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Meteoschweiz – Wetterradare durch Sparmassnahmen gefährdet",
-      "link": "https://www.srf.ch/news/dialog/meteoschweiz-wetterradare-durch-sparmassnahmen-gefaehrdet",
-      "published": "Tue, 14 Jul 2026 17:57:47 +0200",
+      "title": "Vor Bundesverwaltungsgericht – Asylbewerber im Hungerstreik – wo muss der Staat schützen?",
+      "link": "https://www.srf.ch/news/schweiz/vor-bundesverwaltungsgericht-asylbewerber-im-hungerstreik-wo-muss-der-staat-schuetzen-1",
+      "published": "Wed, 15 Jul 2026 10:46:26 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Festivals unter Druck – Wieso Schweizer Festivaltickets teurer geworden sind",
-      "link": "https://www.srf.ch/news/schweiz/festivals-unter-druck-wieso-schweizer-festivaltickets-teurer-geworden-sind",
-      "published": "Tue, 14 Jul 2026 16:33:56 +0200",
+      "title": "Zweite Karriere – Er führt ein AKW – und singt Opern",
+      "link": "https://www.srf.ch/news/schweiz/zweite-karriere-er-fuehrt-ein-akw-und-singt-opern",
+      "published": "Wed, 15 Jul 2026 10:22:58 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Fussball-Euphorie – Warum die Nati plötzlich die ganze Schweiz begeistert",
-      "link": "https://www.srf.ch/news/schweiz/fussball-euphorie-warum-die-nati-ploetzlich-die-ganze-schweiz-begeistert",
-      "published": "Tue, 14 Jul 2026 16:04:54 +0200",
+      "title": "Reisen mit dem Wohnmobil – Narkosegas im Camper? Was an dem Gerücht dran ist",
+      "link": "https://www.srf.ch/news/schweiz/reisen-mit-dem-wohnmobil-narkosegas-im-camper-was-an-dem-geruecht-dran-ist",
+      "published": "Wed, 15 Jul 2026 06:10:50 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Lage am Persischen Golf: \"Kein Krieg, aber auch kein Frieden\"",
-      "link": "https://www.tagesschau.de/ausland/asien/nahost-konflikt-lage-golf-100.html",
-      "published": "Tue, 14 Jul 2026 21:43:38 +0200",
+      "title": "Liebich von Tschechien nach Deutschland gebracht",
+      "link": "https://www.tagesschau.de/inland/liebich-auslieferung-108.html",
+      "published": "Wed, 15 Jul 2026 13:04:08 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Ministerpräsident Schnieder entschuldigt sich für Staatsversagen im Ahrtal",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gedenken-flutkatastrophe-ahrtal-100.html",
-      "published": "Tue, 14 Jul 2026 21:20:19 +0200",
+      "title": "Gründe für Überschuldung: Krankheit vor Arbeitslosigkeit",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gruende-schulden-deutsche-100.html",
+      "published": "Wed, 15 Jul 2026 12:40:22 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Trump will nun doch keine Gebühren für Hormus-Durchfahrt erheben",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-gebuehren-hormus-100.html",
-      "published": "Tue, 14 Jul 2026 19:23:13 +0200",
+      "title": "Hilfsorganisation verteilt übrig gebliebenes WM-Essen an Bedürftige",
+      "link": "https://www.tagesschau.de/ausland/amerika/wm-gerettetes-essen-beduerftige-100.html",
+      "published": "Wed, 15 Jul 2026 12:38:53 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Marktbericht: DAX hält sich über 25.000-Punkte-Marke",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-162.html",
-      "published": "Tue, 14 Jul 2026 18:48:12 +0200",
+      "title": "Chinas Wirtschaft wächst so langsam wie seit Ende 2022 nicht",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-wirtschaftswachstum-langsamer-100.html",
+      "published": "Wed, 15 Jul 2026 12:10:02 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "OpenAI Codex verschlüsselt interne Agenten-Kommunikation – Entwickler können Aufträge nicht mehr nachvollziehen",
+      "link": "https://the-decoder.de/openai-codex-verschluesselt-interne-agenten-kommunikation-entwickler-koennen-auftraege-nicht-mehr-nachvollziehen/",
+      "published": "Wed, 15 Jul 2026 08:13:48 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Meta-Mitarbeiter verklagen Konzern: KI soll bei Massenentlassung diskriminiert haben",
+      "link": "https://the-decoder.de/meta-mitarbeiter-verklagen-konzern-ki-soll-bei-massenentlassung-diskriminiert-haben/",
+      "published": "Wed, 15 Jul 2026 07:55:01 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "OpenAIs erstes KI-Hardware soll ein mobiler Lautsprecher ohne Bildschirm werden",
+      "link": "https://the-decoder.de/openais-erstes-ki-hardware-soll-ein-mobiler-lautsprecher-ohne-bildschirm-werden/",
+      "published": "Wed, 15 Jul 2026 06:24:56 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Claude for Teachers: Anthropic bringt kostenloses KI-Paket an US-Schulen",
       "link": "https://the-decoder.de/claude-for-teachers-anthropic-bringt-kostenloses-ki-paket-an-us-schulen/",
@@ -61,24 +79,6 @@
       "title": "Einen Monat nach Rekord-Finanzierung verhandelt DeepSeek bereits über neue Milliarden",
       "link": "https://the-decoder.de/einen-monat-nach-rekord-finanzierung-verhandelt-deepseek-bereits-ueber-neue-milliarden/",
       "published": "Tue, 14 Jul 2026 16:27:29 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Google-Suche erstellt künftig eigene KI-Bilder, wenn das Web keine passenden liefert",
-      "link": "https://the-decoder.de/google-suche-erstellt-kuenftig-eigene-ki-bilder-wenn-das-web-keine-passenden-liefert/",
-      "published": "Tue, 14 Jul 2026 16:13:58 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "ChatGPT auf WhatsApp nutzen: OpenAI bietet wieder Texte, Bilder und Spracheingabe ohne eigenes Konto",
-      "link": "https://the-decoder.de/nach-metas-chatbot-verbot-chatgpt-laeuft-wieder-ueber-whatsapp-im-europaeischen-wirtschaftsraum/",
-      "published": "Tue, 14 Jul 2026 12:02:06 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "\"Niemand weiß, was passiert\": Deepmind-Chef Hassabis fordert neue US-Aufsichtsbehörde für KI-Spitzenmodelle",
-      "link": "https://the-decoder.de/niemand-weiss-was-passiert-deepmind-chef-hassabis-fordert-neue-us-aufsichtsbehoerde-fuer-ki-spitzenmodelle/",
-      "published": "Tue, 14 Jul 2026 11:29:03 +0000",
       "source": "The Decoder"
     }
   ]
