@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-07-15T19:58:02.226550+00:00",
+  "updated_at": "2026-07-16T11:20:53.479780+00:00",
   "politik": [
     {
-      "title": "Nach Ja der Stimmbevölkerung – HEV-Präsident bekämpft Vorkaufsrecht der Stadt Luzern vor Gericht",
-      "link": "https://www.srf.ch/news/schweiz/nach-ja-der-stimmbevoelkerung-hev-praesident-bekaempft-vorkaufsrecht-der-stadt-luzern-vor-gericht",
-      "published": "Wed, 15 Jul 2026 18:41:54 +0200",
+      "title": "Versorgungssicherheit – So funktioniert der Medikamentenvorrat der Schweiz",
+      "link": "https://www.srf.ch/news/schweiz/versorgungssicherheit-so-funktioniert-der-medikamentenvorrat-der-schweiz",
+      "published": "Thu, 16 Jul 2026 10:09:54 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Peinlicher KI-Fehler – SVP Zürich wirbt für Schweizer Neutralität mit bayerischer Tracht",
-      "link": "https://www.srf.ch/news/schweiz/peinlicher-ki-fehler-svp-zuerich-wirbt-fuer-schweizer-neutralitaet-mit-bayerischer-tracht",
-      "published": "Wed, 15 Jul 2026 18:25:53 +0200",
+      "title": "Neue App soll helfen – Digitale Hilfe im Dschungel der Ergänzungsleistungen",
+      "link": "https://www.srf.ch/news/schweiz/neue-app-soll-helfen-digitale-hilfe-im-dschungel-der-ergaenzungsleistungen",
+      "published": "Thu, 16 Jul 2026 08:06:42 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Internationale Zusammenarbeit – Schweiz stärkt Kooperation im Kampf gegen Drogenkriminalität",
-      "link": "https://www.srf.ch/news/schweiz/internationale-zusammenarbeit-schweiz-staerkt-kooperation-im-kampf-gegen-drogenkriminalitaet",
-      "published": "Wed, 15 Jul 2026 17:45:02 +0200",
+      "title": "Durstige Wildtiere – Wasserschalen für Wildtiere: So helfen Sie richtig",
+      "link": "https://www.srf.ch/news/schweiz/durstige-wildtiere-wasserschalen-fuer-wildtiere-so-helfen-sie-richtig",
+      "published": "Thu, 16 Jul 2026 06:52:54 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Nach Femizid im Tessin – Experte spricht von Alarmsituation bei häuslicher Gewalt",
-      "link": "https://www.srf.ch/news/dialog/nach-femizid-im-tessin-experte-spricht-von-alarmsituation-bei-haeuslicher-gewalt",
-      "published": "Wed, 15 Jul 2026 17:18:28 +0200",
+      "title": "Drohnen in Flugverbotszone – Sieben Drohnen nahe AKW Gösgen gesichtet",
+      "link": "https://www.srf.ch/news/schweiz/drohnen-in-flugverbotszone-sieben-drohnen-nahe-akw-goesgen-gesichtet",
+      "published": "Thu, 16 Jul 2026 06:15:34 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Frankreich erlaubt Sterbehilfe für Schwerkranke unter Auflagen",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-sterbehilfe-108.html",
-      "published": "Wed, 15 Jul 2026 20:30:41 +0200",
+      "title": "Chipfertiger TSMC mit fünftem Rekord-Quartal in Folge",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/thema-des-tages-tsmc-chipbranche-100.html",
+      "published": "Thu, 16 Jul 2026 12:58:23 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Journalist Can Dündar: \"Fast alle haben Erdoğan satt\"",
-      "link": "https://www.tagesschau.de/kultur/interview-can-duendar-100.html",
-      "published": "Wed, 15 Jul 2026 20:21:45 +0200",
+      "title": "Geheime Schatten-Diplomatie - Hintertür nach Moskau?",
+      "link": "https://www.tagesschau.de/investigativ/kontraste/baku-russland-putin-deutschland-geheimtreffen-100.html",
+      "published": "Thu, 16 Jul 2026 12:53:00 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Weiter Grenzkontrollen zwischen Deutschland und Österreich",
-      "link": "https://www.tagesschau.de/inland/grenzkontrollen-deutschland-oesterreich-100.html",
-      "published": "Wed, 15 Jul 2026 19:49:08 +0200",
+      "title": "Deutsch-Französischer Ministerrat: Schadensbegrenzung nach FCAS-Bruchlandung",
+      "link": "https://www.tagesschau.de/inland/ministerrat-macron-merz-facs-100.html",
+      "published": "Thu, 16 Jul 2026 11:44:30 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Bundeskanzler Merz: Sommerbilanz mit angezogener Handbremse",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-sommer-pressekonferenz-108.html",
-      "published": "Wed, 15 Jul 2026 19:40:38 +0200",
+      "title": "US-Wirtschaft läuft robust - noch",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/us-banken-bilanzen-konjunktur-100.html",
+      "published": "Thu, 16 Jul 2026 11:38:04 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Googles offenes KI-Modell Gemma 4 wird schneller, vollständiger und besser bei Werkzeugaufrufen",
+      "link": "https://the-decoder.de/googles-offenes-ki-modell-gemma-4-wird-schneller-vollstaendiger-und-besser-bei-werkzeugaufrufen/",
+      "published": "Thu, 16 Jul 2026 09:07:58 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Inkling: Ex-OpenAI-CTO Mira Murati bringt erstes eigenes offenes KI-Modell heraus",
+      "link": "https://the-decoder.de/inkling-ex-openai-cto-mira-murati-bringt-erstes-eigenes-offenes-ki-modell-heraus/",
+      "published": "Thu, 16 Jul 2026 09:05:28 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "xAI stellt KI-Agen \"Grok-Build\" nach massivem Datenleck als Open Source auf GitHub",
+      "link": "https://the-decoder.de/xai-stellt-ki-agen-grok-build-nach-massivem-datenleck-als-open-source-auf-github/",
+      "published": "Thu, 16 Jul 2026 07:39:21 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "OpenAIs GPT-Red findet Sicherheitslücken in KI-Modellen besser als menschliche Red-Teamer",
       "link": "https://the-decoder.de/openais-gpt-red-findet-sicherheitsluecken-in-ki-modellen-besser-als-menschliche-red-teamer/",
@@ -61,24 +79,6 @@
       "title": "OpenAIs GPT-5.6 Sol widerlegt angeblich 25 Jahre alte Vermutung der Statistik",
       "link": "https://the-decoder.de/openais-gpt-5-6-sol-widerlegt-angeblich-25-jahre-alte-vermutung-der-statistik/",
       "published": "Wed, 15 Jul 2026 17:17:12 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Spotifys neue KI-Funktion lässt Nutzer per Sprache Musik steuern und Fragen beantworten",
-      "link": "https://the-decoder.de/spotifys-neue-ki-funktion-laesst-nutzer-per-sprache-musik-steuern-und-fragen-beantworten/",
-      "published": "Wed, 15 Jul 2026 15:33:26 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Offenes 27-Milliarden-Parameter-Modell \"Bonsai\" läuft auf einem iPhone",
-      "link": "https://the-decoder.de/offenes-27-milliarden-parameter-modell-bonsai-laeuft-auf-einem-iphone/",
-      "published": "Wed, 15 Jul 2026 15:25:14 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI Codex verschlüsselt interne Agenten-Kommunikation – Entwickler können Aufträge nicht mehr nachvollziehen",
-      "link": "https://the-decoder.de/openai-codex-verschluesselt-interne-agenten-kommunikation-entwickler-koennen-auftraege-nicht-mehr-nachvollziehen/",
-      "published": "Wed, 15 Jul 2026 08:13:48 +0000",
       "source": "The Decoder"
     }
   ]
