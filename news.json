@@ -1,84 +1,84 @@
 {
-  "updated_at": "2026-07-16T11:20:53.479780+00:00",
+  "updated_at": "2026-07-16T19:46:12.293408+00:00",
   "politik": [
     {
-      "title": "Versorgungssicherheit – So funktioniert der Medikamentenvorrat der Schweiz",
-      "link": "https://www.srf.ch/news/schweiz/versorgungssicherheit-so-funktioniert-der-medikamentenvorrat-der-schweiz",
-      "published": "Thu, 16 Jul 2026 10:09:54 +0200",
+      "title": "Wegen Unsicherheiten beim F-35 – F/A-18-Kampfjets sollen als zweite Flotte weiterfliegen",
+      "link": "https://www.srf.ch/news/schweiz/wegen-unsicherheiten-beim-f-35-f-a-18-kampfjets-sollen-als-zweite-flotte-weiterfliegen",
+      "published": "Thu, 16 Jul 2026 19:41:39 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Neue App soll helfen – Digitale Hilfe im Dschungel der Ergänzungsleistungen",
-      "link": "https://www.srf.ch/news/schweiz/neue-app-soll-helfen-digitale-hilfe-im-dschungel-der-ergaenzungsleistungen",
-      "published": "Thu, 16 Jul 2026 08:06:42 +0200",
+      "title": "Energieversorgung – Speicherseen sind so leer wie seit 20 Jahren nicht mehr",
+      "link": "https://www.srf.ch/news/schweiz/energieversorgung-speicherseen-sind-so-leer-wie-seit-20-jahren-nicht-mehr",
+      "published": "Thu, 16 Jul 2026 18:29:41 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Durstige Wildtiere – Wasserschalen für Wildtiere: So helfen Sie richtig",
-      "link": "https://www.srf.ch/news/schweiz/durstige-wildtiere-wasserschalen-fuer-wildtiere-so-helfen-sie-richtig",
-      "published": "Thu, 16 Jul 2026 06:52:54 +0200",
+      "title": "Durch Pflanzenschutzmittel – 45 Bienenvölker in der Region Landquart vergiftet",
+      "link": "https://www.srf.ch/news/schweiz/durch-pflanzenschutzmittel-45-bienenvoelker-in-der-region-landquart-vergiftet",
+      "published": "Thu, 16 Jul 2026 18:09:24 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Drohnen in Flugverbotszone – Sieben Drohnen nahe AKW Gösgen gesichtet",
-      "link": "https://www.srf.ch/news/schweiz/drohnen-in-flugverbotszone-sieben-drohnen-nahe-akw-goesgen-gesichtet",
-      "published": "Thu, 16 Jul 2026 06:15:34 +0200",
+      "title": "Für bessere Klimamodelle – ETH füttert Supercomputer mit riesiger Menge Nasa-Daten",
+      "link": "https://www.srf.ch/news/schweiz/fuer-bessere-klimamodelle-eth-fuettert-supercomputer-mit-riesiger-menge-nasa-daten",
+      "published": "Thu, 16 Jul 2026 17:00:03 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Chipfertiger TSMC mit fünftem Rekord-Quartal in Folge",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/thema-des-tages-tsmc-chipbranche-100.html",
-      "published": "Thu, 16 Jul 2026 12:58:23 +0200",
+      "title": "AfD-Spitze fordert Ende von NRW-Landesparteitag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-106.html",
+      "published": "Thu, 16 Jul 2026 21:16:53 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Geheime Schatten-Diplomatie - Hintertür nach Moskau?",
-      "link": "https://www.tagesschau.de/investigativ/kontraste/baku-russland-putin-deutschland-geheimtreffen-100.html",
-      "published": "Thu, 16 Jul 2026 12:53:00 +0200",
+      "title": "Wieder fremdenfeindliche Proteste in Südafrika - aus dem Ausland gesteuert? -",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-fremdenfeindliche-proteste-100.html",
+      "published": "Thu, 16 Jul 2026 20:38:06 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Deutsch-Französischer Ministerrat: Schadensbegrenzung nach FCAS-Bruchlandung",
-      "link": "https://www.tagesschau.de/inland/ministerrat-macron-merz-facs-100.html",
-      "published": "Thu, 16 Jul 2026 11:44:30 +0200",
+      "title": "Social Media: Flickenteppich bei der Alterskontrolle in der EU?",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-social-media-alterskontrolle-100.html",
+      "published": "Thu, 16 Jul 2026 18:51:09 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "US-Wirtschaft läuft robust - noch",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/us-banken-bilanzen-konjunktur-100.html",
-      "published": "Thu, 16 Jul 2026 11:38:04 +0200",
+      "title": "Für die UN heißt es sparen, sparen, sparen - und umziehen",
+      "link": "https://www.tagesschau.de/ausland/europa/un-einrichtungen-umzug-100.html",
+      "published": "Thu, 16 Jul 2026 18:42:15 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
     {
-      "title": "Googles offenes KI-Modell Gemma 4 wird schneller, vollständiger und besser bei Werkzeugaufrufen",
-      "link": "https://the-decoder.de/googles-offenes-ki-modell-gemma-4-wird-schneller-vollstaendiger-und-besser-bei-werkzeugaufrufen/",
-      "published": "Thu, 16 Jul 2026 09:07:58 +0000",
+      "title": "Kimi K3: Neues offenes China-Modell schließt zu westlichen Frontier-Modellen auf",
+      "link": "https://the-decoder.de/kimi-k3-neues-offenes-china-modell-schliesst-zu-westlichen-frontier-modellen-auf/",
+      "published": "Thu, 16 Jul 2026 19:23:39 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Inkling: Ex-OpenAI-CTO Mira Murati bringt erstes eigenes offenes KI-Modell heraus",
-      "link": "https://the-decoder.de/inkling-ex-openai-cto-mira-murati-bringt-erstes-eigenes-offenes-ki-modell-heraus/",
-      "published": "Thu, 16 Jul 2026 09:05:28 +0000",
+      "title": "Gemini Notebook und verknüpfte Apps: Google baut KI-Ökosystem weiter aus",
+      "link": "https://the-decoder.de/gemini-notebook-und-verknuepfte-apps-google-baut-ki-oekosystem-weiter-aus/",
+      "published": "Thu, 16 Jul 2026 17:13:18 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "xAI stellt KI-Agen \"Grok-Build\" nach massivem Datenleck als Open Source auf GitHub",
-      "link": "https://the-decoder.de/xai-stellt-ki-agen-grok-build-nach-massivem-datenleck-als-open-source-auf-github/",
-      "published": "Thu, 16 Jul 2026 07:39:21 +0000",
+      "title": "Medienaufsicht stuft Googles KI-Suche als Inhalteanbieter ein und wendet Medienrecht an",
+      "link": "https://the-decoder.de/medienaufsicht-stuft-googles-ki-suche-als-inhalteanbieter-ein-und-wendet-medienrecht-an/",
+      "published": "Thu, 16 Jul 2026 14:45:26 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "OpenAIs GPT-Red findet Sicherheitslücken in KI-Modellen besser als menschliche Red-Teamer",
-      "link": "https://the-decoder.de/openais-gpt-red-findet-sicherheitsluecken-in-ki-modellen-besser-als-menschliche-red-teamer/",
-      "published": "Wed, 15 Jul 2026 19:38:53 +0000",
+      "title": "Codex Micro: OpenAI baut Vibecoding-Controller mit Drehregler für die Denktiefe der KI",
+      "link": "https://the-decoder.de/codex-micro-openai-baut-vibecoding-controller-mit-drehregler-fuer-die-denktiefe-der-ki/",
+      "published": "Thu, 16 Jul 2026 14:31:34 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "OpenAIs GPT-5.6 Sol widerlegt angeblich 25 Jahre alte Vermutung der Statistik",
-      "link": "https://the-decoder.de/openais-gpt-5-6-sol-widerlegt-angeblich-25-jahre-alte-vermutung-der-statistik/",
-      "published": "Wed, 15 Jul 2026 17:17:12 +0000",
+      "title": "Sakana AI und Nvidia: Orchestrierte Open-Weight-Modelle sollen geschlossene Systeme herausfordern",
+      "link": "https://the-decoder.de/sakana-ai-und-nvidia-orchestrierte-open-weight-modelle-sollen-geschlossene-systeme-herausfordern/",
+      "published": "Thu, 16 Jul 2026 14:02:13 +0000",
       "source": "The Decoder"
     }
   ]
