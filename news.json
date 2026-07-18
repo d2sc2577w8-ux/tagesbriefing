@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-07-17T17:10:07.832599+00:00",
+  "updated_at": "2026-07-18T06:59:16.955816+00:00",
   "politik": [
     {
-      "title": "Nach Überfall in Solothurn – Wann darf die Polizei schiessen? Ein Experte ordnet ein",
-      "link": "https://www.srf.ch/news/schweiz/nach-ueberfall-in-solothurn-wann-darf-die-polizei-schiessen-ein-experte-ordnet-ein",
-      "published": "Fri, 17 Jul 2026 18:36:06 +0200",
+      "title": "bis zu 3 Stunden Wartezeit – 20 Kilometer Stau vor dem Gotthard-Nordportal",
+      "link": "https://www.srf.ch/news/schweiz/bis-zu-3-stunden-wartezeit-20-kilometer-stau-vor-dem-gotthard-nordportal",
+      "published": "Sat, 18 Jul 2026 08:37:49 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Keine Wurst vom Holzkohlegrill – Was die Alarmstufen und das Feuerverbot genau heissen",
-      "link": "https://www.srf.ch/news/schweiz/keine-wurst-vom-holzkohlegrill-was-die-alarmstufen-und-das-feuerverbot-genau-heissen",
-      "published": "Fri, 17 Jul 2026 16:41:54 +0200",
+      "title": "Recherchen der «NZZ» – Verteidigung statt Tribünenbau: Armeehilfe unter Druck",
+      "link": "https://www.srf.ch/news/schweiz/recherchen-der-nzz-verteidigung-statt-tribuenenbau-armeehilfe-unter-druck",
+      "published": "Sat, 18 Jul 2026 07:39:08 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Tägerwilen TG – Schweizer Zoll stoppt Lastwagen mit 40 Bienenvölkern",
-      "link": "https://www.srf.ch/news/schweiz/taegerwilen-tg-schweizer-zoll-stoppt-lastwagen-mit-40-bienenvoelkern",
-      "published": "Fri, 17 Jul 2026 16:02:00 +0200",
+      "title": "Lehrkräftemangel – Im Sommercamp zum Pädagogen: Modell sorgt für Kritik",
+      "link": "https://www.srf.ch/news/schweiz/lehrkraeftemangel-im-sommercamp-zum-paedagogen-modell-sorgt-fuer-kritik",
+      "published": "Sat, 18 Jul 2026 07:37:27 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Ab in den Süden – Fünf Kilometer Stau am Gotthard-Nordportal",
-      "link": "https://www.srf.ch/news/schweiz/ab-in-den-sueden-fuenf-kilometer-stau-am-gotthard-nordportal",
-      "published": "Fri, 17 Jul 2026 19:00:19 +0200",
+      "title": "Liebe zwischen Bundesrichtern – Gremium legt Bericht vor – das Wichtigste",
+      "link": "https://www.srf.ch/news/schweiz/liebe-zwischen-bundesrichtern-gremium-legt-bericht-vor-das-wichtigste",
+      "published": "Fri, 17 Jul 2026 19:28:32 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Jens Spahn (CDU) verteidigt Leihmutterschaft gegen Kritik",
-      "link": "https://www.tagesschau.de/inland/spahn-cdu-leihmutterschaft-reaktionen-100.html",
-      "published": "Fri, 17 Jul 2026 18:22:38 +0200",
+      "title": "Warum Konzerttickets immer teurer werden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/konzert-tickets-preise-100.html",
+      "published": "Sat, 18 Jul 2026 08:26:06 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
-      "link": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
-      "published": "Fri, 17 Jul 2026 18:10:55 +0200",
+      "title": "Drei Erkenntnisse zu Schwarz-Rot zur Sommerpause",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schwarz-rot-vor-der-sommerpause-100.html",
+      "published": "Sat, 18 Jul 2026 08:19:19 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Israels Parlament löst sich auf - Wahlkampf beginnt",
-      "link": "https://www.tagesschau.de/ausland/asien/knesset-israel-106.html",
-      "published": "Fri, 17 Jul 2026 17:12:31 +0200",
+      "title": "Zahl der Erdbeben-Toten in Venezuela steigt auf mehr als 5.000",
+      "link": "https://www.tagesschau.de/ausland/asien/venezuela-erdbeben-opferzahl-5000-tote-100.html",
+      "published": "Sat, 18 Jul 2026 08:09:05 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Neuer Labour-Chef Andy Burnham: Sein Rezept heißt Regionalisierung",
-      "link": "https://www.tagesschau.de/ausland/europa/andy-burnham-portraet-100.html",
-      "published": "Fri, 17 Jul 2026 16:59:00 +0200",
+      "title": "Tote und Verletzte nach Erdrutsch im Westen Chinas",
+      "link": "https://www.tagesschau.de/ausland/asien/china-erdrutsch-130.html",
+      "published": "Sat, 18 Jul 2026 05:38:31 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Anthropic braucht dringend Rechenleistung und klopft jetzt auch bei Meta an",
+      "link": "https://the-decoder.de/anthropic-braucht-dringend-rechenleistung-und-klopft-jetzt-auch-bei-meta-an/",
+      "published": "Fri, 17 Jul 2026 21:16:00 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "OpenAIs GPT-5.6 hat in einer Handvoll Fälle ungewollt eigenständig Dateien gelöscht",
+      "link": "https://the-decoder.de/openais-gpt-5-6-hat-in-einer-handvoll-faelle-ungewollt-eigenstaendig-dateien-geloescht/",
+      "published": "Fri, 17 Jul 2026 19:30:52 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Wie schon bei Deepseek: Chinas Kimi K3 erschüttert den westlichen KI-Konsens",
+      "link": "https://the-decoder.de/wie-schon-bei-deepseek-chinas-kimi-k3-erschuettert-den-westlichen-ki-konsens/",
+      "published": "Fri, 17 Jul 2026 17:27:07 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Linux-Schöpfer Torvalds an KI-Kritiker: Wer ein Problem hat, kann das Projekt forken oder gehen",
       "link": "https://the-decoder.de/linux-schoepfer-torvalds-an-ki-kritiker-wer-ein-problem-hat-kann-das-projekt-forken-oder-gehen/",
@@ -61,24 +79,6 @@
       "title": "Doppelt so schnell, halbe Kosten: Netflix setzt KI bei 300 Produktionen ein",
       "link": "https://the-decoder.de/doppelt-so-schnell-halbe-kosten-netflix-setzt-ki-bei-300-produktionen-ein/",
       "published": "Fri, 17 Jul 2026 08:20:31 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Kimi K3 rückt an Fable 5 und GPT-5.6 Sol heran, doch die Zeit der Billig-KI aus China ist vorbei",
-      "link": "https://the-decoder.de/kimi-k3-neues-offenes-china-modell-schliesst-zu-westlichen-frontier-modellen-auf/",
-      "published": "Thu, 16 Jul 2026 19:23:39 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Gemini Notebook und verknüpfte Apps: Google baut KI-Ökosystem weiter aus",
-      "link": "https://the-decoder.de/gemini-notebook-und-verknuepfte-apps-google-baut-ki-oekosystem-weiter-aus/",
-      "published": "Thu, 16 Jul 2026 17:13:18 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Medienaufsicht stuft Googles KI-Suche als Inhalteanbieter ein und wendet Medienrecht an",
-      "link": "https://the-decoder.de/medienaufsicht-stuft-googles-ki-suche-als-inhalteanbieter-ein-und-wendet-medienrecht-an/",
-      "published": "Thu, 16 Jul 2026 14:45:26 +0000",
       "source": "The Decoder"
     }
   ]
