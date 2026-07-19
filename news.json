@@ -1,56 +1,62 @@
 {
-  "updated_at": "2026-07-18T16:57:00.635064+00:00",
+  "updated_at": "2026-07-19T07:26:16.308986+00:00",
   "politik": [
     {
-      "title": "Rohstoffbedarf – Widerstand gegen Kiesgruben am Jurafuss wächst",
-      "link": "https://www.srf.ch/news/dialog/rohstoffbedarf-widerstand-gegen-kiesgruben-am-jurafuss-waechst",
-      "published": "Sat, 18 Jul 2026 16:01:48 +0200",
+      "title": "Hitze und Trockenheit – Gegen Waldbrände könnten auch Schneekanonen helfen",
+      "link": "https://www.srf.ch/news/schweiz/hitze-und-trockenheit-gegen-waldbraende-koennten-auch-schneekanonen-helfen",
+      "published": "Sun, 19 Jul 2026 08:12:39 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Verkehr aufgehalten – Protest gegen Belastung: Urner Bevölkerung hält Verkehr auf",
-      "link": "https://www.srf.ch/news/schweiz/verkehr-aufgehalten-protest-gegen-belastung-urner-bevoelkerung-haelt-verkehr-auf",
-      "published": "Sat, 18 Jul 2026 14:54:31 +0200",
+      "title": "Fussball-WM 2026 – Public Viewings mit positiver Bilanz",
+      "link": "https://www.srf.ch/news/schweiz/fussball-wm-2026-public-viewings-mit-positiver-bilanz",
+      "published": "Sun, 19 Jul 2026 07:32:22 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Riskanter Spass im Wasser – Freiwillige bringen Asylsuchenden das Schwimmen bei",
-      "link": "https://www.srf.ch/news/schweiz/riskanter-spass-im-wasser-freiwillige-bringen-asylsuchenden-das-schwimmen-bei",
-      "published": "Sat, 18 Jul 2026 09:12:05 +0200",
+      "title": "Unrealistische Kontrollpflicht – Förster nach Baumsturz schuldig gesprochen – Forstkreise besorgt",
+      "link": "https://www.srf.ch/news/dialog/unrealistische-kontrollpflicht-foerster-nach-baumsturz-schuldig-gesprochen-forstkreise-besorgt",
+      "published": "Sat, 18 Jul 2026 21:16:05 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Stundenlange Wartezeit – 17 Kilometer Stau vor dem Gotthard-Nordportal",
-      "link": "https://www.srf.ch/news/schweiz/stundenlange-wartezeit-17-kilometer-stau-vor-dem-gotthard-nordportal",
-      "published": "Sat, 18 Jul 2026 18:35:24 +0200",
+      "title": "Barrierefreier Zugang – Ein wenig mehr Selbständigkeit mit eingeschränkter Mobilität",
+      "link": "https://www.srf.ch/news/schweiz/barrierefreier-zugang-ein-wenig-mehr-selbstaendigkeit-mit-eingeschraenkter-mobilitaet",
+      "published": "Sat, 18 Jul 2026 18:58:01 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html",
-      "published": "Sat, 18 Jul 2026 18:35:19 +0200",
+      "title": "Führerschein für viele Menschen unbezahlbar",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fuehrerschein-in-deutschland-immer-teurer-100.html",
+      "published": "Sun, 19 Jul 2026 09:11:05 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Mehrere potenzielle Kandidaten für den Vorsitz der Unionsfraktion",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-nachfolger-unionsfraktion-100.html",
-      "published": "Sat, 18 Jul 2026 18:20:20 +0200",
+      "title": "Problemfall Generalsanierungen: Haben Bahn und Politik einen Plan?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bahn-sanierung-bundesregierung-100.html",
+      "published": "Sun, 19 Jul 2026 08:12:45 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "NRW-AfD beendet turbulente Listenaufstellung - Machtkampf im Landesverband",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-parteitag-nrw-100.html",
-      "published": "Sat, 18 Jul 2026 15:24:00 +0200",
+      "title": "WM-Finale: Eine Halbzeitshow wie beim Super Bowl",
+      "link": "https://www.tagesschau.de/ausland/wm-halbzeitshow-106.html",
+      "published": "Sun, 19 Jul 2026 05:26:56 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Reaktionen auf den Rücktritt von Jens Spahn als Unionsfraktionsvorsitzenden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-spahn-ruecktritt-100.html",
-      "published": "Sat, 18 Jul 2026 16:27:42 +0200",
+      "title": "Neue Angriffe zwischen USA und Iran",
+      "link": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
+      "published": "Sun, 19 Jul 2026 05:34:03 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Wer Röntgenbilder von Chatbots auswerten lässt, riskiert selbstbewusste Fehldiagnosen",
+      "link": "https://the-decoder.de/wer-roentgenbilder-von-chatbots-auswerten-laesst-riskiert-selbstbewusste-fehldiagnosen/",
+      "published": "Sun, 19 Jul 2026 07:11:20 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "China positioniert sich mit massiver KI-Initiative als Gegenpol zum Westen",
       "link": "https://the-decoder.de/china-positioniert-sich-mit-massiver-ki-initiative-als-gegenpol-zum-westen/",
@@ -73,12 +79,6 @@
       "title": "Anthropic kürzt Claude-Fable-5-Limits drastisch, Pro-Nutzer müssen bald API-Preise zahlen",
       "link": "https://the-decoder.de/anthropic-kuerzt-claude-fable-5-limits-drastisch-pro-nutzer-muessen-bald-api-preise-zahlen/",
       "published": "Sat, 18 Jul 2026 07:09:11 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Anthropic braucht dringend Rechenleistung und klopft jetzt auch bei Meta an",
-      "link": "https://the-decoder.de/anthropic-braucht-dringend-rechenleistung-und-klopft-jetzt-auch-bei-meta-an/",
-      "published": "Fri, 17 Jul 2026 21:16:00 +0000",
       "source": "The Decoder"
     }
   ]

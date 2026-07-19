@@ -1,80 +1,98 @@
 {
-  "updated_at": "2026-07-18T16:57:03.058215+00:00",
+  "updated_at": "2026-07-19T07:26:18.027110+00:00",
   "sport": [
     {
-      "title": "14. Etappe der Tour de France – 4. Tagessieg: Überlegener Pogacar baut Tour-Führung weiter aus",
-      "link": "https://www.srf.ch/sport/mehr-sport/rad/14-etappe-der-tour-de-france-4-tagessieg-ueberlegener-pogacar-baut-tour-fuehrung-weiter-aus",
-      "published": "Sat, 18 Jul 2026 18:00:49 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Diamond League in London – Kerr mit Meilen-Weltrekord – Duplantis gibt verletzt auf",
-      "link": "https://www.srf.ch/sport/leichtathletik/diamond-league-in-london-kerr-mit-meilen-weltrekord-duplantis-gibt-verletzt-auf",
-      "published": "Sat, 18 Jul 2026 17:57:37 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Qualifying zum GP von Belgien – Antonelli holt sich in Spa die Pole vor Verstappen",
-      "link": "https://www.srf.ch/sport/motorsport/formel-1/qualifying-zum-gp-von-belgien-antonelli-holt-sich-in-spa-die-pole-vor-verstappen",
-      "published": "Sat, 18 Jul 2026 17:19:23 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Halbfinals in Gstaad – Tsitsipas wieder einmal in einem Endspiel – dort wartet Collignon",
-      "link": "https://www.srf.ch/sport/tennis/atp-tour/halbfinals-in-gstaad-tsitsipas-wieder-einmal-in-einem-endspiel-dort-wartet-collignon",
-      "published": "Sat, 18 Jul 2026 16:10:36 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Rigi-Schwinget am Sonntag – Die Innerschweizer gegen den Gäste-Hattrick",
-      "link": "https://www.srf.ch/sport/mehr-sport/schwingen/rigi-schwinget-am-sonntag-die-innerschweizer-gegen-den-gaeste-hattrick",
-      "published": "Sat, 18 Jul 2026 15:06:05 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Mit Athletikcoach Hervas – In Spanien und der Schweiz: Odermatt legt die Basis im Sommer",
-      "link": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/mit-athletikcoach-hervas-in-spanien-und-der-schweiz-odermatt-legt-die-basis-im-sommer",
-      "published": "Sat, 18 Jul 2026 09:47:11 +0200",
+      "title": "News zur WM 2026 – Land unter: Spanien muss Abschlusstraining absagen",
+      "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/news-zur-wm-2026-land-unter-spanien-muss-abschlusstraining-absagen",
+      "published": "Sat, 18 Jul 2026 19:11:25 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
       "title": "Spanien – Argentinien im Final – «Mehr als Messi» gegen Yamal und Co.: Alles ist angerichtet",
       "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/spanien-argentinien-im-final-mehr-als-messi-gegen-yamal-und-co-alles-ist-angerichtet",
       "published": "Sat, 18 Jul 2026 10:49:15 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Argentiniens Weg in den Final – Immer knapp, immer spät, doch letztlich immer siegreich",
-      "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/argentiniens-weg-in-den-final-immer-knapp-immer-spaet-doch-letztlich-immer-siegreich",
-      "published": "Sat, 18 Jul 2026 10:39:05 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
       "title": "Spaniens Weg in den Final – Erst holprig, dann überzeugend – aber stets defensivstark",
       "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/spaniens-weg-in-den-final-erst-holprig-dann-ueberzeugend-aber-stets-defensivstark",
       "published": "Sat, 18 Jul 2026 10:37:56 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Argentiniens Weg in den Final – Immer knapp, immer spät, doch letztlich immer siegreich",
+      "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/argentiniens-weg-in-den-final-immer-knapp-immer-spaet-doch-letztlich-immer-siegreich",
+      "published": "Sat, 18 Jul 2026 10:39:05 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Ihre Anfragen im Faktencheck – Fussball-WM: Diskussionen um Argentinien auf dem Prüfstand",
+      "link": "https://www.srf.ch/news/srf-faktenchecks/ihre-anfragen-im-faktencheck-fussball-wm-diskussionen-um-argentinien-auf-dem-pruefstand",
+      "published": "Sat, 18 Jul 2026 10:00:23 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Vor WM-Final – Halbzeit XXL: Wenn die Show das Spiel überschattet",
+      "link": "https://www.srf.ch/kultur/gesellschaft-religion/vor-wm-final-halbzeit-xxl-wenn-die-show-das-spiel-ueberschattet",
+      "published": "Fri, 17 Jul 2026 16:35:40 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "WM 2026: Presse zu FRA – ENG – «Wohltätigkeitsspiel-Niveau» und «Schiffbruch wie die Titanic»",
+      "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/wm-2026-presse-zu-fra-eng-wohltaetigkeitsspiel-niveau-und-schiffbruch-wie-die-titanic",
+      "published": "Sun, 19 Jul 2026 02:48:15 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "WM: Kleiner Final am Samstag – Das ungewollte Spiel: Frankreich, England und der Trostpreis",
-      "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/wm-kleiner-final-am-samstag-das-ungewollte-spiel-frankreich-england-und-der-trostpreis",
-      "published": "Sat, 18 Jul 2026 08:56:32 +0200",
+      "title": "WM 2026: Nach Spiel um Platz 3 – Deschamps' «wunderschönes Erlebnis» – Tuchels grosses Kompliment",
+      "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/wm-2026-nach-spiel-um-platz-3-deschamps-wunderschoenes-erlebnis-tuchels-grosses-kompliment",
+      "published": "Sun, 19 Jul 2026 02:30:43 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "1:1 im Testspiel – Lustrinellis Unioner spielen in Winterthur remis",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/1-1-im-testspiel-lustrinellis-unioner-spielen-in-winterthur-remis",
-      "published": "Fri, 17 Jul 2026 21:35:10 +0200",
+      "title": "WM 2026: Spiel um Platz 3 – 4:0, 4:3, 6:4 – England bezwingt Frankreich in wahnsinnigem Duell",
+      "link": "https://www.srf.ch/sport/fussball/fifa-klub-wm/wm-2026-spiel-um-platz-3-4-0-4-3-6-4-england-bezwingt-frankreich-in-wahnsinnigem-duell",
+      "published": "Sun, 19 Jul 2026 01:35:16 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Internationale Fussball-News – Gosens wechselt zu «Herzensverein» Schalke",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-gosens-wechselt-zu-herzensverein-schalke",
-      "published": "Fri, 17 Jul 2026 21:05:43 +0200",
+      "title": "Doppelpack gegen England – Rekord mit 22 WM-Treffern: Mbappé zieht an Messi vorbei",
+      "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/doppelpack-gegen-england-rekord-mit-22-wm-treffern-mbappe-zieht-an-messi-vorbei",
+      "published": "Sun, 19 Jul 2026 01:39:43 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Expertengruppe um Wenger – Trotz Aufstockung und tieferer Abwehr: «Qualität sehr hoch»",
+      "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/expertengruppe-um-wenger-trotz-aufstockung-und-tieferer-abwehr-qualitaet-sehr-hoch",
+      "published": "Sat, 18 Jul 2026 22:20:11 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "News zur WM 2026 – Land unter: Spanien muss Abschlusstraining absagen",
+      "link": "https://www.srf.ch/sport/fussball/fifa-wm-2026/news-zur-wm-2026-land-unter-spanien-muss-abschlusstraining-absagen",
+      "published": "Sat, 18 Jul 2026 19:11:25 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
+    {
+      "title": "Nintendo und Hasbro arbeiten an neuer Zelda-Spielzeugreihe",
+      "link": "https://www.pcgames.de/The-Legend-of-Zelda-Tears-of-the-Kingdom-Spiel-67721/News/Erste-Hasbro-Figuren-werden-bald-enthuellt-1548671/",
+      "published": "Sun, 19 Jul 2026 09:00:00 +0200",
+      "source": "PCGames: Wissen, was gespielt wird!"
+    },
+    {
+      "title": "Kann sich Palworld mit Version 1.0 behaupten? Das sagt die PCG-Redaktion dazu",
+      "link": "https://www.pcgames.de/Palworld-Spiel-74505/Specials/Early-Access-Release-Pokemon-Vergleich-1548635/",
+      "published": "Sun, 19 Jul 2026 08:30:00 +0200",
+      "source": "PCGames: Wissen, was gespielt wird!"
+    },
+    {
+      "title": "Diese 10 Videospiele sind die größten Red Flags beim Dating",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/Specials/Red-Flags-Hogwarts-Legacy-Bioshock-Red-Dead-Redemption-World-of-Warcraft-Dating-1548352/",
+      "published": "Sun, 19 Jul 2026 08:00:00 +0200",
+      "source": "PCGames: Wissen, was gespielt wird!"
+    },
     {
       "title": "EA Sports FC 27: Leak nennt Early Access, Preise und Disc-Versionen",
       "link": "https://www.pcgames.de/Spiele-Thema-239104/News/ea-sports-fc-27-leak-alte-konsolen-1548720/",
@@ -91,24 +109,6 @@
       "title": "Marathon verliert Game Director Joe Ziegler nach schwachem Spielertrend",
       "link": "https://www.pcgames.de/Marathon-Spiel-74285/News/joe-ziegler-verlaesst-bungie-spielerzahlen-1548716/",
       "published": "Sat, 18 Jul 2026 16:00:00 +0200",
-      "source": "PCGames: Wissen, was gespielt wird!"
-    },
-    {
-      "title": "Diablo 4 Notfall-Patch ändert Mythic Uniques nach massiver Kritik der Community",
-      "link": "https://www.pcgames.de/Diablo-4-Spiel-55956/News/patch-3-1-1a-mythic-uniques-dropchancen-limit-1548713/",
-      "published": "Sat, 18 Jul 2026 15:00:00 +0200",
-      "source": "PCGames: Wissen, was gespielt wird!"
-    },
-    {
-      "title": "FF14 bekommt sein Stalking-Problem nicht in den Griff - schon wieder ist ein neues Tool da",
-      "link": "https://www.pcgames.de/Final-Fantasy-14-A-Realm-Reborn-Spiel-16140/News/Dawntrail-Plugin-Mod-Stalking-EchoVault-1548648/",
-      "published": "Sat, 18 Jul 2026 14:00:00 +0200",
-      "source": "PCGames: Wissen, was gespielt wird!"
-    },
-    {
-      "title": "Dune: Part Three: So stark weicht der Film von den Büchern ab",
-      "link": "https://www.pcgames.de/Dune-Part-Three-Film-281702/Specials/Film-Buch-abweichung-1548689/",
-      "published": "Sat, 18 Jul 2026 13:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
