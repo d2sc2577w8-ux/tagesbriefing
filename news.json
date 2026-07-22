@@ -1,56 +1,62 @@
 {
-  "updated_at": "2026-07-21T17:17:47.648310+00:00",
+  "updated_at": "2026-07-22T07:33:16.002815+00:00",
   "politik": [
     {
-      "title": "Nach Anklage gegen Ex-Grossrat – Kritik an Behörden in Missbrauchsfall: Aargauer Regierung kontert",
-      "link": "https://www.srf.ch/news/schweiz/nach-anklage-gegen-ex-grossrat-kritik-an-behoerden-in-missbrauchsfall-aargauer-regierung-kontert",
-      "published": "Tue, 21 Jul 2026 18:50:52 +0200",
+      "title": "Lehren aus der Pandemie – «Demokratie» im Alterszentrum hilft gegen Krisen",
+      "link": "https://www.srf.ch/news/schweiz/lehren-aus-der-pandemie-demokratie-im-alterszentrum-hilft-gegen-krisen",
+      "published": "Wed, 22 Jul 2026 06:41:52 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Industrieabwasser ist schuld – Immer wieder tote Fische in Thurgauer Bach – wer ist zuständig?",
-      "link": "https://www.srf.ch/news/schweiz/industrieabwasser-ist-schuld-immer-wieder-tote-fische-in-thurgauer-bach-wer-ist-zustaendig",
-      "published": "Tue, 21 Jul 2026 17:15:16 +0200",
+      "title": "Liebesaffäre am Bundesgericht – Kann Witwe auf neues Urteil hoffen?",
+      "link": "https://www.srf.ch/news/schweiz/liebesaffaere-am-bundesgericht-kann-witwe-auf-neues-urteil-hoffen",
+      "published": "Wed, 22 Jul 2026 06:41:09 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Betäubt, missbraucht, gefilmt – Warum viele Betroffene erst spät merken, was passiert ist",
-      "link": "https://www.srf.ch/news/schweiz/betaeubt-missbraucht-gefilmt-warum-viele-betroffene-erst-spaet-merken-was-passiert-ist",
-      "published": "Tue, 21 Jul 2026 16:47:41 +0200",
+      "title": "Deutschland soll zahlen – Verkehrspolitiker verlangen neue Einnahmequellen für Skyguide",
+      "link": "https://www.srf.ch/news/schweiz/deutschland-soll-zahlen-verkehrspolitiker-verlangen-neue-einnahmequellen-fuer-skyguide",
+      "published": "Wed, 22 Jul 2026 06:03:43 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Stimmen aus der Community – Ärger überwiegt: Das bleibt für die «dialog»-Community von der WM",
-      "link": "https://www.srf.ch/news/dialog/stimmen-aus-der-community-aerger-ueberwiegt-das-bleibt-fuer-die-dialog-community-von-der-wm",
-      "published": "Tue, 21 Jul 2026 16:01:54 +0200",
+      "title": "Missbrauchsfall im Aargau – Von Dominanz bis zur Trophäe für Darknet: Was Täter antreibt",
+      "link": "https://www.srf.ch/news/schweiz/missbrauchsfall-im-aargau-von-dominanz-bis-zur-trophaee-fuer-darknet-was-taeter-antreibt",
+      "published": "Wed, 22 Jul 2026 06:02:25 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Chalil al-Haja: Was die Wahl des neuen Hamas-Chefs bedeutet",
-      "link": "https://www.tagesschau.de/ausland/asien/hamas-neuer-chef-100.html",
-      "published": "Tue, 21 Jul 2026 18:52:50 +0200",
+      "title": "Zehn Jahre nach OEZ-Anschlag: Hinterbliebene fühlen sich im Stich gelassen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/oez-attentat-muenchen-100.html",
+      "published": "Wed, 22 Jul 2026 09:28:53 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Marktbericht: DAX hält sich auf hohem Niveau",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-krieg-102.html",
-      "published": "Tue, 21 Jul 2026 18:12:50 +0200",
+      "title": "Lob für Alkoholverbot an Bahnhöfen - aber Fragen zur Umsetzung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-alkoholverbot-bahnhoefe-100.html",
+      "published": "Wed, 22 Jul 2026 09:21:58 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Türkei: Abgesetzter CHP-Chef Özel kündigt Gründung neuer Partei an",
-      "link": "https://www.tagesschau.de/ausland/tuerkei-opposition-chp-spaltung-100.html",
-      "published": "Tue, 21 Jul 2026 17:04:23 +0200",
+      "title": "Bis zu 200 Prozent: Trump kündigt Zölle auf Arzneimittel an",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-arnzeimittel-generika-100.html",
+      "published": "Wed, 22 Jul 2026 08:55:28 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Milliarden-Deal: Microsoft baut KI-Partnerschaft mit Mistral aus",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-mistral-ai-ki-deal-100.html",
-      "published": "Tue, 21 Jul 2026 17:02:11 +0200",
+      "title": "KI von OpenAI steuert eigenständig Hackerangriff",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-hackerangriff-100.html",
+      "published": "Wed, 22 Jul 2026 07:46:49 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "KI-Einsatz in Pakistans Justiz bringt bis zu 38 Dollar Rendite pro investiertem Dollar",
+      "link": "https://the-decoder.de/ki-einsatz-in-pakistans-justiz-bringt-bis-zu-38-dollar-rendite-pro-investiertem-dollar/",
+      "published": "Tue, 21 Jul 2026 18:45:20 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Claude Cowork lernt neue Skills per Bildschirmaufnahme und Spracherklärung",
       "link": "https://the-decoder.de/claude-cowork-lernt-neue-skills-per-bildschirmaufnahme-und-spracherklaerung/",
@@ -73,12 +79,6 @@
       "title": "Alibabas Qwen-Image-3.0 rendert ganze Infografik-Raster und lesbaren Zehn-Pixel-Text in einem Durchgang",
       "link": "https://the-decoder.de/alibabas-qwen-image-3-0-rendert-ganze-infografik-raster-und-lesbaren-zehn-pixel-text-in-einem-durchgang/",
       "published": "Tue, 21 Jul 2026 11:35:09 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Qwen-Audio-3.0-TTS-Plus von Alibaba schlägt die Konkurrenz im Text-to-Speech-Ranking",
-      "link": "https://the-decoder.de/qwen-audio-3-0-tts-plus-von-alibaba-schlaegt-die-konkurrenz-im-text-to-speech-ranking/",
-      "published": "Tue, 21 Jul 2026 11:24:15 +0000",
       "source": "The Decoder"
     }
   ]
