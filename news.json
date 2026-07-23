@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-07-23T07:32:06.092543+00:00",
+  "updated_at": "2026-07-23T17:21:54.453638+00:00",
   "politik": [
     {
-      "title": "Erfolgreich mit wenig Aufwand – Fünf Tipps, wie Sie Ihrem Verein auf die Sprünge helfen",
-      "link": "https://www.srf.ch/radio-srf-1/erfolgreich-mit-wenig-aufwand-fuenf-tipps-wie-sie-ihrem-verein-auf-die-spruenge-helfen",
-      "published": "Thu, 23 Jul 2026 09:18:11 +0200",
+      "title": "Europäischer Gerichtshof – Wegen Besuchsverbot: Schweiz muss Entschädigung zahlen",
+      "link": "https://www.srf.ch/news/schweiz/europaeischer-gerichtshof-wegen-besuchsverbot-schweiz-muss-entschaedigung-zahlen",
+      "published": "Thu, 23 Jul 2026 18:18:58 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Ersters Halbjahr 2026 – Nestlé steigert Wachstum und lagert Wassergeschäft aus",
-      "link": "https://www.srf.ch/news/wirtschaft/ersters-halbjahr-2026-nestle-steigert-wachstum-und-lagert-wassergeschaeft-aus",
-      "published": "Thu, 23 Jul 2026 08:49:08 +0200",
+      "title": "Massnahmen gefordert – Kommission fordert Lehren aus Zürcher Herzchirurgie-Skandal",
+      "link": "https://www.srf.ch/news/schweiz/massnahmen-gefordert-kommission-fordert-lehren-aus-zuercher-herzchirurgie-skandal",
+      "published": "Thu, 23 Jul 2026 17:47:31 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Atom-Debatte – Wenn Studien zur Kernenergie zu politischen Waffen werden",
-      "link": "https://www.srf.ch/news/schweiz/atom-debatte-wenn-studien-zur-kernenergie-zu-politischen-waffen-werden",
-      "published": "Thu, 23 Jul 2026 07:24:11 +0200",
+      "title": "Anklage gegen Ex-Grossrat – Missbrauchsfall im Aargau: Wie Medien mit dem Täternamen umgehen",
+      "link": "https://www.srf.ch/news/schweiz/anklage-gegen-ex-grossrat-missbrauchsfall-im-aargau-wie-medien-mit-dem-taeternamen-umgehen",
+      "published": "Thu, 23 Jul 2026 16:58:16 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Trockenheit – Crowdfunding für Heu-Zukauf soll Kühe vor Schlachtung bewahren",
-      "link": "https://www.srf.ch/news/schweiz/trockenheit-crowdfunding-fuer-heu-zukauf-soll-kuehe-vor-schlachtung-bewahren",
-      "published": "Thu, 23 Jul 2026 06:44:54 +0200",
+      "title": "Ärgerlich oder nützlich? – Städte suchen Lösungen beim E-Trotti-Wirrwarr",
+      "link": "https://www.srf.ch/news/schweiz/aergerlich-oder-nuetzlich-staedte-suchen-loesungen-beim-e-trotti-wirrwarr",
+      "published": "Thu, 23 Jul 2026 16:30:51 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Treffen der Außenminister: Rubio und Lawrow kommen in Manila zusammen",
-      "link": "https://www.tagesschau.de/ausland/asien/rubio-lawrow-treffen-manila-100.html",
-      "published": "Thu, 23 Jul 2026 09:15:34 +0200",
+      "title": "Rubio-Lawrow-Treffen in Manila: \"Nicht übermäßig optimistisch\"",
+      "link": "https://www.tagesschau.de/ausland/asien/russland-usa-lawrow-rubio-100.html",
+      "published": "Thu, 23 Jul 2026 18:43:11 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Das saudische Streben nach Atomkraft",
-      "link": "https://www.tagesschau.de/ausland/saudi-arabien-atomprogramm-100.html",
-      "published": "Thu, 23 Jul 2026 09:13:29 +0200",
+      "title": "Abschiebungen nach Afghanistan bald nicht nur für Straftäter?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-afghanistan-144.html",
+      "published": "Thu, 23 Jul 2026 18:42:08 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Waldbrände in Frankreich und Spanien: Tausende in Sicherheit gebracht",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-spanien-waldbrand-evakuierungen-100.html",
-      "published": "Thu, 23 Jul 2026 08:41:36 +0200",
+      "title": "Regensburg: Mutmaßlicher Täter nach Messerattacke in Bank festgenommen",
+      "link": "https://www.tagesschau.de/inland/regensburg-geiselnahme-bank-102.html",
+      "published": "Thu, 23 Jul 2026 18:41:19 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Google-Mutter Alphabet erhöht Milliardeninvestitionen in KI",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/google-cloud-ki-zahlen-investitionen-100.html",
-      "published": "Thu, 23 Jul 2026 08:19:10 +0200",
+      "title": "Marktbericht: Der DAX knickt ein",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-iran-100.html",
+      "published": "Thu, 23 Jul 2026 18:16:23 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Manipulierter ChatGPT-Link reicht aus, um einen autonomen KI-Agenten im Firmennetzwerk zu installieren",
+      "link": "https://the-decoder.de/manipulierter-chatgpt-link-reicht-aus-um-einen-autonomen-ki-agenten-im-firmennetzwerk-zu-installieren/",
+      "published": "Thu, 23 Jul 2026 15:36:30 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Laguna S 2.1: Offenes Coding-Modell setzt auf Beharrlichkeit statt auf reine Größe",
+      "link": "https://the-decoder.de/poolside-us-start-up-setzt-mit-laguna-s-2-1-auf-modellverhalten-statt-skalierung/",
+      "published": "Thu, 23 Jul 2026 11:35:53 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Mehr Geld für KI: Google erhöht Infrastrukturausgaben auf 205 Milliarden US-Dollar",
+      "link": "https://the-decoder.de/mehr-geld-fuer-ki-google-erhoeht-infrastrukturausgaben-auf-205-milliarden-us-dollar/",
+      "published": "Thu, 23 Jul 2026 11:01:57 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Anthropic zahlte Rekordvergleich wegen Bücherpiraterie, dennoch gewinnen die KI-Labore",
       "link": "https://the-decoder.de/anthropic-zahlte-rekordvergleich-wegen-buecherpiraterie-dennoch-gewinnen-die-ki-labore/",
@@ -61,24 +79,6 @@
       "title": "AMD investiert bis zu fünf Milliarden US-Dollar in ChatGPT-Konkurrent Anthropic",
       "link": "https://the-decoder.de/amd-investiert-bis-zu-fuenf-milliarden-us-dollar-in-chatgpt-konkurrent-anthropic/",
       "published": "Wed, 22 Jul 2026 16:52:26 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Cisco veröffentlicht kleine offene KI-Modelle, die Sicherheitslücken in Code aufspüren",
-      "link": "https://the-decoder.de/cisco-veroeffentlicht-kleine-offene-ki-modelle-die-sicherheitsluecken-in-code-aufspueren/",
-      "published": "Wed, 22 Jul 2026 16:20:08 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI plant riesiges Rechenzentrum in Georgia mit 3,2 Gigawatt Leistung",
-      "link": "https://the-decoder.de/openai-plant-riesiges-rechenzentrum-in-georgia-mit-32-gigawatt-leistung/",
-      "published": "Wed, 22 Jul 2026 15:34:51 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Britisches KI-Sicherheitsinstitut: KI-Modelle gestehen Schummeln selten ein und tarnen Regelverstöße",
-      "link": "https://the-decoder.de/britisches-ki-sicherheitsinstitut-ki-modelle-gestehen-schummeln-selten-ein-und-tarnen-regelverstoesse/",
-      "published": "Wed, 22 Jul 2026 12:04:49 +0000",
       "source": "The Decoder"
     }
   ]
