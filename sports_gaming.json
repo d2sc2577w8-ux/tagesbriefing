@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-07-25T07:14:38.357550+00:00",
+  "updated_at": "2026-07-25T16:55:39.091485+00:00",
   "sport": [
-    {
-      "title": "Vor Super-League-Start – Nun steht's fest: Dieses Trikot ist das schönste der Super League",
-      "link": "https://www.srf.ch/sport/fussball/super-league/vor-super-league-start-nun-steht-s-fest-dieses-trikot-ist-das-schoenste-der-super-league",
-      "published": "Fri, 24 Jul 2026 20:29:08 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "FC Basel vor der neuen Saison – Lichtsteiner: «Dieses Team ist bereit, unsere Ziele zu erreichen»",
-      "link": "https://www.srf.ch/sport/fussball/super-league/fc-basel-vor-der-neuen-saison-lichtsteiner-dieses-team-ist-bereit-unsere-ziele-zu-erreichen",
-      "published": "Fri, 24 Jul 2026 08:20:42 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Platz 1 ja, Meisterpokal nein – Was, wenn Vaduz die Super League gewinnt?",
-      "link": "https://www.srf.ch/sport/fussball/super-league/platz-1-ja-meisterpokal-nein-was-wenn-vaduz-die-super-league-gewinnt",
-      "published": "Fri, 24 Jul 2026 10:38:22 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
     {
       "title": "SL-Auftakt: Luzern – Thun – Bertone: Der Meistertitel als Absprungrampe",
       "link": "https://www.srf.ch/sport/fussball/super-league/sl-auftakt-luzern-thun-bertone-der-meistertitel-als-absprungrampe",
@@ -26,16 +8,40 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Brünig-Schwinget am Sonntag – Starke NOSV-Schwinger – doch Staudenmann ist auf einer Mission",
-      "link": "https://www.srf.ch/sport/mehr-sport/schwingen/bruenig-schwinget-am-sonntag-starke-nosv-schwinger-doch-staudenmann-ist-auf-einer-mission",
-      "published": "Sat, 25 Jul 2026 08:51:56 +0200",
+      "title": "Tour de France: Königsetappe – Carapaz profitiert von Kuss-Sturz – Pogacar vor 5. Gesamtsieg",
+      "link": "https://www.srf.ch/sport/mehr-sport/rad/tour-de-france-koenigsetappe-carapaz-profitiert-von-kuss-sturz-pogacar-vor-5-gesamtsieg",
+      "published": "Sat, 25 Jul 2026 18:21:22 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Brünig-Schwinget am Sonntag – Die Bergfeste und die grosse Frage der Gäste",
-      "link": "https://www.srf.ch/sport/mehr-sport/schwingen/bruenig-schwinget-am-sonntag-die-bergfeste-und-die-grosse-frage-der-gaeste",
-      "published": "Sat, 25 Jul 2026 08:52:14 +0200",
+      "title": "Qualifying zum GP von Ungarn – Mercedes-Serie reisst im 11. Rennen – Norris hauchdünn vorne",
+      "link": "https://www.srf.ch/sport/motorsport/formel-1/qualifying-zum-gp-von-ungarn-mercedes-serie-reisst-im-11-rennen-norris-hauchduenn-vorne",
+      "published": "Sat, 25 Jul 2026 17:17:56 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "1 Jahr nach «Nutzlos»-Krise – Der «King of Hungaroring» hat seine Krone gerichtet",
+      "link": "https://www.srf.ch/sport/motorsport/formel-1/1-jahr-nach-nutzlos-krise-der-king-of-hungaroring-hat-seine-krone-gerichtet",
+      "published": "Fri, 24 Jul 2026 14:34:59 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Nach Trainings-Desaster 2023 – Las Vegas: Millionenschwerer Vergleich mit der Formel 1",
+      "link": "https://www.srf.ch/sport/motorsport/formel-1/nach-trainings-desaster-2023-las-vegas-millionenschwerer-vergleich-mit-der-formel-1",
+      "published": "Fri, 24 Jul 2026 11:56:12 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News aus dem Eishockey – Schmid und Panthers einigen sich auf Zweijahresvertrag",
+      "link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-dem-eishockey-schmid-und-panthers-einigen-sich-auf-zweijahresvertrag",
+      "published": "Sat, 25 Jul 2026 11:30:42 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News aus dem Frauenfussball – Weltmeisterin Paralluelo zieht es nach Lyon",
+      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/news-aus-dem-frauenfussball-weltmeisterin-paralluelo-zieht-es-nach-lyon",
+      "published": "Sat, 25 Jul 2026 11:58:21 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "Challenge League: Saisonstart – Spätes Joker-Drama: Winterthur und Yverdon trennen sich 2:2",
@@ -66,49 +72,43 @@
       "link": "https://www.srf.ch/sport/fussball/super-league/platz-1-ja-meisterpokal-nein-was-wenn-vaduz-die-super-league-gewinnt",
       "published": "Fri, 24 Jul 2026 10:38:22 +0200",
       "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Vom Mega- zum Giga-Event – Pläne schreiten voran: So sähe die WM mit 64 Teams aus",
-      "link": "https://www.srf.ch/sport/fussball/vom-mega-zum-giga-event-plaene-schreiten-voran-so-saehe-die-wm-mit-64-teams-aus",
-      "published": "Fri, 24 Jul 2026 10:27:04 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Der neue James Bond steht längst bereit - Amazon muss nur noch zugreifen",
-      "link": "https://www.pcgames.de/James-Bond-Brands-57260/Specials/007-First-Light-perfekte-Rolle-1549330/",
-      "published": "Sat, 25 Jul 2026 09:00:00 +0200",
+      "title": "Kingdom Come Salvation: Fans hoffen auf RPG, aber es gibt einen Haken",
+      "link": "https://www.pcgames.de/Kingdom-Come-Deliverance-2-Spiel-74644/News/Salvation-neuer-Titel-wird-es-ein-Rollenspiel-1549353/",
+      "published": "Sat, 25 Jul 2026 16:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Epic Games Store: Gratis-Spiel mit 93 %-Steam-Wertung angekündigt (Update)",
-      "link": "https://www.pcgames.de/Epic-Games-Store-Software-269112/News/Neues-Gratis-Spiel-ab-Donnerstag-OTXO-1549245/",
-      "published": "Sat, 25 Jul 2026 08:40:00 +0200",
+      "title": "Xbox kostenlos, aber mit Werbung? Erste Tests im Insider-Programm gestartet",
+      "link": "https://www.pcgames.de/Microsoft-Xbox-Konsolen-18125/News/Kostenloses-Streaming-mit-Werbung-erste-Tests-1549352/",
+      "published": "Sat, 25 Jul 2026 15:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "PC Games Logbuch: Mein 300-Stunden-Nischenspiel - und warum's keiner versteht",
-      "link": "https://www.pcgames.de/PC-Games-Brands-19921/Kolumnen/PC-Games-Logbuch-006-Nischenspiele-Megaquarium-1549327/",
-      "published": "Sat, 25 Jul 2026 08:30:00 +0200",
+      "title": "Masters of the Universe: Prime Video macht den Kino-Flop zum Hit",
+      "link": "https://www.pcgames.de/Masters-of-the-Universe-2025-Film-281448/News/Nach-Kino-Flop-ploetzlich-die-Nummer-1-der-Welt-1549350/",
+      "published": "Sat, 25 Jul 2026 14:31:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Fans von Sekiro und Blasphemous werden die Bosskämpfe in Rubinite lieben",
-      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Soulslike-Boss-Rush-Sekiro-Blasphemous-Steam-Rubinite-Release-1549212/",
-      "published": "Sat, 25 Jul 2026 08:00:00 +0200",
+      "title": "Was sollte man aus Japan mitbringen? Erkenntnisse eines Japan-Freaks",
+      "link": "https://www.pcgames.de/Japan-Thema-208510/Kolumnen/Shopping-Urlaub-Mitbringsel-Tipps-1549023/",
+      "published": "Sat, 25 Jul 2026 14:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "13 Jahre wurde die Star-Wars-Serie Detours zurückgehalten, jetzt traut sich Disney endlich und sie wird gezeigt",
-      "link": "https://www.pcgames.de/Star-Wars-Brands-25101/News/Detours-Serie-Disney-1549273/",
-      "published": "Fri, 24 Jul 2026 18:28:00 +0200",
+      "title": "Halo: Campaign Evolved: Early-Access teuer bezahlt? Zocken geht trotzdem nicht",
+      "link": "https://www.pcgames.de/Halo-Campaign-Evolved-Spiel-78207/News/Early-Access-Zocken-klappt-nicht-1549349/",
+      "published": "Sat, 25 Jul 2026 12:30:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Diablo 4: Zwei Jahre später hänge ich jetzt doch voll am Haken",
-      "link": "https://www.pcgames.de/Diablo-4-Spiel-55956/Specials/endlich-voll-angekommen-1549260/",
-      "published": "Fri, 24 Jul 2026 18:00:00 +0200",
+      "title": "WoW: Wieso mich Midnight fast schon wieder verloren hat",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/Kolumnen/Midnight-Updates-Patch-Kadenz-Inhalte-Meinung-1549301/",
+      "published": "Sat, 25 Jul 2026 11:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
