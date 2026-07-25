@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-07-24T17:36:37.486822+00:00",
+  "updated_at": "2026-07-25T07:14:36.588915+00:00",
   "politik": [
+    {
+      "title": "Vom Gipfelrausch zur Reflexion – Bergsteig-Legenden berichten über den Abschied vom Extremen",
+      "link": "https://www.srf.ch/news/schweiz/vom-gipfelrausch-zur-reflexion-bergsteig-legenden-berichten-ueber-den-abschied-vom-extremen",
+      "published": "Sat, 25 Jul 2026 09:00:05 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Stiller Nationalfeiertag – Kantone erlassen Feuerwerksverbote für 1. August – die Übersicht",
+      "link": "https://www.srf.ch/news/schweiz/stiller-nationalfeiertag-kantone-erlassen-feuerwerksverbote-fuer-1-august-die-uebersicht",
+      "published": "Sat, 25 Jul 2026 07:00:58 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Datenschutz – Wegen Stalking-Gefahr: Kritik an Zugang zu Autohalterdaten",
+      "link": "https://www.srf.ch/news/schweiz/datenschutz-wegen-stalking-gefahr-kritik-an-zugang-zu-autohalterdaten-1",
+      "published": "Fri, 24 Jul 2026 20:49:14 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
     {
       "title": "35 bis 38 Grad – Nächste Hitzewelle rollt an – Trockenheit verschärft sich weiter",
       "link": "https://www.srf.ch/news/schweiz/35-bis-38-grad-naechste-hitzewelle-rollt-an-trockenheit-verschaerft-sich-weiter",
@@ -8,49 +26,37 @@
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Stimmen aus der Community – Leihmutterschaft: Mehrheit der «dialog»-Community ist dagegen",
-      "link": "https://www.srf.ch/news/dialog/stimmen-aus-der-community-leihmutterschaft-mehrheit-der-dialog-community-ist-dagegen",
-      "published": "Fri, 24 Jul 2026 17:49:50 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Becken verunreinigt – Biber blockiert die Biobadi Biberstein",
-      "link": "https://www.srf.ch/news/schweiz/becken-verunreinigt-biber-blockiert-die-biobadi-biberstein",
-      "published": "Fri, 24 Jul 2026 17:01:26 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Heisser Sommer – Die Politik sucht nach Antworten auf die Trockenheit",
-      "link": "https://www.srf.ch/news/schweiz/heisser-sommer-die-politik-sucht-nach-antworten-auf-die-trockenheit",
-      "published": "Fri, 24 Jul 2026 16:47:06 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
-      "published": "Fri, 24 Jul 2026 19:22:54 +0200",
+      "title": "Waldbrände in Frankreich: Feuer bewegen sich auf Bordeaux zu",
+      "link": "https://www.tagesschau.de/ausland/waldbraende-frankreich-bordeaux-100.html",
+      "published": "Sat, 25 Jul 2026 09:06:30 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Türkei: Kann sich Özels \"Neue Partei\" durchsetzen?",
-      "link": "https://www.tagesschau.de/ausland/europa/chp-spaltung-oezel-100.html",
-      "published": "Fri, 24 Jul 2026 18:20:29 +0200",
+      "title": "Paramount setzt Warner-Übernahme nach mehreren Klagen aus",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-uebernahme-warner-100.html",
+      "published": "Sat, 25 Jul 2026 08:39:57 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Marktbericht: DAX erholt sich zum Wochenschluss",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-iran-100.html",
-      "published": "Fri, 24 Jul 2026 18:18:50 +0200",
+      "title": "CSD 2026: Queere Räume in Berlin unter Druck",
+      "link": "https://www.tagesschau.de/kultur/queere-orte-in-berlin-kampf-ums-ueberleben-100.html",
+      "published": "Sat, 25 Jul 2026 06:24:50 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Klage von Italien: EU-Generalanwalt hält Lkw-Blockabfertigungen für zulässig",
-      "link": "https://www.tagesschau.de/ausland/europa/brenner-lastwagen-stau-100.html",
-      "published": "Fri, 24 Jul 2026 17:40:41 +0200",
+      "title": "Ukraine nimmt Russlands Online-Handel ins Visier",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-angriffe-wildberries-petersburg-100.html",
+      "published": "Sat, 25 Jul 2026 05:09:29 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Anthropic stellt Claude Opus 5 vor, das \"günstige Fable 5\"",
+      "link": "https://the-decoder.de/anthropic-stellt-claude-opus-5-vor-das-guenstige-fable-5/",
+      "published": "Fri, 24 Jul 2026 18:15:42 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "So offensichtlich, dass es wehtut: Microsoft kämpft für Open-Weight-KI und meint damit vor allem Azure",
       "link": "https://the-decoder.de/so-offensichtlich-dass-es-wehtut-microsoft-kaempft-fuer-open-weight-ki-und-meint-damit-vor-allem-azure/",
@@ -73,12 +79,6 @@
       "title": "Claude bekommt Sprachmodus-Update: Opus, Sonnet und Tool-Anbindung per Stimme",
       "link": "https://the-decoder.de/claude-sprachmodus-update/",
       "published": "Fri, 24 Jul 2026 11:01:49 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Kimi K3 im Cyber-Test: Chinesisches KI-Modell liegt deutlich hinter US-Spitzenmodellen",
-      "link": "https://the-decoder.de/kimi-k3-im-cyber-test-chinesisches-ki-modell-liegt-deutlich-hinter-us-spitzenmodellen/",
-      "published": "Fri, 24 Jul 2026 08:45:32 +0000",
       "source": "The Decoder"
     }
   ]
