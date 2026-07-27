@@ -1,56 +1,62 @@
 {
-  "updated_at": "2026-07-26T16:59:02.202817+00:00",
+  "updated_at": "2026-07-27T08:29:45.227317+00:00",
   "politik": [
     {
-      "title": "Uster im Kanton Zürich – Bahnübergangs-Kameras bringen eine Million ein – zu Recht?",
-      "link": "https://www.srf.ch/news/schweiz/uster-im-kanton-zuerich-bahnuebergangs-kameras-bringen-eine-million-ein-zu-recht",
-      "published": "Sun, 26 Jul 2026 15:48:27 +0200",
+      "title": "Kochen mit Herz und Mut – Von der Flucht aus Afghanistan zum erfolgreichen Lehrabschluss",
+      "link": "https://www.srf.ch/news/schweiz/kochen-mit-herz-und-mut-von-der-flucht-aus-afghanistan-zum-erfolgreichen-lehrabschluss",
+      "published": "Mon, 27 Jul 2026 10:18:09 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Genfersee – Mit KI und Unterwasserdrohnen gegen die Quagga-Muschel",
-      "link": "https://www.srf.ch/news/schweiz/genfersee-mit-ki-und-unterwasserdrohnen-gegen-die-quagga-muschel",
-      "published": "Sun, 26 Jul 2026 15:03:45 +0200",
+      "title": "Herd, Backofen, Rauchmelder – Bei Alarmtönen im Haushalt fehlen Vorschriften",
+      "link": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/herd-backofen-rauchmelder-bei-alarmtoenen-im-haushalt-fehlen-vorschriften",
+      "published": "Mon, 27 Jul 2026 08:39:11 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Netzwerk Kleinstberufe – Zukunft von Kleinstberufen: Lehrbetriebsverbünde als Lösung",
-      "link": "https://www.srf.ch/news/schweiz/netzwerk-kleinstberufe-zukunft-von-kleinstberufen-lehrbetriebsverbuende-als-loesung",
-      "published": "Sun, 26 Jul 2026 12:57:55 +0200",
+      "title": "Kritik an Londoner Praxis – Schweizer Datenschützerin: «Gesichtserkennung ist Albtraum»",
+      "link": "https://www.srf.ch/news/schweiz/kritik-an-londoner-praxis-schweizer-datenschuetzerin-gesichtserkennung-ist-albtraum",
+      "published": "Mon, 27 Jul 2026 06:51:54 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Neue Messmethode bei Studie – Wie sich intensiverer Starkregen auf die Flüsse auswirkt",
-      "link": "https://www.srf.ch/news/schweiz/neue-messmethode-bei-studie-wie-sich-intensiverer-starkregen-auf-die-fluesse-auswirkt",
-      "published": "Sun, 26 Jul 2026 11:25:12 +0200",
+      "title": "US-Zölle für die Schweiz – Soll der Bundesrat weiterverhandeln?",
+      "link": "https://www.srf.ch/news/schweiz/us-zoelle-fuer-die-schweiz-soll-der-bundesrat-weiterverhandeln",
+      "published": "Mon, 27 Jul 2026 06:00:45 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Verkehrsminister Schnieder will um Entlassung bitten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/schnieder-entlassung-102.html",
-      "published": "Sun, 26 Jul 2026 18:32:59 +0200",
+      "title": "Waldbrände bei Madrid: Erste Evakuierte sollen zurückkehren können",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html",
+      "published": "Mon, 27 Jul 2026 10:24:37 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "CSD-Anschlag in Berlin: Bundeskanzler Merz beschwört Zusammenhalt",
-      "link": "https://www.tagesschau.de/inland/anschlag-csd-berlin-reaktionen-100.html",
-      "published": "Sun, 26 Jul 2026 18:17:33 +0200",
+      "title": "Liveblog zu CSD-Anschlag: ++ Extremismus-Berater: \"Er war sehr angepasst\" ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-anschlag-csd-berlin-montag-100.html",
+      "published": "Mon, 27 Jul 2026 10:26:23 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Angriff auf CSD Berlin: Tatverdächtiger polizeibekannter Islamist",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csd-berlin-anschlag-tatverdaechtiger-100.html",
-      "published": "Sun, 26 Jul 2026 17:03:18 +0200",
+      "title": "USA: Mehrere Menschen durch Schüsse bei Fest in Seattle getötet",
+      "link": "https://www.tagesschau.de/ausland/amerika/seattle-fest-schuesse-100.html",
+      "published": "Mon, 27 Jul 2026 09:05:17 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Volksparteien im Osten: Die Geschichte einer Entfremdung?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/volksparteien-ostdeutschland-100.html",
-      "published": "Sun, 26 Jul 2026 16:06:15 +0200",
+      "title": "Wie der Generalbundesanwalt zum CSD-Anschlag ermittelt",
+      "link": "https://www.tagesschau.de/inland/generalbundesanwalt-csd-anschlag-100.html",
+      "published": "Mon, 27 Jul 2026 09:20:55 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Datenpanne bei Claude: Geteilte Chats tauchten in Suchmaschinen auf",
+      "link": "https://the-decoder.de/datenpanne-bei-claude-geteilte-chats-tauchten-in-suchmaschinen-auf/",
+      "published": "Mon, 27 Jul 2026 07:51:16 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Planer denken, Arbeiter coden: Cursors Rollenteilung im Agenten-Schwarm macht den Unterschied",
       "link": "https://the-decoder.de/planer-denken-arbeiter-coden-cursors-rollenteilung-im-agenten-schwarm-macht-den-unterschied/",
@@ -73,12 +79,6 @@
       "title": "Offene KI-Modelle aus China im Visier: US-Regierung plant gezielte Verbote statt Komplettverbot",
       "link": "https://the-decoder.de/offene-ki-modelle-aus-china-im-visier-us-regierung-plant-gezielte-verbote-statt-komplettverbot/",
       "published": "Sun, 26 Jul 2026 07:42:24 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Code verstehen statt schreiben: Generative KI verändert die Informatik-Ausbildung grundlegend",
-      "link": "https://the-decoder.de/code-verstehen-statt-schreiben-generative-ki-veraendert-die-informatik-ausbildung-grundlegend/",
-      "published": "Sun, 26 Jul 2026 06:52:56 +0000",
       "source": "The Decoder"
     }
   ]
