@@ -1,56 +1,62 @@
 {
-  "updated_at": "2026-07-28T17:25:37.724405+00:00",
+  "updated_at": "2026-07-29T07:41:40.591521+00:00",
   "politik": [
     {
-      "title": "Gefahr gebannt – Brand in Langenthal BE führte zu starker Rauchentwicklung",
-      "link": "https://www.srf.ch/news/schweiz/gefahr-gebannt-brand-in-langenthal-be-fuehrte-zu-starker-rauchentwicklung",
-      "published": "Tue, 28 Jul 2026 19:05:49 +0200",
+      "title": "Rückschläge für Technologie – Wasserstoff-Träume: Warum viele Projekte scheitern",
+      "link": "https://www.srf.ch/news/schweiz/rueckschlaege-fuer-technologie-wasserstoff-traeume-warum-viele-projekte-scheitern",
+      "published": "Wed, 29 Jul 2026 08:06:24 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "800 Teams im Einsatz – Drohnen retten schweizweit 7590 Rehkitze vor dem Mähertod",
-      "link": "https://www.srf.ch/news/schweiz/800-teams-im-einsatz-drohnen-retten-schweizweit-7590-rehkitze-vor-dem-maehertod",
-      "published": "Tue, 28 Jul 2026 15:40:00 +0200",
+      "title": "Wespen-Hochsaison – Zahl der Wespennester in der Schweiz gestiegen",
+      "link": "https://www.srf.ch/news/schweiz/wespen-hochsaison-zahl-der-wespennester-in-der-schweiz-gestiegen",
+      "published": "Wed, 29 Jul 2026 05:53:25 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Bezirksgericht Zürich – Bluttat in Lugano-Bar: Zwischen Verwahrung und Schuldunfähigkeit",
-      "link": "https://www.srf.ch/news/schweiz/bezirksgericht-zuerich-bluttat-in-lugano-bar-zwischen-verwahrung-und-schuldunfaehigkeit",
-      "published": "Tue, 28 Jul 2026 17:28:41 +0200",
+      "title": "Trockener Sommer – Gefahr im Schatten: Warnung vor fallenden Ästen",
+      "link": "https://www.srf.ch/news/schweiz/trockener-sommer-gefahr-im-schatten-warnung-vor-fallenden-aesten",
+      "published": "Wed, 29 Jul 2026 05:51:22 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Alle Fahrzeuge sichergestellt – Zwei Männer nach Autodiebstahl in Wetzikon verhaftet",
-      "link": "https://www.srf.ch/news/schweiz/alle-fahrzeuge-sichergestellt-zwei-maenner-nach-autodiebstahl-in-wetzikon-verhaftet",
-      "published": "Tue, 28 Jul 2026 12:08:05 +0200",
+      "title": "Direkte Demokratie – Politik ohne Partei: Was treibt Einzelkämpfer an?",
+      "link": "https://www.srf.ch/news/schweiz/direkte-demokratie-politik-ohne-partei-was-treibt-einzelkaempfer-an",
+      "published": "Wed, 29 Jul 2026 05:49:17 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Prozess um Anschlag auf ver.di-Demo: Anklage fordert lebenslange Haft",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/prozess-anschlag-verdi-100.html",
-      "published": "Tue, 28 Jul 2026 19:21:44 +0200",
+      "title": "Ernennung und Vereidigung: Wann ist ein Minister ein Minister?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ernennung-minister-union-100.html",
+      "published": "Wed, 29 Jul 2026 09:26:30 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Waldbrände in Europa: Was Reisende jetzt wissen müssen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rechte-reisen-waldbraende-100.html",
-      "published": "Tue, 28 Jul 2026 18:59:21 +0200",
+      "title": "Hintergrund zur Kabinettsumbildung: Drei Entlassungen, drei Ernennungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-warken-linnemann-bilger-100.html",
+      "published": "Wed, 29 Jul 2026 09:25:01 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Marktbericht: DAX behauptet sich in schwierigem Umfeld",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreis-100.html",
-      "published": "Tue, 28 Jul 2026 18:20:50 +0200",
+      "title": "CDU-Personalumbau: Was wird aus dem Unmut über Merz?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/union-fraktion-vorsitz-cdu-100.html",
+      "published": "Wed, 29 Jul 2026 09:24:34 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Frankreich und Spanien: Erste Erfolge im Kampf gegen die Waldbrände",
-      "link": "https://www.tagesschau.de/ausland/europa/braende-frankreich-spanien-122.html",
-      "published": "Tue, 28 Jul 2026 18:10:31 +0200",
+      "title": "Waldbrände in Südeuropa - warum Löschen allein nicht mehr reicht",
+      "link": "https://www.tagesschau.de/wissen/klima/waldbraende-europa-klima-erderwaermung-100.html",
+      "published": "Wed, 29 Jul 2026 09:17:06 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Anthropics KI-Modell Mythos Preview findet Schwachstellen in kryptografischen Algorithmen, die das Internet absichern",
+      "link": "https://the-decoder.de/anthropics-ki-modell-mythos-preview-findet-schwachstellen-in-kryptografischen-algorithmen-die-das-internet-absichern/",
+      "published": "Tue, 28 Jul 2026 18:56:27 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Amazon fährt eigene Nova-KI-Modelle zurück und setzt auf neues Frontier-Forschungsteam",
       "link": "https://the-decoder.de/amazon-faehrt-eigene-nova-ki-modelle-zurueck-und-setzt-auf-neues-frontier-forschungsteam/",
@@ -73,12 +79,6 @@
       "title": "Anthropic-CEO Amodei warnt erneut vor Open-Weight-Modellen und weist Verbotsvorwürfe zurück",
       "link": "https://the-decoder.de/anthropic-ceo-amodei-warnt-erneut-vor-open-weight-modellen-und-weist-verbotsvorwuerfe-zurueck/",
       "published": "Tue, 28 Jul 2026 10:12:42 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Kimi K3 ab sofort auf Hugging Face: Chinesisches Open-Weight-Modell rückt an westliche Frontier-Modelle heran",
-      "link": "https://the-decoder.de/kimi-k3-ab-sofort-auf-hugging-face-chinesisches-open-weight-modell-rueckt-an-westliche-frontier-modelle-heran/",
-      "published": "Mon, 27 Jul 2026 19:30:08 +0000",
       "source": "The Decoder"
     }
   ]
