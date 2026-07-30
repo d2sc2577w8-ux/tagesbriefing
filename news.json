@@ -1,59 +1,77 @@
 {
-  "updated_at": "2026-07-30T07:33:25.138519+00:00",
+  "updated_at": "2026-07-30T17:25:37.322585+00:00",
   "politik": [
     {
-      "title": "Nach Krawallen in Lausanne – So bleiben Demos friedlich: Waadtländer Polizei lernt von Zürich",
-      "link": "https://www.srf.ch/news/schweiz/nach-krawallen-in-lausanne-so-bleiben-demos-friedlich-waadtlaender-polizei-lernt-von-zuerich",
-      "published": "Thu, 30 Jul 2026 05:51:27 +0200",
+      "title": "Missbrauchsfall im Aargau – Machtwort vom Kanton: Opfer sollen mehr Unterstützung erhalten",
+      "link": "https://www.srf.ch/news/schweiz/missbrauchsfall-im-aargau-machtwort-vom-kanton-opfer-sollen-mehr-unterstuetzung-erhalten",
+      "published": "Thu, 30 Jul 2026 18:30:23 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Rekord-Passagierzahlen – Boom am Flughafen: Fliegen wir trotz Klimakrise ohne Gewissen?",
-      "link": "https://www.srf.ch/news/schweiz/rekord-passagierzahlen-boom-am-flughafen-fliegen-wir-trotz-klimakrise-ohne-gewissen",
-      "published": "Thu, 30 Jul 2026 05:47:34 +0200",
+      "title": "Gefahr auf dem See – BLS warnt: «Ein Unfall ist nur eine Frage der Zeit»",
+      "link": "https://www.srf.ch/news/schweiz/gefahr-auf-dem-see-bls-warnt-ein-unfall-ist-nur-eine-frage-der-zeit",
+      "published": "Thu, 30 Jul 2026 17:45:16 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Neue Studie – Wie gut kennen Politiker die Einstellungen ihrer Wählerschaft?",
-      "link": "https://www.srf.ch/news/schweiz/neue-studie-wie-gut-kennen-politiker-die-einstellungen-ihrer-waehlerschaft",
-      "published": "Thu, 30 Jul 2026 06:13:42 +0200",
+      "title": "Historischer Hitzesommer 2026 – Wo die Hitzewelle die Schweiz am heftigsten trifft",
+      "link": "https://www.srf.ch/news/schweiz/historischer-hitzesommer-2026-wo-die-hitzewelle-die-schweiz-am-heftigsten-trifft",
+      "published": "Thu, 30 Jul 2026 17:43:50 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Wahlen Kanton Zürich – Diese Köpfe wollen Zürich regieren",
-      "link": "https://www.srf.ch/news/schweiz/wahlen-kanton-zuerich-diese-koepfe-wollen-zuerich-regieren",
-      "published": "Wed, 29 Jul 2026 21:29:02 +0200",
+      "title": "Umgang mit der Hitze – Was die Hitze mit Körper und Psyche macht – und was dagegen hilft",
+      "link": "https://www.srf.ch/news/gesellschaft/umgang-mit-der-hitze-was-die-hitze-mit-koerper-und-psyche-macht-und-was-dagegen-hilft",
+      "published": "Thu, 30 Jul 2026 16:37:50 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "BMW-Gewinn bricht ein: Die Krise der deutschen Autobauer",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ueberblick-autobauer-krise-probleme-sparmassnahmen-100.html",
-      "published": "Thu, 30 Jul 2026 09:09:35 +0200",
+      "title": "Rakete in Polens Luftraum alarmiert NATO",
+      "link": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
+      "published": "Thu, 30 Jul 2026 18:51:23 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Horn von Afrika: Im Schatten des Iran-Kriegs erstarkt die Piraterie",
-      "link": "https://www.tagesschau.de/ausland/afrika/somalia-erstarken-piraterie-100.html",
-      "published": "Thu, 30 Jul 2026 08:42:39 +0200",
+      "title": "Niedrige Flusspegel: Mehrere Länder drosseln Produktion von Atomstrom",
+      "link": "https://www.tagesschau.de/ausland/europa/donau-pegel-atomstrom-100.html",
+      "published": "Thu, 30 Jul 2026 18:49:56 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Mehr Tote nach Erdbeben in Japan, Hoffnung auf Überlebende schwindet",
-      "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-174.html",
-      "published": "Thu, 30 Jul 2026 08:00:31 +0200",
-      "source": "tagesschau.de - Die Nachrichten der ARD"
-    },
-    {
-      "title": "Marktbericht: Anleger grübeln über Fed-Zinsentscheid nach",
+      "title": "Marktbericht: DAX ohne klaren Trend",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-dow-ki-blase-100.html",
-      "published": "Thu, 30 Jul 2026 07:40:31 +0200",
+      "published": "Thu, 30 Jul 2026 18:25:16 +0200",
+      "source": "tagesschau.de - Die Nachrichten der ARD"
+    },
+    {
+      "title": "Warum Paare ihre Kinder von Leihmüttern in Mexiko austragen lassen",
+      "link": "https://www.tagesschau.de/ausland/amerika/leihmutterschaft-mexiko-100.html",
+      "published": "Thu, 30 Jul 2026 17:51:43 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
     {
-      "title": "GPT-5.6 Sol schlägt Claude Opus 5 bei ARC-AGI-3, aber nur mit speziellen API-Tricks",
-      "link": "https://the-decoder.de/gpt-5-6-sol-schlaegt-claude-opus-5-bei-arc-agi-3-aber-nur-mit-speziellen-api-tricks/",
+      "title": "Sprachmodelle können keine wissenschaftlichen Revolutionen auslösen, Weltmodelle vielleicht schon",
+      "link": "https://the-decoder.de/sprachmodelle-koennen-keine-wissenschaftlichen-revolutionen-ausloesen-weltmodelle-vielleicht-schon/",
+      "published": "Thu, 30 Jul 2026 13:37:33 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Microsoft AI erklärt Tokeneffizienz zum nächsten Wettbewerbsfeld",
+      "link": "https://the-decoder.de/microsoft-ai-erklaert-tokeneffizienz-zum-naechsten-wettbewerbsfeld/",
+      "published": "Thu, 30 Jul 2026 12:59:07 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Trump-Regierung stuft chinesische Roboter als Sicherheitsrisiko ein und stoppt den Import",
+      "link": "https://the-decoder.de/trump-regierung-stuft-chinesische-roboter-als-sicherheitsrisiko-ein-und-stoppt-den-import/",
+      "published": "Thu, 30 Jul 2026 11:47:46 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "GPT-5.6 Sol schlägt Claude Opus 5 bei ARC-AGI-3 mit zwei zusätzlichen API-Einstellungen",
+      "link": "https://the-decoder.de/gpt-5-6-sol-schlaegt-claude-opus-5-bei-arc-agi-3-mit-zwei-zusaetzlichen-api-einstellungen/",
       "published": "Thu, 30 Jul 2026 07:31:11 +0000",
       "source": "The Decoder"
     },
@@ -61,24 +79,6 @@
       "title": "Google veröffentlicht Lyria 3.5: Neues KI-Modell soll natürlichere Musik mit besserem Gesang erzeugen",
       "link": "https://the-decoder.de/google-veroeffentlicht-lyria-3-5-neues-ki-modell-soll-natuerlichere-musik-mit-besserem-gesang-erzeugen/",
       "published": "Wed, 29 Jul 2026 18:33:49 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "PwC hat angeblich KI-generierte Berichte mit falschen oder erfundenen Quellen publiziert",
-      "link": "https://the-decoder.de/pwc-hat-angeblich-ki-generierte-berichte-mit-falschen-oder-erfundenen-quellen-publiziert/",
-      "published": "Wed, 29 Jul 2026 17:40:18 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Pangrams neuer KI-Text-Detektor funktioniert angeblich fast perfekt",
-      "link": "https://the-decoder.de/pangrams-neuer-ki-text-detektor-funktioniert-angeblich-fast-perfekt/",
-      "published": "Wed, 29 Jul 2026 16:48:53 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI räumt ein: Autonome KI-Modelle hackten sich über Hugging Face hinaus auf weitere Plattformen",
-      "link": "https://the-decoder.de/openai-raeumt-ein-autonome-ki-modelle-hackten-sich-ueber-hugging-face-hinaus-auf-weitere-plattformen/",
-      "published": "Wed, 29 Jul 2026 15:55:56 +0000",
       "source": "The Decoder"
     }
   ]
