@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-07-30T17:25:37.322585+00:00",
+  "updated_at": "2026-07-31T07:49:24.985564+00:00",
   "politik": [
     {
-      "title": "Missbrauchsfall im Aargau – Machtwort vom Kanton: Opfer sollen mehr Unterstützung erhalten",
-      "link": "https://www.srf.ch/news/schweiz/missbrauchsfall-im-aargau-machtwort-vom-kanton-opfer-sollen-mehr-unterstuetzung-erhalten",
-      "published": "Thu, 30 Jul 2026 18:30:23 +0200",
+      "title": "Kampf um Deutungshoheit – «Abstimmungsbeschwerden sind zum politischen Instrument geworden»",
+      "link": "https://www.srf.ch/news/schweiz/kampf-um-deutungshoheit-abstimmungsbeschwerden-sind-zum-politischen-instrument-geworden",
+      "published": "Fri, 31 Jul 2026 08:43:29 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Gefahr auf dem See – BLS warnt: «Ein Unfall ist nur eine Frage der Zeit»",
-      "link": "https://www.srf.ch/news/schweiz/gefahr-auf-dem-see-bls-warnt-ein-unfall-ist-nur-eine-frage-der-zeit",
-      "published": "Thu, 30 Jul 2026 17:45:16 +0200",
+      "title": "Erstes Halbjahr 2026 – SNB schreibt Gewinn von 25 Milliarden Franken",
+      "link": "https://www.srf.ch/news/wirtschaft/erstes-halbjahr-2026-snb-schreibt-gewinn-von-25-milliarden-franken",
+      "published": "Fri, 31 Jul 2026 07:52:18 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Historischer Hitzesommer 2026 – Wo die Hitzewelle die Schweiz am heftigsten trifft",
-      "link": "https://www.srf.ch/news/schweiz/historischer-hitzesommer-2026-wo-die-hitzewelle-die-schweiz-am-heftigsten-trifft",
-      "published": "Thu, 30 Jul 2026 17:43:50 +0200",
+      "title": "Vernetzte Autos aus China – Armee ergreift Schutzmassnahmen gegen «Smartphones auf Rädern»",
+      "link": "https://www.srf.ch/news/dialog/vernetzte-autos-aus-china-armee-ergreift-schutzmassnahmen-gegen-smartphones-auf-raedern",
+      "published": "Fri, 31 Jul 2026 05:55:40 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Umgang mit der Hitze – Was die Hitze mit Körper und Psyche macht – und was dagegen hilft",
-      "link": "https://www.srf.ch/news/gesellschaft/umgang-mit-der-hitze-was-die-hitze-mit-koerper-und-psyche-macht-und-was-dagegen-hilft",
-      "published": "Thu, 30 Jul 2026 16:37:50 +0200",
+      "title": "Zum Nationalfeiertag – Diese Gesetzesänderungen treten am 1. August in Kraft",
+      "link": "https://www.srf.ch/news/schweiz/zum-nationalfeiertag-diese-gesetzesaenderungen-treten-am-1-august-in-kraft",
+      "published": "Fri, 31 Jul 2026 05:54:03 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Rakete in Polens Luftraum alarmiert NATO",
-      "link": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
-      "published": "Thu, 30 Jul 2026 18:51:23 +0200",
+      "title": "Bei Testläufen: Anthropic-KI greift eigenständig Unternehmen an",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-ki-angriff-unternehmen-100.html",
+      "published": "Fri, 31 Jul 2026 09:09:24 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Niedrige Flusspegel: Mehrere Länder drosseln Produktion von Atomstrom",
-      "link": "https://www.tagesschau.de/ausland/europa/donau-pegel-atomstrom-100.html",
-      "published": "Thu, 30 Jul 2026 18:49:56 +0200",
+      "title": "Nach Ankunft vieler Migranten: Sánchez reist nach Ceuta",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-besuch-sanchez-100.html",
+      "published": "Fri, 31 Jul 2026 09:03:03 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Marktbericht: DAX ohne klaren Trend",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-dow-ki-blase-100.html",
-      "published": "Thu, 30 Jul 2026 18:25:16 +0200",
+      "title": "Waldbrände in Südeuropa: Starker Wind macht Lage auf Kreta unkontrollierbar",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-kreta-108.html",
+      "published": "Fri, 31 Jul 2026 08:37:36 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Warum Paare ihre Kinder von Leihmüttern in Mexiko austragen lassen",
-      "link": "https://www.tagesschau.de/ausland/amerika/leihmutterschaft-mexiko-100.html",
-      "published": "Thu, 30 Jul 2026 17:51:43 +0200",
+      "title": "Kretschmer kündigt Ablehnung der Rentenreform im Bundesrat an",
+      "link": "https://www.tagesschau.de/inland/kritik-osten-rentenplaene-100.html",
+      "published": "Fri, 31 Jul 2026 08:25:49 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "OpenAI senkt Preise: Günstige GPT-5.6-Modelle werden noch viel günstiger",
+      "link": "https://the-decoder.de/openai-senkt-preise-guenstige-gpt-5-6-modelle-werden-noch-viel-guenstiger/",
+      "published": "Thu, 30 Jul 2026 18:35:24 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Debatte um große Sprachmodelle: Werden LLMs vielseitiger – oder nur spezieller?",
+      "link": "https://the-decoder.de/debatte-um-grosse-sprachmodelle-werden-llms-vielseitiger-oder-nur-spezieller/",
+      "published": "Thu, 30 Jul 2026 17:47:17 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Sprachmodelle können keine wissenschaftlichen Revolutionen auslösen, Weltmodelle vielleicht schon",
       "link": "https://the-decoder.de/sprachmodelle-koennen-keine-wissenschaftlichen-revolutionen-ausloesen-weltmodelle-vielleicht-schon/",
@@ -67,18 +79,6 @@
       "title": "Trump-Regierung stuft chinesische Roboter als Sicherheitsrisiko ein und stoppt den Import",
       "link": "https://the-decoder.de/trump-regierung-stuft-chinesische-roboter-als-sicherheitsrisiko-ein-und-stoppt-den-import/",
       "published": "Thu, 30 Jul 2026 11:47:46 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "GPT-5.6 Sol schlägt Claude Opus 5 bei ARC-AGI-3 mit zwei zusätzlichen API-Einstellungen",
-      "link": "https://the-decoder.de/gpt-5-6-sol-schlaegt-claude-opus-5-bei-arc-agi-3-mit-zwei-zusaetzlichen-api-einstellungen/",
-      "published": "Thu, 30 Jul 2026 07:31:11 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Google veröffentlicht Lyria 3.5: Neues KI-Modell soll natürlichere Musik mit besserem Gesang erzeugen",
-      "link": "https://the-decoder.de/google-veroeffentlicht-lyria-3-5-neues-ki-modell-soll-natuerlichere-musik-mit-besserem-gesang-erzeugen/",
-      "published": "Wed, 29 Jul 2026 18:33:49 +0000",
       "source": "The Decoder"
     }
   ]
