@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-07-31T17:27:40.317837+00:00",
+  "updated_at": "2026-08-01T07:26:14.673497+00:00",
   "politik": [
     {
-      "title": "Dienstpflicht für Geistliche – Bundesrat entschuldigt sich bei Kirchen für Verfahrensfehler",
-      "link": "https://www.srf.ch/news/dialog/dienstpflicht-fuer-geistliche-bundesrat-entschuldigt-sich-bei-kirchen-fuer-verfahrensfehler",
-      "published": "Fri, 31 Jul 2026 15:18:48 +0200",
+      "title": "«Made in Switzerland» – Schweizer Präzision hat viele Gesichter",
+      "link": "https://www.srf.ch/sendungen/unterhaltungssendungen/made-in-switzerland-schweizer-praezision-hat-viele-gesichter",
+      "published": "Sat, 01 Aug 2026 09:18:18 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Walensee – Zwei Stand-up-Paddler werden nach Sturm vermisst",
-      "link": "https://www.srf.ch/news/schweiz/walensee-zwei-stand-up-paddler-werden-nach-sturm-vermisst",
-      "published": "Fri, 31 Jul 2026 15:37:18 +0200",
+      "title": "Feuerwerksverbot am 1. August – Ein unverhofft ruhiger Tag für Pyrotechniker Janosch Bär",
+      "link": "https://www.srf.ch/news/schweiz/feuerwerksverbot-am-1-august-ein-unverhofft-ruhiger-tag-fuer-pyrotechniker-janosch-baer",
+      "published": "Sat, 01 Aug 2026 08:39:58 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Integration von Expats – Fuss fassen in der Schweiz: Die Schlüsselrolle der Partner",
-      "link": "https://www.srf.ch/news/schweiz/integration-von-expats-fuss-fassen-in-der-schweiz-die-schluesselrolle-der-partner",
-      "published": "Fri, 31 Jul 2026 13:38:41 +0200",
+      "title": "Gespräch zum 1. August – Guy Parmelin: «Der Zusammenhalt liegt mir sehr am Herzen»",
+      "link": "https://www.srf.ch/news/schweiz/gespraech-zum-1-august-guy-parmelin-der-zusammenhalt-liegt-mir-sehr-am-herzen",
+      "published": "Sat, 01 Aug 2026 07:02:56 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Lernpause mit Therapiehund – Pause mit Pfötchen: Wie Hunde gegen Lernstress helfen",
-      "link": "https://www.srf.ch/news/schweiz/lernpause-mit-therapiehund-pause-mit-pfoetchen-wie-hunde-gegen-lernstress-helfen",
-      "published": "Fri, 31 Jul 2026 11:47:41 +0200",
+      "title": "Waldbrände verhindern – Ranger schlagen im Allschwiler Wald Alarm",
+      "link": "https://www.srf.ch/news/schweiz/waldbraende-verhindern-ranger-schlagen-im-allschwiler-wald-alarm",
+      "published": "Fri, 31 Jul 2026 20:41:58 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Langzeitstudie zu Frühchen - wie gut holen sie im Leben auf?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/fruehgeborene-studie-langzeit-entwicklung-100.html",
-      "published": "Fri, 31 Jul 2026 18:55:18 +0200",
+      "title": "Nach Ansturm auf Ceuta: Migranten kehren zurück, Europa diskutiert",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-100.html",
+      "published": "Sat, 01 Aug 2026 08:30:49 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Trump-Plan für Gaza: Skepsis in Israel und bei Palästinensern",
-      "link": "https://www.tagesschau.de/ausland/gaza-abkommen-hamas-100.html",
-      "published": "Fri, 31 Jul 2026 18:24:22 +0200",
+      "title": "Kusama-Ausstellung in Köln knackt Besucherrekord",
+      "link": "https://www.tagesschau.de/kultur/yayoi-kusama-museum-ludwig-100.html",
+      "published": "Sat, 01 Aug 2026 08:08:21 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Marktbericht: KI-Hoffnung stützt den DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-amazon-100.html",
-      "published": "Fri, 31 Jul 2026 18:15:52 +0200",
+      "title": "Russlands Signale im Ärmelkanal",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-russland-schattenflotte-100.html",
+      "published": "Sat, 01 Aug 2026 08:05:00 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "UN-Generalsekretär Guterres fordert neue Zypern-Gespräche",
-      "link": "https://www.tagesschau.de/ausland/europa/guterres-fordert-neue-un-gespraeche-zypern-100.html",
-      "published": "Fri, 31 Jul 2026 17:54:32 +0200",
+      "title": "Hitze stellt Landwirte beim Salatanbau vor neue Herausforderungen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/salatanbau-hitze-100.html",
+      "published": "Sat, 01 Aug 2026 07:54:42 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Gemini Robotics 2: Googles neues KI-Modell steuert Roboter jeder Form und Größe",
+      "link": "https://the-decoder.de/gemini-robotics-2-googles-neues-ki-modell-steuert-roboter-jeder-form-und-groesse/",
+      "published": "Fri, 31 Jul 2026 17:58:08 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Thinking Machines setzt mit zweitem Modell Inkling Small auf Effizienz statt Größe",
+      "link": "https://the-decoder.de/thinking-machines-setzt-mit-zweitem-modell-inkling-small-auf-effizienz-statt-groesse/",
+      "published": "Fri, 31 Jul 2026 17:29:50 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Webinar | KI-ROI messen: Was bringt der KI-Einsatz wirtschaftlich wirklich?",
       "link": "https://the-decoder.de/webinar-ki-roi-messen-was-bringt-der-ki-einsatz-wirtschaftlich-wirklich/",
@@ -67,18 +79,6 @@
       "title": "Bis zu 30 Milliarden Euro für KI-Rechenzentren: EU bleibt im KI-Wettrennen chancenlos gegen die USA",
       "link": "https://the-decoder.de/bis-zu-30-milliarden-euro-fuer-ki-rechenzentren-eu-bleibt-im-ki-wettrennen-chancenlos-gegen-die-usa/",
       "published": "Fri, 31 Jul 2026 15:22:08 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Ex-OpenAI-Mitarbeiter scheitert mit riskantem KI-Hedgefonds an fallenden Techaktien",
-      "link": "https://the-decoder.de/ex-openai-mitarbeiter-scheitert-mit-riskantem-ki-hedgefonds-an-fallenden-techaktien/",
-      "published": "Fri, 31 Jul 2026 10:33:05 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Auch Anthropics Claude hackte bei Sicherheitstests versehentlich echte Unternehmen übers Internet",
-      "link": "https://the-decoder.de/auch-anthropics-claude-hackte-bei-sicherheitstests-versehentlich-echte-unternehmen-uebers-internet/",
-      "published": "Fri, 31 Jul 2026 10:28:37 +0000",
       "source": "The Decoder"
     }
   ]
