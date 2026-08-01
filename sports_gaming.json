@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-08-01T07:26:16.825922+00:00",
+  "updated_at": "2026-08-01T16:57:53.932435+00:00",
   "sport": [
-    {
-      "title": "WM-Verkauf an Private – Fifa zieht Investorenpläne zurück",
-      "link": "https://www.srf.ch/news/international/wm-verkauf-an-private-fifa-zieht-investorenplaene-zurueck",
-      "published": "Sat, 01 Aug 2026 08:11:07 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "«Der Mann mit der roten Kappe» – 50 Jahre seit Niki Laudas Unfall am Nürburgring",
-      "link": "https://www.srf.ch/sport/motorsport/formel-1/der-mann-mit-der-roten-kappe-50-jahre-seit-niki-laudas-unfall-am-nuerburgring",
-      "published": "Sat, 01 Aug 2026 08:15:46 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
     {
       "title": "Wirkt das 3:8 noch nach? – Unterhaltung garantiert: Im Berner Derby regnete es zuletzt Tore",
       "link": "https://www.srf.ch/sport/fussball/super-league/wirkt-das-3-8-noch-nach-unterhaltung-garantiert-im-berner-derby-regnete-es-zuletzt-tore",
@@ -20,22 +8,40 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Niederlage gegen Union SG – Debüt missglückt: Sommer und Tsawa verlieren Supercup",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/niederlage-gegen-union-sg-debuet-missglueckt-sommer-und-tsawa-verlieren-supercup",
-      "published": "Fri, 31 Jul 2026 22:48:32 +0200",
+      "title": "Tour de France Femmes: Auftakt – Wiebes siegt im Sprint – Rüegg und Reusser in den Top Ten",
+      "link": "https://www.srf.ch/sport/mehr-sport/rad/tour-de-france-femmes-auftakt-wiebes-siegt-im-sprint-rueegg-und-reusser-in-den-top-ten",
+      "published": "Sat, 01 Aug 2026 18:26:02 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Nachfolge noch offen – Howe tritt als Newcastle-Trainer zurück",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/nachfolge-noch-offen-howe-tritt-als-newcastle-trainer-zurueck",
-      "published": "Fri, 31 Jul 2026 17:34:18 +0200",
+      "title": "Historischer Titelgewinn – Sensationelles EM-Gold für den Frauen-Doppelvierer",
+      "link": "https://www.srf.ch/sport/mehr-sport/rudern/historischer-titelgewinn-sensationelles-em-gold-fuer-den-frauen-doppelvierer",
+      "published": "Sat, 01 Aug 2026 13:13:58 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Nach Dopingsperre – Mudryk ab sofort wieder spielberechtigt",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/nach-dopingsperre-mudryk-ab-sofort-wieder-spielberechtigt",
-      "published": "Fri, 31 Jul 2026 18:23:55 +0200",
+      "title": "Ränge 4, 5 und 6 an der EM – Die anderen Schweizer Finalboote stechen nicht",
+      "link": "https://www.srf.ch/sport/mehr-sport/rudern/raenge-4-5-und-6-an-der-em-die-anderen-schweizer-finalboote-stechen-nicht",
+      "published": "Sat, 01 Aug 2026 13:14:17 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Clasica San Sebastian – Vierter Sieg von Evenepoel in San Sebastian",
+      "link": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/clasica-san-sebastian-vierter-sieg-von-evenepoel-in-san-sebastian",
+      "published": "Sat, 01 Aug 2026 17:14:39 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Coup für Schweizer Pro Team – Schmid wechselt zu Pinarello Q36.5",
+      "link": "https://www.srf.ch/sport/mehr-sport/rad/coup-fuer-schweizer-pro-team-schmid-wechselt-zu-pinarello-q36-5",
+      "published": "Sat, 01 Aug 2026 12:03:13 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Schweizer Fussball-News – Stürmer für Vaduz – Vincze verlässt FCZ Frauen",
+      "link": "https://www.srf.ch/sport/fussball/schweizer-fussball-news-stuermer-fuer-vaduz-vincze-verlaesst-fcz-frauen",
+      "published": "Sat, 01 Aug 2026 11:04:00 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "Wirkt das 3:8 noch nach? – Unterhaltung garantiert: Im Berner Derby regnete es zuletzt Tore",
@@ -66,49 +72,43 @@
       "link": "https://www.srf.ch/sport/fussball/internationale-ligen/nachfolge-noch-offen-howe-tritt-als-newcastle-trainer-zurueck",
       "published": "Fri, 31 Jul 2026 17:34:18 +0200",
       "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "News aus der Super League – Lausanne verpflichtet PSG-Talent – Cordova von YB zu Batman",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-lausanne-verpflichtet-psg-talent-cordova-von-yb-zu-batman",
-      "published": "Fri, 31 Jul 2026 19:55:50 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Höflichkeit, Handwerk und Hingabe: Als Deutscher fehlen mir 20+ Dinge aus Japan",
-      "link": "https://www.pcgames.de/Japan-Thema-208510/Kolumnen/Dinge-die-in-Japan-fehlen-1549739/",
-      "published": "Sat, 01 Aug 2026 09:00:00 +0200",
+      "title": "Der Herr der Ringe: Ringe der Macht verbindet sich jetzt direkt mit Aragorn",
+      "link": "https://www.pcgames.de/Der-Herr-der-Ringe-Ringe-der-Macht-Serie-278186/News/Staffel-3-Elros-Aragon-Vorfahre-1550040/",
+      "published": "Sat, 01 Aug 2026 18:30:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "play5 09/26 mit Coverstory zu GTA 6, Test zu AC: Black Flag Resynced, Vorschau zu Alien: Isolation 2 u. v. m.",
-      "link": "https://www.pcgames.de/play5-Brands-276955/News/play5-09-26-GTA6-1550018/",
-      "published": "Sat, 01 Aug 2026 09:00:00 +0200",
+      "title": "Genshin Impact wird plötzlich zum Third-Person-Shooter - das steckt in Update 7.0",
+      "link": "https://www.pcgames.de/Genshin-Impact-Spiel-73052/News/Update-7-0-Third-Person-Shooter-Snezhnaya-1550039/",
+      "published": "Sat, 01 Aug 2026 17:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "PC Games Logbuch: Warum fahren wir zur Gamescom?",
-      "link": "https://www.pcgames.de/PC-Games-Brands-19921/Kolumnen/PC-Games-Logbuch-007-Warum-zur-Gamescom-1550008/",
-      "published": "Sat, 01 Aug 2026 08:30:00 +0200",
+      "title": "Sony hört den Protest - und schafft die Spiele-Disc trotzdem ab",
+      "link": "https://www.pcgames.de/Playstation-5-Konsolen-265878/News/Spiele-Disc-aus-2028-Digitalisierung-Protest-1550037/",
+      "published": "Sat, 01 Aug 2026 16:30:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Warhammer-Entwickler zeigt Interesse an Baldur’s Gate 4 - „Wir sind ein bisschen masochistisch“",
-      "link": "https://www.pcgames.de/Baldurs-Gate-3-Spiel-18525/News/owlcat-warhammer-entwickler-1549993/",
-      "published": "Sat, 01 Aug 2026 08:00:00 +0200",
+      "title": "Palworld Pals sofort wiederbeleben mit Lyleen",
+      "link": "https://www.pcgames.de/Palworld-Spiel-74505/News/pals-sofort-wiederbeleben-lyleen-1550031/",
+      "published": "Sat, 01 Aug 2026 15:30:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Der Herr der Ringe: Ringe der Macht: Staffel 3 setzt auf das ikonische Film-Intro",
-      "link": "https://www.pcgames.de/Der-Herr-der-Ringe-Ringe-der-Macht-Serie-278186/News/Ringe-der-Macht-Staffel-3-setzt-auf-ikonisches-Film-Intro-1550004/",
-      "published": "Fri, 31 Jul 2026 18:59:00 +0200",
+      "title": "Battlefield-Entlassungen: EA-Chef Andrew Wilson erhält 38,6 Millionen Dollar",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/ea-chef-verguetung-battlefield-entlassungen-1550028/",
+      "published": "Sat, 01 Aug 2026 14:30:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Steam: Vier Spiele kostenlos testen – alle Gratis-Aktionen im Überblick",
-      "link": "https://www.pcgames.de/Steam-Software-69900/News/Spiele-im-Wert-von-fast-120-Euro-kostenlos-ausprobieren-1550003/",
-      "published": "Fri, 31 Jul 2026 18:31:00 +0200",
+      "title": "Corsair Cove startet mit 88 % positiven Steam-Wertungen und 25 % Rabatt",
+      "link": "https://www.pcgames.de/Corsair-Cove-Spiel-78096/News/Aufbauspiel-startet-mit-88-Prozent-positiven-Wertungen-und-Rabatt-1550030/",
+      "published": "Sat, 01 Aug 2026 14:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
