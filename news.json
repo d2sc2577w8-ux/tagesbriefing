@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-01T16:57:52.235361+00:00",
+  "updated_at": "2026-08-02T07:30:42.278384+00:00",
   "politik": [
+    {
+      "title": "Weniger Risse in der Alpsaison – Haben die umstrittenen Wolfsabschüsse doch etwas gebracht?",
+      "link": "https://www.srf.ch/news/schweiz/weniger-risse-in-der-alpsaison-haben-die-umstrittenen-wolfsabschuesse-doch-etwas-gebracht",
+      "published": "Sun, 02 Aug 2026 09:00:19 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Nachfolge im Parlament – Die Politik in der DNA",
+      "link": "https://www.srf.ch/news/schweiz/nachfolge-im-parlament-die-politik-in-der-dna",
+      "published": "Sun, 02 Aug 2026 08:03:17 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Neutralitätsinitiative – Christoph Blocher «Die Neutralität schützt uns vor dem Krieg»",
+      "link": "https://www.srf.ch/news/schweiz/neutralitaetsinitiative-christoph-blocher-die-neutralitaet-schuetzt-uns-vor-dem-krieg",
+      "published": "Sat, 01 Aug 2026 20:42:08 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
     {
       "title": "Hohe Temperaturen, viele Gäste – Wie ein Naturbad auch im Rekordsommer sauber bleibt",
       "link": "https://www.srf.ch/news/schweiz/hohe-temperaturen-viele-gaeste-wie-ein-naturbad-auch-im-rekordsommer-sauber-bleibt",
@@ -8,49 +26,43 @@
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Vogel des Jahres – Der Eisvogel: Publikumsstar am Klingnauer Stausee",
-      "link": "https://www.srf.ch/news/schweiz/vogel-des-jahres-der-eisvogel-publikumsstar-am-klingnauer-stausee",
-      "published": "Sat, 01 Aug 2026 17:45:15 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "1. August – Fahnen, Trachten und Käppi auf dem Rütli",
-      "link": "https://www.srf.ch/news/schweiz/1-august-fahnen-trachten-und-kaeppi-auf-dem-ruetli",
-      "published": "Sat, 01 Aug 2026 16:52:11 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Auf bestem Weg zum Bünzli – Junge Auslandschweizer entdecken ihre Wurzeln",
-      "link": "https://www.srf.ch/radio-srf-1/auf-bestem-weg-zum-buenzli-junge-auslandschweizer-entdecken-ihre-wurzeln",
-      "published": "Sat, 01 Aug 2026 16:03:28 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Deutliche EU-Kritik an Spanien - EU-Innenminister beraten über Ceuta-Krise",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-104.html",
-      "published": "Sat, 01 Aug 2026 18:17:44 +0200",
+      "title": "Wie Jordanien im Iran-Krieg zwischen die Fronten geriet",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-jordanien-zwischen-fronten-100.html",
+      "published": "Sun, 02 Aug 2026 09:04:54 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Nach Andrang in Ceuta: Spanien verteidigt seine Migrationspolitik",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html",
-      "published": "Sat, 01 Aug 2026 17:34:53 +0200",
+      "title": "Wie sicher sind KI-Wasserzeichen?",
+      "link": "https://www.tagesschau.de/wissen/technologie/ki-eu-wasserzeichen-kennzeichnungspflicht-100.html",
+      "published": "Sun, 02 Aug 2026 08:36:56 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Flüge nach Afghanistan: Deutschland, die Taliban und Abschiebungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-afghanistan-146.html",
-      "published": "Sat, 01 Aug 2026 16:46:23 +0200",
+      "title": "Migrationskrise in Ceuta: Wadephul fordert Schutz der EU-Außengrenzen",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-eu-aussengrenze-wadephul-100.html",
+      "published": "Sun, 02 Aug 2026 08:03:55 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Wie viel Vorbereitung braucht der Neustart im Ausland?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/auswandern-beratung-kosten-100.html",
-      "published": "Sat, 01 Aug 2026 16:44:45 +0200",
+      "title": "Trump sagt Angriffe auf Iran vorerst ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html",
+      "published": "Sun, 02 Aug 2026 09:12:40 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Nach Hugging-Face-Angriff: METR fordert systematische Untersuchungen bei KI-Fehlverhalten",
+      "link": "https://the-decoder.de/nach-hugging-face-angriff-metr-fordert-systematische-untersuchungen-bei-ki-fehlverhalten/",
+      "published": "Sun, 02 Aug 2026 07:27:17 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Snap und LinkedIn wehren sich gegen Flut minderwertiger KI-Inhalte",
+      "link": "https://the-decoder.de/snap-und-linkedin-wehren-sich-gegen-flut-minderwertiger-ki-inhalte/",
+      "published": "Sun, 02 Aug 2026 06:36:28 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "KI in der Mathematik: KI macht was für Menschen, aber auch mit ihnen",
       "link": "https://the-decoder.de/ki-in-der-mathematik-ki-macht-was-fuer-menschen-aber-auch-mit-ihnen/",
@@ -67,18 +79,6 @@
       "title": "Ein manipuliertes Word-Dokument steckt über Copilot das nächste an, Microsoft hat seit 144 Tagen keine Lösung",
       "link": "https://the-decoder.de/ein-manipuliertes-word-dokument-steckt-ueber-copilot-das-naechste-an-microsoft-hat-seit-144-tagen-keine-loesung/",
       "published": "Sat, 01 Aug 2026 13:44:22 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Seedance 2.5: ByteDances neues Videomodell liefert 30-Sekunden-Clips mit integriertem Audio",
-      "link": "https://the-decoder.de/seedance-2-5-bytedances-neues-videomodell-liefert-30-sekunden-clips-mit-integriertem-audio/",
-      "published": "Sat, 01 Aug 2026 13:22:30 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Landgericht München verurteilt KI-Musikgenerator Suno wegen Urheberrechtsverletzung",
-      "link": "https://the-decoder.de/landgericht-muenchen-verurteilt-ki-musikgenerator-suno-wegen-urheberrechtsverletzung/",
-      "published": "Sat, 01 Aug 2026 10:21:50 +0000",
       "source": "The Decoder"
     }
   ]
