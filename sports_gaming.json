@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-03T08:27:12.035801+00:00",
+  "updated_at": "2026-08-03T17:49:30.819738+00:00",
   "sport": [
+    {
+      "title": "Tour de France Femmes – Tour-Rekord: Haugset gewinnt 3. Etappe nach 88 km langer Flucht",
+      "link": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-tour-rekord-haugset-gewinnt-3-etappe-nach-88-km-langer-flucht",
+      "published": "Mon, 03 Aug 2026 18:17:16 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Für einmal nur Zuschauerin – Baby-Pause statt Tour de France: Chabbey juckt es in den Beinen",
+      "link": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/fuer-einmal-nur-zuschauerin-baby-pause-statt-tour-de-france-chabbey-juckt-es-in-den-beinen",
+      "published": "Mon, 03 Aug 2026 13:18:11 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
     {
       "title": "Tour de France Femmes – «Grand Départ Suisse» hinterlässt begeisterte Fans",
       "link": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-grand-depart-suisse-hinterlaesst-begeisterte-fans",
@@ -8,107 +20,95 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Tour de France Femmes – Super-Sprinterin Wiebes auch in Genf nicht zu schlagen",
-      "link": "https://www.srf.ch/sport/mehr-sport/rad/tour-de-france-femmes-super-sprinterin-wiebes-auch-in-genf-nicht-zu-schlagen",
-      "published": "Sun, 02 Aug 2026 18:48:05 +0200",
+      "title": "News aus der Super League – Vertrag aufgelöst: St. Gallen verliert seinen Assistenztrainer",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-vertrag-aufgeloest-st-gallen-verliert-seinen-assistenztrainer",
+      "published": "Mon, 03 Aug 2026 18:59:30 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Topstars fehlen in Montreal – «Das ist Unsinn»: Zverev kritisiert ATP-1000-Format",
-      "link": "https://www.srf.ch/sport/tennis/atp-tour/topstars-fehlen-in-montreal-das-ist-unsinn-zverev-kritisiert-atp-1000-format",
-      "published": "Mon, 03 Aug 2026 09:46:39 +0200",
+      "title": "Champions-League-Qualifikation – Für Servette Chênois beginnt die Saison in Kasachstan",
+      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/champions-league-qualifikation-fuer-servette-beginnt-die-saison-in-kasachstan",
+      "published": "Mon, 03 Aug 2026 16:22:07 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "News aus dem Tennis – Golubic steht in Toronto in der 2. Runde",
-      "link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-golubic-steht-in-toronto-in-der-2-runde",
-      "published": "Sun, 02 Aug 2026 23:09:20 +0200",
+      "title": "Schweizer Europacup-Gegner – Noch ein Insel-Trip für Thun und ein Hammerlos für Sion?",
+      "link": "https://www.srf.ch/sport/fussball/europa-league/schweizer-europacup-gegner-noch-ein-insel-trip-fuer-thun-und-ein-hammerlos-fuer-sion",
+      "published": "Mon, 03 Aug 2026 14:27:33 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Jüngste Gewinnerin seit Gauff – 16-jährige Russin siegt beim WTA-Turnier in Memphis",
-      "link": "https://www.srf.ch/sport/tennis/juengste-gewinnerin-seit-gauff-16-jaehrige-russin-siegt-beim-wta-turnier-in-memphis",
-      "published": "Sun, 02 Aug 2026 22:28:19 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "News aus der Super League – Vertrag aufgelöst: St. Gallen verliert seinen Assistenztrainer",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-vertrag-aufgeloest-st-gallen-verliert-seinen-assistenztrainer",
+      "published": "Mon, 03 Aug 2026 18:59:30 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Champions-League-Qualifikation – Für Servette beginnt die Saison in Kasachstan",
+      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/champions-league-qualifikation-fuer-servette-beginnt-die-saison-in-kasachstan",
+      "published": "Mon, 03 Aug 2026 16:22:07 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Schweizer Europacup-Gegner – Noch ein Insel-Trip für Thun und ein Hammerlos für Sion?",
+      "link": "https://www.srf.ch/sport/fussball/europa-league/schweizer-europacup-gegner-noch-ein-insel-trip-fuer-thun-und-ein-hammerlos-fuer-sion",
+      "published": "Mon, 03 Aug 2026 14:27:33 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Internationale Fussball-News – Griechisches Supertalent zum BVB – auch Henderson zu Chelsea",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-griechisches-supertalent-zum-bvb-auch-henderson-zu-chelsea",
+      "published": "Mon, 03 Aug 2026 17:38:18 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Unterschiedliche Gemütslagen – Titel-Träume in Lugano – Ratlosigkeit in Luzern",
+      "link": "https://www.srf.ch/sport/fussball/super-league/unterschiedliche-gemuetslagen-titel-traeume-in-lugano-ratlosigkeit-in-luzern",
+      "published": "Mon, 03 Aug 2026 11:39:38 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "Bilder-Galerie – Erste Titel, erste Tore und ein Penalty-Debakel sondergleichen",
       "link": "https://www.srf.ch/sport/fussball/internationale-ligen/bilder-galerie-erste-titel-erste-tore-und-ein-penalty-debakel-sondergleichen",
       "published": "Mon, 03 Aug 2026 09:51:04 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Bilder-Galerie – Erste Titel, erste Tore und ein Penalty-Debakel sondergleichen",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/bilder-galerie-erste-titel-erste-tore-und-ein-penalty-debakel-sondergleichen",
-      "published": "Mon, 03 Aug 2026 09:51:04 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Internationale Fussball-News – PSG-Abgang fix: Kolo Muani wechselt zu Juventus",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-psg-abgang-fix-kolo-muani-wechselt-zu-juventus",
-      "published": "Sun, 02 Aug 2026 20:58:20 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Super League: 2. Spieltag – Vom 0:1 zum 4:1 – Lugano siegt bei GC nach verbesserter 2. Hälfte",
-      "link": "https://www.srf.ch/sport/fussball/super-league/super-league-2-spieltag-vom-0-1-zum-4-1-lugano-siegt-bei-gc-nach-verbesserter-2-haelfte",
-      "published": "Sun, 02 Aug 2026 18:44:10 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Super League: 2. Runde – Blitzrot und Goalie-Patzer leiten Luzerns Pleite in Sitten ein",
-      "link": "https://www.srf.ch/sport/fussball/super-league/super-league-2-runde-blitzrot-und-goalie-patzer-leiten-luzerns-pleite-in-sitten-ein",
-      "published": "Sun, 02 Aug 2026 18:30:30 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Super League: 2. Spieltag – Dank Joker Owusu: FCSG dreht Derby gegen Vaduz vom 1:2 zum 3:2",
-      "link": "https://www.srf.ch/sport/fussball/super-league/super-league-2-spieltag-dank-joker-owusu-fcsg-dreht-derby-gegen-vaduz-vom-1-2-zum-3-2",
-      "published": "Sun, 02 Aug 2026 16:08:38 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Höhenflug ohne abzuheben – «Hoarau-Nachfolger» ist angekommen – YB in toller Frühform",
-      "link": "https://www.srf.ch/sport/fussball/super-league/hoehenflug-ohne-abzuheben-hoarau-nachfolger-ist-angekommen-yb-in-toller-fruehform",
-      "published": "Sun, 02 Aug 2026 10:32:49 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Manor Lords: Großes Update bringt neue Map und Viehzucht",
-      "link": "https://www.pcgames.de/Manor-Lords-Spiel-74074/News/Update-bringt-neue-Map-fuer-das-Aufbauspiel-1550099/",
-      "published": "Mon, 03 Aug 2026 10:01:00 +0200",
+      "title": "WoW-Spieler kapitulieren schon vor Release vor diesem brutalen Memory-Boss",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/wow-tiefen-boss-1550185/",
+      "published": "Mon, 03 Aug 2026 19:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "WoW verbessert nach knapp 20 Jahren endlich das Erfolge-Fenster",
-      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Midnight-Patch-121-Feature-Quality-of-Life-Erfolge-1550100/",
-      "published": "Mon, 03 Aug 2026 09:24:00 +0200",
+      "title": "PlayStation Plus: Koop-Hit Big Walk mit 93er-Schnitt für alle Abonnenten",
+      "link": "https://www.pcgames.de/PlayStation-Plus-Thema-260472/News/big-walk-koop-metacritic-essential-extra-premium-inklusive-kostenlos-1550186/",
+      "published": "Mon, 03 Aug 2026 18:31:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Epic Games Store verschenkt das preisgekrönte Adventure Mutazione für Mobile",
-      "link": "https://www.pcgames.de/Epic-Games-Store-Software-269112/News/Neues-Gratis-Spiel-fuer-Mobile-Mutazione-1550070/",
-      "published": "Mon, 03 Aug 2026 08:49:00 +0200",
+      "title": "Star Wars: Furchteinflößender als jeder Sith - EA mit verstörendem Bild vom Yoda der Dunklen Seite",
+      "link": "https://www.pcgames.de/Star-Wars-Brands-25101/News/yoda-dunkle-seite-1550172/",
+      "published": "Mon, 03 Aug 2026 18:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Märchenhafter Shooter? Mad Ever After geht einen verrückten Weg",
-      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Neuer-Shooter-Mad-Ever-After-1550016/",
-      "published": "Mon, 03 Aug 2026 07:00:00 +0200",
+      "title": "WoW: Großes Klassen-Balancing nerft Meta-Klassen und bufft Underperformer",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/WoW-Grosses-Klassenbalancing-121-1550156/",
+      "published": "Mon, 03 Aug 2026 17:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "PlayStation-Fans aufgepasst: Dieses neue LEGO-Set bringt Astro Bot mit",
-      "link": "https://www.pcgames.de/Sony-Firma-15716/News/lego-astro-bot-playstation-1-set-release-1550063/",
-      "published": "Sun, 02 Aug 2026 18:00:00 +0200",
+      "title": "Spider-Man macht Tom Holland zum einmaligen Hollywood-Rekordhalter",
+      "link": "https://www.pcgames.de/Spider-Man-Brands-144260/News/tom-holland-stellt-mit-spider-man-brand-new-day-historischen-rekord-auf-1550159/",
+      "published": "Mon, 03 Aug 2026 16:29:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Avengers: Doomsday: Marvels größter Film-Leak könnte das Ende des MCU verraten",
-      "link": "https://www.pcgames.de/Marvel-Cinematic-Universe-MCU-Brands-266313/News/avengers-doomsday-handlung-leak-spoiler-1550061/",
-      "published": "Sun, 02 Aug 2026 17:00:00 +0200",
+      "title": "WoW schafft die klassischen Weltbosse ab – so funktionieren die neuen Horte",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Midnight-121-Weltbosse-Horte-Aenderung-neu-1550155/",
+      "published": "Mon, 03 Aug 2026 16:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
