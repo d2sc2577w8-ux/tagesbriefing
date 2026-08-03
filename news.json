@@ -1,56 +1,62 @@
 {
-  "updated_at": "2026-08-02T16:56:49.322772+00:00",
+  "updated_at": "2026-08-03T08:27:09.813548+00:00",
   "politik": [
     {
-      "title": "Römerstadt unter Eschenz TG – 2000 Jahre altes und gut erhaltenes Holz ausgegraben",
-      "link": "https://www.srf.ch/news/schweiz/roemerstadt-unter-eschenz-tg-2000-jahre-altes-und-gut-erhaltenes-holz-ausgegraben",
-      "published": "Sun, 02 Aug 2026 18:43:48 +0200",
+      "title": "Mehr Leben im Käfig – Papageien-Therapeutin bringt depressive Vögel zum Pfeifen",
+      "link": "https://www.srf.ch/news/schweiz/mehr-leben-im-kaefig-papageien-therapeutin-bringt-depressive-voegel-zum-pfeifen",
+      "published": "Mon, 03 Aug 2026 10:04:47 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Trockene Ackerböden – Digitaler Helfer auf dem Feld: So wird Bewässerung präziser",
-      "link": "https://www.srf.ch/news/schweiz/trockene-ackerboeden-digitaler-helfer-auf-dem-feld-so-wird-bewaesserung-praeziser",
-      "published": "Sun, 02 Aug 2026 17:57:25 +0200",
+      "title": "Fitness in der Öffentlichkeit – Schweizer Gemeinden überbieten sich mit günstigen Sportangeboten",
+      "link": "https://www.srf.ch/news/dialog/fitness-in-der-oeffentlichkeit-schweizer-gemeinden-ueberbieten-sich-mit-guenstigen-sportangeboten",
+      "published": "Mon, 03 Aug 2026 08:18:15 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Arbeiten an Hitzetagen – Schutz vor Hitze und doch arbeiten – wie geht das zusammen?",
-      "link": "https://www.srf.ch/news/schweiz/arbeiten-an-hitzetagen-schutz-vor-hitze-und-doch-arbeiten-wie-geht-das-zusammen",
-      "published": "Sun, 02 Aug 2026 17:56:33 +0200",
+      "title": "Klimawandel als Thema – Welche Folgen hat der Hitzesommer für das Wahljahr 2027?",
+      "link": "https://www.srf.ch/news/schweiz/klimawandel-als-thema-welche-folgen-hat-der-hitzesommer-fuer-das-wahljahr-2027",
+      "published": "Mon, 03 Aug 2026 06:34:14 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Bahnsicherheit – So schützt die Rhätische Bahn die Unesco-Strecke vor Steinschlag",
-      "link": "https://www.srf.ch/news/schweiz/bahnsicherheit-so-schuetzt-die-rhaetische-bahn-die-unesco-strecke-vor-steinschlag",
-      "published": "Sun, 02 Aug 2026 17:16:47 +0200",
+      "title": "Wochenlanger Kampf gegen Feuer – «Überall war Feuer» – Erinnerungen an den Waldbrand bei Bitsch VS",
+      "link": "https://www.srf.ch/news/schweiz/wochenlanger-kampf-gegen-feuer-ueberall-war-feuer-erinnerungen-an-den-waldbrand-bei-bitsch-vs",
+      "published": "Sun, 02 Aug 2026 22:03:42 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Bas fordert Union zur Klärung bei \"Rente mit 63\" auf",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-bas-100.html",
-      "published": "Sun, 02 Aug 2026 18:49:50 +0200",
+      "title": "Börse in Frankfurt: DAX erreicht neuen Rekord",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-rekord-boerse-100.html",
+      "published": "Mon, 03 Aug 2026 10:22:09 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Das Sommerinterview mit CSU-Chef Söder im Faktencheck",
-      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-soeder-100.html",
-      "published": "Sun, 02 Aug 2026 18:00:00 +0200",
+      "title": "Erstmals seit fünf Jahren Bilder von Aung San Suu Kyi veröffentlicht",
+      "link": "https://www.tagesschau.de/ausland/asien/myanmar-auftritt-suu-kyi-100.html",
+      "published": "Mon, 03 Aug 2026 10:13:13 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Philippinische Aktivisten trotzen Chinas Machtanspruch",
-      "link": "https://www.tagesschau.de/ausland/asien/suedchinesisches-meer-philippinen-china-100.html",
-      "published": "Sun, 02 Aug 2026 17:46:16 +0200",
+      "title": "Deutsche Wahlen im Visier russischer Desinformation",
+      "link": "https://www.tagesschau.de/faktenfinder/faktencheck-russland-deutsche-wahlen-100.html",
+      "published": "Mon, 03 Aug 2026 10:00:38 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "CSU-Chef Söder wirbt für Geschlossenheit im ARD-Sommerinterview",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-soeder-112.html",
-      "published": "Sun, 02 Aug 2026 18:43:51 +0200",
+      "title": "Währungsintervention: Japan und USA stützen fallenden Yen",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/japan-waehrung-yen-usa-100.html",
+      "published": "Mon, 03 Aug 2026 09:03:51 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Webinar | KI-ROI messen: Was bringt der KI-Einsatz wirtschaftlich wirklich?",
+      "link": "https://the-decoder.de/webinar-ki-roi-messen-was-bringt-der-ki-einsatz-wirtschaftlich-wirklich/",
+      "published": "Sun, 02 Aug 2026 17:07:23 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "OpenAI Presence soll KI-Agenten für Unternehmen produktionsreif machen",
       "link": "https://the-decoder.de/openai-presence-soll-ki-agenten-fuer-unternehmen-produktionsreif-machen/",
@@ -73,12 +79,6 @@
       "title": "Kaum eine der von KI gefundenen Sicherheitslücken wird wirklich angegriffen, zeigt eine Auswertung von VulnCheck",
       "link": "https://the-decoder.de/ki-gefundene-sicherheitsluecken-werden-kaum-angegriffen-vulncheck/",
       "published": "Sun, 02 Aug 2026 10:03:27 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Ego-Shooter, U-Boot-Spiel, Kart-Racer: Claude Opus 5 generiert spielbare Browser-Games nur per Prompt",
-      "link": "https://the-decoder.de/ego-shooter-u-boot-spiel-kart-racer-claude-opus-5-generiert-spielbare-browser-games-nur-per-prompt/",
-      "published": "Sun, 02 Aug 2026 08:22:23 +0000",
       "source": "The Decoder"
     }
   ]
