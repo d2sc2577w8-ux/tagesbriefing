@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-04T17:47:40.440719+00:00",
+  "updated_at": "2026-08-05T07:37:21.507645+00:00",
   "sport": [
+    {
+      "title": "EM im Wasserspringen – Wegen schwierigen letzten Tagen: Heimberg bricht den Final ab",
+      "link": "https://www.srf.ch/sport/mehr-sport/schwimmen/em-im-wasserspringen-wegen-schwierigen-letzten-tagen-heimberg-bricht-den-final-ab",
+      "published": "Wed, 05 Aug 2026 07:32:11 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Schwimm-EM in Paris – Niederberger im Open Water auf Rang 12",
+      "link": "https://www.srf.ch/sport/mehr-sport/schwimmen/schwimm-em-in-paris-niederberger-im-open-water-auf-rang-12-1",
+      "published": "Tue, 04 Aug 2026 21:53:15 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
     {
       "title": "Tour de France Femmes – Sieg im Zeitfahren: Reusser holt sich erstmals das Gelbe Trikot",
       "link": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-sieg-im-zeitfahren-reusser-holt-sich-erstmals-das-gelbe-trikot",
@@ -14,27 +26,15 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "3 Tage vor Saisonstart – FCZ Frauen trennen sich von Trainer Gligoroski",
-      "link": "https://www.srf.ch/sport/fussball/women-s-super-league/3-tage-vor-saisonstart-fcz-frauen-trennen-sich-von-trainer-gligoroski",
-      "published": "Tue, 04 Aug 2026 14:04:12 +0200",
+      "title": "Swiss-Ski setzt auf Zermatt – Gletscherschmelze macht dem Skisport zu schaffen",
+      "link": "https://www.srf.ch/sport/ski-alpin/ski-alpin-allgemein/swiss-ski-setzt-auf-zermatt-gletscherschmelze-macht-dem-skisport-zu-schaffen",
+      "published": "Tue, 04 Aug 2026 20:56:13 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Wechsel beim Schweizer Meister – Rapp löst Albrecht beim FC Thun per sofort als Sportchef ab",
-      "link": "https://www.srf.ch/sport/fussball/super-league/wechsel-beim-schweizer-meister-rapp-loest-albrecht-beim-fc-thun-per-sofort-als-sportchef-ab",
-      "published": "Tue, 04 Aug 2026 10:31:06 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "News aus der Super League – Salah verlässt den FCB  – Mambwa fehlt YB",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-salah-verlaesst-den-fcb-mambwa-fehlt-yb",
-      "published": "Tue, 04 Aug 2026 18:40:55 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "In der CL-Quali der Frauen – Servette Chênois löst seine 1. Aufgabe souverän",
-      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/in-der-cl-quali-der-frauen-servette-chenois-loest-seine-1-aufgabe-souveraen",
-      "published": "Tue, 04 Aug 2026 11:04:00 +0200",
+      "title": "Nati-Coach und Klub-Trainer – Schmid: «Das wird die grösste Herausforderung»",
+      "link": "https://www.srf.ch/sport/mehr-sport/handball/nati-coach-und-klub-trainer-schmid-das-wird-die-groesste-herausforderung",
+      "published": "Tue, 04 Aug 2026 23:06:56 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
@@ -76,6 +76,12 @@
   ],
   "gaming": [
     {
+      "title": "FIFA World Cup Launch Edition mit bitterem Nachspiel für 85 Prozent der Mitarbeiter",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/FIFA-World-Cup-Mitarbeiter-Entlassungen-1550316/",
+      "published": "Wed, 05 Aug 2026 08:41:00 +0200",
+      "source": "PCGames: Wissen, was gespielt wird!"
+    },
+    {
       "title": "Kunst imitiert Leben: In diesem Horrorspiel müsst ihr trotz Weltuntergang ins Büro",
       "link": "https://www.pcgames.de/Spiele-Thema-239104/News/indie-horror-ps1-buero-endzeit-1550269/",
       "published": "Tue, 04 Aug 2026 18:59:00 +0200",
@@ -103,12 +109,6 @@
       "title": "World of Warcraft: In Patch 12.1 feiert WeakAuras quasi ein Comeback",
       "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Midnight-Patch-121-WeakAuras-Addons-1550304/",
       "published": "Tue, 04 Aug 2026 17:29:00 +0200",
-      "source": "PCGames: Wissen, was gespielt wird!"
-    },
-    {
-      "title": "Palworld Online: MMORPG-Ableger für Android und iOS angekündigt",
-      "link": "https://www.pcgames.de/Palworld-Spiel-74505/News/MMORPG-fuer-Mobile-kommt-1550276/",
-      "published": "Tue, 04 Aug 2026 17:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
