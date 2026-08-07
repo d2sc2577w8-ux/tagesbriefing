@@ -1,114 +1,114 @@
 {
-  "updated_at": "2026-08-07T06:08:09.810564+00:00",
+  "updated_at": "2026-08-07T16:53:15.487939+00:00",
   "sport": [
     {
+      "title": "Tour de France Femmes – Niewiadoma brilliert am Mont Ventoux und schnappt sich Gelb",
+      "link": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-niewiadoma-brilliert-am-mont-ventoux-und-schnappt-sich-gelb",
+      "published": "Fri, 07 Aug 2026 17:49:34 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "1. Sieg auf der World Tour – Jan Christen triumphiert auf 5. Etappe der Polen-Rundfahrt",
+      "link": "https://www.srf.ch/sport/mehr-sport/rad/1-sieg-auf-der-world-tour-jan-christen-triumphiert-auf-5-etappe-der-polen-rundfahrt",
+      "published": "Fri, 07 Aug 2026 17:42:28 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News aus der Leichtathletik – Ingebrigtsen macht Weltklasse Zürich seine Aufwartung",
+      "link": "https://www.srf.ch/sport/leichtathletik/news-aus-der-leichtathletik-ingebrigtsen-macht-weltklasse-zuerich-seine-aufwartung",
+      "published": "Fri, 07 Aug 2026 17:03:09 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Heute vor 25 Jahren – Als André Bucher Schweizer Leichtathletik-Geschichte schrieb",
+      "link": "https://www.srf.ch/sport/leichtathletik/heute-vor-25-jahren-als-andre-bucher-schweizer-leichtathletik-geschichte-schrieb",
+      "published": "Fri, 07 Aug 2026 08:33:40 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "4:0-Sieg gegen Aktobe – Servette Chênois nicht mehr weit von «Königsklasse» entfernt",
+      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/4-0-sieg-gegen-aktobe-servette-chenois-nicht-mehr-weit-von-koenigsklasse-entfernt",
+      "published": "Fri, 07 Aug 2026 18:15:35 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Auftakt in der 2. Bundesliga – Loretz, Besio & Co: 6 Schweizer mit unterschiedlichen Vorzeichen",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/auftakt-in-der-2-bundesliga-loretz-besio-co-6-schweizer-mit-unterschiedlichen-vorzeichen",
+      "published": "Fri, 07 Aug 2026 09:43:25 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "4:0-Sieg gegen Aktobe – Servette Chênois nicht mehr weit von «Königsklasse» entfernt",
+      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/4-0-sieg-gegen-aktobe-servette-chenois-nicht-mehr-weit-von-koenigsklasse-entfernt",
+      "published": "Fri, 07 Aug 2026 18:15:35 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "News aus der Super League – Mehmedi neu Verwaltungsrat bei Winterthur – Omlin wieder verletzt",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-mehmedi-neu-verwaltungsrat-bei-winterthur-omlin-wieder-verletzt",
+      "published": "Fri, 07 Aug 2026 15:19:44 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Internationale Fussball-News – Körperverletzung: Toney muss vor Gericht",
+      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/internationale-fussball-news-koerperverletzung-toney-muss-vor-gericht",
+      "published": "Fri, 07 Aug 2026 13:19:03 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Start Women's Super League – Moser: «Bachmann kann YB zum Titelanwärter machen»",
+      "link": "https://www.srf.ch/sport/fussball/women-s-super-league/start-women-s-super-league-moser-bachmann-kann-yb-zum-titelanwaerter-machen",
+      "published": "Fri, 07 Aug 2026 10:22:59 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Auftakt in der 2. Bundesliga – Loretz, Besio & Co: 6 Schweizer mit unterschiedlichen Vorzeichen",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/auftakt-in-der-2-bundesliga-loretz-besio-co-6-schweizer-mit-unterschiedlichen-vorzeichen",
+      "published": "Fri, 07 Aug 2026 09:43:25 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
       "title": "Europa League: 3. Quali-Runde – Starke Standards lassen Thun von Europa träumen",
       "link": "https://www.srf.ch/sport/fussball/europa-league/europa-league-3-quali-runde-starke-standards-lassen-thun-von-europa-traeumen",
       "published": "Fri, 07 Aug 2026 07:59:07 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Conference-League-Quali – Maassens Joker stechen: St. Gallen legt gegen Sheriff vor",
-      "link": "https://www.srf.ch/sport/fussball/conference-league/conference-league-quali-maassens-joker-stechen-st-gallen-legt-gegen-sheriff-vor",
-      "published": "Thu, 06 Aug 2026 21:03:55 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Conference League: Round-up – Sion zeigt in Armenien Charakter – Lugano legt gegen Färinger vor",
-      "link": "https://www.srf.ch/sport/fussball/conference-league/conference-league-round-up-sion-zeigt-in-armenien-charakter-lugano-legt-gegen-faeringer-vor",
-      "published": "Thu, 06 Aug 2026 22:22:00 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "U20-WM in Eugene – Pfister holt Siebenkampf-Bronze – Buri glänzt als 100-m-Vierte",
-      "link": "https://www.srf.ch/sport/leichtathletik/u20-wm-in-eugene-pfister-holt-siebenkampf-bronze-buri-glaenzt-als-100-m-vierte",
-      "published": "Fri, 07 Aug 2026 07:52:06 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Tour de France Femmes – Le Court holt den Tagessieg, Reusser bleibt in Gelb",
-      "link": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-le-court-holt-den-tagessieg-reusser-bleibt-in-gelb",
-      "published": "Thu, 06 Aug 2026 18:21:34 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Von LaLiga in die Serie A – Sow verlässt den FC Sevilla nach 3 Jahren und geht nach Genua",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/von-laliga-in-die-serie-a-sow-verlaesst-den-fc-sevilla-nach-3-jahren-und-geht-nach-genua",
-      "published": "Thu, 06 Aug 2026 21:07:46 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Europa League: 3. Quali-Runde – Starke Standards lassen Thun von Europa träumen",
-      "link": "https://www.srf.ch/sport/fussball/europa-league/europa-league-3-quali-runde-starke-standards-lassen-thun-von-europa-traeumen",
-      "published": "Fri, 07 Aug 2026 07:59:07 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Von LaLiga in die Serie A – Sow verlässt den FC Sevilla nach 3 Jahren und geht nach Genua",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/von-laliga-in-die-serie-a-sow-verlaesst-den-fc-sevilla-nach-3-jahren-und-geht-nach-genua",
-      "published": "Thu, 06 Aug 2026 21:07:46 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Conference-League-Quali – Maassens Joker stechen: St. Gallen legt gegen Sheriff vor",
-      "link": "https://www.srf.ch/sport/fussball/conference-league/conference-league-quali-maassens-joker-stechen-st-gallen-legt-gegen-sheriff-vor",
-      "published": "Thu, 06 Aug 2026 21:03:55 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Conference League: Round-up – Sion zeigt in Armenien Charakter – Lugano legt gegen Färinger vor",
-      "link": "https://www.srf.ch/sport/fussball/conference-league/conference-league-round-up-sion-zeigt-in-armenien-charakter-lugano-legt-gegen-faeringer-vor",
-      "published": "Thu, 06 Aug 2026 22:22:00 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Internationale Fussball-News – Real holt Diomande und hält Vinicius – Forlan übernimmt «Urus»",
-      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/internationale-fussball-news-real-holt-diomande-und-haelt-vinicius-forlan-uebernimmt-urus",
-      "published": "Thu, 06 Aug 2026 20:14:35 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Frauen auf dem Vormarsch – Meilenstein in England: Trainerinnen in der Überzahl",
-      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/frauen-auf-dem-vormarsch-meilenstein-in-england-trainerinnen-in-der-ueberzahl",
-      "published": "Thu, 06 Aug 2026 11:34:08 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "play5 09/26 mit Coverstory zu GTA 6, Test zu AC: Black Flag Resynced, Vorschau zu Alien: Isolation 2 u. v. m.",
-      "link": "https://www.pcgames.de/play5-Brands-276955/News/play5-09-26-GTA6-1550018/",
-      "published": "Fri, 07 Aug 2026 08:00:00 +0200",
+      "title": "Squid Game: Netflix zieht den Stecker - mutmaßliches amerikanisches Spin-Off gecancelt",
+      "link": "https://www.pcgames.de/Kino-Thema-130800/News/squid-game-spin-off-fortsetzung-1550568/",
+      "published": "Fri, 07 Aug 2026 18:28:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Baldur’s Gate 3 hat mehr betrunkene Spieler als jedes Volksfest – Larian gibt uns lustige Einblicke",
-      "link": "https://www.pcgames.de/Baldurs-Gate-3-Spiel-18525/News/lustige-interessante-Zahlen-1550449/",
-      "published": "Thu, 06 Aug 2026 19:00:00 +0200",
+      "title": "The Outer Worlds 2 begeistert mich aktuell, weil ich das RPG endlich anders spiele",
+      "link": "https://www.pcgames.de/PC-Games-Brands-19921/Specials/Was-spielen-wir-gerade-The-Outer-Worlds-2-1550554/",
+      "published": "Fri, 07 Aug 2026 18:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Misslungenes Comeback von Star Wars: Disney wiegelt ab",
-      "link": "https://www.pcgames.de/Star-Wars-Brands-25101/News/the-mandalorian-grogu-flop-1550479/",
-      "published": "Thu, 06 Aug 2026 18:01:00 +0200",
+      "title": "Quake: Bethesda überrascht die Fans mit neuer Gratis-Episode",
+      "link": "https://www.pcgames.de/Quake-Spiel-28931/News/Dawn-of-the-Machine-DLC-Episode-Gratis-1550541/",
+      "published": "Fri, 07 Aug 2026 17:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Borderlands-Flop: Regisseur verrät, was beim Kinofilm schieflief - und dreht jetzt lieber andere Filme",
-      "link": "https://www.pcgames.de/Kino-Thema-130800/News/Regisseur-Borderlands-Ice-cream-man-horrorfilm-kino-1550466/",
-      "published": "Thu, 06 Aug 2026 17:00:00 +0200",
+      "title": "Endlich: Das wohl beste Wolfenstein gibt’s jetzt uncut bei Steam – aktuell 2 Euro!",
+      "link": "https://www.pcgames.de/Steam-Software-69900/News/return-to-castle-wolfenstein-uncut-deutschland-fix-windows-10-11-gog-1550520/",
+      "published": "Fri, 07 Aug 2026 16:30:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Monster Hunter Wilds erhält Gratis-Demo und dauerhafte Preissenkung",
-      "link": "https://www.pcgames.de/Monster-Hunter-Wilds-Spiel-74697/News/Dauerhaft-neuer-Preis-kostenlose-Prolog-Demo-1550471/",
-      "published": "Thu, 06 Aug 2026 16:31:00 +0200",
+      "title": "WoW Patch 12.1: Alle neuen Tier-Sets im Überblick – Boni & Optik",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/Specials/wow-patch-121-tier-set-boni-1550563/",
+      "published": "Fri, 07 Aug 2026 16:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "GTA 6 zeigt, wie absurd modernes Marketing geworden ist",
-      "link": "https://www.pcgames.de/GTA-6-Spiel-55239/Kolumnen/Netflix-Promo-Extended-Look-1550474/",
-      "published": "Thu, 06 Aug 2026 16:00:00 +0200",
+      "title": "RPG-Klassiker bei GOG: Spiele gibt es bereits ab 75 Cent",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Retro-RPG-Deals-Wochenende-1550569/",
+      "published": "Fri, 07 Aug 2026 15:46:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
