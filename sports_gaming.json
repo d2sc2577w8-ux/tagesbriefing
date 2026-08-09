@@ -1,46 +1,64 @@
 {
-  "updated_at": "2026-08-09T05:45:35.856255+00:00",
+  "updated_at": "2026-08-09T16:33:08.014124+00:00",
   "sport": [
     {
-      "title": "Super League: 3. Runde – Nach Fernandes-Rot: YB gibt in Lausanne 2:0-Führung aus der Hand",
-      "link": "https://www.srf.ch/sport/fussball/super-league/super-league-3-runde-nach-fernandes-rot-yb-gibt-in-lausanne-2-0-fuehrung-aus-der-hand",
-      "published": "Sat, 08 Aug 2026 20:18:54 +0200",
+      "title": "Super League: 3. Runde – FCZ bleibt chancenlos: Lugano siegt und siegt weiter",
+      "link": "https://www.srf.ch/sport/fussball/super-league/super-league-3-runde-fcz-bleibt-chancenlos-lugano-siegt-und-siegt-weiter",
+      "published": "Sun, 09 Aug 2026 15:56:27 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Sonntag um 18 Uhr auf SRF zwei – «Sportpanorama» mit Wasserspringerin Michelle Heimberg",
+      "link": "https://www.srf.ch/sport/mehr-sport/allgemein/sonntag-um-18-uhr-auf-srf-zwei-sportpanorama-mit-wasserspringerin-michelle-heimberg",
+      "published": "Fri, 07 Aug 2026 10:04:47 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Polen-Rundfahrt – Tudor-Triumph: Küng gewinnt das Zeitfahren, Brenner die Rundfahrt",
+      "link": "https://www.srf.ch/sport/mehr-sport/rad/polen-rundfahrt-tudor-triumph-kueng-gewinnt-das-zeitfahren-brenner-die-rundfahrt",
+      "published": "Sun, 09 Aug 2026 17:16:47 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News aus der National League – Per Leihe: EVZ holt Rohrer in die Schweiz zurück",
+      "link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-per-leihe-evz-holt-rohrer-in-die-schweiz-zurueck",
+      "published": "Sun, 09 Aug 2026 17:43:45 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Signer siegt  in Schaffhausen – Staudenmann gewinnt auch am Bern-Jurassischen",
+      "link": "https://www.srf.ch/sport/mehr-sport/schwingen/signer-siegt-in-schaffhausen-staudenmann-gewinnt-auch-am-bern-jurassischen",
+      "published": "Sun, 09 Aug 2026 17:52:19 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News aus dem Tennis – Sabalenka unterliegt Alexandrowa – Kym erst im Final bezwungen",
+      "link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-sabalenka-unterliegt-alexandrowa-kym-erst-im-final-bezwungen",
+      "published": "Sun, 09 Aug 2026 16:45:33 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Super League: 3. Runde – FCZ bleibt chancenlos: Lugano siegt und siegt weiter",
+      "link": "https://www.srf.ch/sport/fussball/super-league/super-league-3-runde-fcz-bleibt-chancenlos-lugano-siegt-und-siegt-weiter",
+      "published": "Sun, 09 Aug 2026 15:56:27 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Internationale Fussball-News – Fecht-Olympiasiegerin sorgt für Novum im italienischen Fussball",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-fecht-olympiasiegerin-sorgt-fuer-novum-im-italienischen-fussball",
+      "published": "Sun, 09 Aug 2026 10:39:56 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "St. Gallen empfängt Luzern – Das «Nicht-Derby» im Zeichen des «Owusu-Symptoms»",
+      "link": "https://www.srf.ch/sport/fussball/super-league/st-gallen-empfaengt-luzern-das-nicht-derby-im-zeichen-des-owusu-symptoms",
+      "published": "Sun, 09 Aug 2026 09:00:50 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "Super League: 3. Spieltag – Abrashi trifft, doch GC verliert erneut nach einer 1:0-Führung",
       "link": "https://www.srf.ch/sport/fussball/super-league/super-league-3-spieltag-abrashi-trifft-doch-gc-verliert-erneut-nach-einer-1-0-fuehrung",
       "published": "Sat, 08 Aug 2026 22:36:23 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Tour de France Femmes – Vollering jubelt über 2. Etappensieg und erstmalige Gesamtführung",
-      "link": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-vollering-jubelt-ueber-2-etappensieg-und-erstmalige-gesamtfuehrung",
-      "published": "Sat, 08 Aug 2026 18:37:50 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Champions-League-Qualifikation – Trotz Bachmann-Tor: YB verpasst europäisches Geschäft",
-      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/champions-league-qualifikation-trotz-bachmann-tor-yb-verpasst-europaeisches-geschaeft",
-      "published": "Sat, 08 Aug 2026 16:36:36 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "News aus der Super League – Barcelona testet gegen Basel – YB holt Sène",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-barcelona-testet-gegen-basel-yb-holt-sene",
-      "published": "Sat, 08 Aug 2026 11:32:25 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Internationale Fussball-News – Zweitteuerster Klub-Transfer: Arsenal holt Guimaraes",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-zweitteuerster-klub-transfer-arsenal-holt-guimaraes",
-      "published": "Sat, 08 Aug 2026 17:03:48 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Super League: 3. Spieltag – Abrashi trifft, doch GC verliert erneut nach einer 1:0-Führung",
-      "link": "https://www.srf.ch/sport/fussball/super-league/super-league-3-spieltag-abrashi-trifft-doch-gc-verliert-erneut-nach-einer-1-0-fuehrung",
-      "published": "Sat, 08 Aug 2026 22:36:23 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
@@ -53,62 +71,44 @@
       "title": "Internationale Fussball-News – Zweitteuerster Klub-Transfer: Arsenal holt Guimaraes",
       "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-zweitteuerster-klub-transfer-arsenal-holt-guimaraes",
       "published": "Sat, 08 Aug 2026 17:03:48 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Champions-League-Qualifikation – Trotz Bachmann-Tor: YB verpasst europäisches Geschäft",
-      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/champions-league-qualifikation-trotz-bachmann-tor-yb-verpasst-europaeisches-geschaeft",
-      "published": "Sat, 08 Aug 2026 16:36:36 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Er erlag dem Krebs – Messi trauert um seinen Vater",
-      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/er-erlag-dem-krebs-messi-trauert-um-seinen-vater",
-      "published": "Sat, 08 Aug 2026 16:32:23 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "News aus der Super League – Barcelona testet gegen Basel – YB holt Sène",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-barcelona-testet-gegen-basel-yb-holt-sene",
-      "published": "Sat, 08 Aug 2026 11:32:25 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Pokémon trifft Stacklands: Dieses Spiel stapelt Kreaturen",
-      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Stackmon-Pokemon-Stacklands-Kreaturensammlung-Karten-1550614/",
-      "published": "Sat, 08 Aug 2026 18:30:00 +0200",
+      "title": "Dead by Daylight wird umgekrempelt: Behaviour plant großen System-Umbau",
+      "link": "https://www.pcgames.de/Dead-by-Daylight-Spiel-56568/News/Behaviour-plant-grossen-System-Umbau-1550635/",
+      "published": "Sun, 09 Aug 2026 18:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Beyond Good & Evil 2: Angeblich komplett überarbeitet – Enthüllung unter neuem Namen bald [Gerücht]",
-      "link": "https://www.pcgames.de/Beyond-Good-und-Evil-2-Spiel-61793/News/Das-Projekt-koennte-umbenannt-und-komplett-ueberarbeitet-werden-1550613/",
-      "published": "Sat, 08 Aug 2026 18:01:00 +0200",
+      "title": "Noch vor dem Release des ersten Spiels: Studio aus Ex-Naughty-Dog-Entwicklern entlässt Mitarbeiter",
+      "link": "https://www.pcgames.de/Crossfire-Spiel-20564/News/Thats-no-Moon-Studio-Entlassungen-14-Mitarbeiter-1550633/",
+      "published": "Sun, 09 Aug 2026 16:30:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Anno 117: Datum, Funktionsweise und genaue Größe für Hippodrom-DLC bekannt",
-      "link": "https://www.pcgames.de/Anno-117-Pax-Romana-Spiel-74719/News/Hippodrom-DLC-Wagenrennen-1550612/",
-      "published": "Sat, 08 Aug 2026 17:00:00 +0200",
+      "title": "Reanimal: DLC The Prisoner mit neuer Story und neuen Helden überraschend verfügbar",
+      "link": "https://www.pcgames.de/Reanimal-Spiel-74874/News/Erster-DLC-ist-da-und-erweitert-das-Spiel-1550631/",
+      "published": "Sun, 09 Aug 2026 15:30:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "So verdient Sony bei jeder verkauften Xbox-Disc mit",
-      "link": "https://www.pcgames.de/Microsoft-Xbox-Konsolen-18125/News/Sony-verdient-an-jeder-Disc-mit-1550611/",
-      "published": "Sat, 08 Aug 2026 16:31:00 +0200",
+      "title": "BR1: Infinite - Dieser Shooter lässt euch um Echtgeld spielen",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/BR1-Infinite-Extraction-Shooter-Echtgeld-Kills-1550630/",
+      "published": "Sun, 09 Aug 2026 15:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Alter Demon's-Souls-Prototype geleaked: FromSoftware-RPG mit Ego-Perspektive wie Skyrim",
-      "link": "https://www.pcgames.de/Demons-Souls-Spiel-21164/News/Prototyp-First-Person-Kamera-Leak-1550610/",
-      "published": "Sat, 08 Aug 2026 16:00:00 +0200",
+      "title": "Titan Quest 2: Update liefert neue Klasse für alle Freunde der Nekromantie",
+      "link": "https://www.pcgames.de/Titan-Quest-2-Spiel-74348/News/Geisterbeschwoerung-kommt-per-Update-ins-Spiel-1550629/",
+      "published": "Sun, 09 Aug 2026 14:15:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Octopath Traveler 3: Producer macht ein bisschen Hoffnung auf Fortsetzung des Kult-RPGs",
-      "link": "https://www.pcgames.de/Octopath-Traveler-2-Spiel-74201/News/Teil-3-soll-Vorgaenger-in-den-Schatten-stellen-1550609/",
-      "published": "Sat, 08 Aug 2026 15:31:00 +0200",
+      "title": "Star Wars Jedi 3: Trifft Cal jetzt auf Luke?",
+      "link": "https://www.pcgames.de/Star-Wars-Jedi-Survivor-Spiel-73723/News/Star-Wars-Jedi-3-Cal-Kestis-Luke-Skywalker-1550627/",
+      "published": "Sun, 09 Aug 2026 13:15:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
