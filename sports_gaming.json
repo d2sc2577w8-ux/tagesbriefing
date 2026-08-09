@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-08-08T16:31:31.681681+00:00",
+  "updated_at": "2026-08-09T05:45:35.856255+00:00",
   "sport": [
     {
-      "title": "SRF-Live-Spiel der 3. Runde – GC kommt Servette gerade recht",
-      "link": "https://www.srf.ch/sport/fussball/super-league/srf-live-spiel-der-3-runde-gc-kommt-servette-gerade-recht",
-      "published": "Sat, 08 Aug 2026 08:19:36 +0200",
+      "title": "Super League: 3. Runde – Nach Fernandes-Rot: YB gibt in Lausanne 2:0-Führung aus der Hand",
+      "link": "https://www.srf.ch/sport/fussball/super-league/super-league-3-runde-nach-fernandes-rot-yb-gibt-in-lausanne-2-0-fuehrung-aus-der-hand",
+      "published": "Sat, 08 Aug 2026 20:18:54 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Super League: 3. Spieltag – Abrashi trifft, doch GC verliert erneut nach einer 1:0-Führung",
+      "link": "https://www.srf.ch/sport/fussball/super-league/super-league-3-spieltag-abrashi-trifft-doch-gc-verliert-erneut-nach-einer-1-0-fuehrung",
+      "published": "Sat, 08 Aug 2026 22:36:23 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Tour de France Femmes – Vollering jubelt über 2. Etappensieg und erstmalige Gesamtführung",
+      "link": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-vollering-jubelt-ueber-2-etappensieg-und-erstmalige-gesamtfuehrung",
+      "published": "Sat, 08 Aug 2026 18:37:50 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
@@ -14,28 +26,28 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
+      "title": "News aus der Super League – Barcelona testet gegen Basel – YB holt Sène",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-barcelona-testet-gegen-basel-yb-holt-sene",
+      "published": "Sat, 08 Aug 2026 11:32:25 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
       "title": "Internationale Fussball-News – Zweitteuerster Klub-Transfer: Arsenal holt Guimaraes",
       "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-zweitteuerster-klub-transfer-arsenal-holt-guimaraes",
       "published": "Sat, 08 Aug 2026 17:03:48 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Er erlag dem Krebs – Messi trauert um seinen Vater",
-      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/er-erlag-dem-krebs-messi-trauert-um-seinen-vater",
-      "published": "Sat, 08 Aug 2026 16:32:23 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "Super League: 3. Spieltag – Abrashi trifft, doch GC verliert erneut nach einer 1:0-Führung",
+      "link": "https://www.srf.ch/sport/fussball/super-league/super-league-3-spieltag-abrashi-trifft-doch-gc-verliert-erneut-nach-einer-1-0-fuehrung",
+      "published": "Sat, 08 Aug 2026 22:36:23 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "News aus der Super League – Barcelona testet gegen Basel im St. Jakob-Park",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-barcelona-testet-gegen-basel-im-st-jakob-park",
-      "published": "Sat, 08 Aug 2026 11:32:25 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "OL-Weltcup in Tschechien – Sieg in der Mitteldistanz: Aebersold baut Weltcupführung aus",
-      "link": "https://www.srf.ch/sport/mehr-sport/orientierungslauf/ol-weltcup-in-tschechien-sieg-in-der-mitteldistanz-aebersold-baut-weltcupfuehrung-aus",
-      "published": "Sat, 08 Aug 2026 17:43:33 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "Super League: 3. Runde – Nach Fernandes-Rot: YB gibt in Lausanne 2:0-Führung aus der Hand",
+      "link": "https://www.srf.ch/sport/fussball/super-league/super-league-3-runde-nach-fernandes-rot-yb-gibt-in-lausanne-2-0-fuehrung-aus-der-hand",
+      "published": "Sat, 08 Aug 2026 20:18:54 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "Internationale Fussball-News – Zweitteuerster Klub-Transfer: Arsenal holt Guimaraes",
@@ -56,25 +68,19 @@
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "News aus der Super League – Barcelona testet gegen Basel im St. Jakob-Park",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-barcelona-testet-gegen-basel-im-st-jakob-park",
+      "title": "News aus der Super League – Barcelona testet gegen Basel – YB holt Sène",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-barcelona-testet-gegen-basel-yb-holt-sene",
       "published": "Sat, 08 Aug 2026 11:32:25 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "SRF-Live-Spiel der 3. Runde – GC kommt Servette gerade recht",
-      "link": "https://www.srf.ch/sport/fussball/super-league/srf-live-spiel-der-3-runde-gc-kommt-servette-gerade-recht",
-      "published": "Sat, 08 Aug 2026 08:19:36 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Challenge League: 3. Spieltag – Winterthur feiert den 1. Saisonsieg – auch Aarau jubelt erstmals",
-      "link": "https://www.srf.ch/sport/fussball/challenge-league/challenge-league-3-spieltag-winterthur-feiert-den-1-saisonsieg-auch-aarau-jubelt-erstmals",
-      "published": "Fri, 07 Aug 2026 22:16:26 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
+    {
+      "title": "Pokémon trifft Stacklands: Dieses Spiel stapelt Kreaturen",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Stackmon-Pokemon-Stacklands-Kreaturensammlung-Karten-1550614/",
+      "published": "Sat, 08 Aug 2026 18:30:00 +0200",
+      "source": "PCGames: Wissen, was gespielt wird!"
+    },
     {
       "title": "Beyond Good & Evil 2: Angeblich komplett überarbeitet – Enthüllung unter neuem Namen bald [Gerücht]",
       "link": "https://www.pcgames.de/Beyond-Good-und-Evil-2-Spiel-61793/News/Das-Projekt-koennte-umbenannt-und-komplett-ueberarbeitet-werden-1550613/",
@@ -103,12 +109,6 @@
       "title": "Octopath Traveler 3: Producer macht ein bisschen Hoffnung auf Fortsetzung des Kult-RPGs",
       "link": "https://www.pcgames.de/Octopath-Traveler-2-Spiel-74201/News/Teil-3-soll-Vorgaenger-in-den-Schatten-stellen-1550609/",
       "published": "Sat, 08 Aug 2026 15:31:00 +0200",
-      "source": "PCGames: Wissen, was gespielt wird!"
-    },
-    {
-      "title": "Big Walk: Patch erhöht die Laustärke und reagiert auf die Kritik - aber nur zum Teil",
-      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Big-Walk-Patch-Voice-Chat-Lautstaerke-Kritik-1550604/",
-      "published": "Sat, 08 Aug 2026 14:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]

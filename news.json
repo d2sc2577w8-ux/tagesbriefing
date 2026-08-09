@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-08-08T16:31:29.893846+00:00",
+  "updated_at": "2026-08-09T05:45:33.706823+00:00",
   "politik": [
+    {
+      "title": "Kantonsarchäologie Luzern – Wenn die mittelalterliche Bäckerei einem Müllcontainer weicht",
+      "link": "https://www.srf.ch/news/schweiz/kantonsarchaeologie-luzern-wenn-die-mittelalterliche-baeckerei-einem-muellcontainer-weicht",
+      "published": "Sat, 08 Aug 2026 20:52:33 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Burn-out bei Männern – Warum Männer ihre Erschöpfung oft zu spät bemerken",
+      "link": "https://www.srf.ch/news/schweiz/burn-out-bei-maennern-warum-maenner-ihre-erschoepfung-oft-zu-spaet-bemerken",
+      "published": "Sat, 08 Aug 2026 18:32:22 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
     {
       "title": "Grösste Technoparty der Welt – Sommer, Sonne und wummernde Beats",
       "link": "https://www.srf.ch/news/schweiz/groesste-technoparty-der-welt-sommer-sonne-und-wummernde-beats",
-      "published": "Sat, 08 Aug 2026 14:54:21 +0200",
+      "published": "Sat, 08 Aug 2026 18:35:07 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
@@ -14,39 +26,27 @@
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Unterwasser-Putzequipe – Wer vermisst sein Gebiss? Taucher finden es im Basler Rhein",
-      "link": "https://www.srf.ch/news/schweiz/unterwasser-putzequipe-wer-vermisst-sein-gebiss-taucher-finden-es-im-basler-rhein",
-      "published": "Sat, 08 Aug 2026 11:19:18 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Brand von Crans-Montana – Massnahmen gegen Ehepaar Moretti um drei Monate verlängert",
-      "link": "https://www.srf.ch/news/schweiz/brand-von-crans-montana-massnahmen-gegen-ehepaar-moretti-um-drei-monate-verlaengert",
-      "published": "Sat, 08 Aug 2026 11:01:49 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Wenn über Wasser verhandelt wird - das Beispiel Ungarn und Slowakei",
-      "link": "https://www.tagesschau.de/ausland/europa/slowakei-ungarn-niedrigwasser-donau-100.html",
-      "published": "Sat, 08 Aug 2026 18:25:54 +0200",
+      "title": "Bilger will Gehälter von Bahnmanagern an Ziele knüpfen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-deutsche-bahn-gehaelter-100.html",
+      "published": "Sun, 09 Aug 2026 06:34:19 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Großer Zulauf auch bei kleineren CSD-Demos",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/csd-demos-102.html",
-      "published": "Sat, 08 Aug 2026 18:15:26 +0200",
+      "title": "Wie sich Krankenhäuser auf Demenz-Patienten einstellen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/demenz-krankenhaus-100.html",
+      "published": "Sun, 09 Aug 2026 06:03:52 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Was das Bankensterben für Kunden und Mittelstand heißt",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/banken-land-fusionen-100.html",
-      "published": "Sat, 08 Aug 2026 17:36:31 +0200",
+      "title": "Dobrindt will nach Drohnen-Vorfall Forschung ausbauen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-zentrum-drohnenabwehr-100.html",
+      "published": "Sun, 09 Aug 2026 04:58:12 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Hai-Sichtungen vor New York trüben den Badespaß",
-      "link": "https://www.tagesschau.de/ausland/amerika/new-york-haie-100.html",
-      "published": "Sat, 08 Aug 2026 17:28:38 +0200",
+      "title": "Kanadische Provinz British Columbia ruft wegen Waldbränden Notstand aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/notstand-waldbraende-kanada-100.html",
+      "published": "Sun, 09 Aug 2026 04:57:35 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
