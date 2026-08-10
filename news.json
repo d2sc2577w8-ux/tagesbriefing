@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-09T16:33:05.504205+00:00",
+  "updated_at": "2026-08-10T06:09:19.506365+00:00",
   "politik": [
+    {
+      "title": "Lederthek bis Leuchtdreieck – So sah der Schulstart vor 80 Jahren aus",
+      "link": "https://www.srf.ch/news/schweiz/lederthek-bis-leuchtdreieck-so-sah-der-schulstart-vor-80-jahren-aus",
+      "published": "Mon, 10 Aug 2026 06:11:17 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Der Alpkäse schwitzt – Hitze auf 1700 Metern: Wie viel Technik verträgt der Alpkäse?",
+      "link": "https://www.srf.ch/news/schweiz/der-alpkaese-schwitzt-hitze-auf-1700-metern-wie-viel-technik-vertraegt-der-alpkaese",
+      "published": "Mon, 10 Aug 2026 05:48:23 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Diebstahl in Le Locle – Diebe machen sich mit Pendeluhren aus dem Museum davon",
+      "link": "https://www.srf.ch/news/schweiz/diebstahl-in-le-locle-diebe-machen-sich-mit-pendeluhren-aus-dem-museum-davon",
+      "published": "Sun, 09 Aug 2026 19:33:33 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
     {
       "title": "Senkrechtstarter im Weinbau – Neo-Winzer aus Bern holt mit seinem ersten Wein zwei Preise",
       "link": "https://www.srf.ch/news/schweiz/senkrechtstarter-im-weinbau-neo-winzer-aus-bern-holt-mit-seinem-ersten-wein-zwei-preise",
@@ -8,45 +26,27 @@
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Lebendige Tradition – Die letzte Alarmglocke der Schweiz",
-      "link": "https://www.srf.ch/sendungen/dok/lebendige-tradition-die-letzte-alarmglocke-der-schweiz",
-      "published": "Sun, 09 Aug 2026 14:23:02 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Dienstpflicht für Pfarrer – Kirchen wollen in Bundesbern wieder stärker einbezogen werden",
-      "link": "https://www.srf.ch/news/schweiz/dienstpflicht-fuer-pfarrer-kirchen-wollen-in-bundesbern-wieder-staerker-einbezogen-werden",
-      "published": "Sun, 09 Aug 2026 11:58:05 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Weltreise mit Feriengrüssen – Ein Altersheim bittet um Postkarten – und wird überhäuft",
-      "link": "https://www.srf.ch/news/schweiz/weltreise-mit-feriengruessen-ein-altersheim-bittet-um-postkarten-und-wird-ueberhaeuft",
-      "published": "Sun, 09 Aug 2026 11:50:11 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Netanjahu stellt sich erneut gegen Trumps Gaza-Plan",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-hamas-trump-netanjahu-100.html",
-      "published": "Sun, 09 Aug 2026 17:56:41 +0200",
+      "title": "Marktbericht: DAX bleibt in der Nähe des Allzeithochs",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreise-iran-100.html",
+      "published": "Mon, 10 Aug 2026 07:45:17 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Straßenfest \"Hey Hillbrow! Let’s Dlala!\" belebt ein Problemviertel",
-      "link": "https://www.tagesschau.de/ausland/afrika/hillbrow-johannesburg-strassenfest-100.html",
-      "published": "Sun, 09 Aug 2026 17:46:29 +0200",
+      "title": "Waldbrände in Kanada weiter außer Kontrolle",
+      "link": "https://www.tagesschau.de/ausland/amerika/waldbraende-kanada-136.html",
+      "published": "Mon, 10 Aug 2026 07:22:54 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Bilger will Boni bei der Bahn mehr an Ziele knüpfen - und bekommt Zuspruch",
-      "link": "https://www.tagesschau.de/inland/bilger-bahn-boni-100.html",
-      "published": "Sun, 09 Aug 2026 18:21:19 +0200",
+      "title": "KI braucht Rechenzentren - aber welche braucht Deutschland?",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-rechenzentren-welche-deutschland-100.html",
+      "published": "Mon, 10 Aug 2026 06:36:13 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Afghanistan - Tourismus bei den Taliban",
-      "link": "https://www.tagesschau.de/ausland/asien/afghanistan-tourismus-100.html",
-      "published": "Sun, 09 Aug 2026 16:32:09 +0200",
+      "title": "Kampf gegen Geldwäsche und Steuerbetrug: Wenn der Zoll den Porsche beschlagnahmt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zoll-befugnisse-gesetz-100.html",
+      "published": "Mon, 10 Aug 2026 05:00:10 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
