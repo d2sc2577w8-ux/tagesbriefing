@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-08-10T16:52:37.159924+00:00",
+  "updated_at": "2026-08-11T05:52:41.942094+00:00",
   "politik": [
     {
-      "title": "Schulstart im Kanton Bern – Lehrpersonenmangel bleibt in Randgebieten ein Problem",
-      "link": "https://www.srf.ch/news/schweiz/schulstart-im-kanton-bern-lehrpersonenmangel-bleibt-in-randgebieten-ein-problem",
-      "published": "Mon, 10 Aug 2026 17:49:41 +0200",
+      "title": "SVP-Nationalrat zu Hitzesommer – Ernst Wandfluh: «Da bin ich mit Albert Rösti nicht einverstanden»",
+      "link": "https://www.srf.ch/news/schweiz/svp-nationalrat-zu-hitzesommer-ernst-wandfluh-da-bin-ich-mit-albert-roesti-nicht-einverstanden",
+      "published": "Tue, 11 Aug 2026 06:53:06 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Highlights am Heitere Open Air – Kein Strom, kein Problem: So geht Konzert mit Stromausfall",
-      "link": "https://www.srf.ch/radio-srf-3/festivalsommer/highlights-am-heitere-open-air-kein-strom-kein-problem-so-geht-konzert-mit-stromausfall",
-      "published": "Mon, 10 Aug 2026 17:33:20 +0200",
+      "title": "Konflikt um Wasser – Schweiz arbeitet an Wasserabkommen mit Italien und Frankreich",
+      "link": "https://www.srf.ch/news/schweiz/konflikt-um-wasser-schweiz-arbeitet-an-wasserabkommen-mit-italien-und-frankreich",
+      "published": "Tue, 11 Aug 2026 05:55:09 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Vorwurf Anschlagsplanung – Angeklagter Terrorverdächtiger: «IS hat mein Gehirn gewaschen»",
-      "link": "https://www.srf.ch/news/schweiz/vorwurf-anschlagsplanung-angeklagter-terrorverdaechtiger-is-hat-mein-gehirn-gewaschen",
-      "published": "Mon, 10 Aug 2026 17:34:31 +0200",
+      "title": "Hitzesommer 2026 – Hohe Temperaturen stressen Kreislauf – Notfälle nehmen zu",
+      "link": "https://www.srf.ch/news/schweiz/hitzesommer-2026-hohe-temperaturen-stressen-kreislauf-notfaelle-nehmen-zu",
+      "published": "Tue, 11 Aug 2026 05:54:06 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Hartnäckiger Hochdruckkeil – Darum hält sich die Hitze so hartnäckig",
-      "link": "https://www.srf.ch/news/schweiz/hartnaeckiger-hochdruckkeil-darum-haelt-sich-die-hitze-so-hartnaeckig",
-      "published": "Mon, 10 Aug 2026 15:07:18 +0200",
+      "title": "Ex-Banker vor Gericht – Das war der erste Prozesstag im Fall Vincenz",
+      "link": "https://www.srf.ch/news/schweiz/ex-banker-vor-gericht-das-war-der-erste-prozesstag-im-fall-vincenz",
+      "published": "Mon, 10 Aug 2026 21:55:16 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Iran erwägt Gebühren für \"Dienstleistungen\" in Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/iran-gebuehren-hormus-100.html",
-      "published": "Mon, 10 Aug 2026 18:47:47 +0200",
+      "title": "Marktbericht: Geht die Börsenrally weiter?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
+      "published": "Tue, 11 Aug 2026 07:37:44 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Partielle Sonnenfinsternis: So schützen Sie Ihre Augen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/sonnenfinsternis-schutzbrille-100.html",
-      "published": "Mon, 10 Aug 2026 18:43:06 +0200",
+      "title": "Ablenkungsmanöver: Trump im Catering-Wagen statt in der Air Force One?",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-nato-gipfel-catering-wagen-100.html",
+      "published": "Tue, 11 Aug 2026 07:30:55 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Spanien: Vorfreude auf Sonnenfinsternis, Angst vor Waldbränden",
-      "link": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-balearen-100.html",
-      "published": "Mon, 10 Aug 2026 18:41:58 +0200",
+      "title": "Volksinitiative: Will die Schweiz noch neutraler werden?",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-neutralitaet-102.html",
+      "published": "Tue, 11 Aug 2026 07:16:22 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Dürre in Europa: Ernteausfälle, trockene Flüsse und Wassersparen",
-      "link": "https://www.tagesschau.de/ausland/europa/trockenheit-auswirkungen-europa-100.html",
-      "published": "Mon, 10 Aug 2026 18:39:59 +0200",
+      "title": "Ungarns neue Präsident: Ein Mann mit Prinzipien",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-parlament-wahl-praesident-100.html",
+      "published": "Tue, 11 Aug 2026 07:15:42 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "OpenAI bringt GPT-5.6-Cyber: Neues KI-Modell soll Verteidigern helfen, Schwachstellen vor Angreifern zu finden",
+      "link": "https://the-decoder.de/openai-bringt-gpt-5-6-cyber-neues-ki-modell-soll-verteidigern-helfen-schwachstellen-vor-angreifern-zu-finden/",
+      "published": "Mon, 10 Aug 2026 17:48:30 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Alte OCR-Texte lassen Sprachmodelle nur mit 30 Prozent der Effizienz lernen – das FineBooks-Projekt will das ändern",
+      "link": "https://the-decoder.de/alte-ocr-texte-lassen-sprachmodelle-nur-mit-30-prozent-der-effizienz-lernen-das-finebooks-projekt-will-das-aendern/",
+      "published": "Mon, 10 Aug 2026 17:24:39 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Metas neues offenes KI-Modell erscheint mit Plädoyer für das Lernen aus Konkurrenz-Daten und einer 600-Milliarden-Frage",
       "link": "https://the-decoder.de/metas-neues-offenes-ki-modell-erscheint-mit-plaedoyer-fuer-das-lernen-aus-konkurrenz-daten-und-einer-600-milliarden-frage/",
@@ -67,18 +79,6 @@
       "title": "KI-Agent hackt Fitnessstudio-Website und wirft fremden Nutzer von der Warteliste",
       "link": "https://the-decoder.de/ki-agent-hackt-fitnessstudio-website-und-wirft-fremden-nutzer-von-der-warteliste/",
       "published": "Mon, 10 Aug 2026 09:58:49 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Versteckter Text in einem PDF reicht aus, um über Atlassians KI-Agent Rovo sensible Daten zu stehlen",
-      "link": "https://the-decoder.de/versteckter-text-in-einem-pdf-reicht-aus-um-ueber-atlassians-ki-agent-rovo-sensible-daten-zu-stehlen/",
-      "published": "Mon, 10 Aug 2026 08:37:36 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "KI-Betrug an US-Colleges: Falsche Studierende erschleichen mit KI Studienbeihilfen",
-      "link": "https://the-decoder.de/ki-betrug-an-us-colleges-falsche-studierende-erschleichen-mit-ki-studienbeihilfen/",
-      "published": "Sun, 09 Aug 2026 12:50:59 +0000",
       "source": "The Decoder"
     }
   ]
