@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-08-14T16:50:43.693152+00:00",
+  "updated_at": "2026-08-15T05:22:58.061324+00:00",
   "politik": [
     {
-      "title": "Nach Bergsturz – Bodenbesitzer stoppen Umsiedlung von Brienz GR nach Vazerol",
-      "link": "https://www.srf.ch/news/schweiz/nach-bergsturz-bodenbesitzer-stoppen-umsiedlung-von-brienz-gr-nach-vazerol",
-      "published": "Fri, 14 Aug 2026 18:20:05 +0200",
+      "title": "Hilfe bei Grossbrand – Bauern helfen Feuerwehr beim Löschen mit Güllefässern",
+      "link": "https://www.srf.ch/news/schweiz/hilfe-bei-grossbrand-bauern-helfen-feuerwehr-beim-loeschen-mit-guellefaessern",
+      "published": "Sat, 15 Aug 2026 07:00:49 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Hitze trifft Tradition – Dem Rhein fehlt die Kraft: Basler Fähre steht still",
-      "link": "https://www.srf.ch/news/schweiz/hitze-trifft-tradition-dem-rhein-fehlt-die-kraft-basler-faehre-steht-still",
-      "published": "Fri, 14 Aug 2026 18:02:41 +0200",
+      "title": "Psychische Erkrankungen – IV-Gelder hinken der Realität hinterher",
+      "link": "https://www.srf.ch/news/schweiz/psychische-erkrankungen-iv-gelder-hinken-der-realitaet-hinterher",
+      "published": "Fri, 14 Aug 2026 22:32:53 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Nach Gotthard-Unfall – Güterwagen-Sicherheit: Europa beugt sich dem Druck der Schweiz",
-      "link": "https://www.srf.ch/news/schweiz/nach-gotthard-unfall-gueterwagen-sicherheit-europa-beugt-sich-dem-druck-der-schweiz",
-      "published": "Fri, 14 Aug 2026 16:30:48 +0200",
+      "title": "Strafanzeige im Fall Ramiswil – Tierschutz zeigt Solothurner Kantonstierärztin an",
+      "link": "https://www.srf.ch/news/schweiz/strafanzeige-im-fall-ramiswil-tierschutz-zeigt-solothurner-kantonstieraerztin-an",
+      "published": "Fri, 14 Aug 2026 20:47:25 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Schuldspruch nach Lawinendrama – Lawinenunglück: Bergführer wegen fahrlässiger Tötung verurteilt",
-      "link": "https://www.srf.ch/news/schweiz/schuldspruch-nach-lawinendrama-lawinenunglueck-bergfuehrer-wegen-fahrlaessiger-toetung-verurteilt",
-      "published": "Fri, 14 Aug 2026 15:39:22 +0200",
+      "title": "Warnt vor Sicherheitslücke – Kanton Bern stoppt automatisierte Fahrzeugfahndung",
+      "link": "https://www.srf.ch/news/schweiz/warnt-vor-sicherheitsluecke-kanton-bern-stoppt-automatisierte-fahrzeugfahndung",
+      "published": "Fri, 14 Aug 2026 20:42:51 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Marktbericht: DAX-Gewinne reichen nicht für Rekord",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
-      "published": "Fri, 14 Aug 2026 18:24:07 +0200",
+      "title": "Kampf gegen die Flammen im Hürtgenwald",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html",
+      "published": "Sat, 15 Aug 2026 05:51:24 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Ceuta: Irreführende Videos und KI-generierte Bilder im Umlauf",
-      "link": "https://www.tagesschau.de/faktenfinder/fakes-ceuta-100.html",
-      "published": "Fri, 14 Aug 2026 18:23:56 +0200",
+      "title": "Schweres Erdbeben erschüttert Ostindonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
+      "published": "Sat, 15 Aug 2026 05:07:27 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Renoir, Cézanne, Matisse: Italienische Polizei findet gestohlene Kunst",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-kunst-polizei-100.html",
-      "published": "Fri, 14 Aug 2026 17:51:29 +0200",
+      "title": "USA wirtschaftlich unter Druck: Renditen für US-Staatsanleihen",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/staatsanleihen-usa-100.html",
+      "published": "Sat, 15 Aug 2026 04:13:14 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Niederlage für Macron: Social-Media-Verbot gekippt",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-social-media-verbot-gekippt-100.html",
-      "published": "Fri, 14 Aug 2026 17:07:58 +0200",
+      "title": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
+      "published": "Sat, 15 Aug 2026 03:12:08 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Anthropics neue Watermarking-API soll KI-generierte Claude-Texte zuverlässig erkennen",
+      "link": "https://the-decoder.de/neue-watermarking-api-von-anthropic-soll-ki-generierte-texte-von-claude-nachweisbar-machen/",
+      "published": "Fri, 14 Aug 2026 21:16:17 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Alibabas Qwen-Team veröffentlicht Qwen3.8-Modelle mit offenen Gewichten unter Apache-2.0-Lizenz",
+      "link": "https://the-decoder.de/alibabas-qwen-team-veroeffentlicht-qwen3-8-modelle-mit-offenen-gewichten-unter-apache-2-0-lizenz/",
+      "published": "Fri, 14 Aug 2026 16:56:54 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "ChatGPTs neue \"Computer History\" verwandelt den Arbeitsalltag in KI-Kontext",
       "link": "https://the-decoder.de/chatgpts-neue-computer-history-verwandelt-den-arbeitsalltag-in-ki-kontext/",
@@ -67,18 +79,6 @@
       "title": "14x schneller: OpenAI launcht neuen \"Ultrafast\"-Modus für GPT-5.6 Sol",
       "link": "https://the-decoder.de/14x-schneller-openai-launcht-neuen-ultrafast-modus-fuer-gpt-5-6-sol/",
       "published": "Fri, 14 Aug 2026 14:09:50 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Anthropic testet autonome KI-Wartung: Claude pflegt die eigenen Apps per Slack-Befehl",
-      "link": "https://the-decoder.de/anthropic-testet-autonome-ki-wartung-claude-pflegt-die-eigenen-apps-per-slack-befehl/",
-      "published": "Fri, 14 Aug 2026 11:12:38 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Zhipu AI veröffentlicht GLM-5.3: Chinas neues Open-Weights-Modell soll das stärkste für Code sein",
-      "link": "https://the-decoder.de/zhipu-ai-veroeffentlicht-glm-5-3-chinas-neues-open-weights-modell-soll-das-staerkste-fuer-code-sein/",
-      "published": "Fri, 14 Aug 2026 08:40:34 +0000",
       "source": "The Decoder"
     }
   ]
