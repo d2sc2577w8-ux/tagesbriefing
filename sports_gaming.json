@@ -1,80 +1,86 @@
 {
-  "updated_at": "2026-08-16T16:22:16.205718+00:00",
+  "updated_at": "2026-08-17T05:33:49.573464+00:00",
   "sport": [
     {
-      "title": "1. Runde Schweizer Cup – Auch am Sonntag patzt kein Superligist",
-      "link": "https://www.srf.ch/sport/fussball/schweizer-cup/1-runde-schweizer-cup-auch-am-sonntag-patzt-kein-superligist",
+      "title": "LA-EM: Staffel-Entscheidungen – Mixed-Staffel läuft knapp an den Medaillen vorbei",
+      "link": "https://www.srf.ch/sport/leichtathletik/leichtathletik-em/la-em-staffel-entscheidungen-mixed-staffel-laeuft-knapp-an-den-medaillen-vorbei",
+      "published": "Sun, 16 Aug 2026 23:11:53 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "EM: Weitere Entscheidungen – Duplantis fliegt zu EM-Gold – Weitsprung-Krimi an Iapichino",
+      "link": "https://www.srf.ch/sport/leichtathletik/leichtathletik-em/em-weitere-entscheidungen-duplantis-fliegt-zu-em-gold-weitsprung-krimi-an-iapichino",
+      "published": "Sun, 16 Aug 2026 23:04:40 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "EM in Birmingham: Speerwurf – Hüglis leiser Medaillentraum platzt jäh",
+      "link": "https://www.srf.ch/sport/leichtathletik/leichtathletik-em/em-in-birmingham-speerwurf-hueglis-leiser-medaillentraum-platzt-jaeh",
+      "published": "Sun, 16 Aug 2026 22:12:07 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Leichtathletik-EM: Marathon – Petros und Vainio triumphieren – Schweizer Exploit bleibt aus",
+      "link": "https://www.srf.ch/sport/leichtathletik/leichtathletik-em/leichtathletik-em-marathon-petros-und-vainio-triumphieren-schweizer-exploit-bleibt-aus",
+      "published": "Sun, 16 Aug 2026 11:36:33 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "1. Runde Schweizer Cup – Auch am Sonntag patzt keiner aus dem Oberhaus",
+      "link": "https://www.srf.ch/sport/fussball/schweizer-cup/1-runde-schweizer-cup-auch-am-sonntag-patzt-keiner-aus-dem-oberhaus",
       "published": "Sun, 16 Aug 2026 18:04:59 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Supercup-Sieg über ManCity – Arsenal setzt im Community Shield ein frühes Ausrufezeichen",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/supercup-sieg-ueber-mancity-arsenal-setzt-im-community-shield-ein-fruehes-ausrufezeichen",
-      "published": "Sun, 16 Aug 2026 18:03:49 +0200",
+      "title": "Auslosung 2. Runde Cup – Aarau fordert den FCZ, Luzern muss zu Winterthur, Basel nach Nyon",
+      "link": "https://www.srf.ch/sport/fussball/schweizer-cup/auslosung-2-runde-cup-aarau-fordert-den-fcz-luzern-muss-zu-winterthur-basel-nach-nyon",
+      "published": "Sun, 16 Aug 2026 20:07:48 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Ex-Naticoach kommt per 1.10. – Martina Voss-Tecklenburg übernimmt die FCZ Frauen",
-      "link": "https://www.srf.ch/sport/fussball/women-s-super-league/ex-naticoach-kommt-per-1-10-martina-voss-tecklenburg-uebernimmt-die-fcz-frauen",
-      "published": "Sun, 16 Aug 2026 16:42:00 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Sonntag um 18 Uhr auf SRF zwei – «Sportpanorama» mit Radrennfahrerin Marlen Reusser",
-      "link": "https://www.srf.ch/sport/mehr-sport/allgemein/sonntag-um-18-uhr-auf-srf-zwei-sportpanorama-mit-radrennfahrerin-marlen-reusser",
-      "published": "Sun, 16 Aug 2026 18:01:35 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Alpiger gewinnt in Mümliswil – Fünf am Stück: Staudenmann siegt auch auf der Schwägalp",
-      "link": "https://www.srf.ch/sport/mehr-sport/schwingen/alpiger-gewinnt-in-muemliswil-fuenf-am-stueck-staudenmann-siegt-auch-auf-der-schwaegalp",
-      "published": "Sun, 16 Aug 2026 17:34:41 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Letztes Rennen in London – Nach dramatischem Finale: Wehrlein Formel-E-Weltmeister",
-      "link": "https://www.srf.ch/sport/motorsport/motorsport-allgemein/letztes-rennen-in-london-nach-dramatischem-finale-wehrlein-formel-e-weltmeister",
-      "published": "Sun, 16 Aug 2026 18:10:20 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Supercup-Sieg über ManCity – Arsenal setzt im Community Shield ein frühes Ausrufezeichen",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/supercup-sieg-ueber-mancity-arsenal-setzt-im-community-shield-ein-fruehes-ausrufezeichen",
-      "published": "Sun, 16 Aug 2026 18:03:49 +0200",
+      "title": "Internationale Fussball-News – Belgier Pocognoli neuer schottischer Nationalcoach",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-belgier-pocognoli-neuer-schottischer-nationalcoach",
+      "published": "Sun, 16 Aug 2026 21:21:47 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "1. Runde Schweizer Cup – Auch am Sonntag patzt kein Superligist",
-      "link": "https://www.srf.ch/sport/fussball/schweizer-cup/1-runde-schweizer-cup-auch-am-sonntag-patzt-kein-superligist",
+      "title": "Auslosung 2. Runde Cup – Aarau fordert den FCZ, Luzern muss zu Winterthur, Basel nach Nyon",
+      "link": "https://www.srf.ch/sport/fussball/schweizer-cup/auslosung-2-runde-cup-aarau-fordert-den-fcz-luzern-muss-zu-winterthur-basel-nach-nyon",
+      "published": "Sun, 16 Aug 2026 20:07:48 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Testspiel im St. Jakob-Park – Und dann trifft auch noch Yamal: Barcelona-Spektakel in Basel",
+      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/testspiel-im-st-jakob-park-und-dann-trifft-auch-noch-yamal-barcelona-spektakel-in-basel",
+      "published": "Sun, 16 Aug 2026 18:42:57 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Supercup-Sieg über ManCity – Arsenal setzt im Community Shield ein frühes Ausrufezeichen",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/supercup-sieg-ueber-mancity-arsenal-setzt-im-community-shield-ein-fruehes-ausrufezeichen",
+      "published": "Sun, 16 Aug 2026 22:46:42 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "1. Runde Schweizer Cup – Auch am Sonntag patzt keiner aus dem Oberhaus",
+      "link": "https://www.srf.ch/sport/fussball/schweizer-cup/1-runde-schweizer-cup-auch-am-sonntag-patzt-keiner-aus-dem-oberhaus",
       "published": "Sun, 16 Aug 2026 18:04:59 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "Ex-Naticoach kommt per 1.10. – Martina Voss-Tecklenburg übernimmt die FCZ Frauen",
       "link": "https://www.srf.ch/sport/fussball/women-s-super-league/ex-naticoach-kommt-per-1-10-martina-voss-tecklenburg-uebernimmt-die-fcz-frauen",
-      "published": "Sun, 16 Aug 2026 16:42:00 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Englischer Supercup am Sonntag – The Weeknd hat Prio: Arsenal vs. ManCity in Cardiff statt London",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/englischer-supercup-am-sonntag-the-weeknd-hat-prio-arsenal-vs-mancity-in-cardiff-statt-london",
-      "published": "Sun, 16 Aug 2026 08:58:02 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "1. Runde Schweizer Cup – YB beweist Geduld – Basel, GC und Servette locker weiter",
-      "link": "https://www.srf.ch/sport/fussball/schweizer-cup/1-runde-schweizer-cup-yb-beweist-geduld-basel-gc-und-servette-locker-weiter",
-      "published": "Sat, 15 Aug 2026 19:48:18 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "News aus der Super League – GC holt Morandi zurück",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-gc-holt-morandi-zurueck",
-      "published": "Sat, 15 Aug 2026 11:18:13 +0200",
+      "published": "Sun, 16 Aug 2026 20:09:39 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
+    {
+      "title": "Die Simpsons - Der neue Film - Video-Leaks zeigen hinter geschlossenen Türen gezeigte Szene",
+      "link": "https://www.pcgames.de/Die-Simpsons-Der-Film-Film-205056/News/Erste-Szene-Video-Leaks-1551282/",
+      "published": "Sun, 16 Aug 2026 18:45:00 +0200",
+      "source": "PCGames: Wissen, was gespielt wird!"
+    },
     {
       "title": "Konkurrenz für Lego: Mattel plant wohl Xbox-Bausteinset nach dem Release des Halo-Warthog [Gerücht]",
       "link": "https://www.pcgames.de/Xbox-Series-X-Konsolen-268616/News/Mattel-Xbox-Bauset-3000-Teile-Geruecht-1551281/",
@@ -103,12 +109,6 @@
       "title": "Halo: Activision und Sledgehammer sollen Multiplayer-Prototyp getestet haben",
       "link": "https://www.pcgames.de/Spiele-Thema-239104/News/halo-multiplayer-activision-sledgehammer-prototyp-1551272/",
       "published": "Sun, 16 Aug 2026 14:00:00 +0200",
-      "source": "PCGames: Wissen, was gespielt wird!"
-    },
-    {
-      "title": "Stalker 2: Update 2.0 haut A-Life-Verbesserungen, Nebel und neue Waffen raus",
-      "link": "https://www.pcgames.de/Stalker-2-Spiel-34596/News/update-2-0-nebel-a-life-1551271/",
-      "published": "Sun, 16 Aug 2026 13:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
