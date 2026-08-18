@@ -1,114 +1,114 @@
 {
-  "updated_at": "2026-08-18T05:27:26.219819+00:00",
+  "updated_at": "2026-08-18T16:28:58.063278+00:00",
   "sport": [
     {
+      "title": "News aus der Super League – Luzern holt Goalie Letica – GC verpflichtet jungen Spanier",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-luzern-holt-goalie-letica-gc-verpflichtet-jungen-spanier",
+      "published": "Tue, 18 Aug 2026 18:02:56 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Transfer-Saga beendet – Barça gewinnt den Poker um Rodri – Real geht leer aus",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/transfer-saga-beendet-barca-gewinnt-den-poker-um-rodri-real-geht-leer-aus",
+      "published": "Tue, 18 Aug 2026 12:21:56 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Internationale Fussball-News – Auf Leihbasis: Füllkrug kehrt zu Bremen zurück",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-auf-leihbasis-fuellkrug-kehrt-zu-bremen-zurueck",
+      "published": "Tue, 18 Aug 2026 15:58:51 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "17-jähriges Talent – Gladbachs Mohya: Millionen wert, aber keine Ahnung vom Kontostand",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/17-jaehriges-talent-gladbachs-mohya-millionen-wert-aber-keine-ahnung-vom-kontostand",
+      "published": "Tue, 18 Aug 2026 11:02:17 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Sichtbare Änderung in England – Das grosse Geschäft mit den Fussball-Trikots",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/sichtbare-aenderung-in-england-das-grosse-geschaeft-mit-den-fussball-trikots",
+      "published": "Tue, 18 Aug 2026 09:24:00 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Reit-WM in Aachen – Mit Aachen-Experte Fuchs: Auf zur Medaillenjagd im Hexenkessel",
+      "link": "https://www.srf.ch/sport/mehr-sport/reiten/reit-wm-in-aachen-mit-aachen-experte-fuchs-auf-zur-medaillenjagd-im-hexenkessel",
+      "published": "Tue, 18 Aug 2026 16:41:41 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Internationale Fussball-News – Auf Leihbasis: Füllkrug kehrt zu Bremen zurück",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-auf-leihbasis-fuellkrug-kehrt-zu-bremen-zurueck",
+      "published": "Tue, 18 Aug 2026 15:58:51 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Transfer-Saga beendet – Barça gewinnt den Poker um Rodri – Real geht leer aus",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/transfer-saga-beendet-barca-gewinnt-den-poker-um-rodri-real-geht-leer-aus",
+      "published": "Tue, 18 Aug 2026 12:21:56 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "17-jähriges Talent – Gladbachs Mohya: Millionen wert, aber keine Ahnung vom Kontostand",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/17-jaehriges-talent-gladbachs-mohya-millionen-wert-aber-keine-ahnung-vom-kontostand",
+      "published": "Tue, 18 Aug 2026 11:02:17 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "News aus der Super League – Luzern holt Goalie Letica – GC verpflichtet jungen Spanier",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-luzern-holt-goalie-letica-gc-verpflichtet-jungen-spanier",
+      "published": "Tue, 18 Aug 2026 18:02:56 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Sichtbare Änderung in England – Das grosse Geschäft mit den Fussball-Trikots",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/sichtbare-aenderung-in-england-das-grosse-geschaeft-mit-den-fussball-trikots",
+      "published": "Tue, 18 Aug 2026 09:24:00 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
       "title": "Nach Kritik an Infantino – Fifa trennt sich von Betriebsdirektor Lamour",
       "link": "https://www.srf.ch/sport/fussball/internationale-ligen/nach-kritik-an-infantino-fifa-trennt-sich-von-betriebsdirektor-lamour",
       "published": "Mon, 17 Aug 2026 21:52:25 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "News aus der Super League – Tsimba verlässt YB – ein Schwede für Thun",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-tsimba-verlaesst-yb-ein-schwede-fuer-thun",
-      "published": "Mon, 17 Aug 2026 19:10:28 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Stürmer Yael Trepy – Beinahe ertrunken: Cagliari-Profi auf Intensivstation",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/stuermer-yael-trepy-beinahe-ertrunken-cagliari-profi-auf-intensivstation",
-      "published": "Mon, 17 Aug 2026 15:51:41 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Superstar plant Vermächtnis – «Wahrscheinlich mein letztes Jahr»: Ronaldo denkt an Rücktritt",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/superstar-plant-vermaechtnis-wahrscheinlich-mein-letztes-jahr-ronaldo-denkt-an-ruecktritt",
-      "published": "Mon, 17 Aug 2026 13:35:01 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Vertrag bei Bologna lief aus – Freuler setzt Karriere bei Olympiakos Piräus fort",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/vertrag-bei-bologna-lief-aus-freuler-setzt-karriere-bei-olympiakos-piraeus-fort",
-      "published": "Mon, 17 Aug 2026 13:07:41 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Kunstturn-Hoffnung Seifert – Gold-Premiere bei der «verflixten» siebten EM?",
-      "link": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturn-hoffnung-seifert-gold-premiere-bei-der-verflixten-siebten-em",
-      "published": "Mon, 17 Aug 2026 20:13:06 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Nach Kritik an Infantino – Fifa trennt sich von Betriebsdirektor Lamour",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/nach-kritik-an-infantino-fifa-trennt-sich-von-betriebsdirektor-lamour",
-      "published": "Mon, 17 Aug 2026 21:52:25 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Stürmer Yael Trepy – Beinahe ertrunken: Cagliari-Profi auf Intensivstation",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/stuermer-yael-trepy-beinahe-ertrunken-cagliari-profi-auf-intensivstation",
-      "published": "Mon, 17 Aug 2026 15:51:41 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "City-Event mit Premiere – Während vier Tagen war Baden eine Beachsoccer-Hochburg",
-      "link": "https://www.srf.ch/sport/fussball/beachsoccer/city-event-mit-premiere-waehrend-vier-tagen-war-baden-eine-beachsoccer-hochburg",
-      "published": "Mon, 17 Aug 2026 13:49:59 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Superstar plant Vermächtnis – «Wahrscheinlich mein letztes Jahr»: Ronaldo denkt an Rücktritt",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/superstar-plant-vermaechtnis-wahrscheinlich-mein-letztes-jahr-ronaldo-denkt-an-ruecktritt",
-      "published": "Mon, 17 Aug 2026 13:35:01 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "News aus der Super League – Tsimba verlässt YB – ein Schwede für Thun",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-tsimba-verlaesst-yb-ein-schwede-fuer-thun",
-      "published": "Mon, 17 Aug 2026 19:10:28 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Vertrag bei Bologna lief aus – Freuler setzt Karriere bei Olympiakos Piräus fort",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/vertrag-bei-bologna-lief-aus-freuler-setzt-karriere-bei-olympiakos-piraeus-fort",
-      "published": "Mon, 17 Aug 2026 13:07:41 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "WoW bekommt plötzlich MMO-Konkurrenz, mit der wohl niemand gerechnet hat",
-      "link": "https://www.pcgames.de/RuneScape-Spiel-31127/News/OSRS-Kampfansage-an-World-of-Warcraft-1551367/",
-      "published": "Tue, 18 Aug 2026 07:00:00 +0200",
+      "title": "Lootbound nimmt das nervigste Feature aus Diablo – und strickt daraus ein ganzes Spiel",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/Specials/Lootbound-Steam-Meinung-Test-Wertungen-1551503/",
+      "published": "Tue, 18 Aug 2026 18:08:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Harry Potter: Zwei Star-Regisseurinnen sagen HBO wegen J. K. Rowling ab",
-      "link": "https://www.pcgames.de/Harry-Potter-Brands-23301/News/Regisserinnen-abgelehnt-Rowling-1551369/",
-      "published": "Tue, 18 Aug 2026 06:00:00 +0200",
+      "title": "Harry Potter: Warner stoppte geheime Rumtreiber-Serie für das HBO-Reboot",
+      "link": "https://www.pcgames.de/Harry-Potter-Brands-23301/News/HBO-Rumtreiber-Serie-1551477/",
+      "published": "Tue, 18 Aug 2026 17:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Star Wars: Zwischen Langeweile und Nostalgie - erstes Filmposter zum neuen Kinofilm",
-      "link": "https://www.pcgames.de/Star-Wars-Brands-25101/News/filposter-kinostart-starfighter-1551365/",
-      "published": "Mon, 17 Aug 2026 19:15:00 +0200",
+      "title": "WoW-Fans jagen einem Waschbären hinterher, der noch gar nicht da ist",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Fans-jagen-Waschbaeren-hinterher-1551454/",
+      "published": "Tue, 18 Aug 2026 16:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "10 Million Pixels: Hier jagt ihr einen einzigen Pixel - und das sieht verblüffend spaßig aus",
-      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/10-Million-Pixels-Steam-Indie-1551385/",
-      "published": "Mon, 17 Aug 2026 18:59:00 +0200",
+      "title": "Xbox x McDonald's: Ingame-Items für Fast Food - aber nur für wenige Spieler",
+      "link": "https://www.pcgames.de/Microsoft-Xbox-Konsolen-18125/News/Ingame-Items-Belohnungen-McDonald-Kollaboration-1551461/",
+      "published": "Tue, 18 Aug 2026 15:31:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Star Trek: Neuer Kinofilm „darf sich nicht gleich anfühlen“",
-      "link": "https://www.pcgames.de/Star-Trek-Brands-138540/News/neuer-kinofilm-kirk-spock-1551316/",
-      "published": "Mon, 17 Aug 2026 18:28:00 +0200",
+      "title": "Das gab es im Original nicht - Tomb Raider: Legacy of Atlantis führt Söldner ein",
+      "link": "https://www.pcgames.de/Tomb-Raider-Legacy-of-Atlantis-Spiel-75473/News/Combat-Deep-Dive-Soeldner-Akrobatik-Doppelpistolen-1551438/",
+      "published": "Tue, 18 Aug 2026 15:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Substructure verbindet Fabrikbau mit ungewöhnlichem Tiefgang",
-      "link": "https://www.pcgames.de/Steam-Software-69900/News/Substructure-Fabrikspiel-Meilenstein-Steam-Wishlist-1551366/",
-      "published": "Mon, 17 Aug 2026 18:01:00 +0200",
+      "title": "Selbstspielende WoW-Charaktere entdeckt – Bug, Test oder heimliches Feature?",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/wow-charaktere-spielen-sich-selbst-1551446/",
+      "published": "Tue, 18 Aug 2026 14:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
