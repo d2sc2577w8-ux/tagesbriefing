@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-08-20T16:33:13.364279+00:00",
+  "updated_at": "2026-08-21T05:30:21.068668+00:00",
   "politik": [
     {
-      "title": "Starkregen im Tessin – Autobahn A2 muss wegen Unwetter kurzzeitig gesperrt werden",
-      "link": "https://www.srf.ch/news/schweiz/starkregen-im-tessin-autobahn-a2-muss-wegen-unwetter-kurzzeitig-gesperrt-werden",
-      "published": "Thu, 20 Aug 2026 17:54:49 +0200",
+      "title": "Nach langer Sanierung – Ambulanzen können Notfall der Berner Frauenklinik nicht anfahren",
+      "link": "https://www.srf.ch/news/schweiz/nach-langer-sanierung-ambulanzen-koennen-notfall-der-berner-frauenklinik-nicht-anfahren",
+      "published": "Fri, 21 Aug 2026 06:07:11 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Russische Spionage – Putins «Wegwerfagenten» sind auch in der Schweiz aktiv",
-      "link": "https://www.srf.ch/news/schweiz/russische-spionage-putins-wegwerfagenten-sind-auch-in-der-schweiz-aktiv",
-      "published": "Thu, 20 Aug 2026 17:00:30 +0200",
+      "title": "1. SRG-Umfrage auf einen Blick – Neutralitätsinitiative im Rückstand, Ernährungsinitiative offen",
+      "link": "https://www.srf.ch/news/schweiz/1-srg-umfrage-auf-einen-blick-neutralitaetsinitiative-im-rueckstand-ernaehrungsinitiative-offen",
+      "published": "Fri, 21 Aug 2026 06:00:00 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Kriminalität bei Maghrebinern – Wieso sind so viele Nordafrikaner in Straftaten verwickelt?",
-      "link": "https://www.srf.ch/news/schweiz/kriminalitaet-bei-maghrebinern-wieso-sind-so-viele-nordafrikaner-in-straftaten-verwickelt",
-      "published": "Thu, 20 Aug 2026 16:50:03 +0200",
+      "title": "1. SRG-Umfrage – Ernährungsinitiative startet mit Patt in den Abstimmungskampf",
+      "link": "https://www.srf.ch/news/schweiz/1-srg-umfrage-ernaehrungsinitiative-startet-mit-patt-in-den-abstimmungskampf",
+      "published": "Fri, 21 Aug 2026 05:58:19 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Finanzierung der 13. AHV-Rente – Die Mehrwertsteuer ist sozialer als angenommen",
-      "link": "https://www.srf.ch/news/schweiz/finanzierung-der-13-ahv-rente-die-mehrwertsteuer-ist-sozialer-als-angenommen",
-      "published": "Thu, 20 Aug 2026 16:05:03 +0200",
+      "title": "Neue AKW-Kostenschätzung – Eine etwas andere Kostenrechnung für ein AKW",
+      "link": "https://www.srf.ch/news/schweiz/neue-akw-kostenschaetzung-eine-etwas-andere-kostenrechnung-fuer-ein-akw",
+      "published": "Fri, 21 Aug 2026 05:39:50 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Waldbrand in Belgien nahe der deutschen Grenze unter Kontrolle",
-      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-unter-kontrolle-100.html",
-      "published": "Thu, 20 Aug 2026 18:04:55 +0200",
+      "title": "Schiffsverkehr durch Panamakanal wird wegen Trockenheit reduziert",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/panamakanal-schiffsverkehr-trockenheit-100.html",
+      "published": "Fri, 21 Aug 2026 07:27:24 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Mehr als 100 Tote bei Einsturz von Goldmine in Zentralafrika",
-      "link": "https://www.tagesschau.de/ausland/afrika/unglueck-goldmine-tote-100.html",
-      "published": "Thu, 20 Aug 2026 18:02:10 +0200",
+      "title": "Wirtschaft mahnt in Brief an Regierung Umsetzung von Reformen an",
+      "link": "https://www.tagesschau.de/wirtschaft/brief-konzerne-regierung-100.html",
+      "published": "Fri, 21 Aug 2026 06:45:28 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "DGB-Ausbildungsreport: Jeder zweite Azubi ist psychisch belastet",
-      "link": "https://www.tagesschau.de/wirtschaft/dgb-ausbildungsreport-106.html",
-      "published": "Thu, 20 Aug 2026 17:43:10 +0200",
+      "title": "Vor Landtagswahl: Klingbeil bei Wahlkampf in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/klingbeil-sachsen-anhalt-100.html",
+      "published": "Fri, 21 Aug 2026 05:31:37 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Hitzetote in Deutschland: Warum Experten mehr Prävention fordern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hitze-gesundheit-bundesregierung-100.html",
-      "published": "Thu, 20 Aug 2026 17:12:43 +0200",
+      "title": "Erdbeben erschüttert Andenregion in Peru",
+      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-104.html",
+      "published": "Fri, 21 Aug 2026 02:30:43 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Adobe Firefly generiert jetzt Musik, Sprache und Soundeffekte für Videos",
+      "link": "https://the-decoder.de/adobe-firefly-generiert-jetzt-musik-sprache-und-soundeffekte-fuer-videos/",
+      "published": "Thu, 20 Aug 2026 19:19:34 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Warum KI-Detektoren funktionieren: Verhaltenstraining macht Sprachmodelle sprachlich eintönig",
+      "link": "https://the-decoder.de/warum-ki-detektoren-funktionieren-verhaltenstraining-macht-sprachmodelle-sprachlich-eintoenig/",
+      "published": "Thu, 20 Aug 2026 17:24:51 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "KI-Radar #4: China hat aufgeholt, was vom KI-Vorsprung bleibt und wo Europa steht",
       "link": "https://the-decoder.de/ki-radar-4-china-hat-aufgeholt-was-vom-ki-vorsprung-bleibt-und-wo-europa-steht/",
@@ -67,18 +79,6 @@
       "title": "KI-Pionier Sutton hält synthetische Daten für einen \"großen Fehler\" angesichts einer unendlich komplexen Welt",
       "link": "https://the-decoder.de/ki-pionier-sutton-haelt-synthetische-daten-fuer-einen-grossen-fehler-angesichts-einer-unendlich-komplexen-welt/",
       "published": "Thu, 20 Aug 2026 12:08:07 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Anthropic nutzt intern ein unveröffentlichtes KI-Modell namens \"Model 2\"",
-      "link": "https://the-decoder.de/anthropic-nutzt-intern-ein-unveroeffentlichtes-ki-modell-namens-model-2/",
-      "published": "Thu, 20 Aug 2026 09:57:45 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "China hat jetzt auch ein eigenes KI-Zirkelgeschäft",
-      "link": "https://the-decoder.de/china-hat-jetzt-auch-ein-eigenes-ki-zirkelgeschaeft/",
-      "published": "Thu, 20 Aug 2026 09:07:37 +0000",
       "source": "The Decoder"
     }
   ]
