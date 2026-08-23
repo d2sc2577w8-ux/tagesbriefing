@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-08-22T16:21:23.314257+00:00",
+  "updated_at": "2026-08-23T05:27:11.464712+00:00",
   "politik": [
+    {
+      "title": "31 Tage ohne Auto – Für die einen eine Befreiung, für die anderen nur ein Versuch",
+      "link": "https://www.srf.ch/news/schweiz/31-tage-ohne-auto-fuer-die-einen-eine-befreiung-fuer-die-anderen-nur-ein-versuch",
+      "published": "Sat, 22 Aug 2026 19:50:47 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
     {
       "title": "Weinlese im Hochsommer – Hitze sorgt für ungewöhnlich frühe Traubenernte in der Schweiz",
       "link": "https://www.srf.ch/news/dialog/weinlese-im-hochsommer-hitze-sorgt-fuer-ungewoehnlich-fruehe-traubenernte-in-der-schweiz",
@@ -20,33 +26,27 @@
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Berufstätigkeit mit Long Covid – Für viele Betroffene wird Long Covid zum Existenzkampf im Alltag",
-      "link": "https://www.srf.ch/news/dialog/berufstaetigkeit-mit-long-covid-fuer-viele-betroffene-wird-long-covid-zum-existenzkampf-im-alltag",
-      "published": "Sat, 22 Aug 2026 16:16:38 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-lidl-discounter-wettbewerb-100.html",
-      "published": "Sat, 22 Aug 2026 17:09:13 +0200",
+      "title": "Schildkröten in Mexiko: Vom gefundenen Fressen zum Touri-Highlight",
+      "link": "https://www.tagesschau.de/ausland/amerika/schildkroeten-in-mexiko-touristenhit-100.html",
+      "published": "Sun, 23 Aug 2026 06:37:22 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Kanzler Merz dankt Helfern im Waldbrandgebiet in NRW",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-eifel-100.html",
-      "published": "Sat, 22 Aug 2026 17:06:54 +0200",
+      "title": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
+      "published": "Sun, 23 Aug 2026 05:07:24 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Mindestens 13 Migranten nach Bootsunglück vor Tunesien vermisst",
-      "link": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootunglueck-100.html",
-      "published": "Sat, 22 Aug 2026 16:41:06 +0200",
+      "title": "Kasachstan wählt neues Parlament",
+      "link": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
+      "published": "Sun, 23 Aug 2026 05:03:07 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Druck auf Transmenschen in den USA: \"Das ist entmenschlichend\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-transmenschen-100.html",
-      "published": "Sat, 22 Aug 2026 15:34:42 +0200",
+      "title": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
+      "link": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
+      "published": "Sun, 23 Aug 2026 03:29:20 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
