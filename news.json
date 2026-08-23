@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-23T05:27:11.464712+00:00",
+  "updated_at": "2026-08-23T16:22:46.416185+00:00",
   "politik": [
+    {
+      "title": "600-Millionen-Projekt – 250'000 Tonnen Abfall werden in Zuchwil zu Strom und Wärme",
+      "link": "https://www.srf.ch/news/schweiz/600-millionen-projekt-250-000-tonnen-abfall-werden-in-zuchwil-zu-strom-und-waerme",
+      "published": "Sun, 23 Aug 2026 17:57:07 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Naturschutz auf Social Media – #nogeotag: Wie Influencer versuchen, Overtourism zu verhindern",
+      "link": "https://www.srf.ch/news/schweiz/naturschutz-auf-social-media-nogeotag-wie-influencer-versuchen-overtourism-zu-verhindern",
+      "published": "Sun, 23 Aug 2026 16:02:53 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Alarm-App für Hundehalter – Wie eine App Hundehalter vor Gefahren warnt",
+      "link": "https://www.srf.ch/news/schweiz/alarm-app-fuer-hundehalter-wie-eine-app-hundehalter-vor-gefahren-warnt",
+      "published": "Sun, 23 Aug 2026 15:02:32 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
     {
       "title": "31 Tage ohne Auto – Für die einen eine Befreiung, für die anderen nur ein Versuch",
       "link": "https://www.srf.ch/news/schweiz/31-tage-ohne-auto-fuer-die-einen-eine-befreiung-fuer-die-anderen-nur-ein-versuch",
@@ -8,77 +26,59 @@
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Weinlese im Hochsommer – Hitze sorgt für ungewöhnlich frühe Traubenernte in der Schweiz",
-      "link": "https://www.srf.ch/news/dialog/weinlese-im-hochsommer-hitze-sorgt-fuer-ungewoehnlich-fruehe-traubenernte-in-der-schweiz",
-      "published": "Sat, 22 Aug 2026 17:57:28 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Transport – Mit Digitalisierung: So kämpfen Kleinseilbahnen ums Überleben",
-      "link": "https://www.srf.ch/news/dialog/transport-mit-digitalisierung-so-kaempfen-kleinseilbahnen-ums-ueberleben",
-      "published": "Sat, 22 Aug 2026 17:29:34 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Gefahr von Hundebissen mindern – Diese Regeln helfen bei Begegnungen mit Hunden",
-      "link": "https://www.srf.ch/news/schweiz/gefahr-von-hundebissen-mindern-diese-regeln-helfen-bei-begegnungen-mit-hunden",
-      "published": "Sat, 22 Aug 2026 16:31:46 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Schildkröten in Mexiko: Vom gefundenen Fressen zum Touri-Highlight",
-      "link": "https://www.tagesschau.de/ausland/amerika/schildkroeten-in-mexiko-touristenhit-100.html",
-      "published": "Sun, 23 Aug 2026 06:37:22 +0200",
+      "title": "Das ARD-Sommerinterview mit AfD-Chef Chrupalla im Faktencheck",
+      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-chrupalla-100.html",
+      "published": "Sun, 23 Aug 2026 18:01:05 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
-      "published": "Sun, 23 Aug 2026 05:07:24 +0200",
+      "title": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
+      "published": "Sun, 23 Aug 2026 17:44:54 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Kasachstan wählt neues Parlament",
-      "link": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
-      "published": "Sun, 23 Aug 2026 05:03:07 +0200",
+      "title": "Iran reagiert mit Drohungen auf US-Drohungen",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-warnung-sanktionen-100.html",
+      "published": "Sun, 23 Aug 2026 17:25:53 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
-      "link": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
-      "published": "Sun, 23 Aug 2026 03:29:20 +0200",
+      "title": "Außenminister Wadephul lobt den Widerstandswillen Charkiws",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-108.html",
+      "published": "Sun, 23 Aug 2026 16:21:56 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
     {
-      "title": "Studie erklärt, warum KI-Agenten von \"Skills\" profitieren und wann sie versagen",
-      "link": "https://the-decoder.de/studie-erklaert-warum-ki-agenten-von-skills-profitieren-und-wann-sie-versagen/",
-      "published": "Sat, 22 Aug 2026 12:15:59 +0000",
+      "title": "KI-Agent entlässt menschlichen Mitarbeiter nach wiederholtem Zuspätkommen",
+      "link": "https://the-decoder.de/ki-agent-entlaesst-menschlichen-mitarbeiter-nach-wiederholtem-zuspaetkommen/",
+      "published": "Sun, 23 Aug 2026 10:39:59 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Mental World Model: Was KI-Weltmodellen ohne den menschlichen Geist entgeht",
-      "link": "https://the-decoder.de/mental-world-model-was-ki-weltmodellen-ohne-den-menschlichen-geist-entgeht/",
-      "published": "Sat, 22 Aug 2026 09:00:33 +0000",
+      "title": "KI wird zum größten KI-Kunden: Agenten treiben den Token-Verbrauch nach oben",
+      "link": "https://the-decoder.de/ki-verbraucht-mehr-tokens-als-menschen-agenten-treiben-den-verbrauch-massiv-nach-oben/",
+      "published": "Sun, 23 Aug 2026 09:22:00 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "RayNeo iO: Neue KI-Brille zeigt Notizen im Sichtfeld",
-      "link": "https://the-decoder.de/rayneo-io-neue-ki-brille-zeigt-notizen-im-sichtfeld/",
-      "published": "Sat, 22 Aug 2026 08:00:00 +0000",
+      "title": "Warum KI-Modelle Wissenschaftler dazu bringen könnten, schlechter zu forschen",
+      "link": "https://the-decoder.de/warum-ki-modelle-wissenschaftler-dazu-bringen-koennten-schlechter-zu-forschen/",
+      "published": "Sun, 23 Aug 2026 08:35:17 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Netflix testet Sprachmodell als Alternative zur handgebauten Empfehlungslogik",
-      "link": "https://the-decoder.de/netflix-testet-sprachmodell-als-alternative-zur-handgebauten-empfehlungslogik/",
-      "published": "Sat, 22 Aug 2026 07:30:31 +0000",
+      "title": "Speicherknappheit treibt die Preise: Nvidias KI-Server werden rund 15 Prozent teurer",
+      "link": "https://the-decoder.de/speicherknappheit-treibt-die-preise-nvidias-ki-server-werden-rund-15-prozent-teurer/",
+      "published": "Sun, 23 Aug 2026 08:06:28 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Methoden aus der Psychologie decken massive Schwächen in KI-Sicherheitstests auf",
-      "link": "https://the-decoder.de/methoden-aus-der-psychologie-decken-massive-schwaechen-in-ki-sicherheitstests-auf/",
-      "published": "Sat, 22 Aug 2026 07:00:15 +0000",
+      "title": "Wie Chinas Graumarkt Claude-Tokens zu Spottpreisen verkauft",
+      "link": "https://the-decoder.de/wie-chinas-graumarkt-claude-tokens-zu-spottpreisen-verkauft/",
+      "published": "Sun, 23 Aug 2026 07:30:33 +0000",
       "source": "The Decoder"
     }
   ]
