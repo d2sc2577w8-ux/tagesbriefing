@@ -1,41 +1,59 @@
 {
-  "updated_at": "2026-08-24T16:35:11.150566+00:00",
+  "updated_at": "2026-08-25T05:30:00.292284+00:00",
   "sport": [
+    {
+      "title": "Fussball aus den Topligen – Chelsea gewinnt Derby nach Blitzstart – auch Römer Klubs siegen",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-chelsea-gewinnt-derby-nach-blitzstart-auch-roemer-klubs-siegen",
+      "published": "Mon, 24 Aug 2026 23:04:54 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Erste Runde im DFB-Pokal – Schalke und Köln vermeiden frühe Pokal-Pleiten",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/erste-runde-im-dfb-pokal-schalke-und-koeln-vermeiden-fruehe-pokal-pleiten",
+      "published": "Mon, 24 Aug 2026 23:23:16 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News aus der Super League – Males wird in Polen Teamkollege von Zeqiri",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-males-wird-in-polen-teamkollege-von-zeqiri",
+      "published": "Mon, 24 Aug 2026 19:41:07 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Coup kurz vor Saisonstart – BSV Bern schnappt sich Nationalspieler Rubin",
+      "link": "https://www.srf.ch/sport/mehr-sport/handball/coup-kurz-vor-saisonstart-bsv-bern-schnappt-sich-nationalspieler-rubin",
+      "published": "Mon, 24 Aug 2026 19:27:55 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News aus dem Tennis – Bertola in US-Open-Quali weiter – Vondrousova zieht vor TAS",
+      "link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-bertola-in-us-open-quali-weiter-vondrousova-zieht-vor-tas",
+      "published": "Mon, 24 Aug 2026 22:16:37 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
     {
       "title": "3. Etappe der Vuelta – Abbruch in den Pyrenäen: Pogacar und Co. vom Hagel ausgebremst",
       "link": "https://www.srf.ch/sport/rad/rad-strasse/3-etappe-der-vuelta-abbruch-in-den-pyrenaeen-pogacar-und-co-vom-hagel-ausgebremst",
-      "published": "Mon, 24 Aug 2026 18:10:23 +0200",
+      "published": "Mon, 24 Aug 2026 19:32:20 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "News aus dem Tennis – Vondrousova ficht Dopingsperre vor TAS an",
-      "link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-vondrousova-ficht-dopingsperre-vor-tas-an",
-      "published": "Mon, 24 Aug 2026 18:28:17 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "Erste Runde im DFB-Pokal – Schalke und Köln vermeiden frühe Pokal-Pleiten",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/erste-runde-im-dfb-pokal-schalke-und-koeln-vermeiden-fruehe-pokal-pleiten",
+      "published": "Mon, 24 Aug 2026 23:23:16 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Ruder-WM in Amsterdam – 10 Schweizer Boote – der Frauen-Doppelvierer als Gold-Hoffnung",
-      "link": "https://www.srf.ch/sport/mehr-sport/rudern/ruder-wm-in-amsterdam-10-schweizer-boote-der-frauen-doppelvierer-als-gold-hoffnung",
-      "published": "Mon, 24 Aug 2026 17:22:27 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "Fussball aus den Topligen – Chelsea gewinnt Derby nach Blitzstart – auch Römer Klubs siegen",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-chelsea-gewinnt-derby-nach-blitzstart-auch-roemer-klubs-siegen",
+      "published": "Mon, 24 Aug 2026 23:04:54 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Viele Abgänge beim Meister – Thuns Meisterteam zerfällt – das zeigen auch die Ergebnisse",
-      "link": "https://www.srf.ch/sport/fussball/super-league/viele-abgaenge-beim-meister-thuns-meisterteam-zerfaellt-das-zeigen-auch-die-ergebnisse",
-      "published": "Mon, 24 Aug 2026 11:44:24 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "News aus der Super League – Auch Heule und Matoshi verlassen den FC Thun",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-auch-heule-und-matoshi-verlassen-den-fc-thun",
-      "published": "Mon, 24 Aug 2026 15:18:54 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Norris holt langsam auf – Team Mercedes ist gewarnt: «Wehren uns mit Händen und Füssen»",
-      "link": "https://www.srf.ch/sport/motorsport/formel-1/norris-holt-langsam-auf-team-mercedes-ist-gewarnt-wehren-uns-mit-haenden-und-fuessen",
-      "published": "Mon, 24 Aug 2026 09:57:00 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "News aus der Super League – Males wird in Polen Teamkollege von Zeqiri",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-males-wird-in-polen-teamkollege-von-zeqiri",
+      "published": "Mon, 24 Aug 2026 19:41:07 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "Viele Abgänge beim Meister – Thuns Meisterteam zerfällt – das zeigen auch die Ergebnisse",
@@ -54,27 +72,15 @@
       "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-auch-heule-und-matoshi-verlassen-den-fc-thun",
       "published": "Mon, 24 Aug 2026 15:18:54 +0200",
       "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Fussball-Bilder vom Wochenende – Frisur-Kurswechsel, das unbekannte Jeddeloh und der «Ball-Schutz»",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-bilder-vom-wochenende-frisur-kurswechsel-das-unbekannte-jeddeloh-und-der-ball-schutz",
-      "published": "Mon, 24 Aug 2026 08:56:00 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Wahl Fifa-Präsident – Ceferin fordert Infantino nicht heraus",
-      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/wahl-fifa-praesident-ceferin-fordert-infantino-nicht-heraus",
-      "published": "Mon, 24 Aug 2026 07:19:06 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Fussball aus den Topligen – Doppelpacker Torres rettet PSG – Barça feiert Kantersieg",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-doppelpacker-torres-rettet-psg-barca-feiert-kantersieg",
-      "published": "Sun, 23 Aug 2026 23:29:44 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
+    {
+      "title": "Terranigma kehrt 2027 zurück – mit neuen Grafiken und neuer Musik",
+      "link": "https://www.pcgames.de/Terranigma-Classic-36943/News/Terranigma-kommt-Anfang-2027-auf-moderne-Plattformen-1551977/",
+      "published": "Mon, 24 Aug 2026 20:51:00 +0200",
+      "source": "PCGames: Wissen, was gespielt wird!"
+    },
     {
       "title": "Afterworld: Paradox leakt brandneues 4X-Strategiespiel mit Endzeit-Setting",
       "link": "https://www.pcgames.de/Afterworld-Spiel-78866/News/Paradox-4X-Leak-Grand-Strategy-Survival-1551955/",
@@ -103,12 +109,6 @@
       "title": "Stalker 2 nach Patch 2.0: Audio-Bug bei Konsolen-Spielern - so löst ihr das Problem schnell",
       "link": "https://www.pcgames.de/Stalker-2-Spiel-34596/News/Xbox-Series-X-Sound-Audio-Bug-Workaround-1551971/",
       "published": "Mon, 24 Aug 2026 16:25:00 +0200",
-      "source": "PCGames: Wissen, was gespielt wird!"
-    },
-    {
-      "title": "Opening Night Live 2026 im Livestream: Gamescom-Start mit Metro 2039, The Witcher 3 und Game of Thrones",
-      "link": "https://www.pcgames.de/gamescom-Event-238739/News/ONL-Opening-Night-Live-Stream-Showcase-1551944/",
-      "published": "Mon, 24 Aug 2026 15:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
