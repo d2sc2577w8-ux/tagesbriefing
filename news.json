@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-08-25T16:35:20.734483+00:00",
+  "updated_at": "2026-08-26T05:32:31.027485+00:00",
   "politik": [
     {
-      "title": "Fonds zur Aufrüstung – Möglicher Durchbruch bei der Armeefinanzierung",
-      "link": "https://www.srf.ch/news/schweiz/fonds-zur-aufruestung-moeglicher-durchbruch-bei-der-armeefinanzierung",
-      "published": "Tue, 25 Aug 2026 18:17:47 +0200",
+      "title": "Sparprogramm von 60 Millionen – Raiffeisen baut bis zu 180 Stellen ab",
+      "link": "https://www.srf.ch/news/schweiz/sparprogramm-von-60-millionen-raiffeisen-baut-bis-zu-180-stellen-ab",
+      "published": "Wed, 26 Aug 2026 07:09:25 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Vogelvirus – Amselsterben wegen Usutu-Virus",
-      "link": "https://www.srf.ch/news/schweiz/vogelvirus-amselsterben-wegen-usutu-virus",
-      "published": "Tue, 25 Aug 2026 17:02:20 +0200",
+      "title": "Kritik am Bundesrat – Hickhack um Auslandhilfe – Kommission fühlt sich übergangen",
+      "link": "https://www.srf.ch/news/schweiz/kritik-am-bundesrat-hickhack-um-auslandhilfe-kommission-fuehlt-sich-uebergangen",
+      "published": "Wed, 26 Aug 2026 06:43:45 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "IGEM Digimonitor 2026 – KI-Nutzung nimmt in der Schweiz rasant zu",
-      "link": "https://www.srf.ch/news/schweiz/igem-digimonitor-2026-ki-nutzung-nimmt-in-der-schweiz-rasant-zu",
-      "published": "Tue, 25 Aug 2026 16:00:51 +0200",
+      "title": "US-Midterms-Wahlkampf – Amerikanischer Wahlaufruf in Schweizer Trams",
+      "link": "https://www.srf.ch/news/schweiz/us-midterms-wahlkampf-amerikanischer-wahlaufruf-in-schweizer-trams",
+      "published": "Wed, 26 Aug 2026 06:01:54 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Migration – Bund korrigiert Zahl an Asylgesuchen für 2026 nach unten",
-      "link": "https://www.srf.ch/news/schweiz/migration-bund-korrigiert-zahl-an-asylgesuchen-fuer-2026-nach-unten",
-      "published": "Tue, 25 Aug 2026 14:45:02 +0200",
+      "title": "Auswirkungen auf Wahljahr 2027 – «Die Grünen haben den Hitzesommer genutzt»",
+      "link": "https://www.srf.ch/news/schweiz/auswirkungen-auf-wahljahr-2027-die-gruenen-haben-den-hitzesommer-genutzt",
+      "published": "Wed, 26 Aug 2026 05:57:12 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Marktbericht: Konjunkturdaten bringen neuen Schwung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
-      "published": "Tue, 25 Aug 2026 18:23:57 +0200",
+      "title": "Trauer um Ikone Dolly Parton: \"Sie schuf Lieder und Glück\"",
+      "link": "https://www.tagesschau.de/kultur/dolly-parton-nachruf-100.html",
+      "published": "Wed, 26 Aug 2026 07:12:12 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Slowakische Polizei vereitelt Anschlag auf Drohnenfabrik",
-      "link": "https://www.tagesschau.de/ausland/europa/slowakei-anschlag-drohnenfabrik-vereitelt-100.html",
-      "published": "Tue, 25 Aug 2026 17:42:47 +0200",
+      "title": "Russlands Raketen zerstören die ukrainische Wirtschaft",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-wirtschaft-100.html",
+      "published": "Wed, 26 Aug 2026 06:54:42 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Rede über Zuwanderung - Steinmeier fordert Absage an völkische Ideologie",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/steinmeier-migration-100.html",
-      "published": "Tue, 25 Aug 2026 16:55:55 +0200",
+      "title": "Schattendatenbank: Der Schufa droht eine Sammelklage",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/schufa-klage-100.html",
+      "published": "Wed, 26 Aug 2026 06:02:02 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Die Wirtschaft schöpft wieder Hoffnung - das sind die Gründe",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/konjunkturdaten-wirtschaft-faq-100.html",
-      "published": "Tue, 25 Aug 2026 16:28:43 +0200",
+      "title": "Beginnt in Namibia der großflächige Phosphatabbau im Meer?",
+      "link": "https://www.tagesschau.de/ausland/afrika/namibia-proteste-phosphatabbau-100.html",
+      "published": "Wed, 26 Aug 2026 05:35:12 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "OpenAI deckt verdeckte russische Einflusskampagne auf, die ChatGPT für Propaganda nutzte",
+      "link": "https://the-decoder.de/openai-deckt-verdeckte-russische-einflusskampagne-auf-die-chatgpt-fuer-propaganda-nutzte/",
+      "published": "Tue, 25 Aug 2026 18:40:56 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "OpenAIs erster KI-Chip \"Jalapeño\" übertrifft Nvidias Blackwell und Rubin bei KI-Inferenz",
+      "link": "https://the-decoder.de/openais-erster-ki-chip-jalapeno-uebertrifft-nvidias-blackwell-und-rubin-bei-ki-inferenz/",
+      "published": "Tue, 25 Aug 2026 17:05:50 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Googles neue KI-Lösung für Kanzleien soll Vertragsarbeit und Rechtsrecherche automatisieren",
       "link": "https://the-decoder.de/googles-neue-ki-loesung-fuer-kanzleien-soll-vertragsarbeit-und-rechtsrecherche-automatisieren/",
@@ -67,18 +79,6 @@
       "title": "Nvidia bringt Groq-Inferenzchip in Produktion und meldet Rekordgeschwindigkeit für KI-Agenten",
       "link": "https://the-decoder.de/nvidia-bringt-groq-inferenzchip-in-produktion-und-meldet-rekordgeschwindigkeit-fuer-ki-agenten/",
       "published": "Tue, 25 Aug 2026 11:16:57 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Alabama ermittelt gegen OpenAI nach unkontrolliertem KI-Agenten-Hacking",
-      "link": "https://the-decoder.de/alabama-ermittelt-gegen-openai-nach-unkontrolliertem-ki-agenten-hacking/",
-      "published": "Tue, 25 Aug 2026 10:14:13 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Ukraine macht ihre KI-Gefechtsdaten zum Exportgut, Großbritannien ist der erste Kunde",
-      "link": "https://the-decoder.de/ukraine-macht-ihre-ki-gefechtsdaten-zum-exportgut-grossbritannien-ist-der-erste-kunde/",
-      "published": "Tue, 25 Aug 2026 09:43:41 +0000",
       "source": "The Decoder"
     }
   ]
