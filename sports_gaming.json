@@ -1,10 +1,34 @@
 {
-  "updated_at": "2026-08-26T16:46:51.956791+00:00",
+  "updated_at": "2026-08-27T16:05:39.855217+00:00",
   "sport": [
     {
-      "title": "Leichtathletik: Diamond League – Weltklasse Zürich: Alle Entscheidungen live bei SRF",
-      "link": "https://www.srf.ch/sport/leichtathletik/leichtathletik-diamond-league-weltklasse-zuerich-alle-entscheidungen-live-bei-srf",
-      "published": "Tue, 25 Aug 2026 12:14:32 +0200",
+      "title": "Nachfolger von Kessler – Einziger Kandidat gewählt: Lüthi neuer SIHF-Präsident",
+      "link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/nachfolger-von-kessler-einziger-kandidat-gewaehlt-luethi-neuer-sihf-praesident",
+      "published": "Thu, 27 Aug 2026 17:35:58 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News aus der National League – Vertrag bis 2030 verlängert: Genoni bleibt dem EVZ erhalten",
+      "link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-vertrag-bis-2030-verlaengert-genoni-bleibt-dem-evz-erhalten",
+      "published": "Thu, 27 Aug 2026 15:23:54 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Baisse im Schweizer Tennis – Rosset kritisiert neue Generation, Federer relativiert",
+      "link": "https://www.srf.ch/sport/tennis/grand-slam-turniere/baisse-im-schweizer-tennis-rosset-kritisiert-neue-generation-federer-relativiert",
+      "published": "Thu, 27 Aug 2026 13:48:20 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Das beschäftigt vor US Open – Alcaraz' Handgelenk, Zverevs Nerven und Sabalenkas Sturz?",
+      "link": "https://www.srf.ch/sport/tennis/grand-slam-turniere/das-beschaeftigt-vor-us-open-alcaraz-handgelenk-zverevs-nerven-und-sabalenkas-sturz",
+      "published": "Thu, 27 Aug 2026 13:49:20 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Mixed-Final an den US Open – Titel verpasst: Bencic/Cobolli unterliegen tschechischem Duo",
+      "link": "https://www.srf.ch/sport/tennis/grand-slam-turniere/mixed-final-an-den-us-open-titel-verpasst-bencic-cobolli-unterliegen-tschechischem-duo",
+      "published": "Thu, 27 Aug 2026 07:10:17 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
@@ -14,101 +38,77 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "News von den US Open – Wildcard für Williams-Schwestern – Fonseca muss Forfait geben",
-      "link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-von-den-us-open-wildcard-fuer-williams-schwestern-fonseca-muss-forfait-geben",
-      "published": "Wed, 26 Aug 2026 17:31:22 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Exhibition gegen Roddick – Federer kehrt siegreich nach New York zurück",
-      "link": "https://www.srf.ch/sport/tennis/tennis-allgemein/exhibition-gegen-roddick-federer-kehrt-siegreich-nach-new-york-zurueck",
-      "published": "Wed, 26 Aug 2026 09:11:09 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Internationale Fussball-News – ManCity zahlt 100 Mio. für Bouaddi – Palhinha verlässt Bayern",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-mancity-zahlt-100-mio-fuer-bouaddi-palhinha-verlaesst-bayern",
-      "published": "Wed, 26 Aug 2026 13:26:13 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Schweizer Fussball-News – Nati-Assistentin Simic auch Co-Trainerin bei Nürnberg",
-      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/schweizer-fussball-news-nati-assistentin-simic-auch-co-trainerin-bei-nuernberg",
-      "published": "Wed, 26 Aug 2026 14:30:28 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Schweizer Fussball-News – Nati-Assistentin Simic auch Co-Trainerin bei Nürnberg",
-      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/schweizer-fussball-news-nati-assistentin-simic-auch-co-trainerin-bei-nuernberg",
-      "published": "Wed, 26 Aug 2026 14:30:28 +0200",
+      "title": "In der CL-Quali angefangen – Hearts erreichen Conference League ohne einen einzigen Sieg",
+      "link": "https://www.srf.ch/sport/fussball/conference-league/in-der-cl-quali-angefangen-hearts-erreichen-conference-league-ohne-einen-einzigen-sieg",
+      "published": "Thu, 27 Aug 2026 12:39:51 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Internationale Fussball-News – ManCity zahlt 100 Mio. für Bouaddi – Palhinha verlässt Bayern",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-mancity-zahlt-100-mio-fuer-bouaddi-palhinha-verlaesst-bayern",
-      "published": "Wed, 26 Aug 2026 13:26:13 +0200",
+      "title": "Transfer-Ticker – Goretzka zu Aston Villa – Alvarez-Wechsel zu Barça zerschlagen",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/transfer-ticker-goretzka-zu-aston-villa-alvarez-wechsel-zu-barca-zerschlagen",
+      "published": "Thu, 27 Aug 2026 17:39:39 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Celtic verspielt ein 3:0 – Das Wunder von Linz: Der LASK erfüllt sich den CL-Traum",
-      "link": "https://www.srf.ch/sport/fussball/champions-league/celtic-verspielt-ein-3-0-das-wunder-von-linz-der-lask-erfuellt-sich-den-cl-traum",
-      "published": "Tue, 25 Aug 2026 23:51:41 +0200",
+      "title": "Frauenfussball-Serie – «Hidden Stories»: Alle Folgen im Überblick",
+      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/frauenfussball-serie-hidden-stories-alle-folgen-im-ueberblick-2",
+      "published": "Thu, 27 Aug 2026 11:31:29 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Champions League: Playoffs – Sabah schafft Premiere, Bodö/Glimt die Bestätigung",
-      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-playoffs-sabah-schafft-premiere-bodoe-glimt-die-bestaetigung",
-      "published": "Tue, 25 Aug 2026 23:02:21 +0200",
+      "title": "Stinkefinger und Chaos – Nach Fenerbahce-Erfolg: Wüste Tumulte in Lyon",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/stinkefinger-und-chaos-nach-fenerbahce-erfolg-wueste-tumulte-in-lyon",
+      "published": "Thu, 27 Aug 2026 10:16:52 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Bei Präsentation in Atlanta – Embolo über Schwalben-Rot: «Es hat sehr weh getan»",
-      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/bei-praesentation-in-atlanta-embolo-ueber-schwalben-rot-es-hat-sehr-weh-getan",
-      "published": "Tue, 25 Aug 2026 22:05:07 +0200",
+      "title": "Qualifikation Europacup – Schweizer Teams vor der letzten Hürde",
+      "link": "https://www.srf.ch/sport/fussball/europa-league/qualifikation-europacup-schweizer-teams-vor-der-letzten-huerde",
+      "published": "Thu, 27 Aug 2026 10:05:22 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Nach Freuler-Wechsel zu Piräus – Griechenland vs. Schweiz: «Technisch ist der Fussball besser»",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/nach-freuler-wechsel-zu-piraeus-griechenland-vs-schweiz-technisch-ist-der-fussball-besser",
-      "published": "Tue, 25 Aug 2026 19:00:45 +0200",
+      "title": "Champions League: Playoffs – Fenerbahce beendet Durststrecke – Viking schaltet Zagreb aus",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-playoffs-fenerbahce-beendet-durststrecke-viking-schaltet-zagreb-aus",
+      "published": "Wed, 26 Aug 2026 23:33:35 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "„Und das ist nur der Anfang“: CD Projekt und Blizzard schließen Partnerschaft",
-      "link": "https://www.pcgames.de/CD-Projekt-Firma-113760/News/Blizzard-Diablo-Geralt-Skin-1552138/",
-      "published": "Wed, 26 Aug 2026 18:15:00 +0200",
+      "title": "Warum mich Blubbmeeria wieder nach Pokémon Pokopia zurückholt",
+      "link": "https://www.pcgames.de/Pokemon-Pokopia-Spiel-77208/Kolumnen/DLC-veraendert-Gameplay-1551999/",
+      "published": "Thu, 27 Aug 2026 18:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Nach der Xbox-Trennung: State of Decay 3 überrascht Fans mit wichtiger Ankündigung",
-      "link": "https://www.pcgames.de/State-of-Decay-3-Spiel-72901/News/closed-beta-2026-xbox-trennung-1552161/",
-      "published": "Wed, 26 Aug 2026 18:01:00 +0200",
+      "title": "Wolcen 2: Die Entwickler überraschen mit einer Fortsetzung - und zeigen sich reumütig",
+      "link": "https://www.pcgames.de/Wolcen-2-Spiel-78871/News/Wolcen-2-Action-RPG-Playtest-1552205/",
+      "published": "Thu, 27 Aug 2026 17:15:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "MTG: Aus Massacre Girl wird Rescue Girl - viele neue Reality-Fracture-Teaser",
-      "link": "https://www.pcgames.de/Magic-The-Gathering-Brands-130680/News/Reality-Fracture-Teaser-1552130/",
-      "published": "Wed, 26 Aug 2026 17:01:00 +0200",
+      "title": "Graveyard Keeper 2 bringt die Toten bereits im September zurück",
+      "link": "https://www.pcgames.de/Graveyard-Keeper-2-Spiel-77525/News/Release-Termin-Gameplay-Trailer-1552249/",
+      "published": "Thu, 27 Aug 2026 17:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Elden Ring im Test für Switch 2: Starker Port mit kleinen Schwächen",
-      "link": "https://www.pcgames.de/Elden-Ring-Spiel-67687/Tests/Update-Switch-2-Tarnished-Edition-1551811/",
-      "published": "Wed, 26 Aug 2026 16:00:00 +0200",
+      "title": "WoW: \"Classic+ hat nie exisitert\" - droht zur BlizzCon die Riesen-Enttäuschung?",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/WoW-Classic-Plus-Geruechte-Prequel-1552251/",
+      "published": "Thu, 27 Aug 2026 16:31:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "GTA 6: Nach massiven Leaks bricht Rockstar endlich sein Schweigen",
-      "link": "https://www.pcgames.de/GTA-6-Spiel-55239/News/rockstar-gameplay-leaks-spoiler-warnung-1552141/",
-      "published": "Wed, 26 Aug 2026 15:16:00 +0200",
+      "title": "Star Trek trifft SimCity: Der neue Colony-Builder startet früher als gedacht",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/star-trek-outposts-unknown-release-pc-mac-konsolen-1552231/",
+      "published": "Thu, 27 Aug 2026 16:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Star Wars: Zero Company im XXL-Test – Mehr als nur XCOM in neuem Gewand",
-      "link": "https://www.pcgames.de/Star-Wars-Zero-Company-Spiel-75171/Tests/Review-Rundentaktik-Story-Fazit-Wertung-Gameplay-1552041/",
-      "published": "Wed, 26 Aug 2026 15:00:00 +0200",
+      "title": "Update: Neuer Batman angeblich auf Eis gelegt, doch James Gunn widerspricht vehement",
+      "link": "https://www.pcgames.de/DC-Extended-Universe-DCEU-Brands-266314/News/batman-kino-brave-bold-1552031/",
+      "published": "Thu, 27 Aug 2026 15:44:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
