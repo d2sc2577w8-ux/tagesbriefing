@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-08-29T19:12:40.035250+00:00",
+  "updated_at": "2026-08-30T10:16:26.698585+00:00",
   "politik": [
     {
-      "title": "Bestürzung bei Community – Nepalesische Gemeinschaft in der Schweiz trauert um die Heimat",
-      "link": "https://www.srf.ch/news/international/bestuerzung-bei-community-nepalesische-gemeinschaft-in-der-schweiz-trauert-um-die-heimat",
-      "published": "Sat, 29 Aug 2026 20:59:34 +0200",
+      "title": "Schweizer Landwirtschaft – Bagger statt Traktor auf Gemüsefeld – wie Böden verbessert werden",
+      "link": "https://www.srf.ch/news/schweiz/schweizer-landwirtschaft-bagger-statt-traktor-auf-gemuesefeld-wie-boeden-verbessert-werden",
+      "published": "Sun, 30 Aug 2026 10:30:24 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Extreme Sommertrockenheit – Schweizer Landwirte importieren Heu aus Kanada",
-      "link": "https://www.srf.ch/news/schweiz/extreme-sommertrockenheit-schweizer-landwirte-importieren-heu-aus-kanada",
-      "published": "Sat, 29 Aug 2026 19:22:52 +0200",
+      "title": "Bundesagentur Innosuisse – Innosuisse-Chefs profitieren von Fördergeldern",
+      "link": "https://www.srf.ch/news/dialog/bundesagentur-innosuisse-innosuisse-chefs-profitieren-von-foerdergeldern",
+      "published": "Sun, 30 Aug 2026 08:41:28 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Ortsbilder der Schweiz – Hässlich? Diese Ausstellung rehabilitiert die Agglo",
-      "link": "https://www.srf.ch/news/schweiz/ortsbilder-der-schweiz-haesslich-diese-ausstellung-rehabilitiert-die-agglo",
-      "published": "Sat, 29 Aug 2026 18:57:28 +0200",
+      "title": "Einstieg ins Berufsleben – Wie Praktika die Ungleichheit verstärken können",
+      "link": "https://www.srf.ch/news/dialog/einstieg-ins-berufsleben-wie-praktika-die-ungleichheit-verstaerken-koennen",
+      "published": "Sun, 30 Aug 2026 08:00:24 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "500 Fichten nahe Uster gefällt – Welche Waldbäume haben trotz Hitze und Trockenheit noch Zukunft?",
-      "link": "https://www.srf.ch/news/schweiz/500-fichten-nahe-uster-gefaellt-welche-waldbaeume-haben-trotz-hitze-und-trockenheit-noch-zukunft",
-      "published": "Sat, 29 Aug 2026 17:26:13 +0200",
+      "title": "Hintergründe noch unklar – Schüsse in Aarau: 22-Jährige tot – 5 Verletzte",
+      "link": "https://www.srf.ch/news/schweiz/hintergruende-noch-unklar-schuesse-in-aarau-22-jaehrige-tot-5-verletzte",
+      "published": "Sun, 30 Aug 2026 08:55:07 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Haakon hält erste emotionale Ansprache als König von Norwegen",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegen-rede-koenig-haakon-100.html",
-      "published": "Sat, 29 Aug 2026 21:05:42 +0200",
+      "title": "Isländer stimmen per Referendum gegen EU-Beitrittsverhandlungen",
+      "link": "https://www.tagesschau.de/ausland/island-referendum-eu-beitritt-100.html",
+      "published": "Sun, 30 Aug 2026 12:12:39 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
-      "link": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
-      "published": "Sat, 29 Aug 2026 20:42:43 +0200",
+      "title": "Superreiche in New York: \"Wir wollen mehr Steuern zahlen\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/new-york-reichensteuer-millionaere-100.html",
+      "published": "Sun, 30 Aug 2026 08:29:42 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Iran-Krieg: Rund 400 Schiffe stecken weiter im Persischen Golf fest",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-strasse-hormus-100.html",
-      "published": "Sat, 29 Aug 2026 18:33:48 +0200",
+      "title": "Tote und Verletzte nach Schüssen bei Techno-Veranstaltung in der Schweiz",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-100.html",
+      "published": "Sun, 30 Aug 2026 10:29:48 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Die irische Biermarke Guinness widersteht dem Brauerei-Sterben",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/guinness-bier-irland-100.html",
-      "published": "Sat, 29 Aug 2026 18:16:37 +0200",
+      "title": "Antisemitismusbeauftragter: Wer folgt auf Felix Klein?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/antisemitismus-beauftragter-bundesregierung-100.html",
+      "published": "Sun, 30 Aug 2026 08:00:46 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Was gute Noten bringt, kann KI längst besser als Studierende",
+      "link": "https://the-decoder.de/was-gute-noten-bringt-kann-ki-laengst-besser-als-studierende/",
+      "published": "Sun, 30 Aug 2026 10:04:09 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Anthropic senkt und erhöht die wöchentlichen Nutzungslimits für Claude Code",
+      "link": "https://the-decoder.de/anthropic-senkt-und-erhoeht-die-woechentlichen-nutzungslimits-fuer-claude-code/",
+      "published": "Sun, 30 Aug 2026 09:02:19 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Sony und Warner verklagen Anthropic wegen \"eines der größten Diebstähle geistigen Eigentums in der Geschichte\"",
+      "link": "https://the-decoder.de/sony-und-warner-verklagen-anthropic-wegen-eines-der-groessten-diebstaehle-geistigen-eigentums-in-der-geschichte/",
+      "published": "Sun, 30 Aug 2026 08:25:20 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Webinar: Raus aus dem Chat, rein in wiederverwendbare Prompts",
       "link": "https://the-decoder.de/webinar-raus-aus-dem-chat-rein-in-wiederverwendbare-prompts/",
@@ -61,24 +79,6 @@
       "title": "OpenAI kappt KI-Coding-Tool Cursor den Modellzugang nach Elon Musks Übernahme",
       "link": "https://the-decoder.de/openai-kappt-ki-coding-tool-cursor-den-zugang-zu-seinen-modellen-nach-spacex-uebernahme/",
       "published": "Sat, 29 Aug 2026 13:31:35 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "KI-generierte Videos ersetzen in China bereits menschliche Schauspieler und Influencer",
-      "link": "https://the-decoder.de/ki-generierte-videos-ersetzen-in-china-bereits-menschliche-schauspieler-und-influencer/",
-      "published": "Sat, 29 Aug 2026 13:15:56 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Google gibt KI-Agenten ein eigenes Wiki, damit sie aus Fehlern und Erfolgen lernen",
-      "link": "https://the-decoder.de/google-gibt-ki-agenten-ein-eigenes-wiki-damit-sie-aus-fehlern-und-erfolgen-lernen/",
-      "published": "Sat, 29 Aug 2026 11:24:24 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Big Video Dataset: LAION stellt zehn Millionen Stunden Videomaterial für offene KI-Forschung bereit",
-      "link": "https://the-decoder.de/big-video-dataset-laion-stellt-zehn-millionen-stunden-videomaterial-fuer-offene-ki-forschung-bereit/",
-      "published": "Sat, 29 Aug 2026 09:31:48 +0000",
       "source": "The Decoder"
     }
   ]
