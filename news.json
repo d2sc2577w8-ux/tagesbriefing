@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-08-30T19:02:55.426982+00:00",
+  "updated_at": "2026-08-31T11:21:50.815749+00:00",
   "politik": [
     {
-      "title": "Abstimmung Stadt Winterthur – Winterthur stimmt über sein Stadion ab – Zürich wartet weiter",
-      "link": "https://www.srf.ch/news/schweiz/abstimmung-stadt-winterthur-winterthur-stimmt-ueber-sein-stadion-ab-zuerich-wartet-weiter",
-      "published": "Sun, 30 Aug 2026 20:59:32 +0200",
+      "title": "Fragwürdige Rechnungen – Polizeiaffäre Uster: Soll das Parlament den Fall untersuchen?",
+      "link": "https://www.srf.ch/news/schweiz/fragwuerdige-rechnungen-polizeiaffaere-uster-soll-das-parlament-den-fall-untersuchen",
+      "published": "Mon, 31 Aug 2026 12:05:53 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Neue Meteoriten-Fundstücke – Berner Meteoriten-Schatz sprengt alle Dimensionen",
-      "link": "https://www.srf.ch/news/schweiz/neue-meteoriten-fundstuecke-berner-meteoriten-schatz-sprengt-alle-dimensionen",
-      "published": "Sun, 30 Aug 2026 17:16:49 +0200",
+      "title": "Junge Frau tot – Nach Schüssen in Aarau: 43-Jähriger festgenommen",
+      "link": "https://www.srf.ch/news/schweiz/junge-frau-tot-nach-schuessen-in-aarau-43-jaehriger-festgenommen",
+      "published": "Mon, 31 Aug 2026 13:09:45 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Volle Haftanstalten – St. Gallen macht bereits geschlossene Gefängnisse wieder auf",
-      "link": "https://www.srf.ch/news/schweiz/volle-haftanstalten-st-gallen-macht-bereits-geschlossene-gefaengnisse-wieder-auf",
-      "published": "Sun, 30 Aug 2026 16:35:26 +0200",
+      "title": "Löhne 2024 – Lohnunterschied zwischen Frauen und Männern wird kleiner",
+      "link": "https://www.srf.ch/news/schweiz/loehne-2024-lohnunterschied-zwischen-frauen-und-maennern-wird-kleiner",
+      "published": "Mon, 31 Aug 2026 10:03:30 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Junge Frau tot – Schüsse in Aarau: Das sind die Reaktionen",
-      "link": "https://www.srf.ch/news/schweiz/junge-frau-tot-schuesse-in-aarau-das-sind-die-reaktionen",
-      "published": "Sun, 30 Aug 2026 20:09:37 +0200",
+      "title": "Rätseln im Tessin – Was hat die tote Frau im See mit einem Regierungsrat zu tun?",
+      "link": "https://www.srf.ch/news/schweiz/raetseln-im-tessin-was-hat-die-tote-frau-im-see-mit-einem-regierungsrat-zu-tun",
+      "published": "Mon, 31 Aug 2026 09:01:36 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Islands Nein zu EU-Beitrittsgesprächen: Angst war stärker als Europa",
-      "link": "https://www.tagesschau.de/kommentar/island-referendum-104.html",
-      "published": "Sun, 30 Aug 2026 20:35:28 +0200",
+      "title": "Niedrigwasser und Inflation: Pegelstände runter - Preise rauf?",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-niedrigwasser-100.html",
+      "published": "Mon, 31 Aug 2026 12:44:03 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
-      "link": "https://www.tagesschau.de/ausland/europa/island-referendum-102.html",
-      "published": "Sun, 30 Aug 2026 19:42:47 +0200",
+      "title": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
+      "link": "https://www.tagesschau.de/ausland/europa/wiederaufbauprogramm-italien-102.html",
+      "published": "Mon, 31 Aug 2026 12:28:00 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Das ARD-Sommerinterview mit Bundeskanzler und CDU-Chef Merz im Faktencheck",
-      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-merz-100.html",
-      "published": "Sun, 30 Aug 2026 20:51:42 +0200",
+      "title": "Rasanter Anstieg bei ausländischen Investitionen in Deutschland",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/iw-auslaendische-investitionen-100.html",
+      "published": "Mon, 31 Aug 2026 11:06:42 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Merz im ARD-Sommerinterview: \"Es wird am Ende zusammengezählt\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-kanzler-merz-100.html",
-      "published": "Sun, 30 Aug 2026 19:55:49 +0200",
+      "title": "Statistik: Mehr Männer in jüngeren Altersgruppen",
+      "link": "https://www.tagesschau.de/inland/junge-maenner-ueberschuss-statistik-100.html",
+      "published": "Mon, 31 Aug 2026 11:04:25 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "OpenClaw 2.0 bringt vereinfachte Installation, neue Browser-App und Multiplayer-Sessions",
+      "link": "https://the-decoder.de/openclaw-2-0-bringt-vereinfachte-installation-neue-browser-app-und-multiplayer-sessions/",
+      "published": "Mon, 31 Aug 2026 10:35:04 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Mac mini wird zum KI-Trainingsrechner: OpenAI und Anthropic nutzen massenhaft Apple-Hardware",
+      "link": "https://the-decoder.de/mac-mini-wird-zum-ki-trainingsrechner-openai-und-anthropic-nutzen-massenhaft-apple-hardware/",
+      "published": "Mon, 31 Aug 2026 08:39:12 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "KI-Stimmung kippt: Analyse von Arbeitgeberbewertungen zeigt wachsenden Frust",
       "link": "https://the-decoder.de/ki-stimmung-kippt-analyse-von-arbeitgeberbewertungen-zeigt-wachsenden-frust/",
@@ -67,18 +79,6 @@
       "title": "Was gute Noten bringt, kann KI längst besser als Studierende",
       "link": "https://the-decoder.de/was-gute-noten-bringt-kann-ki-laengst-besser-als-studierende/",
       "published": "Sun, 30 Aug 2026 10:04:09 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Anthropic senkt und erhöht die wöchentlichen Nutzungslimits für Claude Code",
-      "link": "https://the-decoder.de/anthropic-senkt-und-erhoeht-die-woechentlichen-nutzungslimits-fuer-claude-code/",
-      "published": "Sun, 30 Aug 2026 09:02:19 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Sony und Warner verklagen Anthropic wegen \"eines der größten Diebstähle geistigen Eigentums in der Geschichte\"",
-      "link": "https://the-decoder.de/sony-und-warner-verklagen-anthropic-wegen-eines-der-groessten-diebstaehle-geistigen-eigentums-in-der-geschichte/",
-      "published": "Sun, 30 Aug 2026 08:25:20 +0000",
       "source": "The Decoder"
     }
   ]
