@@ -1,84 +1,84 @@
 {
-  "updated_at": "2026-08-31T11:21:50.815749+00:00",
+  "updated_at": "2026-08-31T21:18:30.116589+00:00",
   "politik": [
     {
-      "title": "Fragwürdige Rechnungen – Polizeiaffäre Uster: Soll das Parlament den Fall untersuchen?",
-      "link": "https://www.srf.ch/news/schweiz/fragwuerdige-rechnungen-polizeiaffaere-uster-soll-das-parlament-den-fall-untersuchen",
-      "published": "Mon, 31 Aug 2026 12:05:53 +0200",
+      "title": "Budgetüberschreitung – Stadtparlament von Uster fordert PUK zur Polizeiaffäre",
+      "link": "https://www.srf.ch/news/schweiz/budgetueberschreitung-stadtparlament-von-uster-fordert-puk-zur-polizeiaffaere",
+      "published": "Mon, 31 Aug 2026 22:01:53 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Junge Frau tot – Nach Schüssen in Aarau: 43-Jähriger festgenommen",
-      "link": "https://www.srf.ch/news/schweiz/junge-frau-tot-nach-schuessen-in-aarau-43-jaehriger-festgenommen",
-      "published": "Mon, 31 Aug 2026 13:09:45 +0200",
+      "title": "Deutsch-schweizerische Grenze – Justizminister Jans trifft in Chiasso den deutschen Innenminister",
+      "link": "https://www.srf.ch/news/schweiz/deutsch-schweizerische-grenze-justizminister-jans-trifft-in-chiasso-den-deutschen-innenminister",
+      "published": "Mon, 31 Aug 2026 20:29:29 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Löhne 2024 – Lohnunterschied zwischen Frauen und Männern wird kleiner",
-      "link": "https://www.srf.ch/news/schweiz/loehne-2024-lohnunterschied-zwischen-frauen-und-maennern-wird-kleiner",
-      "published": "Mon, 31 Aug 2026 10:03:30 +0200",
+      "title": "Revision Bankengesetz – WAK-S stützt schärfere Eigenkapitalvorschriften",
+      "link": "https://www.srf.ch/news/schweiz/revision-bankengesetz-wak-s-stuetzt-schaerfere-eigenkapitalvorschriften",
+      "published": "Mon, 31 Aug 2026 21:42:24 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Rätseln im Tessin – Was hat die tote Frau im See mit einem Regierungsrat zu tun?",
-      "link": "https://www.srf.ch/news/schweiz/raetseln-im-tessin-was-hat-die-tote-frau-im-see-mit-einem-regierungsrat-zu-tun",
-      "published": "Mon, 31 Aug 2026 09:01:36 +0200",
+      "title": "Abstimmung Kanton Zürich – Mehr Zeit für Extraarbeit von Lehrpersonen?",
+      "link": "https://www.srf.ch/news/schweiz/abstimmung-kanton-zuerich-mehr-zeit-fuer-extraarbeit-von-lehrpersonen",
+      "published": "Mon, 31 Aug 2026 18:26:02 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Niedrigwasser und Inflation: Pegelstände runter - Preise rauf?",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-niedrigwasser-100.html",
-      "published": "Mon, 31 Aug 2026 12:44:03 +0200",
+      "title": "Merz warnt vor Folgen eines \"Wutbürger\"-Experiments in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-osten-merz-100.html",
+      "published": "Mon, 31 Aug 2026 22:28:25 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
-      "link": "https://www.tagesschau.de/ausland/europa/wiederaufbauprogramm-italien-102.html",
-      "published": "Mon, 31 Aug 2026 12:28:00 +0200",
+      "title": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
+      "link": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html",
+      "published": "Mon, 31 Aug 2026 23:09:55 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Rasanter Anstieg bei ausländischen Investitionen in Deutschland",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/iw-auslaendische-investitionen-100.html",
-      "published": "Mon, 31 Aug 2026 11:06:42 +0200",
+      "title": "Drohnenvorfall in Leipzig: Wann und wie reagiert die Bundesregierung?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-angriff-bundesregierung-reaktion-100.html",
+      "published": "Mon, 31 Aug 2026 20:30:16 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Statistik: Mehr Männer in jüngeren Altersgruppen",
-      "link": "https://www.tagesschau.de/inland/junge-maenner-ueberschuss-statistik-100.html",
-      "published": "Mon, 31 Aug 2026 11:04:25 +0200",
+      "title": "Warntag, Steuer, Garantie: Was sich im September ändert",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/neuerungen-september-100.html",
+      "published": "Mon, 31 Aug 2026 19:00:05 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
     {
-      "title": "OpenClaw 2.0 bringt vereinfachte Installation, neue Browser-App und Multiplayer-Sessions",
-      "link": "https://the-decoder.de/openclaw-2-0-bringt-vereinfachte-installation-neue-browser-app-und-multiplayer-sessions/",
-      "published": "Mon, 31 Aug 2026 10:35:04 +0000",
+      "title": "Chef der Bank of England warnt G20 vor KI-Investmentblase und Cyberrisiken durch Frontier AI",
+      "link": "https://the-decoder.de/chef-der-bank-of-england-warnt-g20-vor-ki-investmentblase-und-cyberrisiken-durch-frontier-ai/",
+      "published": "Mon, 31 Aug 2026 17:48:21 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Mac mini wird zum KI-Trainingsrechner: OpenAI und Anthropic nutzen massenhaft Apple-Hardware",
-      "link": "https://the-decoder.de/mac-mini-wird-zum-ki-trainingsrechner-openai-und-anthropic-nutzen-massenhaft-apple-hardware/",
-      "published": "Mon, 31 Aug 2026 08:39:12 +0000",
+      "title": "Instagram gibt zu: Nutzer können KI-Profile oft nicht von echten Menschen unterscheiden",
+      "link": "https://the-decoder.de/instagram-gibt-zu-nutzer-koennen-ki-profile-oft-nicht-von-echten-menschen-unterscheiden/",
+      "published": "Mon, 31 Aug 2026 17:17:43 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "KI-Stimmung kippt: Analyse von Arbeitgeberbewertungen zeigt wachsenden Frust",
-      "link": "https://the-decoder.de/ki-stimmung-kippt-analyse-von-arbeitgeberbewertungen-zeigt-wachsenden-frust/",
-      "published": "Sun, 30 Aug 2026 12:59:19 +0000",
+      "title": "OpenAI meldet Milliarden-Marke im Werbegeschäft vor dem Börsengang",
+      "link": "https://the-decoder.de/openai-meldet-milliarden-marke-im-werbegeschaeft-vor-dem-boersengang/",
+      "published": "Mon, 31 Aug 2026 15:13:59 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "KI-Agenten haben kein Zeitgefühl und wissen es nicht",
-      "link": "https://the-decoder.de/ki-agenten-haben-kein-zeitgefuehl-und-wissen-es-nicht/",
-      "published": "Sun, 30 Aug 2026 10:38:01 +0000",
+      "title": "China baut erstmals selbst fortgeschrittenen Speicher für KI-Chips",
+      "link": "https://the-decoder.de/china-baut-erstmals-selbst-fortgeschrittenen-speicher-fuer-ki-chips/",
+      "published": "Mon, 31 Aug 2026 14:57:31 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Was gute Noten bringt, kann KI längst besser als Studierende",
-      "link": "https://the-decoder.de/was-gute-noten-bringt-kann-ki-laengst-besser-als-studierende/",
-      "published": "Sun, 30 Aug 2026 10:04:09 +0000",
+      "title": "EU-Kommission stuft ChatGPT erstmals als Suchmaschine ein",
+      "link": "https://the-decoder.de/eu-kommission-stuft-chatgpt-erstmals-als-suchmaschine-ein/",
+      "published": "Mon, 31 Aug 2026 13:02:37 +0000",
       "source": "The Decoder"
     }
   ]
