@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-09-05T17:54:59.415472+00:00",
+  "updated_at": "2026-09-06T09:09:38.676485+00:00",
   "politik": [
     {
-      "title": "Affäre Julia Hänni – «Plagiatsvorwürfe tauchen auffällig oft vor Wahlen auf»",
-      "link": "https://www.srf.ch/news/schweiz/affaere-julia-haenni-plagiatsvorwuerfe-tauchen-auffaellig-oft-vor-wahlen-auf",
-      "published": "Sat, 05 Sep 2026 19:00:45 +0200",
+      "title": "Klimawandel in den Bergen – Steigende Temperaturen verändern die Pflanzenwelt in den Alpen",
+      "link": "https://www.srf.ch/news/schweiz/klimawandel-in-den-bergen-steigende-temperaturen-veraendern-die-pflanzenwelt-in-den-alpen",
+      "published": "Sun, 06 Sep 2026 10:53:28 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Neues ambulantes Tarifsystem – Unnötige Praxisbesuche, damit der Spezialarzt mehr verdient",
-      "link": "https://www.srf.ch/news/schweiz/neues-ambulantes-tarifsystem-unnoetige-praxisbesuche-damit-der-spezialarzt-mehr-verdient",
-      "published": "Sat, 05 Sep 2026 15:23:40 +0200",
+      "title": "Brandkatastrophe Crans-Montana – Stiftung «Beloved» erhält 70 Gesuche von Betroffenen",
+      "link": "https://www.srf.ch/news/schweiz/brandkatastrophe-crans-montana-stiftung-beloved-erhaelt-70-gesuche-von-betroffenen",
+      "published": "Sun, 06 Sep 2026 09:38:34 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Absprache im Zweiten Weltkrieg – Guisans Geheimplan und die Neutralitätsinitiative",
-      "link": "https://www.srf.ch/news/schweiz/absprache-im-zweiten-weltkrieg-guisans-geheimplan-und-die-neutralitaetsinitiative",
-      "published": "Sat, 05 Sep 2026 13:25:51 +0200",
+      "title": "Hobby auf vier Rädern – «Seifenkisten sind mittlerweile richtige Hightech-Kisten»",
+      "link": "https://www.srf.ch/kids/eltern/hobby-auf-vier-raedern-seifenkisten-sind-mittlerweile-richtige-hightech-kisten",
+      "published": "Sun, 06 Sep 2026 09:03:18 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Delegiertenversammlung – Die Mitte will auf der politischen Bühne offensiver auftreten",
-      "link": "https://www.srf.ch/news/schweiz/delegiertenversammlung-die-mitte-will-auf-der-politischen-buehne-offensiver-auftreten",
-      "published": "Sat, 05 Sep 2026 15:31:39 +0200",
+      "title": "Digitale Souveränität – «Microsoft verlagert Daten in die Cloud. Das ist ein Problem»",
+      "link": "https://www.srf.ch/news/schweiz/digitale-souveraenitaet-microsoft-verlagert-daten-in-die-cloud-das-ist-ein-problem",
+      "published": "Sun, 06 Sep 2026 08:02:56 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
-      "published": "Sat, 05 Sep 2026 19:52:19 +0200",
+      "title": "Polizisten bei Demo mit Metallkugeln beschossen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rheinmetall-entwaffnen-anti-ruestungsdemo-koeln-100.html",
+      "published": "Sun, 06 Sep 2026 08:23:00 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
-      "link": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html",
-      "published": "Sat, 05 Sep 2026 18:50:32 +0200",
+      "title": "Dobrindt plant Schutzschirme gegen russische Drohnen- und Cyberattacken",
+      "link": "https://www.tagesschau.de/inland/drohnenabwehr-leipzig-regierung-100.html",
+      "published": "Sun, 06 Sep 2026 09:13:44 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "USA greifen iranische Öltanker an",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-tanker-100.html",
-      "published": "Sat, 05 Sep 2026 17:17:36 +0200",
+      "title": "Iran meldet Angriffe auf mehrere US-Tanker in Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-tanker-100.html",
+      "published": "Sun, 06 Sep 2026 09:00:08 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Wahl in Sachsen-Anhalt: Welche Koalitionsoptionen gibt es?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-koalition-optionen-100.html",
-      "published": "Sat, 05 Sep 2026 17:08:27 +0200",
+      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Wie sich der demografische Wandel auswirkt ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
+      "published": "Sun, 06 Sep 2026 11:00:10 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Entfesselte KI-Modelle: Start-ups verkaufen Zugang ohne Sicherheitsfilter",
+      "link": "https://the-decoder.de/entfesselte-ki-modelle-start-ups-verkaufen-zugang-ohne-sicherheitsfilter/",
+      "published": "Sun, 06 Sep 2026 08:03:56 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Artificial Analysis korrigiert eigenen KI-Benchmark nach Kritik an GPT-6-Astra-Bewertung",
+      "link": "https://the-decoder.de/artificial-analysis-korrigiert-eigenen-ki-benchmark-nach-kritik-an-gpt-6-astra-bewertung/",
+      "published": "Sat, 05 Sep 2026 18:12:02 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "KI-Slop vermeiden: OpenAI teilt Prompting-Tipps für GPT-6 Astra",
       "link": "https://the-decoder.de/ki-slop-vermeiden-openai-teilt-prompting-tipps-fuer-gpt-6-astra/",
@@ -67,18 +79,6 @@
       "title": "OpenAI räumt ein: Offenlegungspraktiken für KI-Hacks müssen besser werden",
       "link": "https://the-decoder.de/openai-raeumt-ein-offenlegungspraktiken-fuer-ki-hacks-muessen-besser-werden/",
       "published": "Sat, 05 Sep 2026 10:44:51 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Google Deepmind-Experiment zeigt: KI-Agenten spalten sich in Betrüger, Mitläufer und Whistleblower auf",
-      "link": "https://the-decoder.de/google-deepmind-experiment-zeigt-ki-agenten-spalten-sich-in-betrueger-mitlaeufer-und-whistleblower-auf/",
-      "published": "Sat, 05 Sep 2026 08:38:38 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI schaltet GPT-6 Astra für erste zahlende Nutzer frei mit reduzierten Kontingenten",
-      "link": "https://the-decoder.de/openai-schaltet-gpt-6-astra-fuer-erste-zahlende-nutzer-frei-mit-reduzierten-kontingenten/",
-      "published": "Sat, 05 Sep 2026 07:30:03 +0000",
       "source": "The Decoder"
     }
   ]
