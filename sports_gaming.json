@@ -1,28 +1,22 @@
 {
-  "updated_at": "2026-09-08T09:22:29.713323+00:00",
+  "updated_at": "2026-09-08T19:15:48.441435+00:00",
   "sport": [
     {
-      "title": "News aus der Super League – St. Gallen muss mehrere Wochen auf Captain Görtler verzichten",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-st-gallen-muss-mehrere-wochen-auf-captain-goertler-verzichten",
-      "published": "Tue, 08 Sep 2026 10:42:51 +0200",
+      "title": "Champions League: Round-up – Sommer patzt bei Brügges 2:3-Heimniederlage gegen Aston Villa",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-sommer-patzt-bei-bruegges-2-3-heimniederlage-gegen-aston-villa",
+      "published": "Tue, 08 Sep 2026 20:49:06 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Im Aufgebot gegen Brasilien – Ein letztes Hurra für Wawrinka im Davis Cup",
-      "link": "https://www.srf.ch/sport/tennis/davis-cup/im-aufgebot-gegen-brasilien-ein-letztes-hurra-fuer-wawrinka-im-davis-cup",
-      "published": "Tue, 08 Sep 2026 10:30:50 +0200",
+      "title": "In der CL gegen Leipzig – Como-Präsident macht Platz für treuste Fans",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/in-der-cl-gegen-leipzig-como-praesident-macht-platz-fuer-treuste-fans",
+      "published": "Tue, 08 Sep 2026 14:29:49 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "News aus dem Eishockey – Euro Hockey Tour: Nati zurück in Zürich – WM-Spielplan steht",
-      "link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-dem-eishockey-euro-hockey-tour-nati-zurueck-in-zuerich-wm-spielplan-steht",
-      "published": "Mon, 07 Sep 2026 12:11:05 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Top 6 bei US Open auf Kurs – Sabalenka wie Hingis, Rybakina wie Davenport?",
-      "link": "https://www.srf.ch/sport/tennis/grand-slam-turniere/top-6-bei-us-open-auf-kurs-sabalenka-wie-hingis-rybakina-wie-davenport",
-      "published": "Tue, 08 Sep 2026 10:51:54 +0200",
+      "title": "US Open: Round-up – Sabalenka zieht den Kopf aus der Schlinge und steht im Halbfinal",
+      "link": "https://www.srf.ch/sport/tennis/grand-slam-turniere/us-open-round-up-sabalenka-zieht-den-kopf-aus-der-schlinge-und-steht-im-halbfinal",
+      "published": "Tue, 08 Sep 2026 20:15:21 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
@@ -32,83 +26,89 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "US Open: Round-up Männer – Zverev präsentiert sich in Titelform – Blockx sorgt für Furore",
-      "link": "https://www.srf.ch/sport/tennis/grand-slam-turniere/us-open-round-up-maenner-zverev-praesentiert-sich-in-titelform-blockx-sorgt-fuer-furore",
-      "published": "Tue, 08 Sep 2026 11:19:00 +0200",
+      "title": "Start zur Handball-CL – Gleich zum Start erwartet die Krienser ein Hexenkessel",
+      "link": "https://www.srf.ch/sport/mehr-sport/handball/start-zur-handball-cl-gleich-zum-start-erwartet-die-krienser-ein-hexenkessel",
+      "published": "Tue, 08 Sep 2026 20:23:32 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "News aus der Super League – St. Gallen muss mehrere Wochen auf Captain Görtler verzichten",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-st-gallen-muss-mehrere-wochen-auf-captain-goertler-verzichten",
-      "published": "Tue, 08 Sep 2026 10:42:51 +0200",
+      "title": "1. Curling-Turnier gewonnen – Team Pätz: Mit neuer Konstellation an alte Erfolge anknüpfen?",
+      "link": "https://www.srf.ch/sport/mehr-sport/curling/1-curling-turnier-gewonnen-team-paetz-mit-neuer-konstellation-an-alte-erfolge-anknuepfen",
+      "published": "Mon, 07 Sep 2026 20:21:40 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Champions League: Round-up – Sommer patzt bei Brügges 2:3-Heimniederlage gegen Aston Villa",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-sommer-patzt-bei-bruegges-2-3-heimniederlage-gegen-aston-villa",
+      "published": "Tue, 08 Sep 2026 20:49:06 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Auftakt der Ligaphase – Favoriten, Schweizer, Neulinge: Die Eckdaten zur Champions League",
-      "link": "https://www.srf.ch/sport/fussball/champions-league/auftakt-der-ligaphase-favoriten-schweizer-neulinge-die-eckdaten-zur-champions-league",
-      "published": "Tue, 08 Sep 2026 07:58:11 +0200",
+      "title": "Beachsoccer-EM in Viareggio – Tapfere Schweizer müssen sich zum Auftakt knapp geschlagen geben",
+      "link": "https://www.srf.ch/sport/fussball/beachsoccer/beachsoccer-em-in-viareggio-tapfere-schweizer-muessen-sich-zum-auftakt-knapp-geschlagen-geben",
+      "published": "Tue, 08 Sep 2026 19:26:11 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Im Bernabéu gegen Inter – Mourinhos Rendezvous mit der Vergangenheit",
-      "link": "https://www.srf.ch/sport/fussball/champions-league/im-bernabeu-gegen-inter-mourinhos-rendezvous-mit-der-vergangenheit",
-      "published": "Tue, 08 Sep 2026 07:54:29 +0200",
+      "title": "Internationale Fussball-News – Ballon-d'Or-Nomination für Kobel und Manzambi",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-ballon-d-or-nomination-fuer-kobel-und-manzambi",
+      "published": "Tue, 08 Sep 2026 15:27:24 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Vor EM-Showdown in Italien – Warum die Schweiz im Beachsoccer zur Weltspitze gehört",
-      "link": "https://www.srf.ch/sport/fussball/beachsoccer/vor-em-showdown-in-italien-warum-die-schweiz-im-beachsoccer-zur-weltspitze-gehoert",
-      "published": "Mon, 07 Sep 2026 13:19:38 +0200",
+      "title": "In der CL gegen Leipzig – Como-Präsident macht Platz für treuste Fans",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/in-der-cl-gegen-leipzig-como-praesident-macht-platz-fuer-treuste-fans",
+      "published": "Tue, 08 Sep 2026 14:29:49 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Schweizerinnen im Ausland – Wälti feierte England-Rückkehr ausgerechnet gegen Ex-Klub",
-      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/schweizerinnen-im-ausland-waelti-feierte-england-rueckkehr-ausgerechnet-gegen-ex-klub",
-      "published": "Mon, 07 Sep 2026 12:43:03 +0200",
+      "title": "Nach Rücktritt von Blanco – Schiedsrichterinnen in der Super League: Zurück auf Feld 1?",
+      "link": "https://www.srf.ch/sport/fussball/super-league/nach-ruecktritt-von-blanco-schiedsrichterinnen-in-der-super-league-zurueck-auf-feld-1",
+      "published": "Tue, 08 Sep 2026 12:36:47 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Am Samstag wartet Verfolger YB – 6 Spiele, 6 Siege: Luganos Raketenstart ruht auf vielen Schultern",
-      "link": "https://www.srf.ch/sport/fussball/super-league/am-samstag-wartet-verfolger-yb-6-spiele-6-siege-luganos-raketenstart-ruht-auf-vielen-schultern",
-      "published": "Mon, 07 Sep 2026 12:00:38 +0200",
+      "title": "News aus der Super League – Verstärkungen für YB, FCB und GC – Görtler und Wüthrich verletzt",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-verstaerkungen-fuer-yb-fcb-und-gc-goertler-und-wuethrich-verletzt",
+      "published": "Tue, 08 Sep 2026 17:14:26 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Call of Duty bekommt einen Roguelike-Modus in der Mobile-Variante",
-      "link": "https://www.pcgames.de/Call-of-Duty-Mobile-Spiel-67782/News/Der-neue-Modus-hat-kaum-noch-etwas-mit-dem-klassichen-CoD-zu-run-1553081/",
-      "published": "Tue, 08 Sep 2026 11:01:00 +0200",
+      "title": "MTG: Viele neue Karten und die spannendste Planeswalker-Mechanik des Spiels",
+      "link": "https://www.pcgames.de/Magic-The-Gathering-Brands-130680/Specials/Zersplitterte-Realitaet-neue-Karten-Vorschau-Planeswalker-1553048/",
+      "published": "Tue, 08 Sep 2026 19:30:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Warcraft 3 Version 3.0 zur BlizzCon? Die Hinweise häufen sich",
-      "link": "https://www.pcgames.de/Warcraft-3-Reforged-Spiel-62051/News/Patch-30-Hinweise-zur-BlizzCon-1553091/",
-      "published": "Tue, 08 Sep 2026 10:29:00 +0200",
+      "title": "Kann ChatGPT einen WoW-Spieler besser machen? Wir haben es ausprobiert",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/Specials/KI-ChatGPT-1553120/",
+      "published": "Tue, 08 Sep 2026 19:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Waffen in GTA 6: Rockstar verrät eine der wichtigsten Änderungen zum Vorgänger",
-      "link": "https://www.pcgames.de/GTA-6-Spiel-55239/News/Aenderungen-Waffen-Inventar-NPCs-1553089/",
-      "published": "Tue, 08 Sep 2026 10:09:00 +0200",
+      "title": "Der neue Avengers ohne fertiges Drehbuch: „Das Härteste, was man je getan hat“",
+      "link": "https://www.pcgames.de/Marvel-Cinematic-Universe-MCU-Brands-266313/News/Der-neue-Avengers-ohne-fertiges-Drehbuch-doomsday-kinostart-deutschland-1553136/",
+      "published": "Tue, 08 Sep 2026 17:59:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Mystery-Puzzle-Adventure gratis: Epic verschenkt „sehr positiv“ bewertetes Evan's Remains für Android und iOS",
-      "link": "https://www.pcgames.de/Epic-Games-Store-Software-269112/News/kostenloses-spiel-ios-android-1553080/",
-      "published": "Tue, 08 Sep 2026 08:58:00 +0200",
+      "title": "Ist das wirklich Ocarina of Time? Das erste Gameplay haut uns um und lange müssen wir auch nicht mehr warten!",
+      "link": "https://www.pcgames.de/The-Legend-of-Zelda-Ocarina-of-Time-Remake-Spiel-78201/News/erstes-Gameplay-und-Releasedatum-1553164/",
+      "published": "Tue, 08 Sep 2026 17:13:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Nach 8 Jahren zurück in der Apokalypse: Hat sich das Warten auf State of Decay 3 gelohnt?",
-      "link": "https://www.pcgames.de/State-of-Decay-3-Spiel-72901/Specials/gamescom-Hands-on-1553043/",
-      "published": "Mon, 07 Sep 2026 19:01:00 +0200",
+      "title": "Geheimtipp der Woche: Niemand kennt dieses Fantasy-RPG – dabei lieben es Taktikfans auf Steam",
+      "link": "https://www.pcgames.de/Steam-Software-69900/Specials/Veterum-1553146/",
+      "published": "Tue, 08 Sep 2026 17:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Nach Flop im Kino: Fantasy-Spektakel D&D könnte vielleicht doch noch eine Fortsetzung bekommen",
-      "link": "https://www.pcgames.de/Dungeons-und-Dragons-Brands-278658/News/film-ehre-unter-dieben-fortsetzung-zweiter-teil-1553057/",
-      "published": "Mon, 07 Sep 2026 18:29:00 +0200",
+      "title": "Nach Onimusha-Erfolg: Capcom will alte Marken zurückbringen, und von denen gibt es etliche",
+      "link": "https://www.pcgames.de/Capcom-Firma-15316/News/onimsuha-marken-spielereihen-dino-crisis-lost-planet-breath-of-fire-1553093/",
+      "published": "Tue, 08 Sep 2026 16:29:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
