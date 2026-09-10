@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-09T19:05:12.774918+00:00",
+  "updated_at": "2026-09-10T09:23:24.040645+00:00",
   "sport": [
     {
-      "title": "Champions League: Round-up – Barça schenkt Feyenoord eine Handvoll Tore ein",
-      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-barca-schenkt-feyenoord-eine-handvoll-tore-ein",
-      "published": "Wed, 09 Sep 2026 20:59:49 +0200",
+      "title": "Nach Covid-Affäre – IIHF sperrt Fischer für vier Jahre",
+      "link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/nach-covid-affaere-iihf-sperrt-fischer-fuer-vier-jahre",
+      "published": "Thu, 10 Sep 2026 11:10:22 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "FC Basel trennt sich vom Coach – Lichtsteiner: Chronik einer angekündigten Entlassung",
+      "link": "https://www.srf.ch/sport/fussball/super-league/fc-basel-trennt-sich-vom-coach-lichtsteiner-chronik-einer-angekuendigten-entlassung",
+      "published": "Thu, 10 Sep 2026 11:16:48 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
@@ -14,101 +20,95 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "US Open: Viertelfinals F – Rybakina bodigt Zheng und wird neue Nummer 1",
-      "link": "https://www.srf.ch/sport/tennis/grand-slam-turniere/us-open-viertelfinals-f-rybakina-bodigt-zheng-und-wird-neue-nummer-1",
-      "published": "Wed, 09 Sep 2026 20:03:23 +0200",
+      "title": "Rückkehr in die «Königsklasse» – ManUnited: Zuerst «No Name», dann Derby",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/rueckkehr-in-die-koenigsklasse-manunited-zuerst-no-name-dann-derby",
+      "published": "Thu, 10 Sep 2026 09:49:13 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Viertelfinal der US Open – Im Match-Tiebreak: Alcaraz scheitert dramatisch an Shelton",
-      "link": "https://www.srf.ch/sport/tennis/grand-slam-turniere/viertelfinal-der-us-open-im-match-tiebreak-alcaraz-scheitert-dramatisch-an-shelton",
-      "published": "Wed, 09 Sep 2026 09:49:31 +0200",
+      "title": "In der CL gegen Leipzig – Como-Präsident macht Platz für treuste Fans",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/in-der-cl-gegen-leipzig-como-praesident-macht-platz-fuer-treuste-fans",
+      "published": "Tue, 08 Sep 2026 14:29:49 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "US-Open-Out: Alcaraz gefasst – «Ich verlasse den Platz glücklich und gesund – mit einem Lächeln»",
-      "link": "https://www.srf.ch/sport/tennis/grand-slam-turniere/us-open-out-alcaraz-gefasst-ich-verlasse-den-platz-gluecklich-und-gesund-mit-einem-laecheln",
-      "published": "Wed, 09 Sep 2026 12:02:11 +0200",
+      "title": "Schweizer Fussball-News – Frauen-Nati muss gegen Israel in Ungarn ran",
+      "link": "https://www.srf.ch/sport/fussball/super-league/schweizer-fussball-news-frauen-nati-muss-gegen-israel-in-ungarn-ran",
+      "published": "Thu, 10 Sep 2026 10:29:07 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Women's Super League: 5. Runde – Servette landet gegen Yverdon den vierten Sieg in Folge",
-      "link": "https://www.srf.ch/sport/fussball/women-s-super-league/women-s-super-league-5-runde-servette-landet-gegen-yverdon-den-vierten-sieg-in-folge",
-      "published": "Wed, 09 Sep 2026 20:02:47 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Champions League: Round-up – Barça schenkt Feyenoord eine Handvoll Tore ein",
-      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-barca-schenkt-feyenoord-eine-handvoll-tore-ein",
-      "published": "Wed, 09 Sep 2026 20:59:49 +0200",
+      "title": "FC Basel trennt sich vom Coach – Lichtsteiner: Chronik einer angekündigten Entlassung",
+      "link": "https://www.srf.ch/sport/fussball/super-league/fc-basel-trennt-sich-vom-coach-lichtsteiner-chronik-einer-angekuendigten-entlassung",
+      "published": "Thu, 10 Sep 2026 11:16:48 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Women's Super League: 5. Runde – Servette landet gegen Yverdon den vierten Sieg in Folge",
-      "link": "https://www.srf.ch/sport/fussball/women-s-super-league/women-s-super-league-5-runde-servette-landet-gegen-yverdon-den-vierten-sieg-in-folge",
-      "published": "Wed, 09 Sep 2026 20:02:47 +0200",
+      "title": "Schweizer Fussball-News – Frauen-Nati muss gegen Israel in Ungarn ran",
+      "link": "https://www.srf.ch/sport/fussball/super-league/schweizer-fussball-news-frauen-nati-muss-gegen-israel-in-ungarn-ran",
+      "published": "Thu, 10 Sep 2026 10:29:07 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Beachsoccer-EM in Viareggio – Nach heftigem Sturm: Schweizerinnen unterliegen der Ukraine",
-      "link": "https://www.srf.ch/sport/fussball/beachsoccer/beachsoccer-em-in-viareggio-nach-heftigem-sturm-schweizerinnen-unterliegen-der-ukraine",
-      "published": "Wed, 09 Sep 2026 17:45:04 +0200",
+      "title": "Französischer Cup – Fussball-Zwerg Miquelon reist 4000 km über den Atlantik",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/franzoesischer-cup-fussball-zwerg-miquelon-reist-4000-km-ueber-den-atlantik",
+      "published": "Thu, 10 Sep 2026 09:53:29 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Trotz Vertrag bis 2029 – Nach der Lugano-Pleite: Der FCB entlässt Trainer Lichtsteiner",
-      "link": "https://www.srf.ch/sport/fussball/super-league/trotz-vertrag-bis-2029-nach-der-lugano-pleite-der-fcb-entlaesst-trainer-lichtsteiner",
-      "published": "Wed, 09 Sep 2026 18:57:31 +0200",
+      "title": "Rückkehr in die «Königsklasse» – ManUnited: Zuerst «No Name», dann Derby",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/rueckkehr-in-die-koenigsklasse-manunited-zuerst-no-name-dann-derby",
+      "published": "Thu, 10 Sep 2026 09:49:13 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Stürmer will für Nati spielen – Boteli: «Die Schweiz war immer mein Weg»",
-      "link": "https://www.srf.ch/sport/fussball/super-league/stuermer-will-fuer-nati-spielen-boteli-die-schweiz-war-immer-mein-weg-1",
-      "published": "Wed, 09 Sep 2026 14:01:32 +0200",
+      "title": "«Reds» schlagen Atletico 2:1 – Llorente trifft erneut in Anfield, doch am Ende jubelt Liverpool",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/reds-schlagen-atletico-2-1-llorente-trifft-erneut-in-anfield-doch-am-ende-jubelt-liverpool",
+      "published": "Wed, 09 Sep 2026 23:18:26 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "News aus der Super League – Schwedischer Nationalspieler für Servette – Konietzke fällt aus",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-schwedischer-nationalspieler-fuer-servette-konietzke-faellt-aus",
-      "published": "Wed, 09 Sep 2026 16:08:52 +0200",
+      "title": "Champions League: Round-up – Barça mit Gala gegen Feyenoord, Arsenal mit Minisieg in Neapel",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-barca-mit-gala-gegen-feyenoord-arsenal-mit-minisieg-in-neapel",
+      "published": "Wed, 09 Sep 2026 23:35:00 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Star Wars wie 1977 endlich wieder im Kino: Fans beschweren sich über IMAX-Version",
-      "link": "https://www.pcgames.de/Star-Wars-Brands-25101/News/krieg-der-sterne-1977-imax-70-mm-1553296/",
-      "published": "Wed, 09 Sep 2026 19:28:00 +0200",
+      "title": "Diablo bekommt endlich das Crossover, das perfekt zur Reihe passt",
+      "link": "https://www.pcgames.de/Diablo-Immortal-Spiel-62024/News/bekommt-endlich-das-perfekte-Crossover-1553366/",
+      "published": "Thu, 10 Sep 2026 11:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Counter-Strike: Datenleck enthüllt jetzt die Schimpfwort-Könige von CS2",
-      "link": "https://www.pcgames.de/Counter-Strike-2-Spiel-74230/News/Datenleck-laesst-Slur-Rangliste-entstehen-1553280/",
-      "published": "Wed, 09 Sep 2026 18:59:00 +0200",
+      "title": "Sony beendet Zusammenarbeit mit Hideo Kojima, der geht direkt zur Konkurrenz",
+      "link": "https://www.pcgames.de/Kojima-Productions-Firma-205060/News/physint-od-sony-microsoft-1553355/",
+      "published": "Thu, 10 Sep 2026 10:29:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Fortsetzung zu Game of Thrones: Hauptdarstellerin Maisie Williams meldet Bedenken an",
-      "link": "https://www.pcgames.de/Kino-Thema-130800/News/Game-of-Thrones-Fortsetzung-1553271/",
-      "published": "Wed, 09 Sep 2026 18:32:00 +0200",
+      "title": "WoW: Alle Augen auf Azeroth - Instagram-Post teasert Ankündigung von Classic+",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Fuer-immer-auf-Azeroth-Classic-Plus-Teaser-1553354/",
+      "published": "Thu, 10 Sep 2026 10:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Metroid Ravenous: Jetzt offiziell - Samus Aran kehrt im Januar 2027 zurück",
-      "link": "https://www.pcgames.de/Metroid-Ravenous-Spiel-78885/News/Switch-2-Release-Termin-1553322/",
-      "published": "Wed, 09 Sep 2026 18:01:00 +0200",
+      "title": "Ist das erst der Anfang? Konami belebt die Yu-Gi-Oh! Tag Force-Reihe wieder",
+      "link": "https://www.pcgames.de/YuxGixOh-TAG-FORCE-GX-Spiel-78886/News/Ist-das-erst-der-Anfang-Konami-belebt-die-Yu-Gi-Oh-Tag-Force-Reihe-wieder-1553352/",
+      "published": "Thu, 10 Sep 2026 09:37:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Total War: Warhammer 40.000 gespielt: Dreckig, brutal, gigantisch – SO muss 40k sein",
-      "link": "https://www.pcgames.de/Total-War-Warhammer-40000-Spiel-75468/Specials/Gamescom-angespielt-1553183/",
-      "published": "Wed, 09 Sep 2026 18:00:00 +0200",
+      "title": "Ab heute: Gleich zwei neue kostenlose Spiele mit hervorragendem Metascore im Epic Games Store zum Download erhältlich",
+      "link": "https://www.pcgames.de/Epic-Games-Store-Software-269112/News/kostenloser-download-gratis-games-der-woche-donnerstab-1553351/",
+      "published": "Thu, 10 Sep 2026 09:13:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Uniformen von Trumps „Space Force“ basieren auf Starship Troopers – ein Film, der sich über Faschisten lustig macht",
-      "link": "https://www.pcgames.de/Starship-Troopers-Extermination-Spiel-74934/News/donald-trump-usa-space-force-uniform-1553278/",
-      "published": "Wed, 09 Sep 2026 17:29:00 +0200",
+      "title": "StarCraft kehrt zurück, WoW verändert sich: Alle „BlizzCon-Leaks“ im Überblick",
+      "link": "https://www.pcgames.de/BlizzCon-Event-111300/Specials/WoW-StarCraft-Blizzard-Leaks-1553272/",
+      "published": "Thu, 10 Sep 2026 08:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
