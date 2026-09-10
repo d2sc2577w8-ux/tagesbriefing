@@ -1,84 +1,84 @@
 {
-  "updated_at": "2026-09-10T09:23:22.426332+00:00",
+  "updated_at": "2026-09-10T18:57:23.752744+00:00",
   "politik": [
     {
-      "title": "Asyl-Beobachtungsstelle – Neuer Bericht kritisiert lange Wartezeiten beim Familiennachzug",
-      "link": "https://www.srf.ch/news/schweiz/asyl-beobachtungsstelle-neuer-bericht-kritisiert-lange-wartezeiten-beim-familiennachzug",
-      "published": "Thu, 10 Sep 2026 11:00:05 +0200",
+      "title": "Ewigkeitschemikalie PFAS – Kanton St. Gallen verschärft PFAS-Kurs – Kritik vom Bauernverband",
+      "link": "https://www.srf.ch/news/schweiz/ewigkeitschemikalie-pfas-kanton-st-gallen-verschaerft-pfas-kurs-kritik-vom-bauernverband",
+      "published": "Thu, 10 Sep 2026 20:40:07 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Ringier zieht Reissleine – Adieu «SoBli»: An manche Dinge muss man sich erst noch gewöhnen",
-      "link": "https://www.srf.ch/news/schweiz/ringier-zieht-reissleine-adieu-sobli-an-manche-dinge-muss-man-sich-erst-noch-gewoehnen",
-      "published": "Thu, 10 Sep 2026 09:09:45 +0200",
+      "title": "Viel Vertrauen in der Schweiz – Was die Wissenschaft zur Demokratie beiträgt",
+      "link": "https://www.srf.ch/news/dialog/viel-vertrauen-in-der-schweiz-was-die-wissenschaft-zur-demokratie-beitraegt",
+      "published": "Thu, 10 Sep 2026 19:50:03 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Experte zum Kopftuchverbot – «Ein Verbot beraubt Frauen ihrer Freiheit»",
-      "link": "https://www.srf.ch/news/schweiz/experte-zum-kopftuchverbot-ein-verbot-beraubt-frauen-ihrer-freiheit",
-      "published": "Thu, 10 Sep 2026 08:40:14 +0200",
+      "title": "Schweiz-EU – Reaktionen aus der Schweiz zum EU-Entscheid zum Innovationsgesetz",
+      "link": "https://www.srf.ch/news/schweiz/schweiz-eu-reaktionen-aus-der-schweiz-zum-eu-entscheid-zum-innovationsgesetz",
+      "published": "Thu, 10 Sep 2026 19:49:08 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Neues EU-Innovationsgesetz – Schweizer Wirtschaftsplatz bleibt aussen vor",
-      "link": "https://www.srf.ch/news/wirtschaft/neues-eu-innovationsgesetz-schweizer-wirtschaftsplatz-bleibt-aussen-vor",
-      "published": "Thu, 10 Sep 2026 06:00:58 +0200",
+      "title": "Zürcher Bezirksgericht – Hackerangriff auf Stadler Rail: Täter zu langer Haft verurteilt",
+      "link": "https://www.srf.ch/news/schweiz/zuercher-bezirksgericht-hackerangriff-auf-stadler-rail-taeter-zu-langer-haft-verurteilt",
+      "published": "Thu, 10 Sep 2026 19:40:05 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Marktbericht: EZB-Zinsentscheid sorgt für Stillstand am Markt",
+      "title": "Emirate investieren 40 Milliarden Euro in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/asien/vae-deutschland-100.html",
+      "published": "Thu, 10 Sep 2026 20:24:58 +0200",
+      "source": "tagesschau.de - Die Nachrichten der ARD"
+    },
+    {
+      "title": "Was die AfD in den Schulen in Sachsen-Anhalt verändern könnte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-bildungspolitik-100.html",
+      "published": "Thu, 10 Sep 2026 20:03:25 +0200",
+      "source": "tagesschau.de - Die Nachrichten der ARD"
+    },
+    {
+      "title": "USA: Oberstes Gericht lehnt Wahlkreisänderung in Missouri ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-wahlkreise-missouri-oberstes-gericht-100.html",
+      "published": "Thu, 10 Sep 2026 19:18:47 +0200",
+      "source": "tagesschau.de - Die Nachrichten der ARD"
+    },
+    {
+      "title": "Marktbericht: Der DAX dreht ins Minus",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
-      "published": "Thu, 10 Sep 2026 11:13:06 +0200",
-      "source": "tagesschau.de - Die Nachrichten der ARD"
-    },
-    {
-      "title": "Unionspolitiker rütteln an Klingbeils Steuerplänen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/union-kritik-steuerreform-100.html",
-      "published": "Thu, 10 Sep 2026 10:09:02 +0200",
-      "source": "tagesschau.de - Die Nachrichten der ARD"
-    },
-    {
-      "title": "Bundesweiter Warntag: Warum es heute ab 11 Uhr laut wurde",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/warntag-faq-100.html",
-      "published": "Thu, 10 Sep 2026 11:20:25 +0200",
-      "source": "tagesschau.de - Die Nachrichten der ARD"
-    },
-    {
-      "title": "Umfrage zu Hausärzte-Versorgung: Wenn der Hausarzt fehlt, hat das Einfluss auf die Wahl",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hausaerzte-deutschland-100.html",
-      "published": "Thu, 10 Sep 2026 09:03:04 +0200",
+      "published": "Thu, 10 Sep 2026 18:32:35 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
     {
-      "title": "Muse kann für Nutzer einkaufen, E-Mails schreiben und Preise verhandeln – alles über WhatsApp",
-      "link": "https://the-decoder.de/muse-kann-fuer-nutzer-einkaufen-e-mails-schreiben-und-preise-verhandeln-alles-ueber-whatsapp/",
-      "published": "Thu, 10 Sep 2026 08:48:18 +0000",
+      "title": "heise KI PRO Workshop | Zwei Tage Workshop, zwölf Monate Weiterbildung – Dein Weg zur professionellen KI-Nutzung",
+      "link": "https://the-decoder.de/heise-ki-pro-workshop-zwei-tage-workshop-zwoelf-monate-weiterbildung-dein-weg-zur-professionellen-ki-nutzung/",
+      "published": "Thu, 10 Sep 2026 18:14:09 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Claude-Abonnenten starten Sammelklage gegen Anthropic wegen versteckter Nutzungslimits",
-      "link": "https://the-decoder.de/claude-abonnenten-starten-sammelklage-gegen-anthropic-wegen-versteckter-nutzungslimits/",
-      "published": "Thu, 10 Sep 2026 08:14:58 +0000",
+      "title": "GPT-Live-1: OpenAIs Full-Duplex-Sprachmodell ist jetzt für Entwickler verfügbar",
+      "link": "https://the-decoder.de/gpt-live-1-openais-full-duplex-sprachmodell-ist-jetzt-fuer-entwickler-verfuegbar/",
+      "published": "Thu, 10 Sep 2026 17:28:35 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "KI-Ausgaben der größten US-Unternehmen sinken im August um fast 10 Prozent pro Mitarbeiter",
-      "link": "https://the-decoder.de/ki-ausgaben-der-groessten-us-unternehmen-sinken-im-august-um-fast-10-prozent-pro-mitarbeiter/",
-      "published": "Thu, 10 Sep 2026 08:09:21 +0000",
+      "title": "\"Swarmchasers\" jagen abtrünnige Agenten, Anthropic untersucht sich selbst, und die Spur, der beide folgen, wird unlesbar",
+      "link": "https://the-decoder.de/swarmchasers-jagen-abtruennige-agenten-anthropic-untersucht-sich-selbst-und-die-spur-der-beide-folgen-wird-unlesbar/",
+      "published": "Thu, 10 Sep 2026 16:16:44 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Anthropics neues Wirtschaftsmodell stuft die düsteren Job-Prognosen seines CEOs als Extremszenario ein",
-      "link": "https://the-decoder.de/anthropics-neues-wirtschaftsmodell-stuft-die-duesteren-job-prognosen-seines-ceos-als-extremszenario-ein/",
-      "published": "Wed, 09 Sep 2026 19:31:27 +0000",
+      "title": "Ex-Deepmind-Sprecher enthüllt: Forscher durften nicht über existenzielle KI-Risiken sprechen",
+      "link": "https://the-decoder.de/ex-deepmind-sprecher-enthuellt-forscher-durften-nicht-ueber-existenzielle-ki-risiken-sprechen/",
+      "published": "Thu, 10 Sep 2026 16:02:02 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Suno stellt mit v6 drei neue KI-Musikmodelle vor und schaltet alle bisherigen Versionen ab",
-      "link": "https://the-decoder.de/suno-stellt-mit-v6-drei-neue-ki-musikmodelle-vor-und-schaltet-alle-bisherigen-versionen-ab/",
-      "published": "Wed, 09 Sep 2026 13:53:57 +0000",
+      "title": "Analyse zeigt: Claude Fable 5.1 schreibt weniger schmeichelhaft und verzichtet auf typische KI-Floskeln",
+      "link": "https://the-decoder.de/analyse-zeigt-claude-fable-5-1-schreibt-weniger-schmeichelhaft-und-verzichtet-auf-typische-ki-floskeln/",
+      "published": "Thu, 10 Sep 2026 15:10:58 +0000",
       "source": "The Decoder"
     }
   ]
