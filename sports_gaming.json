@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-11T18:59:15.625759+00:00",
+  "updated_at": "2026-09-12T09:01:23.196982+00:00",
   "sport": [
+    {
+      "title": "US Open: 2. Halbfinal, Männer – Erster Grand-Slam-Finaleinzug: Shelton ringt Tiafoe nieder",
+      "link": "https://www.srf.ch/sport/tennis/grand-slam-turniere/us-open-2-halbfinal-maenner-erster-grand-slam-finaleinzug-shelton-ringt-tiafoe-nieder",
+      "published": "Sat, 12 Sep 2026 05:21:58 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "US Open: 1. Halbfinal, Männer – 3. Grand-Slam-Final in Serie: Zverev eliminiert Chatschanow",
+      "link": "https://www.srf.ch/sport/tennis/grand-slam-turniere/us-open-1-halbfinal-maenner-3-grand-slam-final-in-serie-zverev-eliminiert-chatschanow",
+      "published": "Sat, 12 Sep 2026 00:32:09 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Ultimate Championship – Bitter: Joseph nach Fehlstart im Final disqualifiziert",
+      "link": "https://www.srf.ch/sport/leichtathletik/ultimate-championship-bitter-joseph-nach-fehlstart-im-final-disqualifiziert",
+      "published": "Fri, 11 Sep 2026 22:10:11 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Ultimate Championship – Werro locker im Final – auch Vancardo und Rosamilia weiter",
+      "link": "https://www.srf.ch/sport/leichtathletik/ultimate-championship-werro-locker-im-final-auch-vancardo-und-rosamilia-weiter",
+      "published": "Fri, 11 Sep 2026 21:25:53 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Ultimate Championship: Tag 1 – Ingebrigtsen hält Wort – Favoritensiege für Russell und Duplantis",
+      "link": "https://www.srf.ch/sport/leichtathletik/ultimate-championship-tag-1-ingebrigtsen-haelt-wort-favoritensiege-fuer-russell-und-duplantis",
+      "published": "Fri, 11 Sep 2026 22:14:07 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
     {
       "title": "Mit der Ultimate Championship – Die Leichtathletik will attraktiver und jünger werden",
       "link": "https://www.srf.ch/sport/leichtathletik/mit-der-ultimate-championship-die-leichtathletik-will-attraktiver-und-juenger-werden",
@@ -8,34 +38,10 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Schwierige Situation – WM-Bronze, aber kein Team: Nicole Koller vor ungewisser Zukunft",
-      "link": "https://www.srf.ch/sport/rad/mountainbike/schwierige-situation-wm-bronze-aber-kein-team-nicole-koller-vor-ungewisser-zukunft",
-      "published": "Fri, 11 Sep 2026 19:00:25 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "GP Spanien in Madrid – Antonelli am schnellsten – Lindblad crasht",
-      "link": "https://www.srf.ch/sport/motorsport/formel-1/gp-spanien-in-madrid-antonelli-am-schnellsten-lindblad-crasht",
-      "published": "Fri, 11 Sep 2026 18:23:45 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Strecke zeigt Tücken – Wagen fängt Feuer: Heftiger Formel-2-Unfall in Madrid",
-      "link": "https://www.srf.ch/sport/motorsport/formel-1/strecke-zeigt-tuecken-wagen-faengt-feuer-heftiger-formel-2-unfall-in-madrid",
-      "published": "Fri, 11 Sep 2026 14:07:02 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Formel 1 gastiert in Spanien – Auf Tradition in Monza folgt Spektakel in Madrid",
-      "link": "https://www.srf.ch/sport/motorsport/formel-1/formel-1-gastiert-in-spanien-auf-tradition-in-monza-folgt-spektakel-in-madrid",
-      "published": "Fri, 11 Sep 2026 10:53:12 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Im Alter von 93 Jahren – Ehemaliger YB- und SFV-Präsident Zloczower verstorben",
-      "link": "https://www.srf.ch/sport/fussball/super-league/im-alter-von-93-jahren-ehemaliger-yb-und-sfv-praesident-zloczower-verstorben",
-      "published": "Fri, 11 Sep 2026 17:30:39 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "Bundesliga: 3. Spieltag – Situation verschärft sich: Lustrinellis Union unterliegt Schalke",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-3-spieltag-situation-verschaerft-sich-lustrinellis-union-unterliegt-schalke",
+      "published": "Fri, 11 Sep 2026 22:40:59 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "Beachsoccer-EM in Viareggio – Schweizer Nati steht nach hartem Kampf im EM-Halbfinal",
@@ -66,49 +72,43 @@
       "link": "https://www.srf.ch/sport/fussball/champions-league/cl-fehlstart-fuer-leipzig-david-raum-ordentlich-einen-auf-den-deckel-gekriegt",
       "published": "Fri, 11 Sep 2026 08:51:33 +0200",
       "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Champions League: 1. Spieltag – Musiala krönt Comeback mit Tor – Bayern mit Kantersieg",
-      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-1-spieltag-musiala-kroent-comeback-mit-tor-bayern-mit-kantersieg",
-      "published": "Thu, 10 Sep 2026 23:39:07 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Animula Nook vs. Animal Crossing: Das sind die wichtigsten Unterschiede zur Cozy-Konkurrenz!",
-      "link": "https://www.pcgames.de/Animula-Nook-Spiel-78887/Specials/Unterschiede-zu-Animal-Crossing-1553508/",
-      "published": "Fri, 11 Sep 2026 18:59:00 +0200",
+      "title": "Frontier Developments: Neues Planet-Spiel angekündigt, aber Geduld ist gefragt",
+      "link": "https://www.pcgames.de/Frontier-Developments-Firma-123760/News/Neues-Planet-Spiel-angekuendigt-1553579/",
+      "published": "Sat, 12 Sep 2026 11:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Steam schießt scharf mit bis zu 90% Rabatt: Sniper-Elite-Reihe im Angebot",
-      "link": "https://www.pcgames.de/Sniper-Elite-Resistance-Spiel-75068/News/sale-steam-angebot-rabatt-guenstig-franchise-1553535/",
-      "published": "Fri, 11 Sep 2026 18:31:00 +0200",
+      "title": "Hela: So hebt sich das neue Mäuse-Abenteuer von anderen Koop-Spielen ab",
+      "link": "https://www.pcgames.de/Hela-Spiel-74876/Specials/Vorschau-Preview-Koop-Adventure-1553228/",
+      "published": "Sat, 12 Sep 2026 10:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Im Sommer macht Zocken nur halb so viel Spaß – aber ein Spiel war perfekt für die Jahreszeit",
-      "link": "https://www.pcgames.de/Spiele-Thema-239104/Specials/Tour-de-France-2026-Sportspiele-Gaming-Sommer-1553416/",
-      "published": "Fri, 11 Sep 2026 18:00:00 +0200",
+      "title": "N-ZONE 10/26 mit Coverstory zu Elden Ring: Tarnished Edition, Vorschau zu Nintendo Switch Sports Resort u. v. m.",
+      "link": "https://www.pcgames.de/N-ZONE-Brands-68140/News/Ausgabe-10-26-Elden-Ring-1553571/",
+      "published": "Sat, 12 Sep 2026 10:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Neue Fähigkeiten für alte Items? Diese Zelda-Szenen machen uns neugierig",
-      "link": "https://www.pcgames.de/The-Legend-of-Zelda-Ocarina-of-Time-Remake-Spiel-78201/News/Neue-Funktionen-fuer-bekannte-Items-1553551/",
-      "published": "Fri, 11 Sep 2026 17:29:00 +0200",
+      "title": "Runescape: ChatGPT-Version des Spiels geht zwei Tage nach Release offline",
+      "link": "https://www.pcgames.de/RuneScape-Spiel-31127/News/ChatGPT-Klon-Elderwood-geht-nach-zwei-Tagen-offline-1553578/",
+      "published": "Sat, 12 Sep 2026 10:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Valheim 1.0 endlich auf Konsole: Nach 5 Jahren begeistert der Survival-Hit aufs Neue",
-      "link": "https://www.pcgames.de/Valheim-Spiel-73202/Tests/Vollversion-1-0-Wertung-Kritik-Konsolen-Port-PS5-Xbox-Series-Nintendo-Switch-1553287/",
-      "published": "Fri, 11 Sep 2026 17:01:00 +0200",
+      "title": "Star Wars: Zero Company: Patch killt Bug, der nicht nur uns extrem genervt hat",
+      "link": "https://www.pcgames.de/Star-Wars-Zero-Company-Spiel-75171/News/Patch-killt-nervigen-Trefferchance-Bug-1553577/",
+      "published": "Sat, 12 Sep 2026 09:02:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "GTA 6: Anders als bisher gedacht können sich Lucia und Jason tatsächlich trennen",
-      "link": "https://www.pcgames.de/GTA-6-Spiel-55239/News/Jason-Lucia-Beziehung-Release-Story-1553523/",
-      "published": "Fri, 11 Sep 2026 16:51:00 +0200",
+      "title": "PC Games 10/26: Mit Coverstory zu The Blood of Dawnwalker, Vorschau zu The Witcher 3: Songs of the Past u. v. m.",
+      "link": "https://www.pcgames.de/PC-Games-Brands-19921/News/Ausgabe-10-26-The-Blood-of-Dawnwalker-1553572/",
+      "published": "Sat, 12 Sep 2026 09:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
