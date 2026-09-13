@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-09-12T18:06:13.578779+00:00",
+  "updated_at": "2026-09-13T09:59:33.921217+00:00",
   "politik": [
     {
-      "title": "Zentrum beleben – City-Management: Die Hoffnung der Kleinstädte",
-      "link": "https://www.srf.ch/news/schweiz/zentrum-beleben-city-management-die-hoffnung-der-kleinstaedte",
-      "published": "Sat, 12 Sep 2026 17:57:06 +0200",
+      "title": "Wettlauf gegen die Zeit – Pfahlbauten im Zürichsee: Eine Weltkultur vor dem Zerfall",
+      "link": "https://www.srf.ch/news/schweiz/wettlauf-gegen-die-zeit-pfahlbauten-im-zuerichsee-eine-weltkultur-vor-dem-zerfall",
+      "published": "Sun, 13 Sep 2026 11:32:04 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Kunstausstellung in Zofingen – Wenn Wölfe ins Kunsthaus einziehen",
-      "link": "https://www.srf.ch/news/schweiz/kunstausstellung-in-zofingen-wenn-woelfe-ins-kunsthaus-einziehen",
-      "published": "Sat, 12 Sep 2026 16:50:06 +0200",
+      "title": "Vornamen in der Schweiz – Sag mir, wie du heisst – und ich sag dir, wer du bist",
+      "link": "https://www.srf.ch/radio-srf-3/vornamen-in-der-schweiz-sag-mir-wie-du-heisst-und-ich-sag-dir-wer-du-bist",
+      "published": "Sun, 13 Sep 2026 11:14:59 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Carunglück im Engadin – Zehn Verletzte weiterhin in Spitälern – Opfer identifiziert",
-      "link": "https://www.srf.ch/news/schweiz/carunglueck-im-engadin-zehn-verletzte-weiterhin-in-spitaelern-opfer-identifiziert",
-      "published": "Sat, 12 Sep 2026 15:14:15 +0200",
+      "title": "Künstliche Intelligenz – Für den Papst auf KI‑Mission",
+      "link": "https://www.srf.ch/news/schweiz/kuenstliche-intelligenz-fuer-den-papst-auf-ki-mission",
+      "published": "Sun, 13 Sep 2026 08:34:01 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Kampf gegen Essenverschwendung – Food Waste: Der Wille ist da, die Umsetzung bleibt harzig",
-      "link": "https://www.srf.ch/kultur/gesellschaft-religion/kampf-gegen-essenverschwendung-food-waste-der-wille-ist-da-die-umsetzung-bleibt-harzig",
-      "published": "Sat, 12 Sep 2026 14:27:48 +0200",
+      "title": "Küchenchef Gstaad Palace – «Ich bin ‹gottefroh›» – Kult-Koch Franz Faeh geht in Pension",
+      "link": "https://www.srf.ch/news/schweiz/kuechenchef-gstaad-palace-ich-bin-gottefroh-kult-koch-franz-faeh-geht-in-pension",
+      "published": "Sun, 13 Sep 2026 07:24:44 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
-      "link": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
-      "published": "Sat, 12 Sep 2026 19:55:57 +0200",
+      "title": "Viele Vermisste nach Fährunglück in Indonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/faehre-indonesien-seenot-100.html",
+      "published": "Sun, 13 Sep 2026 10:31:18 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Droht der nächste Ölpreis-Schock?",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-oel-exporte-angriffe-100.html",
-      "published": "Sat, 12 Sep 2026 19:31:20 +0200",
+      "title": "Bilger drängt auf Wiedereinführung der Familienreservierung bei der Bahn",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bilger-bahn-familienreservierung-100.html",
+      "published": "Sun, 13 Sep 2026 09:52:19 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
-      "link": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html",
-      "published": "Sat, 12 Sep 2026 18:59:53 +0200",
+      "title": "Welt-Sepsis-Tag: Warum bei Blutvergiftungen oft zu viel Zeit vergeht",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-sepsis-100.html",
+      "published": "Sun, 13 Sep 2026 08:16:32 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Protest in vielen Städten: Zehntausende demonstrieren gegen rechts",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
-      "published": "Sat, 12 Sep 2026 19:38:32 +0200",
+      "title": "Wie eine explodierende Erbpacht Familien überfordern kann",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/erbpacht-108.html",
+      "published": "Sun, 13 Sep 2026 08:15:32 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Zweijährige Uni-Studie zeigt: KI-Verbot schadet Studierenden mehr als es nützt",
+      "link": "https://the-decoder.de/zweijaehrige-uni-studie-zeigt-ki-verbot-schadet-studierenden-mehr-als-es-nuetzt/",
+      "published": "Sun, 13 Sep 2026 09:11:01 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "KI-Entwicklung verlangsamen: OpenAI-Chef Sam Altman und Elon Musk pflichten Anthropic-CEO bei",
+      "link": "https://the-decoder.de/ki-entwicklung-verlangsamen-openai-chef-sam-altman-und-elon-musk-pflichten-anthropic-ceo-bei/",
+      "published": "Sun, 13 Sep 2026 08:47:00 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Anthropic-Chef Dario Amodei warnt vor KI-Selbstverbesserung und fordert ein Tempolimit für die Branche",
       "link": "https://the-decoder.de/anthropic-chef-dario-amodei-warnt-vor-ki-selbstverbesserung-und-fordert-ein-tempolimit-fuer-die-branche/",
@@ -67,18 +79,6 @@
       "title": "\"KI-Zentralbank\" Nvidia will bis zu zehn Milliarden Dollar in Anthropics Rekord-Börsengang stecken",
       "link": "https://the-decoder.de/ki-zentralbank-nvidia-will-bis-zu-zehn-milliarden-dollar-in-anthropics-rekord-boersengang-stecken/",
       "published": "Sat, 12 Sep 2026 13:52:18 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Denkschritte von KI-Modellen lassen sich in deren internen Zuständen nachweisen",
-      "link": "https://the-decoder.de/denkschritte-von-ki-modellen-lassen-sich-in-deren-internen-zustaenden-nachweisen/",
-      "published": "Sat, 12 Sep 2026 13:27:43 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Alte Prompts und Skills werden bei GPT-6-Astra laut OpenAI zum Problem",
-      "link": "https://the-decoder.de/alte-prompts-und-skills-werden-bei-gpt-6-astra-laut-openai-zum-problem/",
-      "published": "Sat, 12 Sep 2026 12:40:11 +0000",
       "source": "The Decoder"
     }
   ]
