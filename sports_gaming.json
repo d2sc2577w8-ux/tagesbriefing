@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-17T19:33:34.960902+00:00",
+  "updated_at": "2026-09-18T09:23:12.291141+00:00",
   "sport": [
+    {
+      "title": "Werro-Konkurrentin über 800 m – «Körper anders aufgebaut»: Hodgkinson offenbart «Abnormalität»",
+      "link": "https://www.srf.ch/sport/leichtathletik/werro-konkurrentin-ueber-800-m-koerper-anders-aufgebaut-hodgkinson-offenbart-abnormalitaet",
+      "published": "Fri, 18 Sep 2026 10:28:09 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Weitere Sport-News – Capela für seine Rolle als «Botschafter der Schweiz» geehrt",
+      "link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-capela-fuer-seine-rolle-als-botschafter-der-schweiz-geehrt",
+      "published": "Fri, 18 Sep 2026 11:03:35 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Eishockeyspieler in NHL – NHL-Rekordtorschütze Owetschkin macht Wahlkampf für Putin",
+      "link": "https://www.srf.ch/news/international/eishockeyspieler-in-nhl-nhl-rekordtorschuetze-owetschkin-macht-wahlkampf-fuer-putin",
+      "published": "Fri, 18 Sep 2026 10:38:12 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Stargoalie will wechseln – «No-Show» beim Trainingsstart: Winnipeg suspendiert Hellebuyck",
+      "link": "https://www.srf.ch/sport/eishockey/nhl/stargoalie-will-wechseln-no-show-beim-trainingsstart-winnipeg-suspendiert-hellebuyck",
+      "published": "Thu, 17 Sep 2026 10:43:02 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Kaum Pause nach US-Open-Titel – Entgegen der Ratschläge des Umfelds – Zverev im Davis Cup dabei",
+      "link": "https://www.srf.ch/sport/tennis/davis-cup/kaum-pause-nach-us-open-titel-entgegen-der-ratschlaege-des-umfelds-zverev-im-davis-cup-dabei",
+      "published": "Fri, 18 Sep 2026 11:05:41 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
     {
       "title": "Aufstiegsduell gegen Brasilien – Wawrinka sagt dem Davis-Cup-Team in Rio «Adieu»",
       "link": "https://www.srf.ch/sport/tennis/davis-cup/aufstiegsduell-gegen-brasilien-wawrinka-sagt-dem-davis-cup-team-in-rio-adieu",
@@ -8,34 +38,16 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Davis Cup in Rio de Janeiro – Schweizer Team trifft in der Weltgruppe 1 auf Brasilien",
-      "link": "https://www.srf.ch/sport/tennis/davis-cup/davis-cup-in-rio-de-janeiro-schweizer-team-trifft-in-der-weltgruppe-1-auf-brasilien",
-      "published": "Thu, 17 Sep 2026 16:23:52 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "Starker FCZ-Saisonstart – Tor um Tor dank grosser Leichtigkeit: Dubs hat «richtig Spass»",
+      "link": "https://www.srf.ch/sport/fussball/women-s-super-league/starker-fcz-saisonstart-tor-um-tor-dank-grosser-leichtigkeit-dubs-hat-richtig-spass",
+      "published": "Fri, 18 Sep 2026 09:57:37 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "GC-Flügelstürmer im Fokus – Krasniqi wirbelt und dribbelt – doch er will noch mehr",
-      "link": "https://www.srf.ch/sport/fussball/super-league/gc-fluegelstuermer-im-fokus-krasniqi-wirbelt-und-dribbelt-doch-er-will-noch-mehr",
-      "published": "Thu, 17 Sep 2026 14:34:18 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Fussball-Podcast Sykora Gisler – Lil Bruzy: «Ich bin nicht Schweizer, ich bin Zürcher»",
-      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/fussball-podcast-sykora-gisler-lil-bruzy-ich-bin-nicht-schweizer-ich-bin-zuercher",
-      "published": "Thu, 17 Sep 2026 15:28:40 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Es fehlt an Geld – Die Schwimm-EM in der Schweiz steht auf der Kippe",
-      "link": "https://www.srf.ch/sport/mehr-sport/schwimmen/es-fehlt-an-geld-die-schwimm-em-in-der-schweiz-steht-auf-der-kippe",
-      "published": "Thu, 17 Sep 2026 17:58:23 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Für die Nations-League-Spiele – Yakin bietet Boteli und Britschgi auf – auch Manzambi dabei",
-      "link": "https://www.srf.ch/sport/fussball/nationalmannschaft/fuer-die-nations-league-spiele-yakin-bietet-boteli-und-britschgi-auf-auch-manzambi-dabei",
-      "published": "Thu, 17 Sep 2026 11:50:56 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "1. Runde in der Europa League – Besiktas schlägt Marseille – gelungenes Debüt für Bournemouth",
+      "link": "https://www.srf.ch/sport/fussball/europa-league/1-runde-in-der-europa-league-besiktas-schlaegt-marseille-gelungenes-debuet-fuer-bournemouth",
+      "published": "Thu, 17 Sep 2026 23:37:33 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "GC-Flügelstürmer im Fokus – Krasniqi wirbelt und dribbelt – doch er will noch mehr",
@@ -60,55 +72,43 @@
       "link": "https://www.srf.ch/sport/fussball/europa-league/ulisses-garcia-bei-marseille-empfehle-nicht-in-die-stadt-zu-gehen-wenn-du-verlierst",
       "published": "Thu, 17 Sep 2026 08:16:56 +0200",
       "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Premiere im Campeones Cup – Messis 100. Tor für Miami ebnet Weg zum nächsten Titel",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/premiere-im-campeones-cup-messis-100-tor-fuer-miami-ebnet-weg-zum-naechsten-titel",
-      "published": "Thu, 17 Sep 2026 08:03:17 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Kaderbekanntgabe am Donnerstag – «Überzeugung & Stolz»: Boteli steht vor erstem Nati-Aufgebot",
-      "link": "https://www.srf.ch/sport/fussball/nationalmannschaft/kaderbekanntgabe-am-donnerstag-ueberzeugung-stolz-boteli-steht-vor-erstem-nati-aufgebot",
-      "published": "Thu, 17 Sep 2026 07:03:50 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "WoW Housing bekommt endlich die Funktion, die ich schon beim ersten Test vermisst habe",
-      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/wow-housing-neues-feature-funktion-1554093/",
-      "published": "Thu, 17 Sep 2026 20:00:00 +0200",
+      "title": "Portal: KI spielt Valve-Klassiker selbstständig durch",
+      "link": "https://www.pcgames.de/Portal-Spiel-28231/News/KI-spielt-es-durch-1554243/",
+      "published": "Fri, 18 Sep 2026 11:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Jetzt streamen: Kinoflop Supergirl triumphiert im Abo",
-      "link": "https://www.pcgames.de/DC-Extended-Universe-DCEU-Brands-266314/News/Supergirl-Streaming-Abo-Erfolg-1554092/",
-      "published": "Thu, 17 Sep 2026 19:29:00 +0200",
+      "title": "Dune Awakening jetzt mit Solo-Modus und zum historischen Tiefstpreis",
+      "link": "https://www.pcgames.de/Dune-Awakening-Spiel-73843/News/Update-15-Singleplayer-historischer-Tiefstpreis-1554232/",
+      "published": "Fri, 18 Sep 2026 10:29:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Hearthstone: Karten-Reveal - zwei starke Diener für Dämonenjäger",
-      "link": "https://www.pcgames.de/Hearthstone-Spiel-56561/Specials/Herrschaft-des-Schwarzen-Imperiums-Karten-Reveal-1553806/",
-      "published": "Thu, 17 Sep 2026 19:00:00 +0200",
+      "title": "WoW Forever Beta: Pets, Streifschläge, Gilden & mehr - Liste bekannter Fehler",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/WoW-Forever-Beta-Liste-bekannter-Fehler-1554231/",
+      "published": "Fri, 18 Sep 2026 10:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Star Trek: Das Jahr 2264 – wichtige Lücke in Kirks Geschichte wird wohl nicht geschlossen",
-      "link": "https://www.pcgames.de/Star-Trek-Brands-138540/News/neue-serie-year-one-captain-kirk-1554125/",
-      "published": "Thu, 17 Sep 2026 18:58:00 +0200",
+      "title": "WoW Forever: Holpriger Beta-Start zeigt, wie groß der Hype rund um Classic+ ist",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Forever-holpriger-Beta-Start-Hype-Classic-1554216/",
+      "published": "Fri, 18 Sep 2026 09:36:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Nintendo stellt ungeliebtes Mario Kart Tour ein – bald fällt die letzte Flagge",
-      "link": "https://www.pcgames.de/Mario-Kart-Tour-Spiel-61522/News/rubine-offline-niemand-spielt-mehr-ende-1554160/",
-      "published": "Thu, 17 Sep 2026 18:45:00 +0200",
+      "title": "N-ZONE 10/26 mit Coverstory zu Elden Ring: Tarnished Edition, Vorschau zu Nintendo Switch Sports Resort u. v. m.",
+      "link": "https://www.pcgames.de/N-ZONE-Brands-68140/News/Ausgabe-10-26-Elden-Ring-1553571/",
+      "published": "Fri, 18 Sep 2026 09:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Spider-Man bricht historischen Kino-Rekord von Star Wars",
-      "link": "https://www.pcgames.de/Spider-Man-Brands-144260/News/Brand-New-Day-historischer-Rekord-Nordamerika-1554113/",
-      "published": "Thu, 17 Sep 2026 18:31:00 +0200",
+      "title": "Der Herr der Ringe: Erste Bewegtbilder von Ian McKellen als Gandalf – doch nicht alle Fans sind begeistert",
+      "link": "https://www.pcgames.de/Der-Herr-der-Ringe-Brands-136200/News/dienjagt-nach-gollum-video-gandalf-ian-mckellen-1554213/",
+      "published": "Fri, 18 Sep 2026 08:45:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
