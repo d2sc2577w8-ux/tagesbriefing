@@ -1,56 +1,62 @@
 {
-  "updated_at": "2026-09-20T18:29:29.989382+00:00",
+  "updated_at": "2026-09-21T10:24:32.554002+00:00",
   "politik": [
     {
-      "title": "Klimareserve für Wein – Wie die Schweizer Weinbranche um den Markt kämpft",
-      "link": "https://www.srf.ch/news/schweiz/klimareserve-fuer-wein-wie-die-schweizer-weinbranche-um-den-markt-kaempft",
-      "published": "Sun, 20 Sep 2026 20:22:59 +0200",
+      "title": "Hitze und Trockenheit – Klimawandel zwingt Thurgauer Obstbauern zum Umdenken",
+      "link": "https://www.srf.ch/news/schweiz/hitze-und-trockenheit-klimawandel-zwingt-thurgauer-obstbauern-zum-umdenken",
+      "published": "Mon, 21 Sep 2026 09:35:32 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Ehemaliger Spitzenbeamter – Warum Hans Werder eine Million in die EU-Debatte investiert",
-      "link": "https://www.srf.ch/news/schweiz/ehemaliger-spitzenbeamter-warum-hans-werder-eine-million-in-die-eu-debatte-investiert",
-      "published": "Sun, 20 Sep 2026 19:30:28 +0200",
+      "title": "Rindfleisch und Geflügel – Schweiz stoppt Fleisch aus Brasilien wegen Antibiotika",
+      "link": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/rindfleisch-und-gefluegel-schweiz-stoppt-fleisch-aus-brasilien-wegen-antibiotika",
+      "published": "Mon, 21 Sep 2026 09:33:03 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Trockener Sommer – Wie der tiefe Rheinpegel unsere Einkäufe verteuern könnte",
-      "link": "https://www.srf.ch/news/wirtschaft/trockener-sommer-wie-der-tiefe-rheinpegel-unsere-einkaeufe-verteuern-koennte",
-      "published": "Sun, 20 Sep 2026 16:57:37 +0200",
+      "title": "Spionage-Affäre im NDB – VBS legt Abschlussbericht zur Cyberaffäre im NDB vor",
+      "link": "https://www.srf.ch/news/schweiz/spionage-affaere-im-ndb-vbs-legt-abschlussbericht-zur-cyberaffaere-im-ndb-vor",
+      "published": "Mon, 21 Sep 2026 10:25:46 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Forschungsprojekt – Quantenphysik statt Tourismus: Der neue Plan für die Porta Alpina",
-      "link": "https://www.srf.ch/news/schweiz/forschungsprojekt-quantenphysik-statt-tourismus-der-neue-plan-fuer-die-porta-alpina",
-      "published": "Sun, 20 Sep 2026 16:46:24 +0200",
+      "title": "Verwitterte Felsen – Freiburg kämpft gegen die Erosion unter der Altstadt",
+      "link": "https://www.srf.ch/news/schweiz/verwitterte-felsen-freiburg-kaempft-gegen-die-erosion-unter-der-altstadt",
+      "published": "Mon, 21 Sep 2026 06:19:07 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Nach den Landtagswahlen: Merz spielt auf Zeit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-nach-den-wahlen-100.html",
-      "published": "Sun, 20 Sep 2026 20:20:08 +0200",
+      "title": "Was ein Notschalter für KI bringen könnte",
+      "link": "https://www.tagesschau.de/ausland/amerika/notschalter-ki-100.html",
+      "published": "Mon, 21 Sep 2026 11:22:53 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: CDU muss immer stärker zittern ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
-      "published": "Sun, 20 Sep 2026 20:23:53 +0200",
+      "title": "CDU sortiert sich nach Wahlniederlagen neu",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-nach-wahlen-100.html",
+      "published": "Mon, 21 Sep 2026 11:21:42 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "++ Liveticker zur Berlin-Wahl: Klingbeil kündigt Kurskorrektur an ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
-      "published": "Sun, 20 Sep 2026 20:25:06 +0200",
+      "title": "Liveticker: ++ SPD-Spitze gegen ein \"Weiter so\" im Bund ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
+      "published": "Mon, 21 Sep 2026 12:19:47 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Nach Landtagswahlen: Merz will an Reformkurs festhalten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-wahlen-mecklenburg-vorpommern-berlin-100.html",
-      "published": "Sun, 20 Sep 2026 19:38:59 +0200",
+      "title": "Marktbericht: Für Anleger sind Ölpreise wichtiger als die Wahlen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
+      "published": "Mon, 21 Sep 2026 10:38:27 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Amazon sperrt Metas KI-Agenten Muse vom Online-Shopping aus",
+      "link": "https://the-decoder.de/amazon-sperrt-metas-ki-agenten-muse-vom-online-shopping-aus/",
+      "published": "Mon, 21 Sep 2026 09:49:51 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Alibabas Qwen-Image-2.1 vereint Bildgenerierung und -bearbeitung in einem einzigen Open-Weight-Modell, das lokal läuft",
       "link": "https://the-decoder.de/alibabas-qwen-image-2-1-vereint-bildgenerierung-und-bearbeitung-in-einem-einzigen-open-weight-modell-das-lokal-laeuft/",
@@ -73,12 +79,6 @@
       "title": "Tägliche KI-Nutzung in den USA hat sich in nur sechs Monaten mehr als verdoppelt",
       "link": "https://the-decoder.de/taegliche-ki-nutzung-in-den-usa-hat-sich-in-nur-sechs-monaten-mehr-als-verdoppelt/",
       "published": "Sun, 20 Sep 2026 10:01:29 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Microsoft trainiert KI-Schüler, um KI-Tutoren besser zu machen",
-      "link": "https://the-decoder.de/microsoft-trainiert-ki-schueler-um-ki-tutoren-besser-zu-machen/",
-      "published": "Sun, 20 Sep 2026 09:08:32 +0000",
       "source": "The Decoder"
     }
   ]
