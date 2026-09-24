@@ -1,84 +1,84 @@
 {
-  "updated_at": "2026-09-24T09:42:32.166404+00:00",
+  "updated_at": "2026-09-24T19:47:51.680047+00:00",
   "politik": [
     {
-      "title": "Geldpolitische Lage – SNB belässt Leitzins bei null Prozent",
-      "link": "https://www.srf.ch/news/wirtschaft/geldpolitische-lage-snb-belaesst-leitzins-bei-null-prozent",
-      "published": "Thu, 24 Sep 2026 10:38:59 +0200",
+      "title": "«Raumfahrtnation Schweiz» – Nationalrat ebnet den Weg für erstes Schweizer Raumfahrtgesetz",
+      "link": "https://www.srf.ch/news/schweiz/raumfahrtnation-schweiz-nationalrat-ebnet-den-weg-fuer-erstes-schweizer-raumfahrtgesetz",
+      "published": "Thu, 24 Sep 2026 19:58:25 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Logistiker Speedaf – Chinesischer Paketdienst bläst zum Angriff auf die Post",
-      "link": "https://www.srf.ch/news/wirtschaft/logistiker-speedaf-chinesischer-paketdienst-blaest-zum-angriff-auf-die-post",
-      "published": "Thu, 24 Sep 2026 09:26:22 +0200",
+      "title": "Q&A zu Pflege und Gesundheit – Pflege unter Druck: Antworten auf die wichtigsten Fragen",
+      "link": "https://www.srf.ch/news/srf-news-chats/q-a-zu-pflege-und-gesundheit-pflege-unter-druck-antworten-auf-die-wichtigsten-fragen",
+      "published": "Thu, 24 Sep 2026 17:52:44 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Lieferengpässe – Diese fünf Medikamente waren in der Schweiz schon knapp",
-      "link": "https://www.srf.ch/news/schweiz/lieferengpaesse-diese-fuenf-medikamente-waren-in-der-schweiz-schon-knapp",
-      "published": "Thu, 24 Sep 2026 10:14:59 +0200",
+      "title": "Nächster Streitpunkt – Lebensmittel-Abkommen wird zum Stolperstein im EU-Paket",
+      "link": "https://www.srf.ch/news/schweiz/naechster-streitpunkt-lebensmittel-abkommen-wird-zum-stolperstein-im-eu-paket",
+      "published": "Thu, 24 Sep 2026 17:21:54 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Trockenheit und Hagel – Sommerhitze verursachte schwere Schäden in der Landwirtschaft",
-      "link": "https://www.srf.ch/news/schweiz/trockenheit-und-hagel-sommerhitze-verursachte-schwere-schaeden-in-der-landwirtschaft",
-      "published": "Wed, 23 Sep 2026 23:12:15 +0200",
+      "title": "Nach Terroranschlag in Zürich – Räte wollen maximale Freiheitsstrafe im Jugendstrafrecht erhöhen",
+      "link": "https://www.srf.ch/news/schweiz/nach-terroranschlag-in-zuerich-raete-wollen-maximale-freiheitsstrafe-im-jugendstrafrecht-erhoehen",
+      "published": "Thu, 24 Sep 2026 16:50:26 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Immobilienpreise in Deutschland steigen nicht mehr so stark",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/immobilienpreise-haeuser-wohnungen-100.html",
-      "published": "Thu, 24 Sep 2026 10:59:05 +0200",
+      "title": "Rheinland-Pfalz behält MPK-Vorsitz - Sachsen-Anhalt wird übersprungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-behaelt-mpk-vorsitz-100.html",
+      "published": "Thu, 24 Sep 2026 19:54:13 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Marktbericht: DAX startet mit Verlusten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
-      "published": "Thu, 24 Sep 2026 10:58:38 +0200",
+      "title": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html",
+      "published": "Thu, 24 Sep 2026 19:50:55 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Marokko: Wahlbeteiligung auf niedrigstem Stand seit 2007",
-      "link": "https://www.tagesschau.de/ausland/afrika/marokko-parlamentswahl-100.html",
-      "published": "Thu, 24 Sep 2026 10:18:11 +0200",
+      "title": "Nach Richterspruch - Weißes Haus lässt CNN-Reporter wieder zu",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-cnn-trump-102.html",
+      "published": "Thu, 24 Sep 2026 19:20:41 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Deutlich höheres Wirtschaftswachstum erwartet als bisher angenommen",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/herbstprognose-konjunktur-aufschwung-100.html",
-      "published": "Thu, 24 Sep 2026 10:49:15 +0200",
+      "title": "Prunk und Pandas: Trump empfängt Xi in Washington",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-china-trump-xi-pandas-100.html",
+      "published": "Thu, 24 Sep 2026 21:43:38 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
     {
-      "title": "Kosten für KI-Leistung fallen schneller als bei jeder anderen Technologie zuvor",
-      "link": "https://the-decoder.de/kosten-fuer-ki-leistung-fallen-schneller-als-bei-jeder-anderen-technologie-zuvor/",
-      "published": "Thu, 24 Sep 2026 09:34:18 +0000",
+      "title": "Selbst Top-Experten haben den KI-Fortschritt der letzten Jahre teils massiv unterschätzt",
+      "link": "https://the-decoder.de/selbst-top-experten-haben-den-ki-fortschritt-der-letzten-jahre-teils-massiv-unterschaetzt/",
+      "published": "Thu, 24 Sep 2026 19:03:33 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "ChatGPT Voice greift jetzt auf E-Mail, Kalender und Slack zu und erledigt Aufgaben per Sprache",
-      "link": "https://the-decoder.de/chatgpt-voice-greift-jetzt-auf-e-mail-kalender-und-slack-zu-und-erledigt-aufgaben-per-sprache/",
-      "published": "Wed, 23 Sep 2026 17:52:37 +0000",
+      "title": "Sakana AI holt Jürgen Schmidhuber, den Erfinder aller künftigen OpenAI-Features",
+      "link": "https://the-decoder.de/sakana-ai-holt-juergen-schmidhuber-den-erfinder-aller-kuenftigen-openai-features/",
+      "published": "Thu, 24 Sep 2026 17:57:13 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Gemini 3.8 Flash TTS: Google will mit KI-Stimmen Hörbücher, Spiele und Podcasts verändern",
-      "link": "https://the-decoder.de/gemini-3-8-flash-tts-google-will-mit-ki-stimmen-hoerbuecher-spiele-und-podcasts-veraendern/",
-      "published": "Wed, 23 Sep 2026 17:13:10 +0000",
+      "title": "Google will mit Projekt \"Suncatcher\" KI-Rechenzentren ins Weltall bringen",
+      "link": "https://the-decoder.de/google-will-mit-projekt-suncatcher-ki-rechenzentren-ins-weltall-bringen/",
+      "published": "Thu, 24 Sep 2026 17:38:44 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "YouTube rüstet Creator-Studio mit KI auf: Skript-Tipps, smarte Thumbnails und Gemini-Schnitt",
-      "link": "https://the-decoder.de/youtube-ruestet-creator-studio-mit-ki-auf-skript-tipps-smarte-thumbnails-und-gemini-schnitt/",
-      "published": "Wed, 23 Sep 2026 16:10:43 +0000",
+      "title": "Anthropic führt unsichtbares Text-Wasserzeichen für weitere Claude-Modelle ein",
+      "link": "https://the-decoder.de/anthropic-fuehrt-unsichtbares-text-wasserzeichen-fuer-weitere-claude-modelle-ein/",
+      "published": "Thu, 24 Sep 2026 17:15:12 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Anthropic-Mitarbeiter erklärt, warum Claude verlernt hat, für Menschen zu schreiben",
-      "link": "https://the-decoder.de/anthropic-mitarbeiter-erklaert-warum-claude-verlernt-hat-fuer-menschen-zu-schreiben/",
-      "published": "Wed, 23 Sep 2026 14:58:34 +0000",
+      "title": "Black Forest Labs stellt FLUX 3 Action vor: Offenes KI-Modell soll Robotern das Handeln beibringen",
+      "link": "https://the-decoder.de/black-forest-labs-stellt-flux-3-action-vor-offenes-ki-modell-soll-robotern-das-handeln-beibringen/",
+      "published": "Thu, 24 Sep 2026 16:55:03 +0000",
       "source": "The Decoder"
     }
   ]
