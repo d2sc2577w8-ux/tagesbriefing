@@ -1,56 +1,62 @@
 {
-  "updated_at": "2026-09-23T19:26:34.639233+00:00",
+  "updated_at": "2026-09-24T09:42:32.166404+00:00",
   "politik": [
     {
-      "title": "Ständerat zur UBS-Regulierung – Caroni: «Das grösste Risiko ist die Krise, nicht die Prävention»",
-      "link": "https://www.srf.ch/news/schweiz/staenderat-zur-ubs-regulierung-caroni-das-groesste-risiko-ist-die-krise-nicht-die-praevention",
-      "published": "Wed, 23 Sep 2026 20:36:36 +0200",
+      "title": "Geldpolitische Lage – SNB belässt Leitzins bei null Prozent",
+      "link": "https://www.srf.ch/news/wirtschaft/geldpolitische-lage-snb-belaesst-leitzins-bei-null-prozent",
+      "published": "Thu, 24 Sep 2026 10:38:59 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Medizinische Versorgung – Medikamentenversorgung: Nationalrat ist skeptisch bei Initiative",
-      "link": "https://www.srf.ch/news/schweiz/medizinische-versorgung-medikamentenversorgung-nationalrat-ist-skeptisch-bei-initiative",
-      "published": "Wed, 23 Sep 2026 19:34:08 +0200",
+      "title": "Logistiker Speedaf – Chinesischer Paketdienst bläst zum Angriff auf die Post",
+      "link": "https://www.srf.ch/news/wirtschaft/logistiker-speedaf-chinesischer-paketdienst-blaest-zum-angriff-auf-die-post",
+      "published": "Thu, 24 Sep 2026 09:26:22 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Maximalbestand an Wölfen – Parlament will Schutz von Wölfen in der Schweiz weiter lockern",
-      "link": "https://www.srf.ch/news/schweiz/maximalbestand-an-woelfen-parlament-will-schutz-von-woelfen-in-der-schweiz-weiter-lockern",
-      "published": "Wed, 23 Sep 2026 19:17:49 +0200",
+      "title": "Lieferengpässe – Diese fünf Medikamente waren in der Schweiz schon knapp",
+      "link": "https://www.srf.ch/news/schweiz/lieferengpaesse-diese-fuenf-medikamente-waren-in-der-schweiz-schon-knapp",
+      "published": "Thu, 24 Sep 2026 10:14:59 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Weniger Einnahmen beim Print – Ringier streicht 14 Stellen in der Romandie",
-      "link": "https://www.srf.ch/news/schweiz/weniger-einnahmen-beim-print-ringier-streicht-14-stellen-in-der-romandie",
-      "published": "Wed, 23 Sep 2026 19:07:43 +0200",
+      "title": "Trockenheit und Hagel – Sommerhitze verursachte schwere Schäden in der Landwirtschaft",
+      "link": "https://www.srf.ch/news/schweiz/trockenheit-und-hagel-sommerhitze-verursachte-schwere-schaeden-in-der-landwirtschaft",
+      "published": "Wed, 23 Sep 2026 23:12:15 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Bundeskabinett beschließt Aktionsplan gegen Sozialmissbrauch",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-gegen-sozialmissbrauch-100.html",
-      "published": "Wed, 23 Sep 2026 21:11:42 +0200",
+      "title": "Immobilienpreise in Deutschland steigen nicht mehr so stark",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/immobilienpreise-haeuser-wohnungen-100.html",
+      "published": "Thu, 24 Sep 2026 10:59:05 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Außenminister Rubio lädt Russlands Präsident Putin zu G20-Gipfel ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
-      "published": "Wed, 23 Sep 2026 21:06:22 +0200",
+      "title": "Marktbericht: DAX startet mit Verlusten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
+      "published": "Thu, 24 Sep 2026 10:58:38 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Iran wehrt sich vor UN gegen Trump-Drohungen",
-      "link": "https://www.tagesschau.de/ausland/peseschkian-rede-un-100.html",
-      "published": "Wed, 23 Sep 2026 20:34:47 +0200",
+      "title": "Marokko: Wahlbeteiligung auf niedrigstem Stand seit 2007",
+      "link": "https://www.tagesschau.de/ausland/afrika/marokko-parlamentswahl-100.html",
+      "published": "Thu, 24 Sep 2026 10:18:11 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Ex-Hollywood-Produzent Harvey Weinstein erneut verurteilt",
-      "link": "https://www.tagesschau.de/ausland/usa-weinstein-haft-100.html",
-      "published": "Wed, 23 Sep 2026 20:27:35 +0200",
+      "title": "Deutlich höheres Wirtschaftswachstum erwartet als bisher angenommen",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/herbstprognose-konjunktur-aufschwung-100.html",
+      "published": "Thu, 24 Sep 2026 10:49:15 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Kosten für KI-Leistung fallen schneller als bei jeder anderen Technologie zuvor",
+      "link": "https://the-decoder.de/kosten-fuer-ki-leistung-fallen-schneller-als-bei-jeder-anderen-technologie-zuvor/",
+      "published": "Thu, 24 Sep 2026 09:34:18 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "ChatGPT Voice greift jetzt auf E-Mail, Kalender und Slack zu und erledigt Aufgaben per Sprache",
       "link": "https://the-decoder.de/chatgpt-voice-greift-jetzt-auf-e-mail-kalender-und-slack-zu-und-erledigt-aufgaben-per-sprache/",
@@ -73,12 +79,6 @@
       "title": "Anthropic-Mitarbeiter erklärt, warum Claude verlernt hat, für Menschen zu schreiben",
       "link": "https://the-decoder.de/anthropic-mitarbeiter-erklaert-warum-claude-verlernt-hat-fuer-menschen-zu-schreiben/",
       "published": "Wed, 23 Sep 2026 14:58:34 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Hinter den Kulissen von Basecamp Research: Wie ein KI-Start-up die Evolution zum Trainingsdatensatz macht",
-      "link": "https://the-decoder.de/hinter-den-kulissen-von-basecamp-research-wie-ein-ki-start-up-die-evolution-zum-trainingsdatensatz-macht/",
-      "published": "Wed, 23 Sep 2026 13:51:59 +0000",
       "source": "The Decoder"
     }
   ]
