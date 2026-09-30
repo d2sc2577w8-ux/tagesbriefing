@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-09-29T20:27:15.930097+00:00",
+  "updated_at": "2026-09-30T10:54:07.809113+00:00",
   "politik": [
     {
-      "title": "Bund plant Politzentrum – «Wir müssen unsere Demokratie schützen»",
-      "link": "https://www.srf.ch/news/schweiz/bund-plant-politzentrum-wir-muessen-unsere-demokratie-schuetzen",
-      "published": "Tue, 29 Sep 2026 20:14:53 +0200",
+      "title": "Beste Hochschulen – ETH Zürich verliert einen Rang im Hochschul-Ranking",
+      "link": "https://www.srf.ch/news/schweiz/beste-hochschulen-eth-zuerich-verliert-einen-rang-im-hochschul-ranking",
+      "published": "Wed, 30 Sep 2026 12:44:30 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Ratten-Ärger – In Basler Nachbarort Weil am Rhein (D) machen sich Ratten breit",
-      "link": "https://www.srf.ch/news/schweiz/ratten-aerger-in-basler-nachbarort-weil-am-rhein-d-machen-sich-ratten-breit",
-      "published": "Tue, 29 Sep 2026 20:09:35 +0200",
+      "title": "Alles wird teurer – «1 Franken bleibt 1 Franken, auch wenn man ihn dreimal umdreht»",
+      "link": "https://www.srf.ch/radio-srf-1/alles-wird-teurer-1-franken-bleibt-1-franken-auch-wenn-man-ihn-dreimal-umdreht",
+      "published": "Wed, 30 Sep 2026 09:26:24 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Steigende Krankenkassenprämien – Baume-Schneider: «Es braucht von allen einen positiven Beitrag»",
-      "link": "https://www.srf.ch/news/schweiz/steigende-krankenkassenpraemien-baume-schneider-es-braucht-von-allen-einen-positiven-beitrag",
-      "published": "Tue, 29 Sep 2026 19:42:44 +0200",
+      "title": "Was tun gegen Hitzewellen? – Die Community schlägt vor – Politikerinnen antworten",
+      "link": "https://www.srf.ch/news/dialog/was-tun-gegen-hitzewellen-die-community-schlaegt-vor-politikerinnen-antworten",
+      "published": "Wed, 30 Sep 2026 06:34:51 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Wohnungsnot – Personen aus dem Asylbereich in umstrittenen Sugus-Häusern",
-      "link": "https://www.srf.ch/news/schweiz/wohnungsnot-personen-aus-dem-asylbereich-in-umstrittenen-sugus-haeusern",
-      "published": "Tue, 29 Sep 2026 21:23:29 +0200",
+      "title": "Bundesrätlicher Pflichttermin – Bonjour Tristesse: Willkommen zur jährlichen Prämienexplosion",
+      "link": "https://www.srf.ch/news/schweiz/bundesraetlicher-pflichttermin-bonjour-tristesse-willkommen-zur-jaehrlichen-praemienexplosion",
+      "published": "Wed, 30 Sep 2026 05:52:35 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Burnham kündigt auf Labour-Parteitag Reformen an",
-      "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html",
-      "published": "Tue, 29 Sep 2026 22:19:59 +0200",
+      "title": "Flydubai-Maschine muss nach Vorfall an Bord notlanden",
+      "link": "https://www.tagesschau.de/ausland/asien/flydubai-notlandung-106.html",
+      "published": "Wed, 30 Sep 2026 12:43:09 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Kasachischer Präsident beim Kanzler: Öl, Rohstoffe und Putin",
-      "link": "https://www.tagesschau.de/inland/merz-praesident-kasachstan-oel-100.html",
-      "published": "Tue, 29 Sep 2026 21:44:05 +0200",
+      "title": "Wohnen wird für Studierende auch 2026 teurer",
+      "link": "https://www.tagesschau.de/inland/wohnkosten-studierende-steigen-100.html",
+      "published": "Wed, 30 Sep 2026 12:25:59 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Marokkos König ernennt erstmals eine Frau zur Ministerpräsidentin",
-      "link": "https://www.tagesschau.de/ausland/afrika/marokko-frau-regierungschefin-100.html",
-      "published": "Tue, 29 Sep 2026 21:11:36 +0200",
+      "title": "Wenn Lina Beckmann spielt, stellen sich die Härchen auf",
+      "link": "https://www.tagesschau.de/kultur/schauspielerin-lina-beckmann-100.html",
+      "published": "Wed, 30 Sep 2026 12:25:37 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Reformdebatte in der schwarz-roten Koalition",
-      "link": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html",
-      "published": "Tue, 29 Sep 2026 20:25:40 +0200",
+      "title": "Marktbericht: KI sorgt für Rückenwind bei Tech-Werten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
+      "published": "Wed, 30 Sep 2026 11:22:36 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Anthropic: Frei verfügbares GLM-5.3 baut Exploits fast auf Mythos-Niveau",
+      "link": "https://the-decoder.de/anthropic-frei-verfuegbares-glm-5-3-baut-exploits-fast-auf-mythos-niveau/",
+      "published": "Wed, 30 Sep 2026 10:50:05 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Trump lässt Tech-Chefs \"moralisch bindenden\" KI-Kodex unterschreiben, der keine rechtliche Grundlage hat",
+      "link": "https://the-decoder.de/trump-laesst-tech-chefs-moralisch-bindenden-ki-kodex-unterschreiben-der-keine-rechtliche-grundlage-hat/",
+      "published": "Wed, 30 Sep 2026 09:26:09 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "KI-Antworten in der Suche: WWWiderstand wächst, und Google zahlt",
+      "link": "https://the-decoder.de/ki-antworten-in-der-suche-wwwiderstand-waechst-und-google-zahlt/",
+      "published": "Wed, 30 Sep 2026 08:25:15 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Unabhängiger Benchmark zeigt: GPT-6 Astra ist OpenAIs bislang gefährlichste KI-Modell",
       "link": "https://the-decoder.de/unabhaengiger-benchmark-zeigt-gpt-6-astra-ist-openais-bislang-gefaehrlichste-ki-modell/",
@@ -61,24 +79,6 @@
       "title": "1,2 Milliarden Nutzer pro Woche: OpenAI wächst mit ChatGPT und Codex rasant weiter",
       "link": "https://the-decoder.de/12-milliarden-nutzer-pro-woche-openai-waechst-mit-chatgpt-und-codex-rasant-weiter/",
       "published": "Tue, 29 Sep 2026 18:05:34 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Weniger Chatbot, mehr OS: OpenAI baut ChatGPT zur Arbeitsplattform um",
-      "link": "https://the-decoder.de/weniger-chatbot-mehr-os-openai-baut-chatgpt-zur-arbeitsplattform-um/",
-      "published": "Tue, 29 Sep 2026 17:18:35 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI schickt Dauer-Agenten \"Dots\" gegen Metas Muse ins Rennen",
-      "link": "https://the-decoder.de/openai-schickt-dauer-agenten-dots-gegen-metas-muse-ins-rennen/",
-      "published": "Tue, 29 Sep 2026 17:14:45 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI baut Codex und API zum DevDay mit Sicherheitsscans, Decisions API und Ultrafast aus",
-      "link": "https://the-decoder.de/openai-baut-codex-und-api-zum-devday-mit-sicherheitsscans-decisions-api-und-ultrafast-aus/",
-      "published": "Tue, 29 Sep 2026 17:14:41 +0000",
       "source": "The Decoder"
     }
   ]
