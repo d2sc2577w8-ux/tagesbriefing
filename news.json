@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-09-30T20:33:07.510056+00:00",
+  "updated_at": "2026-10-01T11:23:06.842576+00:00",
   "politik": [
     {
-      "title": "Ampelsystem – Neue Karte soll tödliche Wanderunfälle verhindern",
-      "link": "https://www.srf.ch/news/schweiz/ampelsystem-neue-karte-soll-toedliche-wanderunfaelle-verhindern",
-      "published": "Wed, 30 Sep 2026 20:12:37 +0200",
+      "title": "Olympia in der Schweiz – 200-Millionen-Franken-Beitrag für Winterspiele nimmt erste Hürde",
+      "link": "https://www.srf.ch/news/schweiz/olympia-in-der-schweiz-200-millionen-franken-beitrag-fuer-winterspiele-nimmt-erste-huerde",
+      "published": "Thu, 01 Oct 2026 12:23:56 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Neue bilaterale Verträge – EU-Paket soll laut Ständerat Volk und Ständen vorgelegt werden",
-      "link": "https://www.srf.ch/news/schweiz/neue-bilaterale-vertraege-eu-paket-soll-laut-staenderat-volk-und-staenden-vorgelegt-werden",
-      "published": "Wed, 30 Sep 2026 19:58:47 +0200",
+      "title": "Verkehrsunfall in Wohlen AG – Ersthelfer holen vier junge Menschen aus brennendem Auto",
+      "link": "https://www.srf.ch/news/schweiz/verkehrsunfall-in-wohlen-ag-ersthelfer-holen-vier-junge-menschen-aus-brennendem-auto",
+      "published": "Thu, 01 Oct 2026 11:15:06 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Sommer 2026 – Nationalrat nimmt Bundesrat Rösti zum Thema Hitze in die Zange",
-      "link": "https://www.srf.ch/news/schweiz/sommer-2026-nationalrat-nimmt-bundesrat-roesti-zum-thema-hitze-in-die-zange",
-      "published": "Wed, 30 Sep 2026 19:35:27 +0200",
+      "title": "Teurere Massensendungen – Mehr Porto – weniger Demokratie? Die Folgen des Post-Entscheids",
+      "link": "https://www.srf.ch/news/schweiz/teurere-massensendungen-mehr-porto-weniger-demokratie-die-folgen-des-post-entscheids",
+      "published": "Thu, 01 Oct 2026 10:33:06 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Schweizer Nuklearanlagen – Stilllegung von Atomkraftwerken kostet 23.6 Milliarden",
-      "link": "https://www.srf.ch/news/schweiz/schweizer-nuklearanlagen-stilllegung-von-atomkraftwerken-kostet-23-6-milliarden",
-      "published": "Wed, 30 Sep 2026 18:59:48 +0200",
+      "title": "Strafuntersuchung eingeleitet – Rechtsextremes Treffen im Visier der Waadtländer Justiz",
+      "link": "https://www.srf.ch/news/dialog/strafuntersuchung-eingeleitet-rechtsextremes-treffen-im-visier-der-waadtlaender-justiz",
+      "published": "Thu, 01 Oct 2026 06:58:50 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
-      "published": "Wed, 30 Sep 2026 22:31:18 +0200",
+      "title": "Warum Schwarz-Rot auf den \"Tankrabatt\" setzt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundesregierung-100.html",
+      "published": "Thu, 01 Oct 2026 13:11:49 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
-      "link": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
-      "published": "Wed, 30 Sep 2026 20:07:15 +0200",
+      "title": "Neuer \"Tankrabatt\" startet mit stark fallenden Preisen",
+      "link": "https://www.tagesschau.de/wirtschaft/spritpreise-tankrabatt-116.html",
+      "published": "Thu, 01 Oct 2026 13:07:49 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Erdölraffinerie in Kenia soll Afrikas Wirtschaft einen Schub geben",
-      "link": "https://www.tagesschau.de/ausland/afrika/kenia-erdoel-raffinerie-100.html",
-      "published": "Wed, 30 Sep 2026 19:23:51 +0200",
+      "title": "Kanzleramt bremst beim Gesetzentwurf zur Zuckersteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html",
+      "published": "Thu, 01 Oct 2026 13:01:33 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Linke-Politiker Kocak gibt Sitz im Innenausschuss des Bundestages auf",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-kocak-innenausschuss-100.html",
-      "published": "Wed, 30 Sep 2026 20:59:10 +0200",
+      "title": "Abgeordnetenhauswahl in Berlin: Rot-Grün-Rot führt Vorgespräche",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-regierungsbildung-vorgespraeche-100.html",
+      "published": "Thu, 01 Oct 2026 11:47:47 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "OpenAI wirft Kimi-Entwickler Moonshot AI vor, Denkprozesse seiner Modelle abgegriffen zu haben",
+      "link": "https://the-decoder.de/openai-wirft-kimi-entwickler-moonshot-ai-vor-denkprozesse-seiner-modelle-abgegriffen-zu-haben/",
+      "published": "Thu, 01 Oct 2026 09:52:49 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Google Gemini 4 Argon schließt zur KI-Spitze auf, bleibt aber hinter Anthropics Claude Opus 5.5",
+      "link": "https://the-decoder.de/google-gemini-4-argon-schliesst-zur-ki-spitze-auf-bleibt-aber-hinter-anthropics-claude-opus-5-5/",
+      "published": "Wed, 30 Sep 2026 21:42:30 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "GPT-Synopsys: OpenAI und Chipdesign-Spezialist entwickeln Spezial-KI-Modell für Chip-Entwicklung",
       "link": "https://the-decoder.de/gpt-synopsys-openai-und-chipdesign-spezialist-entwickeln-spezial-ki-modell-fuer-chip-entwicklung/",
@@ -67,18 +79,6 @@
       "title": "Meta umgeht Milliarden an US-Steuern, indem es KI-Rechenzentren als Experimente deklariert",
       "link": "https://the-decoder.de/meta-umgeht-milliarden-an-us-steuern-indem-es-ki-rechenzentren-als-experimente-deklariert/",
       "published": "Wed, 30 Sep 2026 16:57:34 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "FTC ermittelt offiziell gegen OpenAI, Anthropic und weitere KI-Labore wegen Verbraucherschutzverstößen",
-      "link": "https://the-decoder.de/ftc-ermittelt-offiziell-gegen-openai-anthropic-und-weitere-ki-labore-wegen-verbraucherschutzverstoessen/",
-      "published": "Wed, 30 Sep 2026 16:15:33 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Chinas KI-Industrie rückt zusammen: Deepseek liefert Open-Source-Software für Huaweis Ascend-Chips",
-      "link": "https://the-decoder.de/deepseek-und-huawei-greifen-nvidias-cuda-vorsprung-mit-eigener-programmiersprache-an/",
-      "published": "Wed, 30 Sep 2026 14:11:24 +0000",
       "source": "The Decoder"
     }
   ]
