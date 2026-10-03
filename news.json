@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-10-03T10:12:34.319607+00:00",
+  "updated_at": "2026-10-03T19:00:22.175721+00:00",
   "politik": [
     {
-      "title": "«Falsche Priorität» – Grimseltunnel sorgt in der Romandie für Ärger",
-      "link": "https://www.srf.ch/news/dialog/falsche-prioritaet-grimseltunnel-sorgt-in-der-romandie-fuer-aerger",
-      "published": "Sat, 03 Oct 2026 11:17:48 +0200",
+      "title": "Durchbruch beim Wohnungsbau? – Einfacher bauen in der ganzen Schweiz",
+      "link": "https://www.srf.ch/news/schweiz/durchbruch-beim-wohnungsbau-einfacher-bauen-in-der-ganzen-schweiz",
+      "published": "Sat, 03 Oct 2026 20:06:28 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Nach Parmelin-Rücktritt – SP-Co-Präsident erwartet Romandie-Kandidatur von SVP",
-      "link": "https://www.srf.ch/news/schweiz/nach-parmelin-ruecktritt-sp-co-praesident-erwartet-romandie-kandidatur-von-svp",
-      "published": "Sat, 03 Oct 2026 11:10:54 +0200",
+      "title": "Rücktritt Guy Parmelin – Bundesrat: Darf man zurücktreten, wann man will?",
+      "link": "https://www.srf.ch/news/schweiz/ruecktritt-guy-parmelin-bundesrat-darf-man-zuruecktreten-wann-man-will",
+      "published": "Sat, 03 Oct 2026 18:09:57 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Urteil zum Familiennachzug – Tochter darf in die Schweiz, weil der Vater nichts von ihr wusste",
-      "link": "https://www.srf.ch/news/schweiz/urteil-zum-familiennachzug-tochter-darf-in-die-schweiz-weil-der-vater-nichts-von-ihr-wusste",
-      "published": "Sat, 03 Oct 2026 07:04:02 +0200",
+      "title": "(Klima-)Expertise unter Druck – Wissenschaft steht vermehrt unter Druck von KI und Politik",
+      "link": "https://www.srf.ch/news/schweiz/klima-expertise-unter-druck-wissenschaft-steht-vermehrt-unter-druck-von-ki-und-politik",
+      "published": "Sat, 03 Oct 2026 17:59:17 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "«Arena» zu EU-Paket – Martullo-Blocher: «FDP, Mitte und SP verraten das Land»",
-      "link": "https://www.srf.ch/news/schweiz/arena-zu-eu-paket-martullo-blocher-fdp-mitte-und-sp-verraten-das-land",
-      "published": "Fri, 02 Oct 2026 23:00:23 +0200",
+      "title": "Fit und munter dank Rollator – Mit Rollatoren aus der Einsamkeit: Reinacher Gruppe macht es vor",
+      "link": "https://www.srf.ch/news/schweiz/fit-und-munter-dank-rollator-mit-rollatoren-aus-der-einsamkeit-reinacher-gruppe-macht-es-vor",
+      "published": "Sat, 03 Oct 2026 16:10:19 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Großbritanniens Zusammenarbeit mit der EU: Bye, bye, Brexit?",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-zusammenarbeit-eu-100.html",
-      "published": "Sat, 03 Oct 2026 11:54:11 +0200",
+      "title": "Wahl in Lettland: Partei von Ministerpräsident laut Prognose in Führung",
+      "link": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
+      "published": "Sat, 03 Oct 2026 20:28:32 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Tag der Deutschen Einheit: Kirchen fordern Zusammenhalt - Warnung vor Polarisierung",
-      "link": "https://www.tagesschau.de/inland/einheitsfeier-bremen-100.html",
-      "published": "Sat, 03 Oct 2026 11:35:54 +0200",
+      "title": "Holocaust-Überlebende Irene Butter in den USA verstorben",
+      "link": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
+      "published": "Sat, 03 Oct 2026 19:41:01 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Fall Widdecombe: Möglicherweise auch Anschlag auf Farage geplant",
-      "link": "https://www.tagesschau.de/ausland/europa/mord-ann-widdecombe-100.html",
-      "published": "Sat, 03 Oct 2026 11:11:57 +0200",
+      "title": "Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html",
+      "published": "Sat, 03 Oct 2026 18:40:33 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Lula vor Wahl in Brasilien: 80 Jahre und noch nicht müde",
-      "link": "https://www.tagesschau.de/ausland/brasilien-lula-praesidentenwahl-100.html",
-      "published": "Sat, 03 Oct 2026 10:56:27 +0200",
+      "title": "Landesweit große Demos gegen Wohnungsnot in Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
+      "published": "Sat, 03 Oct 2026 16:22:55 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "OpenAI-Chef Altman distanziert sich von religiösen KI-Vergleichen und nennt sie ein Sicherheitsproblem",
+      "link": "https://the-decoder.de/openai-chef-altman-distanziert-sich-von-religioesen-ki-vergleichen-und-nennt-sie-ein-sicherheitsproblem/",
+      "published": "Sat, 03 Oct 2026 18:45:30 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "\"Muse Gadgets\": Meta macht KI-Hardware zum Open-Source-Bastelprojekt für alle",
+      "link": "https://the-decoder.de/muse-gadgets-meta-macht-ki-hardware-zum-open-source-bastelprojekt-fuer-alle/",
+      "published": "Sat, 03 Oct 2026 14:25:51 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "OpenAIs Sicherheitskultur in der Kritik: Ehemaliger Leiter warnt vor gravierenden Mängeln",
+      "link": "https://the-decoder.de/openais-sicherheitskultur-in-der-kritik-ehemaliger-leiter-warnt-vor-gravierenden-maengeln/",
+      "published": "Sat, 03 Oct 2026 13:44:14 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Deepmind-Forscher sehen KI-Zukunft in Agentenschwärmen statt in einer Super-KI",
       "link": "https://the-decoder.de/deepmind-forscher-sehen-ki-zukunft-in-agentenschwaermen-statt-in-einer-super-ki/",
@@ -61,24 +79,6 @@
       "title": "Open-Source-Harness \"BootLoops\" unterstützt KI-Modelle bei exakten wissenschaftlichen Berechnungen",
       "link": "https://the-decoder.de/open-source-harness-bootloops-unterstuetzt-ki-modelle-bei-exakten-wissenschaftlichen-berechnungen/",
       "published": "Sat, 03 Oct 2026 08:57:23 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Neuer Benchmark misst, wie gut KI-Agenten 3D-Szenen aus einzelnen Fotos rekonstruieren",
-      "link": "https://the-decoder.de/neuer-benchmark-misst-wie-gut-ki-agenten-3d-szenen-aus-einzelnen-fotos-rekonstruieren/",
-      "published": "Sat, 03 Oct 2026 08:19:04 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Internes OpenAI-Modell liest Slack mit und bereitet sich auf eigene Abschaltung vor",
-      "link": "https://the-decoder.de/internes-openai-modell-liest-slack-mit-und-bereitet-sich-auf-eigene-abschaltung-vor/",
-      "published": "Sat, 03 Oct 2026 08:00:35 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Anthropic veröffentlicht Mods für Claude Code: Entwickler können Aussehen und Funktionen anpassen",
-      "link": "https://the-decoder.de/anthropic-veroeffentlicht-mods-fuer-claude-code-entwickler-koennen-aussehen-und-funktionen-anpassen/",
-      "published": "Sat, 03 Oct 2026 07:01:09 +0000",
       "source": "The Decoder"
     }
   ]
