@@ -1,56 +1,62 @@
 {
-  "updated_at": "2026-10-04T19:12:04.884398+00:00",
+  "updated_at": "2026-10-05T12:02:44.740338+00:00",
   "politik": [
     {
-      "title": "Auswirkungen der Trockenheit – So trocken war es für Bäume und Tiere im Hitzesommer",
-      "link": "https://www.srf.ch/news/schweiz/auswirkungen-der-trockenheit-so-trocken-war-es-fuer-baeume-und-tiere-im-hitzesommer",
-      "published": "Sun, 04 Oct 2026 18:50:15 +0200",
+      "title": "Luftverteidigung – Verzögerung bei Raketenabwehr: Nationalrat bremst Bodluv GR2 aus",
+      "link": "https://www.srf.ch/news/schweiz/luftverteidigung-verzoegerung-bei-raketenabwehr-nationalrat-bremst-bodluv-gr2-aus",
+      "published": "Mon, 05 Oct 2026 13:48:20 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Steigende Gesundheitskosten – Die Community schlägt Lösungen vor – Experten antworten",
-      "link": "https://www.srf.ch/news/dialog/steigende-gesundheitskosten-die-community-schlaegt-loesungen-vor-experten-antworten",
-      "published": "Sun, 04 Oct 2026 18:01:28 +0200",
+      "title": "AHV-Abstimmung – Baume-Schneider verteidigt Erhöhung der Mehrwertsteuer",
+      "link": "https://www.srf.ch/news/schweiz/ahv-abstimmung-baume-schneider-verteidigt-erhoehung-der-mehrwertsteuer",
+      "published": "Mon, 05 Oct 2026 12:23:22 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Zwischen Bauplan und Realität – Wie baut man ein Stadtzentrum? Chur sucht seit Jahren den Weg",
-      "link": "https://www.srf.ch/news/schweiz/zwischen-bauplan-und-realitaet-wie-baut-man-ein-stadtzentrum-chur-sucht-seit-jahren-den-weg",
-      "published": "Sun, 04 Oct 2026 16:25:20 +0200",
+      "title": "Kritik an Palmöl-Import – Referendum gegen Malaysia-Deal: 85'000 Unterschriften eingereicht",
+      "link": "https://www.srf.ch/news/schweiz/kritik-an-palmoel-import-referendum-gegen-malaysia-deal-85-000-unterschriften-eingereicht",
+      "published": "Mon, 05 Oct 2026 10:21:50 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Valposchiavo Calcio – Der etwas andere Fussballclub am Ende der Schweiz",
-      "link": "https://www.srf.ch/news/schweiz/valposchiavo-calcio-der-etwas-andere-fussballclub-am-ende-der-schweiz",
-      "published": "Sun, 04 Oct 2026 14:50:52 +0200",
+      "title": "Schweizer Bergbahnen – Deutliches Gästeplus dank Hitzesommer und goldenem Herbst",
+      "link": "https://www.srf.ch/news/schweiz/schweizer-bergbahnen-deutliches-gaesteplus-dank-hitzesommer-und-goldenem-herbst",
+      "published": "Mon, 05 Oct 2026 10:22:40 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Schulze zu Sachsen-Anhalt: \"Es wird keiner von der CDU zur AfD wechseln\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-schulze-bab-100.html",
-      "published": "Sun, 04 Oct 2026 20:40:10 +0200",
+      "title": "Moldau: Wassermangel trifft hohe Ölpreise",
+      "link": "https://www.tagesschau.de/ausland/europa/moldau-energie-notstand-100.html",
+      "published": "Mon, 05 Oct 2026 13:43:42 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Regierung im Jemen verkündet Großoffensive gegen Huthi-Miliz",
-      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-kaempfe-100.html",
-      "published": "Sun, 04 Oct 2026 19:43:26 +0200",
+      "title": "Gericht ordnet Insolvenzverfahren für Galeria an",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/galeria-insolvenzverfahren-zulassung-100.html",
+      "published": "Mon, 05 Oct 2026 13:43:35 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Pfefferspray-Angriff auf Linken-Geschäftsstelle in Oranienburg",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-oranienburg-angriff-auf-linken-veranstaltung-in-parteibuero-reizgas-versprueht-100.html",
-      "published": "Sun, 04 Oct 2026 20:58:00 +0200",
+      "title": "Die E-Auto-Prämie für Einkommenschwächere zeigt Wirkung",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-foerderung-112.html",
+      "published": "Mon, 05 Oct 2026 13:23:24 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html",
-      "published": "Sun, 04 Oct 2026 18:43:05 +0200",
+      "title": "BND-Chef warnt vor \"gewaltsamem Konflikt mit Russland\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-chefs-anhoerung-100.html",
+      "published": "Mon, 05 Oct 2026 12:53:48 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "MIT-Bericht fordert radikale Neuordnung der Hochschulbildung wegen generativer KI",
+      "link": "https://the-decoder.de/mit-bericht-fordert-radikale-neuordnung-der-hochschulbildung-wegen-generativer-ki/",
+      "published": "Mon, 05 Oct 2026 10:08:18 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Trumps neue KI-Einheit \"Super Intelligence Force\" berichtet direkt an den Präsidenten",
       "link": "https://the-decoder.de/trumps-neue-ki-einheit-super-intelligence-force-berichtet-direkt-an-den-praesidenten/",
@@ -73,12 +79,6 @@
       "title": "Chinesische KI-Modelle wiederholen bei sensiblen Themen Staatsdoktrin oder verweigern die Antwort",
       "link": "https://the-decoder.de/chinesische-ki-modelle-wiederholen-bei-sensiblen-themen-staatsdoktrin-oder-verweigern-die-antwort/",
       "published": "Sun, 04 Oct 2026 08:05:14 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Google schränkt Gratiszugang für Gemini-KI ein",
-      "link": "https://the-decoder.de/google-schraenkt-gratiszugang-fuer-gemini-ki-ein/",
-      "published": "Sun, 04 Oct 2026 07:11:54 +0000",
       "source": "The Decoder"
     }
   ]
