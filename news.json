@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-06T20:47:44.114357+00:00",
+  "updated_at": "2026-10-07T11:31:29.044980+00:00",
   "politik": [
+    {
+      "title": "Untersuchung zu Zecken – Zecken breiten sich in höhere Lagen aus",
+      "link": "https://www.srf.ch/news/schweiz/untersuchung-zu-zecken-zecken-breiten-sich-in-hoehere-lagen-aus",
+      "published": "Wed, 07 Oct 2026 06:05:59 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Nach Krawallen in Bern 2025 – Von 24 auf 48 Stunden: Längere Polizeihaft wirft Fragen auf",
+      "link": "https://www.srf.ch/news/schweiz/nach-krawallen-in-bern-2025-von-24-auf-48-stunden-laengere-polizeihaft-wirft-fragen-auf",
+      "published": "Wed, 07 Oct 2026 06:03:04 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Jagd auf Pädokriminelle – Warnmeldungen aus den USA helfen im Kampf gegen Kindsmissbrauch",
+      "link": "https://www.srf.ch/news/dialog/jagd-auf-paedokriminelle-warnmeldungen-aus-den-usa-helfen-im-kampf-gegen-kindsmissbrauch",
+      "published": "Wed, 07 Oct 2026 06:02:17 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
     {
       "title": "Gemeinsame Erdbebenübung – EU-Rettungskräfte in Genf: Schweiz probt den Ernstfall",
       "link": "https://www.srf.ch/news/schweiz/gemeinsame-erdbebenuebung-eu-rettungskraefte-in-genf-schweiz-probt-den-ernstfall",
@@ -8,49 +26,37 @@
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "SP, Grüne, GLP, teils Mitte – Referendum gegen neue AKW in Bern eingereicht",
-      "link": "https://www.srf.ch/news/schweiz/sp-gruene-glp-teils-mitte-referendum-gegen-neue-akw-in-bern-eingereicht",
-      "published": "Tue, 06 Oct 2026 19:10:56 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Nach Protesten in Frankreich – Walliser Polizei will Aufrufe zu Schulprotesten unterbinden",
-      "link": "https://www.srf.ch/news/schweiz/nach-protesten-in-frankreich-walliser-polizei-will-aufrufe-zu-schulprotesten-unterbinden",
-      "published": "Tue, 06 Oct 2026 18:01:13 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Brand in Oberwinterthur – Tote Person nach Brand in Oberwinterthur gefunden",
-      "link": "https://www.srf.ch/news/schweiz/brand-in-oberwinterthur-tote-person-nach-brand-in-oberwinterthur-gefunden",
-      "published": "Tue, 06 Oct 2026 17:41:10 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
-      "link": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
-      "published": "Tue, 06 Oct 2026 21:54:16 +0200",
+      "title": "Wie sich ein in Israel untergetauchter Palästinenser durchschlägt",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-palaestinenser-108.html",
+      "published": "Wed, 07 Oct 2026 13:19:56 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
-      "link": "https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html",
-      "published": "Tue, 06 Oct 2026 20:57:31 +0200",
+      "title": "Pflege-Reform: Regierung verschiebt Einsetzung einer Kommission",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-sozialpolitik-100.html",
+      "published": "Wed, 07 Oct 2026 12:32:22 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "AfD-Landtagspräsident in Sachsen-Anhalt: Sicher ist nichts mehr",
-      "link": "https://www.tagesschau.de/kommentar/sachsen-anhalt-wahl-landtagspraesident-100.html",
-      "published": "Tue, 06 Oct 2026 20:01:14 +0200",
+      "title": "Deutsche Unternehmen fahren Produktion überraschend deutlich hoch",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/produktion-industrie-bau-august-plus-100.html",
+      "published": "Wed, 07 Oct 2026 12:02:20 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
-      "published": "Tue, 06 Oct 2026 19:43:36 +0200",
+      "title": "Chemie-Nobelpreis geht an Franzosen Kagan und Japaner Soai",
+      "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-fuer-kagan-und-soai-100.html",
+      "published": "Wed, 07 Oct 2026 12:39:25 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "OpenAI veröffentlicht hunderte KI-generierte Mathe-Beweise auf GitHub",
+      "link": "https://the-decoder.de/openai-veroeffentlicht-hunderte-ki-generierte-mathe-beweise-auf-github/",
+      "published": "Wed, 07 Oct 2026 08:23:43 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "EmbeddingGemma 2: Googles kleinstes Embedding-Modell schlägt doppelt so große Konkurrenz",
       "link": "https://the-decoder.de/embeddinggemma-2-googles-kleinstes-embedding-modell-schlaegt-doppelt-so-grosse-konkurrenz/",
@@ -73,12 +79,6 @@
       "title": "Wirtschafts-Nobelpreisträger Acemoglu: KI-Produktivitätsgewinne scheitern an der menschlichen Natur",
       "link": "https://the-decoder.de/wirtschafts-nobelpreistraeger-acemoglu-ki-produktivitaetsgewinne-scheitern-an-der-menschlichen-natur/",
       "published": "Tue, 06 Oct 2026 17:31:51 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Außer Kontrolle geratene KI-Agenten könnten die nächste große Klagewelle auslösen",
-      "link": "https://the-decoder.de/ausser-kontrolle-geratene-ki-agenten-koennten-die-naechste-grosse-klagewelle-ausloesen/",
-      "published": "Tue, 06 Oct 2026 15:59:12 +0000",
       "source": "The Decoder"
     }
   ]
