@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-10-07T21:00:34.361486+00:00",
+  "updated_at": "2026-10-08T11:46:51.602181+00:00",
   "politik": [
     {
-      "title": "Nach Parmelin-Rücktritt – Wirtschaftsminister Beat Jans? SP vor einer historischen Chance",
-      "link": "https://www.srf.ch/news/schweiz/nach-parmelin-ruecktritt-wirtschaftsminister-beat-jans-sp-vor-einer-historischen-chance",
-      "published": "Wed, 07 Oct 2026 19:45:26 +0200",
+      "title": "Brandkatastrophe Crans-Montana – Die Morettis warnten schon 2019 vor der Brandgefahr",
+      "link": "https://www.srf.ch/news/dialog/brandkatastrophe-crans-montana-die-morettis-warnten-schon-2019-vor-der-brandgefahr",
+      "published": "Thu, 08 Oct 2026 13:43:43 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Viehschau im Appenzellerland – Die kleinen Viehschauen und ihre grosse Bedeutung fürs Dorfleben",
-      "link": "https://www.srf.ch/news/schweiz/viehschau-im-appenzellerland-die-kleinen-viehschauen-und-ihre-grosse-bedeutung-fuers-dorfleben",
-      "published": "Wed, 07 Oct 2026 18:02:48 +0200",
+      "title": "Ostschweizer Volksfest – Die Olma 2026 ist eröffnet",
+      "link": "https://www.srf.ch/news/schweiz/ostschweizer-volksfest-die-olma-2026-ist-eroeffnet",
+      "published": "Thu, 08 Oct 2026 13:01:56 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Abkühlung und Regen in Sicht – Kommt jetzt endlich der Herbst – und bleibt er auch?",
-      "link": "https://www.srf.ch/news/schweiz/abkuehlung-und-regen-in-sicht-kommt-jetzt-endlich-der-herbst-und-bleibt-er-auch",
-      "published": "Wed, 07 Oct 2026 17:49:22 +0200",
+      "title": "Pensionskasse des Bundes – Name, AHV-Nummer, Lohn – Angreifer erbeuten sensible Daten",
+      "link": "https://www.srf.ch/news/schweiz/pensionskasse-des-bundes-name-ahv-nummer-lohn-angreifer-erbeuten-sensible-daten",
+      "published": "Thu, 08 Oct 2026 11:30:57 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Soforthilfe wegen Trockenheit – Freiburg spricht als erster Kanton 10 Millionen für Bauern in Not",
-      "link": "https://www.srf.ch/news/schweiz/soforthilfe-wegen-trockenheit-freiburg-spricht-als-erster-kanton-10-millionen-fuer-bauern-in-not",
-      "published": "Wed, 07 Oct 2026 17:25:52 +0200",
+      "title": "Künstlerischer Nachlass – Wann kommt Kunst am Bau weg?",
+      "link": "https://www.srf.ch/news/schweiz/kuenstlerischer-nachlass-wann-kommt-kunst-am-bau-weg",
+      "published": "Thu, 08 Oct 2026 09:09:31 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
-      "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
-      "published": "Wed, 07 Oct 2026 22:00:05 +0200",
+      "title": "Literaturnobelpreis geht an Kanadierin Anne Carson",
+      "link": "https://www.tagesschau.de/kultur/literatur-nobelpreis-116.html",
+      "published": "Thu, 08 Oct 2026 13:23:25 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
-      "link": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
-      "published": "Wed, 07 Oct 2026 21:38:22 +0200",
+      "title": "Mögliche CDU-Stimmen für AfD: Radtke fordert Parteiausschluss für Abweichler",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktionen-wahl-sachsen-anhalt-100.html",
+      "published": "Thu, 08 Oct 2026 12:51:26 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Neue Staatspräsidentin des Kosovos: Ein politischer Deal in letzter Minute",
-      "link": "https://www.tagesschau.de/ausland/europa/kosovo-staatspraesidentin-wahl-100.html",
-      "published": "Wed, 07 Oct 2026 20:45:48 +0200",
+      "title": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html",
+      "published": "Thu, 08 Oct 2026 12:22:18 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "20 Jahre Mord an Politkowskaja: \"In Russland gibt es keine Presse\"",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-nowaja-gaseta-politkowskaja-100.html",
-      "published": "Wed, 07 Oct 2026 19:42:13 +0200",
+      "title": "Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an",
+      "link": "https://www.tagesschau.de/wirtschaft/wachstumsprognose-regierung-100.html",
+      "published": "Thu, 08 Oct 2026 13:18:18 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "KI-Preiskampf geht weiter: Claude Haiku 5.5 bietet viel mehr Leistung für deutlich weniger Geld",
+      "link": "https://the-decoder.de/ki-preiskampf-geht-weiter-claude-haiku-5-5-bietet-viel-mehr-leistung-fuer-deutlich-weniger-geld/",
+      "published": "Thu, 08 Oct 2026 10:27:23 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "16-Jähriger plant Bergwanderung mit Claude und muss per Hubschrauber gerettet werden",
+      "link": "https://the-decoder.de/16-jaehriger-plant-bergwanderung-mit-claude-und-muss-per-hubschrauber-gerettet-werden/",
+      "published": "Thu, 08 Oct 2026 09:55:35 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "KI-gestütztes Hacking-Tool ermöglicht massiven Datendiebstahl bei südkoreanischen Banken",
+      "link": "https://the-decoder.de/ki-gestuetztes-hacking-tool-ermoeglicht-massiven-datendiebstahl-bei-suedkoreanischen-banken/",
+      "published": "Thu, 08 Oct 2026 09:15:17 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "\"Intelligent UI\": OpenAI bringt GPT-6 mit neuer interaktiver Oberfläche in ChatGPT",
       "link": "https://the-decoder.de/intelligent-ui-openai-bringt-gpt-6-mit-neuer-interaktiver-oberflaeche-in-chatgpt/",
@@ -58,27 +76,9 @@
       "source": "The Decoder"
     },
     {
-      "title": "KI-Preiskampf geht weiter: Claude Haiku 5.5 bietet viel mehr Leistung für deutlich weniger Geld",
-      "link": "https://the-decoder.de/ki-preiskampf-geht-weiter-claude-haiku-5-5-bietet-viel-mehr-leistung-fuer-deutlich-weniger-geld/",
-      "published": "Wed, 07 Oct 2026 18:28:23 +0000",
-      "source": "The Decoder"
-    },
-    {
       "title": "Zuckerberg-Initiative will mit 1,8 Milliarden Dollar virtuelle Biologie per KI ermöglichen",
       "link": "https://the-decoder.de/zuckerberg-initiative-will-mit-18-milliarden-dollar-virtuelle-biologie-per-ki-ermoeglichen/",
       "published": "Wed, 07 Oct 2026 17:54:22 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Über 180 Milliarden Inhalte markiert: Google öffnet seinen KI-Wasserzeichen-Detektor für alle",
-      "link": "https://the-decoder.de/ueber-180-milliarden-inhalte-markiert-google-oeffnet-seinen-ki-wasserzeichen-detektor-fuer-alle/",
-      "published": "Wed, 07 Oct 2026 17:42:38 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Neue OpenAI-Schnittstelle trifft schnelle Entscheidungen statt Texte zu generieren",
-      "link": "https://the-decoder.de/neue-openai-schnittstelle-trifft-schnelle-entscheidungen-statt-texte-zu-generieren/",
-      "published": "Wed, 07 Oct 2026 15:31:39 +0000",
       "source": "The Decoder"
     }
   ]
