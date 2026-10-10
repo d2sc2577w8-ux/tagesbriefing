@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-10-10T10:57:04.201006+00:00",
+  "updated_at": "2026-10-10T19:46:38.313842+00:00",
   "politik": [
     {
-      "title": "Die etwas anderen News – Parmel-IN, Parmel-OUT",
-      "link": "https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-parmel-in-parmel-out",
-      "published": "Sat, 10 Oct 2026 12:44:29 +0200",
+      "title": "Biodiversitätsförderung – Artenvielfalt: In Mehrfamilienhausgärten liegt Potenzial brach",
+      "link": "https://www.srf.ch/news/schweiz/biodiversitaetsfoerderung-artenvielfalt-in-mehrfamilienhausgaerten-liegt-potenzial-brach",
+      "published": "Sat, 10 Oct 2026 16:31:38 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Pensionskasse des Bundes – Wie konnten heikle Daten bei externer Softwarefirma landen?",
-      "link": "https://www.srf.ch/news/schweiz/pensionskasse-des-bundes-wie-konnten-heikle-daten-bei-externer-softwarefirma-landen",
-      "published": "Sat, 10 Oct 2026 12:11:16 +0200",
+      "title": "«Routine beenden» – Zürcher FDP-Nationalrat Portmann tritt 2027 nicht mehr an",
+      "link": "https://www.srf.ch/news/schweiz/routine-beenden-zuercher-fdp-nationalrat-portmann-tritt-2027-nicht-mehr-an",
+      "published": "Sat, 10 Oct 2026 14:56:28 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Nach dem Hitzesommer – Skifahren auf schwindendem Eis: Wie lange noch?",
-      "link": "https://www.srf.ch/news/schweiz/nach-dem-hitzesommer-skifahren-auf-schwindendem-eis-wie-lange-noch",
-      "published": "Sat, 10 Oct 2026 11:19:36 +0200",
+      "title": "Esther Friedli verzichtet – Der Rückzug eröffnet neue Möglichkeiten",
+      "link": "https://www.srf.ch/news/schweiz/esther-friedli-verzichtet-der-rueckzug-eroeffnet-neue-moeglichkeiten",
+      "published": "Sat, 10 Oct 2026 20:10:32 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Stimmen aus der Community – EU-Vertragspaket: «Unentbehrlich» oder «der Untergang»?",
-      "link": "https://www.srf.ch/news/dialog/stimmen-aus-der-community-eu-vertragspaket-unentbehrlich-oder-der-untergang",
-      "published": "Sat, 10 Oct 2026 10:51:30 +0200",
+      "title": "Steigende Lebenskosten – Der Schweizer Mittelstand schaltet in den Überlebensmodus",
+      "link": "https://www.srf.ch/news/dialog/steigende-lebenskosten-der-schweizer-mittelstand-schaltet-in-den-ueberlebensmodus",
+      "published": "Sat, 10 Oct 2026 14:16:46 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
-      "published": "Sat, 10 Oct 2026 12:54:13 +0200",
+      "title": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
+      "published": "Sat, 10 Oct 2026 20:26:35 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-eu-hybridautos-100.html",
-      "published": "Sat, 10 Oct 2026 12:15:19 +0200",
+      "title": "Huthi-Miliz greift offenbar Flughafen in Riad an",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
+      "published": "Sat, 10 Oct 2026 18:44:22 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html",
-      "published": "Sat, 10 Oct 2026 11:04:58 +0200",
+      "title": "Serie von Messerattacken an Schulen in Polen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
+      "published": "Sat, 10 Oct 2026 18:33:42 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Gründer der indischen Kakerlaken-Bewegung festgenommen",
-      "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
-      "published": "Sat, 10 Oct 2026 10:46:02 +0200",
+      "title": "CDU diskutiert über Umgang mit der AfD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
+      "published": "Sat, 10 Oct 2026 17:34:39 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "OpenAI-Modelle erfinden Bewertungen, fälschen Dateien und sabotieren die eigene Umgebung",
+      "link": "https://the-decoder.de/openai-modelle-erfinden-bewertungen-faelschen-dateien-und-sabotieren-die-eigene-umgebung/",
+      "published": "Sat, 10 Oct 2026 15:06:40 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Microsofts Decision-1 soll das genaueste Entscheidungsmodell in 36 Benchmarks sein",
+      "link": "https://the-decoder.de/microsofts-decision-1-soll-das-genaueste-entscheidungsmodell-in-36-benchmarks-sein/",
+      "published": "Sat, 10 Oct 2026 14:46:33 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Gelähmt, schockiert und angewidert: OpenAIs KI wütet in der Mathematik",
+      "link": "https://the-decoder.de/gelaehmt-schockiert-und-angewidert-openais-ki-wuetet-in-der-mathematik/",
+      "published": "Sat, 10 Oct 2026 12:20:59 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Nur wenige Nutzer zahlen für KI, die dafür aber richtig viel",
       "link": "https://the-decoder.de/nur-wenige-nutzer-zahlen-fuer-ki-die-dafuer-aber-richtig-viel/",
@@ -61,24 +79,6 @@
       "title": "Anthropic schaltet Live-Internetzugang für KI-Tests ab, nachdem Claude eigenständig Behördenformulare einreichte",
       "link": "https://the-decoder.de/anthropic-schaltet-live-internetzugang-fuer-ki-tests-ab-nachdem-claude-eigenstaendig-behoerdenformulare-einreichte/",
       "published": "Sat, 10 Oct 2026 10:12:32 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Googles Gemini-4-Modell \"Carbon\" soll mit Anthropics stärkstem Coding-Modell mithalten",
-      "link": "https://the-decoder.de/googles-gemini-4-modell-carbon-soll-mit-anthropics-staerkstem-coding-modell-mithalten/",
-      "published": "Sat, 10 Oct 2026 08:59:49 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Claudes dynamische Workflows lassen bis zu 1000 Agenten gleichzeitig an einer Aufgabe arbeiten",
-      "link": "https://the-decoder.de/claudes-dynamische-workflows-lassen-bis-zu-1000-agenten-gleichzeitig-an-einer-aufgabe-arbeiten/",
-      "published": "Fri, 09 Oct 2026 18:22:25 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OSS-Scanner: Kostenloses KI-Tool von Anthropic soll Open-Source-Projekte vor Schwachstellen schützen",
-      "link": "https://the-decoder.de/oss-scanner-kostenloses-ki-tool-von-anthropic-soll-open-source-projekte-vor-schwachstellen-schuetzen/",
-      "published": "Fri, 09 Oct 2026 17:32:34 +0000",
       "source": "The Decoder"
     }
   ]
