@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-10-09T20:33:23.257282+00:00",
+  "updated_at": "2026-10-10T10:57:04.201006+00:00",
   "politik": [
     {
-      "title": "Atomares Tiefenlager – Die deutsche Wut über das Schweizer Atom-Endlager",
-      "link": "https://www.srf.ch/news/schweiz/atomares-tiefenlager-die-deutsche-wut-ueber-das-schweizer-atom-endlager",
-      "published": "Fri, 09 Oct 2026 20:22:52 +0200",
+      "title": "Die etwas anderen News – Parmel-IN, Parmel-OUT",
+      "link": "https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-parmel-in-parmel-out",
+      "published": "Sat, 10 Oct 2026 12:44:29 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Selbstfahrende Autos – Zürcher Taxigewerbe fürchtet wegen Robotaxis um seine Zukunft",
-      "link": "https://www.srf.ch/news/schweiz/selbstfahrende-autos-zuercher-taxigewerbe-fuerchtet-wegen-robotaxis-um-seine-zukunft",
-      "published": "Fri, 09 Oct 2026 18:03:06 +0200",
+      "title": "Pensionskasse des Bundes – Wie konnten heikle Daten bei externer Softwarefirma landen?",
+      "link": "https://www.srf.ch/news/schweiz/pensionskasse-des-bundes-wie-konnten-heikle-daten-bei-externer-softwarefirma-landen",
+      "published": "Sat, 10 Oct 2026 12:11:16 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Zu wenig Unterschriften – Initiative für Solaranlagen ohne Baubewilligung ist gescheitert",
-      "link": "https://www.srf.ch/news/schweiz/zu-wenig-unterschriften-initiative-fuer-solaranlagen-ohne-baubewilligung-ist-gescheitert",
-      "published": "Fri, 09 Oct 2026 17:27:08 +0200",
+      "title": "Nach dem Hitzesommer – Skifahren auf schwindendem Eis: Wie lange noch?",
+      "link": "https://www.srf.ch/news/schweiz/nach-dem-hitzesommer-skifahren-auf-schwindendem-eis-wie-lange-noch",
+      "published": "Sat, 10 Oct 2026 11:19:36 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Online-Marktplatz gehackt – «Keine Erpressung» – Ricardo meldet Datenleck bei 890'000 Konten",
-      "link": "https://www.srf.ch/news/schweiz/online-marktplatz-gehackt-keine-erpressung-ricardo-meldet-datenleck-bei-890-000-konten",
-      "published": "Fri, 09 Oct 2026 16:19:32 +0200",
+      "title": "Stimmen aus der Community – EU-Vertragspaket: «Unentbehrlich» oder «der Untergang»?",
+      "link": "https://www.srf.ch/news/dialog/stimmen-aus-der-community-eu-vertragspaket-unentbehrlich-oder-der-untergang",
+      "published": "Sat, 10 Oct 2026 10:51:30 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Flydubai-Co-Pilot plante laut Ermittlern Selbstmordanschlag",
-      "link": "https://www.tagesschau.de/ausland/flydubai-flugzeug-selbstmordanschlag-100.html",
-      "published": "Fri, 09 Oct 2026 21:12:19 +0200",
+      "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
+      "published": "Sat, 10 Oct 2026 12:54:13 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Nobelpreisträgerin Pillay steht für die multilaterale Ordnung",
-      "link": "https://www.tagesschau.de/ausland/europa/friedensnobelpreis-pillay-voelkerrecht-100.html",
-      "published": "Fri, 09 Oct 2026 19:12:18 +0200",
+      "title": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-eu-hybridautos-100.html",
+      "published": "Sat, 10 Oct 2026 12:15:19 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Aktuelle Stunde: Streit im Bundestag nach Wahl von AfD-Landtagspräsident",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rechtsextremisten-100.html",
-      "published": "Fri, 09 Oct 2026 18:59:58 +0200",
+      "title": "Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html",
+      "published": "Sat, 10 Oct 2026 11:04:58 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html",
-      "published": "Fri, 09 Oct 2026 19:47:36 +0200",
+      "title": "Gründer der indischen Kakerlaken-Bewegung festgenommen",
+      "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
+      "published": "Sat, 10 Oct 2026 10:46:02 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Nur wenige Nutzer zahlen für KI, die dafür aber richtig viel",
+      "link": "https://the-decoder.de/nur-wenige-nutzer-zahlen-fuer-ki-die-dafuer-aber-richtig-viel/",
+      "published": "Sat, 10 Oct 2026 10:30:56 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Anthropic schaltet Live-Internetzugang für KI-Tests ab, nachdem Claude eigenständig Behördenformulare einreichte",
+      "link": "https://the-decoder.de/anthropic-schaltet-live-internetzugang-fuer-ki-tests-ab-nachdem-claude-eigenstaendig-behoerdenformulare-einreichte/",
+      "published": "Sat, 10 Oct 2026 10:12:32 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Googles Gemini-4-Modell \"Carbon\" soll mit Anthropics stärkstem Coding-Modell mithalten",
+      "link": "https://the-decoder.de/googles-gemini-4-modell-carbon-soll-mit-anthropics-staerkstem-coding-modell-mithalten/",
+      "published": "Sat, 10 Oct 2026 08:59:49 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Claudes dynamische Workflows lassen bis zu 1000 Agenten gleichzeitig an einer Aufgabe arbeiten",
       "link": "https://the-decoder.de/claudes-dynamische-workflows-lassen-bis-zu-1000-agenten-gleichzeitig-an-einer-aufgabe-arbeiten/",
@@ -61,24 +79,6 @@
       "title": "OSS-Scanner: Kostenloses KI-Tool von Anthropic soll Open-Source-Projekte vor Schwachstellen schützen",
       "link": "https://the-decoder.de/oss-scanner-kostenloses-ki-tool-von-anthropic-soll-open-source-projekte-vor-schwachstellen-schuetzen/",
       "published": "Fri, 09 Oct 2026 17:32:34 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI verzeichnet weiter rasantes Umsatzwachstum und plant neue 30-Milliarden-Runde",
-      "link": "https://the-decoder.de/openai-verzeichnet-weiter-rasantes-umsatzwachstum-und-plant-neue-30-milliarden-runde/",
-      "published": "Fri, 09 Oct 2026 16:48:34 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "KI-Sicherheit: OpenAI büßt weiter an Glaubwürdigkeit ein",
-      "link": "https://the-decoder.de/ki-sicherheit-openai-buesst-weiter-an-glaubwuerdigkeit-ein/",
-      "published": "Fri, 09 Oct 2026 11:18:04 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Anthropics KI-Werkzeug Claude Science erstellt erste vollständige ultraviolette Himmelskarte",
-      "link": "https://the-decoder.de/anthropics-ki-werkzeug-claude-science-erstellt-erste-vollstaendige-ultraviolette-himmelskarte/",
-      "published": "Fri, 09 Oct 2026 09:19:29 +0000",
       "source": "The Decoder"
     }
   ]
