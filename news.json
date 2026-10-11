@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-10-11T11:13:10.474694+00:00",
+  "updated_at": "2026-10-11T19:55:08.712997+00:00",
   "politik": [
     {
-      "title": "Arbeitslosigkeit in der ICT – IT-Projektleiter backt jetzt Pizza",
-      "link": "https://www.srf.ch/news/wirtschaft/arbeitslosigkeit-in-der-ict-it-projektleiter-backt-jetzt-pizza",
-      "published": "Sun, 11 Oct 2026 12:48:32 +0200",
+      "title": "Bieler Gratiszeitung am Ende – 86-jähriger Zeitungsgründer: «Ich bin natürlich ein Dinosaurier»",
+      "link": "https://www.srf.ch/news/schweiz/bieler-gratiszeitung-am-ende-86-jaehriger-zeitungsgruender-ich-bin-natuerlich-ein-dinosaurier",
+      "published": "Sun, 11 Oct 2026 18:02:03 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Asylunterkunft für 150 Leute – Widerstand gegen Asylzentrum in Pratteln",
-      "link": "https://www.srf.ch/news/schweiz/asylunterkunft-fuer-150-leute-widerstand-gegen-asylzentrum-in-pratteln",
-      "published": "Sun, 11 Oct 2026 12:25:55 +0200",
+      "title": "Bereitschaftsdienst – Wie das Spital Sitten seine Notaufnahme entlasten will",
+      "link": "https://www.srf.ch/news/dialog/bereitschaftsdienst-wie-das-spital-sitten-seine-notaufnahme-entlasten-will",
+      "published": "Sun, 11 Oct 2026 17:57:44 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Bundesratswahl – Giezendanner und Imark schliessen Kandidatur nicht aus",
-      "link": "https://www.srf.ch/news/schweiz/bundesratswahl-giezendanner-und-imark-schliessen-kandidatur-nicht-aus",
-      "published": "Sun, 11 Oct 2026 10:21:05 +0200",
+      "title": "Wälder am Limit – «Man kann aus einer Buche keinen Kaktus machen»",
+      "link": "https://www.srf.ch/news/schweiz/waelder-am-limit-man-kann-aus-einer-buche-keinen-kaktus-machen",
+      "published": "Sun, 11 Oct 2026 16:39:59 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Internet aus dem All – Satelliteninternet: Warum der Durchbruch in der Schweiz ausbleibt",
-      "link": "https://www.srf.ch/news/schweiz/internet-aus-dem-all-satelliteninternet-warum-der-durchbruch-in-der-schweiz-ausbleibt",
-      "published": "Sun, 11 Oct 2026 08:54:10 +0200",
+      "title": "Kundgebung in Bern – Rund tausend Personen an unbewilligter Demo in Bern",
+      "link": "https://www.srf.ch/news/schweiz/kundgebung-in-bern-rund-tausend-personen-an-unbewilligter-demo-in-bern",
+      "published": "Sun, 11 Oct 2026 19:06:12 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Frankfurt: Viele Fans von belarusischem Rapper festgenommen",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-frankfurt-fans-von-osteuropaeischem-rapper-eskalieren-auf-floesserbruecke-100.html",
-      "published": "Sun, 11 Oct 2026 13:08:28 +0200",
+      "title": "\"Die Stromsteuer muss für alle gesenkt werden\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
+      "published": "Sun, 11 Oct 2026 20:05:00 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Angriff auf Yandex: Ukraine legt \"russisches Google\" lahm",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-yandex-100.html",
-      "published": "Sun, 11 Oct 2026 12:53:06 +0200",
+      "title": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
+      "published": "Sun, 11 Oct 2026 19:50:11 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html",
-      "published": "Sun, 11 Oct 2026 12:39:51 +0200",
+      "title": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html",
+      "published": "Sun, 11 Oct 2026 19:36:32 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Todeskandidatin Pike nach gescheiterter Hinrichtung wieder im Gefängnis",
-      "link": "https://www.tagesschau.de/ausland/amerika/pike-todeskandidatin-krankenhaus-gefaengnis-100.html",
-      "published": "Sun, 11 Oct 2026 11:20:40 +0200",
+      "title": "Auf der Flucht: Viele Tote bei Schiffsunglück vor Dschibuti",
+      "link": "https://www.tagesschau.de/ausland/afrika/schiffsungueck-dschibuti-100.html",
+      "published": "Sun, 11 Oct 2026 16:32:56 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Mehr Agenten, wenig Mehrwert: KI-Agentenschwärme kosten mehr und bringen kaum bessere Ergebnisse",
+      "link": "https://the-decoder.de/mehr-agenten-wenig-mehrwert-ki-agentenschwaerme-kosten-mehr-und-bringen-kaum-bessere-ergebnisse/",
+      "published": "Sun, 11 Oct 2026 15:19:26 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "KI-Agenten schönen eigene Ergebnisse und sind noch weit von autonomer Forschung entfernt",
+      "link": "https://the-decoder.de/ki-agenten-schoenen-eigene-ergebnisse-und-sind-noch-weit-von-autonomer-forschung-entfernt/",
+      "published": "Sun, 11 Oct 2026 13:15:32 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Jevons-Paradox im KI-Markt: Token-Preise fallen, doch GPU-Hardware bleibt teuer",
       "link": "https://the-decoder.de/jevons-paradox-im-ki-markt-token-preise-fallen-doch-gpu-hardware-bleibt-teuer/",
@@ -67,18 +79,6 @@
       "title": "\"Superintelligenz\": Microsoft-CEO Satya Nadella gehorcht Trumps Sprachvorschriften",
       "link": "https://the-decoder.de/superintelligenz-microsoft-ceo-satya-nadella-gehorcht-trumps-sprachvorschriften/",
       "published": "Sun, 11 Oct 2026 08:39:35 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Odyssey-3: Neues KI-Weltmodell erzeugt interaktive Welten und ist jetzt kostenlos testbar",
-      "link": "https://the-decoder.de/odyssey-3-neues-ki-weltmodell-erzeugt-interaktive-welten-und-ist-jetzt-kostenlos-testbar/",
-      "published": "Sun, 11 Oct 2026 07:31:01 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI-Modelle erfinden Bewertungen, fälschen Dateien und sabotieren die eigene Umgebung",
-      "link": "https://the-decoder.de/openai-modelle-erfinden-bewertungen-faelschen-dateien-und-sabotieren-die-eigene-umgebung/",
-      "published": "Sat, 10 Oct 2026 15:06:40 +0000",
       "source": "The Decoder"
     }
   ]
