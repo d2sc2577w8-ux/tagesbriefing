@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-10-12T22:43:51.100960+00:00",
+  "updated_at": "2026-10-13T12:28:03.820264+00:00",
   "politik": [
     {
-      "title": "Motiv noch unklar – 14-Jähriger schiesst in Frankreich auf Schulleiter und Lehrerin",
-      "link": "https://www.srf.ch/news/schweiz/motiv-noch-unklar-14-jaehriger-schiesst-in-frankreich-auf-schulleiter-und-lehrerin",
-      "published": "Mon, 12 Oct 2026 21:51:10 +0200",
+      "title": "Tierschutzfall – Aargauer Veterinärdienst beschlagnahmt 53 Tiere im Fricktal",
+      "link": "https://www.srf.ch/news/schweiz/tierschutzfall-aargauer-veterinaerdienst-beschlagnahmt-53-tiere-im-fricktal",
+      "published": "Tue, 13 Oct 2026 14:10:29 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Sinkende Ölpreise – Warum Tanken in der Schweiz nicht sofort günstiger wird",
-      "link": "https://www.srf.ch/news/schweiz/sinkende-oelpreise-warum-tanken-in-der-schweiz-nicht-sofort-guenstiger-wird",
-      "published": "Mon, 12 Oct 2026 21:22:08 +0200",
+      "title": "Unruhe am Bundesgericht – Bundesgerichtspräsident Chaix nicht mehr nominiert",
+      "link": "https://www.srf.ch/news/schweiz/unruhe-am-bundesgericht-bundesgerichtspraesident-chaix-nicht-mehr-nominiert",
+      "published": "Tue, 13 Oct 2026 12:42:16 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Region Interlaken – Zu viele Heliflüge: Verfahren gegen Flugplatzleiter",
-      "link": "https://www.srf.ch/news/schweiz/region-interlaken-zu-viele-helifluege-verfahren-gegen-flugplatzleiter",
-      "published": "Mon, 12 Oct 2026 20:14:14 +0200",
+      "title": "Folge der Trockenheit – Gemeinden schliessen Vitaparcours wegen Risikos in Wäldern",
+      "link": "https://www.srf.ch/news/dialog/folge-der-trockenheit-gemeinden-schliessen-vitaparcours-wegen-risikos-in-waeldern",
+      "published": "Tue, 13 Oct 2026 11:39:50 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Schweiz – Marathon, Boxen und Waffenlauf: So sportlich ist der Bundesrat",
-      "link": "https://www.srf.ch/news/schweiz/schweiz-marathon-boxen-und-waffenlauf-so-sportlich-ist-der-bundesrat",
-      "published": "Mon, 12 Oct 2026 19:01:51 +0200",
+      "title": "Mietpreis-Initiative – Mieterverband will Stopp des Gegenvorschlags",
+      "link": "https://www.srf.ch/news/schweiz/mietpreis-initiative-mieterverband-will-stopp-des-gegenvorschlags",
+      "published": "Tue, 13 Oct 2026 10:55:56 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Riad erneut von Explosionen erschüttert - Abschuss von Rakete gemeldet",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriff-100.html",
-      "published": "Mon, 12 Oct 2026 23:03:44 +0200",
+      "title": "Missbrauchsbeauftragte Claus: \"Risiken im digitalen Raum explodieren\"",
+      "link": "https://www.tagesschau.de/inland/bericht-missbrauchsbeauftragte-100.html",
+      "published": "Tue, 13 Oct 2026 14:22:05 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Brand in Starlink-Station in Polen - Festnahmen in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html",
-      "published": "Mon, 12 Oct 2026 21:49:18 +0200",
+      "title": "Papst Leo XIV. für Lungenoperation im Krankenhaus eingetroffen",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-operation-100.html",
+      "published": "Tue, 13 Oct 2026 13:57:12 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Papst geht Dienstag für Lungenoperation ins Krankenhaus",
-      "link": "https://www.tagesschau.de/ausland/papst-leo-op-lunge-100.html",
-      "published": "Mon, 12 Oct 2026 19:31:01 +0200",
+      "title": "Bahn-Fahrplan: Neue ICE-Sprinter, aber weiter viele Baustellen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-fahrplan-zugverkehr-100.html",
+      "published": "Tue, 13 Oct 2026 13:06:11 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "EU-Außenminister: Sanktionspaket mit willkommener Nebenwirkung",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-neue-sanktionen-russland-102.html",
-      "published": "Mon, 12 Oct 2026 19:01:25 +0200",
+      "title": "Flughafen Nürnberg wegen \"unbestätigter Luftnotlage\" gesperrt",
+      "link": "https://www.tagesschau.de/inland/sperrung-flughafen-nuernberg-100.html",
+      "published": "Tue, 13 Oct 2026 13:25:24 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Anthropic kämpft gegen systematischen Diebstahl von Claudes internen Denkprozessen",
+      "link": "https://the-decoder.de/anthropic-kaempft-gegen-systematischen-diebstahl-von-claudes-internen-denkprozessen/",
+      "published": "Tue, 13 Oct 2026 10:58:25 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Anthropic-Studie warnt: Kleine KI-Modelle könnten sich bald autonom über Alltagsgeräte replizieren",
+      "link": "https://the-decoder.de/anthropic-studie-warnt-kleine-ki-modelle-koennten-sich-bald-autonom-ueber-alltagsgeraete-replizieren/",
+      "published": "Tue, 13 Oct 2026 08:23:28 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Metas neues Frontier-Modell Muse Wonder schafft den Sprung in die KI-Spitzengruppe",
       "link": "https://the-decoder.de/metas-neues-frontier-modell-muse-wonder-schafft-den-sprung-in-die-ki-spitzengruppe/",
@@ -67,18 +79,6 @@
       "title": "Microsoft will neuen KI-Chip Maia 300 ab 2027 im Gigawatt-Maßstab einsetzen",
       "link": "https://the-decoder.de/microsoft-will-neuen-ki-chip-maia-300-ab-2027-im-gigawatt-massstab-einsetzen/",
       "published": "Mon, 12 Oct 2026 14:59:03 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Fork-and-Flush: KI-Agenten arbeiten besser, wenn man ihren Chat-Verlauf löscht",
-      "link": "https://the-decoder.de/fork-and-flush-ki-agenten-arbeiten-besser-wenn-man-ihren-chat-verlauf-loescht/",
-      "published": "Mon, 12 Oct 2026 14:20:00 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Weißes Haus macht Kehrtwende und gewährt britischem KI-Sicherheitsinstitut wieder Zugang zu neuen Modellen",
-      "link": "https://the-decoder.de/weisses-haus-macht-kehrtwende-und-gewaehrt-britischem-ki-sicherheitsinstitut-wieder-zugang-zu-neuen-modellen/",
-      "published": "Mon, 12 Oct 2026 13:13:44 +0000",
       "source": "The Decoder"
     }
   ]

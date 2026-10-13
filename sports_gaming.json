@@ -1,41 +1,59 @@
 {
-  "updated_at": "2026-10-12T22:43:53.192992+00:00",
+  "updated_at": "2026-10-13T12:28:06.548400+00:00",
   "sport": [
-    {
-      "title": "Ein Jahr nach Horror-Crash – Dettwiler zurück im Rennmodus: «Es hat sich gut angefühlt»",
-      "link": "https://www.srf.ch/sport/motorsport/motorrad/ein-jahr-nach-horror-crash-dettwiler-zurueck-im-rennmodus-es-hat-sich-gut-angefuehlt",
-      "published": "Mon, 12 Oct 2026 17:46:46 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Internationale Fussball-News – Wenige Tage nach Brandrede: Fink in der Türkei entlassen",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-wenige-tage-nach-brandrede-fink-in-der-tuerkei-entlassen",
-      "published": "Mon, 12 Oct 2026 16:33:02 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "News aus der National League – Bengtsson fehlt Zug mehrere Monate – Seiler zu den ZSC Lions",
-      "link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-bengtsson-fehlt-zug-mehrere-monate-seiler-zu-den-zsc-lions",
-      "published": "Mon, 12 Oct 2026 20:44:34 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Platz 1 in der Women's League – Gottéron meldet mit Kantersieg gegen Meister Zug Ambitionen an",
-      "link": "https://www.srf.ch/sport/eishockey/frauen-eishockey/platz-1-in-der-women-s-league-gotteron-meldet-mit-kantersieg-gegen-meister-zug-ambitionen-an",
-      "published": "Mon, 12 Oct 2026 10:13:04 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Schweizer Doppelsieg – Hug in Chicago nicht zu schlagen – Debrunner mit Weltrekord",
-      "link": "https://www.srf.ch/sport/leichtathletik/schweizer-doppelsieg-hug-in-chicago-nicht-zu-schlagen-debrunner-mit-weltrekord",
-      "published": "Sun, 11 Oct 2026 17:57:54 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
     {
       "title": "WM-Playoffs: Schweiz – Israel – Die Devise für das Rückspiel ist klar: Hinten die Null halten",
       "link": "https://www.srf.ch/sport/fussball/frauen-nationalteam/wm-playoffs-schweiz-israel-die-devise-fuer-das-rueckspiel-ist-klar-hinten-die-null-halten",
       "published": "Mon, 12 Oct 2026 15:59:46 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Nächster Zwischenhalt Sitten – Der Schweizer Weg an die WM: Alles angerichtet für 1. Hürde",
+      "link": "https://www.srf.ch/sport/fussball/frauen-nationalteam/naechster-zwischenhalt-sitten-der-schweizer-weg-an-die-wm-alles-angerichtet-fuer-1-huerde",
+      "published": "Mon, 12 Oct 2026 11:49:08 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Nun Gegner in Champions League – «Niemand» kannte ihn: Wie Kane einst fast in Stavanger landete",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/nun-gegner-in-champions-league-niemand-kannte-ihn-wie-kane-einst-fast-in-stavanger-landete",
+      "published": "Tue, 13 Oct 2026 09:48:46 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Champions League: 2. Spieltag – Rückkehr ins San Siro: Sommer will kein Tourist sein",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-2-spieltag-rueckkehr-ins-san-siro-sommer-will-kein-tourist-sein",
+      "published": "Tue, 13 Oct 2026 09:33:28 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Weitere Sport-News – Sportschützinnen Leone und Jäggi verpassen Podest knapp",
+      "link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-sportschuetzinnen-leone-und-jaeggi-verpassen-podest-knapp",
+      "published": "Tue, 13 Oct 2026 14:24:49 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Internationale Fussball-News – Dortmund verlängert mit Kovac – Venedig entlässt den Trainer",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-dortmund-verlaengert-mit-kovac-venedig-entlaesst-den-trainer",
+      "published": "Tue, 13 Oct 2026 11:44:22 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Internationale Fussball-News – Dortmund verlängert mit Kovac – Venedig entlässt den Trainer",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-dortmund-verlaengert-mit-kovac-venedig-entlaesst-den-trainer",
+      "published": "Tue, 13 Oct 2026 11:44:22 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Nun Gegner in Champions League – «Niemand» kannte ihn: Wie Kane einst fast in Stavanger landete",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/nun-gegner-in-champions-league-niemand-kannte-ihn-wie-kane-einst-fast-in-stavanger-landete",
+      "published": "Tue, 13 Oct 2026 09:48:46 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Champions League: 2. Spieltag – Rückkehr ins San Siro: Sommer will kein Tourist sein",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-2-spieltag-rueckkehr-ins-san-siro-sommer-will-kein-tourist-sein",
+      "published": "Tue, 13 Oct 2026 09:33:28 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "Internationale Fussball-News – Wenige Tage nach Brandrede: Fink in der Türkei entlassen",
@@ -54,61 +72,43 @@
       "link": "https://www.srf.ch/sport/fussball/super-league/lausanne-sport-im-tief-viele-verletzte-kein-diakite-ersatz-und-elsners-zukunft",
       "published": "Mon, 12 Oct 2026 11:26:11 +0200",
       "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "FCB-Trainer nach Debüt pikiert – Jokanovic: «Unser Level reicht nicht für diese Liga»",
-      "link": "https://www.srf.ch/sport/fussball/super-league/fcb-trainer-nach-debuet-pikiert-jokanovic-unser-level-reicht-nicht-fuer-diese-liga",
-      "published": "Mon, 12 Oct 2026 09:30:51 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Fussball-Wochenende in Bildern – Papierflieger und Hüpfverbot",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-wochenende-in-bildern-papierflieger-und-huepfverbot",
-      "published": "Mon, 12 Oct 2026 07:56:15 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "«Es ist alles grösser» – Reuteler: In der Nati unbestritten, bei Arsenal noch aussen vor",
-      "link": "https://www.srf.ch/sport/fussball/frauen-nationalteam/es-ist-alles-groesser-reuteler-in-der-nati-unbestritten-bei-arsenal-noch-aussen-vor",
-      "published": "Sun, 11 Oct 2026 21:11:27 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Dawn of War 4: Alles, was ihr über das Echtzeit-Strategie-Spektakel wissen müsst (Update)",
-      "link": "https://www.pcgames.de/Dawn-of-War-4-Spiel-75354/News/Release-Termin-Preis-Editionen-Erweiterung-kaufen-Addon-Vorbesteller-1536016/",
-      "published": "Mon, 12 Oct 2026 19:18:00 +0200",
+      "title": "Erkundung, Monster, Bosskämpfe: Haunted Chocolatier wird ganz anders als Stardew Valley",
+      "link": "https://www.pcgames.de/Stardew-Valley-Spiel-56759/News/Haunted-Chocolatier-Gameplay-Action-RPG-Release-1556565/",
+      "published": "Tue, 13 Oct 2026 14:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Strafe statt Schnäppchen: Das müsst ihr beim Kauf von Pokémon-Karten im Ausland beachten",
-      "link": "https://www.pcgames.de/Pokemon-Serie-204702/Specials/Pokemon-Karten-aus-Japan-Warum-schon-eine-Karte-beim-Zoll-teuer-werden-kann-1556448/",
-      "published": "Mon, 12 Oct 2026 19:00:00 +0200",
+      "title": "Phantom Blade Zero: Release-Termin, PC-Anforderungen, Editionen und Demo-Status - Alle Infos zum Action-RPG",
+      "link": "https://www.pcgames.de/Phantom-Blade-Zero-Spiel-74287/Specials/Release-Termin-PC-Anforderungen-Editionen-Vorbesteller-Boni-1556579/",
+      "published": "Tue, 13 Oct 2026 13:45:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Glasshouse: Kostenlose Demo zum neuen Feudalpunk-RPG begeistert auf Steam",
-      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Glasshouse-isometrisches-RPG-inspiriert-von-Disco-Elysium-kostenlose-Demo-Steam-1556430/",
-      "published": "Mon, 12 Oct 2026 18:28:00 +0200",
+      "title": "Der beste Teil der Fallout-Reihe hat jetzt eine neue Kampagne für D&D-Fans",
+      "link": "https://www.pcgames.de/Fallout-New-Vegas-Spiel-23097/News/Pen-Paper-Royal-Flush-Fallout-1556563/",
+      "published": "Tue, 13 Oct 2026 13:29:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Wer in WoW: Forever Sammelberufe nutzt, sollte sich dieses geniale Addon anschauen",
-      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Forever-Addon-Sammelberufe-Kraeuter-Erze-1556445/",
-      "published": "Mon, 12 Oct 2026 18:01:00 +0200",
+      "title": "WoW: Für diesen neuen Midnight-Erfolg habt ihr nur eine Woche Zeit",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Midnight-Tiefe-Labyrinth-Ruhmeshalle-Titel-Erfolg-1556547/",
+      "published": "Tue, 13 Oct 2026 13:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Besser als Aang und Korra? Neue Avatar-Serie startet mit perfekten 100 Prozent",
-      "link": "https://www.pcgames.de/Avatar-Der-Herr-der-Elemente-Brands-204419/News/Bestwertungen-fuer-Seven-Havens-und-weiterer-Staffeln-bestaetigt-1556440/",
-      "published": "Mon, 12 Oct 2026 17:29:00 +0200",
+      "title": "Playstation VR 2 vor dem Aus? 404-Fehler im US-Playstation-Shop sorgt für Fragen",
+      "link": "https://www.pcgames.de/Playstation-VR-2-Hardware-279281/News/404-Fehler-US-Store-Fragen-Patentverkaeufe-1556536/",
+      "published": "Tue, 13 Oct 2026 12:31:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Blade Runner 2099: Brandneuer Trailer zeigt eine düstere neue Ära",
-      "link": "https://www.pcgames.de/Film-und-Fun-Thema-234611/News/Brandneuer-Trailer-zeigt-eine-duestere-neue-Aera-1556444/",
-      "published": "Mon, 12 Oct 2026 17:01:00 +0200",
+      "title": "Dragon Ball Super: Beerus – Goku kämpft erneut gegen drei Legenden",
+      "link": "https://www.pcgames.de/Dragon-Ball-Z-Serie-204700/News/Super-Beerus-Goku-Kaempfe-1556519/",
+      "published": "Tue, 13 Oct 2026 12:01:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
