@@ -1,28 +1,10 @@
 {
-  "updated_at": "2026-10-17T09:00:50.623063+00:00",
+  "updated_at": "2026-10-17T18:09:38.080268+00:00",
   "sport": [
     {
-      "title": "Liniger ohne Job-Angst – Kloten-Krise: Wenn nicht einmal ein Meistergoalie hilft",
-      "link": "https://www.srf.ch/sport/eishockey/national-league/liniger-ohne-job-angst-kloten-krise-wenn-nicht-einmal-ein-meistergoalie-hilft",
-      "published": "Sat, 17 Oct 2026 10:31:18 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Strafenreiches Derby in Biel – «Einfach nur feige» – Carrs Faustschlag erhitzt die Gemüter",
-      "link": "https://www.srf.ch/sport/eishockey/national-league/strafenreiches-derby-in-biel-einfach-nur-feige-carrs-faustschlag-erhitzt-die-gemueter",
-      "published": "Sat, 17 Oct 2026 09:40:04 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Bundesliga-Jubiläum am Samstag – Das schafft nur Kane: Das 100. Spiel kommt nach dem 100. Tor",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-jubilaeum-am-samstag-das-schafft-nur-kane-das-100-spiel-kommt-nach-dem-100-tor",
-      "published": "Sat, 17 Oct 2026 09:21:14 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Legende erreicht Meilenstein – Keiner steht so für GC wie er: Abrashi vor seinem 300. Spiel",
-      "link": "https://www.srf.ch/sport/fussball/super-league/legende-erreicht-meilenstein-keiner-steht-so-fuer-gc-wie-er-abrashi-vor-seinem-300-spiel",
-      "published": "Fri, 16 Oct 2026 09:18:44 +0200",
+      "title": "Schweizer Cup, 2. Runde – Erster GC-Sieg unter Janssen bei Abrashi-Jubiläum – Sion mit Mühe",
+      "link": "https://www.srf.ch/sport/fussball/schweizer-cup/schweizer-cup-2-runde-erster-gc-sieg-unter-janssen-bei-abrashi-jubilaeum-sion-mit-muehe",
+      "published": "Sat, 17 Oct 2026 18:58:22 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
@@ -32,83 +14,101 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "National League am Freitag – HCD findet in Lugano zum Siegen zurück – Lions weiter makellos",
-      "link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-hcd-findet-in-lugano-zum-siegen-zurueck-lions-weiter-makellos",
-      "published": "Fri, 16 Oct 2026 22:19:15 +0200",
+      "title": "Women's Super League – Torreiche Schlussphase: YB ringt GC nieder",
+      "link": "https://www.srf.ch/sport/fussball/women-s-super-league/women-s-super-league-torreiche-schlussphase-yb-ringt-gc-nieder",
+      "published": "Sat, 17 Oct 2026 19:17:10 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Bundesliga-Jubiläum am Samstag – Das schafft nur Kane: Das 100. Spiel kommt nach dem 100. Tor",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-jubilaeum-am-samstag-das-schafft-nur-kane-das-100-spiel-kommt-nach-dem-100-tor",
-      "published": "Sat, 17 Oct 2026 09:21:14 +0200",
+      "title": "6. Runde der Bundesliga – Muheim schiesst HSV zum Sieg – Rieder-Treffer bringt nichts",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/6-runde-der-bundesliga-muheim-schiesst-hsv-zum-sieg-rieder-treffer-bringt-nichts",
+      "published": "Sat, 17 Oct 2026 17:39:39 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Premier League, 7. Spieltag – Martinez-Schock bei Chelsea-Sieg – ManCity siegt dank Haaland",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/premier-league-7-spieltag-martinez-schock-bei-chelsea-sieg-mancity-siegt-dank-haaland",
+      "published": "Sat, 17 Oct 2026 18:09:18 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News aus dem Skisport – Saisonauftakt in Sölden ohne Hirscher",
+      "link": "https://www.srf.ch/sport/ski-alpin/news-aus-dem-skisport-saisonauftakt-in-soelden-ohne-hirscher",
+      "published": "Sat, 17 Oct 2026 16:12:29 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Women's Super League – Torreiche Schlussphase: YB ringt GC nieder",
+      "link": "https://www.srf.ch/sport/fussball/women-s-super-league/women-s-super-league-torreiche-schlussphase-yb-ringt-gc-nieder",
+      "published": "Sat, 17 Oct 2026 19:17:10 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Grenchen empfängt im Cup GC – Für Ruefer eine Rückkehr, für GC eine Stolperfalle?",
-      "link": "https://www.srf.ch/sport/fussball/schweizer-cup/grenchen-empfaengt-im-cup-gc-fuer-ruefer-eine-rueckkehr-fuer-gc-eine-stolperfalle",
-      "published": "Sat, 17 Oct 2026 08:02:03 +0200",
+      "title": "Schweizer Cup, 2. Runde – Erster GC-Sieg unter Janssen bei Abrashi-Jubiläum – Sion mit Mühe",
+      "link": "https://www.srf.ch/sport/fussball/schweizer-cup/schweizer-cup-2-runde-erster-gc-sieg-unter-janssen-bei-abrashi-jubilaeum-sion-mit-muehe",
+      "published": "Sat, 17 Oct 2026 18:58:22 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Bundesliga: 6. Spieltag – Frankfurt hält hinten die Null und kehrt zum Siegen zurück",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-6-spieltag-frankfurt-haelt-hinten-die-null-und-kehrt-zum-siegen-zurueck",
-      "published": "Fri, 16 Oct 2026 22:51:10 +0200",
+      "title": "6. Runde der Bundesliga – Muheim schiesst HSV zum Sieg – Rieder-Treffer bringt nichts",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/6-runde-der-bundesliga-muheim-schiesst-hsv-zum-sieg-rieder-treffer-bringt-nichts",
+      "published": "Sat, 17 Oct 2026 17:39:39 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Schweizer Cup: 2. Runde – Basel atmet früh auf – auch St. Gallen und Servette weiter",
-      "link": "https://www.srf.ch/sport/fussball/schweizer-cup/schweizer-cup-2-runde-basel-atmet-frueh-auf-auch-st-gallen-und-servette-weiter",
-      "published": "Fri, 16 Oct 2026 22:05:34 +0200",
+      "title": "Premier League, 7. Spieltag – Martinez-Schock bei Chelsea-Sieg – ManCity siegt dank Haaland",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/premier-league-7-spieltag-martinez-schock-bei-chelsea-sieg-mancity-siegt-dank-haaland",
+      "published": "Sat, 17 Oct 2026 18:09:18 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "9. Runde Women's Super League – YB lädt zum Verfolgerduell im Wankdorf – in violett",
-      "link": "https://www.srf.ch/sport/fussball/women-s-super-league/9-runde-women-s-super-league-yb-laedt-zum-verfolgerduell-im-wankdorf-in-violett",
-      "published": "Fri, 16 Oct 2026 21:00:59 +0200",
+      "title": "News aus der Super League – Thun monatelang ohne Saiz",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-thun-monatelang-ohne-saiz",
+      "published": "Sat, 17 Oct 2026 12:41:16 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "9. Runde Women's Super League – FCZ dreht Spiel bei Voss-Tecklenburgs Debüt – auch Servette siegt",
-      "link": "https://www.srf.ch/sport/fussball/women-s-super-league/9-runde-women-s-super-league-fcz-dreht-spiel-bei-voss-tecklenburgs-debuet-auch-servette-siegt",
-      "published": "Fri, 16 Oct 2026 20:57:32 +0200",
+      "title": "Cup-Duell am Samstag – Alte Bekannte zurück auf der Schützenwiese – Luzern gefordert",
+      "link": "https://www.srf.ch/sport/fussball/schweizer-cup/cup-duell-am-samstag-alte-bekannte-zurueck-auf-der-schuetzenwiese-luzern-gefordert",
+      "published": "Sat, 17 Oct 2026 11:41:48 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "WoW: Forever - CE wird früher ausgeliefert, aber ihr solltet den Code auf keinen Fall aktivieren",
-      "link": "https://www.pcgames.de/World-of-Warcraft-Forever-Spiel-78891/News/Forever-Collectors-Edition-Code-nicht-einloesen-1557003/",
-      "published": "Sat, 17 Oct 2026 11:00:00 +0200",
+      "title": "Control Resonant schlägt Control und Alan Wake 2: Remedy knackt die Millionengrenze",
+      "link": "https://www.pcgames.de/Control-Resonant-Spiel-75469/News/Verkaufszahlen-jenseits-der-Millionengrenze-1557023/",
+      "published": "Sat, 17 Oct 2026 18:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Assassin's Creed: Destiny - Details zu eingestelltem China-Ableger aufgetaucht",
-      "link": "https://www.pcgames.de/Assassins-Creed-Brands-279368/News/Details-zu-eingestelltem-China-Ableger-aufgetaucht-1557001/",
-      "published": "Sat, 17 Oct 2026 10:30:00 +0200",
+      "title": "Modern Warfare 4: Ist die Task Force 141 am Ende? Story-Chef spricht über die Zukunft",
+      "link": "https://www.pcgames.de/Call-of-Duty-Modern-Warfare-4-Spiel-78140/News/kampagne-ghost-task-force-141-1556920/",
+      "published": "Sat, 17 Oct 2026 17:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Steam: Dieses Spiel WILL, dass ihr euer Geld zurückverlangt",
-      "link": "https://www.pcgames.de/Steam-Software-69900/News/Refund-This-Game-will-dass-ihr-Geld-zurueckverlangt-1557000/",
-      "published": "Sat, 17 Oct 2026 09:30:00 +0200",
+      "title": "The Legend of Zelda: Ocarina of Time – Neue TV-Spots in Japan zeigen frische Details",
+      "link": "https://www.pcgames.de/The-Legend-of-Zelda-Ocarina-of-Time-Remake-Spiel-78201/News/TV-Spots-zeigen-Dark-Link-und-mehr-1557021/",
+      "published": "Sat, 17 Oct 2026 16:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "WoW Forever: Alle überarbeiteten Volksfähigkeiten für Horde und Allianz",
-      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/Specials/WoW-Forever-Volksfaehigkeiten-Horde-Allianz-Himmelsgeborene-1553793/",
-      "published": "Sat, 17 Oct 2026 09:00:00 +0200",
+      "title": "Neue Horror-Serie streamen: So hat man Kult-Killer Jason noch nie gesehen",
+      "link": "https://www.pcgames.de/Film-und-Fun-Thema-234611/News/Crystal-Lake-Serie-startet-in-Deutschland-1557019/",
+      "published": "Sat, 17 Oct 2026 15:15:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Modern Warfare 4: Wer Befehle verweigert, muss dafür zahlen",
-      "link": "https://www.pcgames.de/Call-of-Duty-Modern-Warfare-4-Spiel-78140/News/Modern-Warfare-4-Wer-Befehle-verweigert-muss-dafuer-zahlen-1556864/",
-      "published": "Sat, 17 Oct 2026 08:00:00 +0200",
+      "title": "Samson: Studio hinter GTA-inspirierter Open-World-Action ist offiziell pleite",
+      "link": "https://www.pcgames.de/Wirtschaft-Thema-238882/News/Entwicklungsstudio-von-GTA-Klon-Samson-ist-insolvent-1557017/",
+      "published": "Sat, 17 Oct 2026 14:30:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "VisionQuest verliert deutlich an Boden: Marvel-Serie rutscht bei Kritikern immer weiter ab",
-      "link": "https://www.pcgames.de/Marvel-Cinematic-Universe-MCU-Brands-266313/News/beste-mcu-serie-visionquest-ranking-1556981/",
-      "published": "Sat, 17 Oct 2026 07:30:00 +0200",
+      "title": "GeoGuessr: Das beliebte, kostenlose Browserspiel wird im Oktober zu HorrorGuessr",
+      "link": "https://www.pcgames.de/Browserspiele-Thema-217751/News/Browserspiel-aendert-zu-Halloween-sein-Genre-1557013/",
+      "published": "Sat, 17 Oct 2026 13:45:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
