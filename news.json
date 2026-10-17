@@ -1,56 +1,62 @@
 {
-  "updated_at": "2026-10-16T19:19:16.800110+00:00",
+  "updated_at": "2026-10-17T09:00:48.856698+00:00",
   "politik": [
     {
-      "title": "Gegen Raser – St. Gallen misst jetzt offiziell Geschwindigkeiten mit Drohnen",
-      "link": "https://www.srf.ch/news/schweiz/gegen-raser-st-gallen-misst-jetzt-offiziell-geschwindigkeiten-mit-drohnen",
-      "published": "Fri, 16 Oct 2026 20:53:03 +0200",
+      "title": "Bund verfehlt Ziel – Warum die Zahl der Verkehrsunfälle in der Schweiz nicht sinkt",
+      "link": "https://www.srf.ch/news/schweiz/bund-verfehlt-ziel-warum-die-zahl-der-verkehrsunfaelle-in-der-schweiz-nicht-sinkt",
+      "published": "Sat, 17 Oct 2026 10:09:24 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Wegen Absenkung des Gewässers – Wichelsee: Bei Bauarbeiten für einen Fischabstieg sterben Fische",
-      "link": "https://www.srf.ch/news/schweiz/wegen-absenkung-des-gewaessers-wichelsee-bei-bauarbeiten-fuer-einen-fischabstieg-sterben-fische",
-      "published": "Fri, 16 Oct 2026 20:12:07 +0200",
+      "title": "Gemeindebudget Wohlen – Wenn die Gegner der Steuererhöhung die Steuern erhöhen müssen",
+      "link": "https://www.srf.ch/news/schweiz/gemeindebudget-wohlen-wenn-die-gegner-der-steuererhoehung-die-steuern-erhoehen-muessen",
+      "published": "Sat, 17 Oct 2026 08:57:00 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Spekulation um UBS-Exit – Swissness ist für die UBS kein Muss – (aber ein Plus)",
-      "link": "https://www.srf.ch/news/schweiz/spekulation-um-ubs-exit-swissness-ist-fuer-die-ubs-kein-muss-aber-ein-plus",
-      "published": "Fri, 16 Oct 2026 20:03:02 +0200",
+      "title": "Zeitungsmarkt – Ungewisse Zukunft für Frühzusteller in der Schweiz",
+      "link": "https://www.srf.ch/news/wirtschaft/zeitungsmarkt-ungewisse-zukunft-fuer-fruehzusteller-in-der-schweiz",
+      "published": "Sat, 17 Oct 2026 08:00:41 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Von Pionierinnen und Talenten – Frauen übernehmen die Federführung in der Schweizer Comicszene",
-      "link": "https://www.srf.ch/kultur/literatur/von-pionierinnen-und-talenten-frauen-uebernehmen-die-federfuehrung-in-der-schweizer-comicszene",
-      "published": "Fri, 16 Oct 2026 19:00:24 +0200",
+      "title": "Lücke in der Opferhilfe – Wenn Schweizer im Ausland Opfer einer Straftat werden",
+      "link": "https://www.srf.ch/news/schweiz/luecke-in-der-opferhilfe-wenn-schweizer-im-ausland-opfer-einer-straftat-werden",
+      "published": "Sat, 17 Oct 2026 07:33:32 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Online Challenges: Bundesrat fordert mehr Schutz von Minderjährigen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-100.html",
-      "published": "Fri, 16 Oct 2026 20:42:07 +0200",
+      "title": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
+      "link": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html",
+      "published": "Sat, 17 Oct 2026 10:15:08 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
-      "link": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html",
-      "published": "Fri, 16 Oct 2026 21:13:52 +0200",
+      "title": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html",
+      "published": "Sat, 17 Oct 2026 10:08:36 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
-      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-eu-gipfel-102.html",
-      "published": "Fri, 16 Oct 2026 20:07:15 +0200",
+      "title": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
+      "published": "Sat, 17 Oct 2026 10:35:52 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Angriff auf NS-Dokumentationszentrum in Köln",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/angriff-auf-ns-dokumentationszentrum-in-koeln-100.html",
-      "published": "Fri, 16 Oct 2026 19:12:00 +0200",
+      "title": "Nachfolge als UN-Generalsekretär: Bewerber scheitern an Vetomächten",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-wahl-100.html",
+      "published": "Sat, 17 Oct 2026 06:56:34 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "OpenAI legt Lösung für berühmtes Mathe-Problem vor, versteht aber den eigenen Beweis nicht",
+      "link": "https://the-decoder.de/openai-legt-loesung-fuer-beruehmtes-mathe-problem-vor-versteht-aber-den-eigenen-beweis-nicht/",
+      "published": "Sat, 17 Oct 2026 08:37:57 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "OpenAIs Chrome-Erweiterung lässt ChatGPT Tabs steuern, Formulare ausfüllen und Dateien herunterladen",
       "link": "https://the-decoder.de/openais-chrome-erweiterung-laesst-chatgpt-tabs-steuern-formulare-ausfuellen-und-dateien-herunterladen/",
@@ -73,12 +79,6 @@
       "title": "Googles Gemini 4 Argon schließt in weiteren Benchmarks zur KI-Spitze auf",
       "link": "https://the-decoder.de/googles-gemini-4-argon-schliesst-in-weiteren-benchmarks-zur-ki-spitze-auf/",
       "published": "Fri, 16 Oct 2026 11:10:46 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI startet Gratisprogramm für Forschungslabore an US-Universitäten",
-      "link": "https://the-decoder.de/openai-startet-gratisprogramm-fuer-forschungslabore-an-us-universitaeten/",
-      "published": "Fri, 16 Oct 2026 09:36:09 +0000",
       "source": "The Decoder"
     }
   ]
