@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-17T18:09:36.493624+00:00",
+  "updated_at": "2026-10-18T09:19:52.473569+00:00",
   "politik": [
+    {
+      "title": "Umgebautes Bahnhofbuffet Olten – Deshalb ist das Bahnhofbuffet Olten legendär",
+      "link": "https://www.srf.ch/news/schweiz/umgebautes-bahnhofbuffet-olten-deshalb-ist-das-bahnhofbuffet-olten-legendaer",
+      "published": "Sun, 18 Oct 2026 11:13:32 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Aargauer Regierungswahl – Folgt auf FDP-Regierungsrat Attiger Parteikollegin Riniker?",
+      "link": "https://www.srf.ch/news/schweiz/aargauer-regierungswahl-folgt-auf-fdp-regierungsrat-attiger-parteikollegin-riniker",
+      "published": "Sun, 18 Oct 2026 10:31:34 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Auswirkungen der Trockenheit – Wer haftet, wenn im Wald ein Baum auf Menschen stürzt?",
+      "link": "https://www.srf.ch/news/schweiz/auswirkungen-der-trockenheit-wer-haftet-wenn-im-wald-ein-baum-auf-menschen-stuerzt",
+      "published": "Sun, 18 Oct 2026 08:13:35 +0200",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
     {
       "title": "Schutzwald unter Druck – Zaun für Schutzwald: Ein schweizweit einzigartiges Projekt",
       "link": "https://www.srf.ch/news/schweiz/schutzwald-unter-druck-zaun-fuer-schutzwald-ein-schweizweit-einzigartiges-projekt",
@@ -8,49 +26,49 @@
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Wahlen Kanton Freiburg – Deutschfreiburg könnte seine Regierungsvertretung verlieren",
-      "link": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-deutschfreiburg-koennte-seine-regierungsvertretung-verlieren",
-      "published": "Sat, 17 Oct 2026 17:18:15 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "SVP-Delegiertenversammlung – SVP-Delegierte lehnen Erhöhung der Mehrwertsteuer für AHV ab",
-      "link": "https://www.srf.ch/news/schweiz/svp-delegiertenversammlung-svp-delegierte-lehnen-erhoehung-der-mehrwertsteuer-fuer-ahv-ab",
-      "published": "Sat, 17 Oct 2026 16:58:06 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Parteitag in Thun – SP lanciert Initiative zum Schutz vor Gewalt an Frauen",
-      "link": "https://www.srf.ch/news/schweiz/parteitag-in-thun-sp-lanciert-initiative-zum-schutz-vor-gewalt-an-frauen",
-      "published": "Sat, 17 Oct 2026 16:30:51 +0200",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html",
-      "published": "Sat, 17 Oct 2026 19:44:57 +0200",
+      "title": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskaliert",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
+      "published": "Sun, 18 Oct 2026 09:31:06 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html",
-      "published": "Sat, 17 Oct 2026 19:26:53 +0200",
+      "title": "COP17 zur Biodiversität: Den Holzdieben in Armenien auf der Spur",
+      "link": "https://www.tagesschau.de/ausland/asien/un-biodiversitaetskonferenz-armenien-100.html",
+      "published": "Sun, 18 Oct 2026 08:48:59 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html",
-      "published": "Sat, 17 Oct 2026 18:14:36 +0200",
+      "title": "Wechseljahre im Job: Wie Hitzewallungen den Arbeitsalltag erschweren",
+      "link": "https://www.tagesschau.de/kultur/wechseljahre-am-arbeitsplatz-100.html",
+      "published": "Sun, 18 Oct 2026 08:25:03 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Rechtsruck - auch bei Israels linken Parteien?",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-linke-100.html",
-      "published": "Sat, 17 Oct 2026 18:09:53 +0200",
+      "title": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
+      "link": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
+      "published": "Sat, 17 Oct 2026 21:10:03 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Anthropic berät sich mit Kanzleien, damit KI-Agenten künftig Preise und Verträge aushandeln",
+      "link": "https://the-decoder.de/anthropic-beraet-sich-mit-kanzleien-damit-ki-agenten-kuenftig-preise-und-vertraege-aushandeln/",
+      "published": "Sun, 18 Oct 2026 09:05:29 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Fehlender \"Geschmack\": KI-Agenten scheitern noch an langfristigen Entscheidungen",
+      "link": "https://the-decoder.de/fehlender-geschmack-ki-agenten-scheitern-noch-an-langfristigen-entscheidungen/",
+      "published": "Sun, 18 Oct 2026 08:34:41 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "KI-Agenten sollen Zugticket-Erstattung einholen: Sie drohen mit Klagen und spammen Behörden",
+      "link": "https://the-decoder.de/ki-agenten-sollen-zugticket-erstattung-einholen-sie-drohen-mit-klagen-und-spammen-behoerden/",
+      "published": "Sun, 18 Oct 2026 08:02:04 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Wildgewordene OpenAI-Agenten erbeuten Krankenhausdaten, Krypto-Wallets und interne Datenbanken",
       "link": "https://the-decoder.de/wildgewordene-openai-agenten-erbeuten-krankenhausdaten-krypto-wallets-und-interne-datenbanken/",
@@ -61,24 +79,6 @@
       "title": "Anthropics Claude löst 25 Jahre altes Kryptografie-Rätsel um mysteriöse NSA-Seeds",
       "link": "https://the-decoder.de/anthropics-claude-loest-25-jahre-altes-kryptografie-raetsel-um-mysterioese-nsa-seeds/",
       "published": "Sat, 17 Oct 2026 14:35:56 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Deepseek veröffentlicht V4.1-Flash: Schneller, besser und günstiger als der Vorgänger",
-      "link": "https://the-decoder.de/deepseek-veroeffentlicht-v4-1-flash-schneller-besser-und-guenstiger-als-der-vorgaenger/",
-      "published": "Sat, 17 Oct 2026 10:17:28 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "KI-Modelle verschweigen Fehler in Arbeitsberichten, doch ein einziger Satz im Prompt hilft oft",
-      "link": "https://the-decoder.de/ki-modelle-verschweigen-fehler-in-arbeitsberichten-doch-ein-einziger-satz-im-prompt-hilft-oft/",
-      "published": "Sat, 17 Oct 2026 09:15:36 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI legt Lösung für berühmtes Mathe-Problem vor, versteht aber den eigenen Beweis nicht",
-      "link": "https://the-decoder.de/openai-legt-loesung-fuer-beruehmtes-mathe-problem-vor-versteht-aber-den-eigenen-beweis-nicht/",
-      "published": "Sat, 17 Oct 2026 08:37:57 +0000",
       "source": "The Decoder"
     }
   ]
