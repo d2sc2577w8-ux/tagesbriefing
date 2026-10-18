@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-10-18T09:19:52.473569+00:00",
+  "updated_at": "2026-10-18T18:27:35.150385+00:00",
   "politik": [
     {
-      "title": "Umgebautes Bahnhofbuffet Olten – Deshalb ist das Bahnhofbuffet Olten legendär",
-      "link": "https://www.srf.ch/news/schweiz/umgebautes-bahnhofbuffet-olten-deshalb-ist-das-bahnhofbuffet-olten-legendaer",
-      "published": "Sun, 18 Oct 2026 11:13:32 +0200",
+      "title": "Mehr Jugendschutz – Baume-Schneider will Zugang zu Social Media für Junge begrenzen",
+      "link": "https://www.srf.ch/news/schweiz/mehr-jugendschutz-baume-schneider-will-zugang-zu-social-media-fuer-junge-begrenzen",
+      "published": "Sun, 18 Oct 2026 18:48:02 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Aargauer Regierungswahl – Folgt auf FDP-Regierungsrat Attiger Parteikollegin Riniker?",
-      "link": "https://www.srf.ch/news/schweiz/aargauer-regierungswahl-folgt-auf-fdp-regierungsrat-attiger-parteikollegin-riniker",
-      "published": "Sun, 18 Oct 2026 10:31:34 +0200",
+      "title": "US-Techunternehmen – 5 Anfragen, 5 Absagen: Palantir blitzt in der Schweiz ab",
+      "link": "https://www.srf.ch/news/dialog/us-techunternehmen-5-anfragen-5-absagen-palantir-blitzt-in-der-schweiz-ab",
+      "published": "Sun, 18 Oct 2026 18:19:22 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Auswirkungen der Trockenheit – Wer haftet, wenn im Wald ein Baum auf Menschen stürzt?",
-      "link": "https://www.srf.ch/news/schweiz/auswirkungen-der-trockenheit-wer-haftet-wenn-im-wald-ein-baum-auf-menschen-stuerzt",
-      "published": "Sun, 18 Oct 2026 08:13:35 +0200",
+      "title": "Arbeit unter Wasser – So untersuchen Archäologen Pfahlbauten im Sempachersee",
+      "link": "https://www.srf.ch/news/schweiz/arbeit-unter-wasser-so-untersuchen-archaeologen-pfahlbauten-im-sempachersee",
+      "published": "Sun, 18 Oct 2026 17:52:55 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Schutzwald unter Druck – Zaun für Schutzwald: Ein schweizweit einzigartiges Projekt",
-      "link": "https://www.srf.ch/news/schweiz/schutzwald-unter-druck-zaun-fuer-schutzwald-ein-schweizweit-einzigartiges-projekt",
-      "published": "Sat, 17 Oct 2026 19:04:36 +0200",
+      "title": "Literat in der Schweiz – Genf war Borges’ grosse Liebe",
+      "link": "https://www.srf.ch/news/schweiz/literat-in-der-schweiz-genf-war-borges-grosse-liebe",
+      "published": "Sun, 18 Oct 2026 16:32:26 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskaliert",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
-      "published": "Sun, 18 Oct 2026 09:31:06 +0200",
+      "title": "\"Deutschlandtag\" der Jungen Union: Der große Knall bleibt aus",
+      "link": "https://www.tagesschau.de/inland/junge-union-deutschlandtag-analyse-100.html",
+      "published": "Sun, 18 Oct 2026 18:48:09 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "COP17 zur Biodiversität: Den Holzdieben in Armenien auf der Spur",
-      "link": "https://www.tagesschau.de/ausland/asien/un-biodiversitaetskonferenz-armenien-100.html",
-      "published": "Sun, 18 Oct 2026 08:48:59 +0200",
+      "title": "Drohne in Litauens Luftraum eingedrungen und abgestürzt",
+      "link": "https://www.tagesschau.de/ausland/europa/litauen-drohne-absturz-ukraine-100.html",
+      "published": "Sun, 18 Oct 2026 18:13:24 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Wechseljahre im Job: Wie Hitzewallungen den Arbeitsalltag erschweren",
-      "link": "https://www.tagesschau.de/kultur/wechseljahre-am-arbeitsplatz-100.html",
-      "published": "Sun, 18 Oct 2026 08:25:03 +0200",
+      "title": "Iran unterbreitet den USA ein Angebot - und droht zugleich",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-angebot-drohung-100.html",
+      "published": "Sun, 18 Oct 2026 17:18:33 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
-      "link": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
-      "published": "Sat, 17 Oct 2026 21:10:03 +0200",
+      "title": "Fake-Sneaker sind ein riesiges Geschäft - doch Käufer gehen in Risiko",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/sneaker-kultmodelle-investment-100.html",
+      "published": "Sun, 18 Oct 2026 16:46:25 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Anthropic stellt kaum noch Nachwuchskräfte ein, weil KI-Agenten sechsmal so viel wie Menschen arbeiten",
+      "link": "https://the-decoder.de/anthropic-stellt-kaum-noch-nachwuchskraefte-ein-weil-ki-agenten-sechsmal-so-viel-wie-menschen-arbeiten/",
+      "published": "Sun, 18 Oct 2026 13:15:26 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Vier Gemini-4-Argon-Agenten spielen Minecraft ohne menschliche Hilfe durch",
+      "link": "https://the-decoder.de/vier-gemini-4-argon-agenten-spielen-minecraft-ohne-menschliche-hilfe-durch/",
+      "published": "Sun, 18 Oct 2026 12:34:51 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Weiteres deutsches Gericht macht Google für falsche KI-Antworten verantwortlich",
+      "link": "https://the-decoder.de/weiteres-deutsches-gericht-macht-google-fuer-falsche-ki-antworten-verantwortlich/",
+      "published": "Sun, 18 Oct 2026 10:24:39 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Anthropic berät sich mit Kanzleien, damit KI-Agenten künftig Preise und Verträge aushandeln",
       "link": "https://the-decoder.de/anthropic-beraet-sich-mit-kanzleien-damit-ki-agenten-kuenftig-preise-und-vertraege-aushandeln/",
@@ -61,24 +79,6 @@
       "title": "Fehlender \"Geschmack\": KI-Agenten scheitern noch an langfristigen Entscheidungen",
       "link": "https://the-decoder.de/fehlender-geschmack-ki-agenten-scheitern-noch-an-langfristigen-entscheidungen/",
       "published": "Sun, 18 Oct 2026 08:34:41 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "KI-Agenten sollen Zugticket-Erstattung einholen: Sie drohen mit Klagen und spammen Behörden",
-      "link": "https://the-decoder.de/ki-agenten-sollen-zugticket-erstattung-einholen-sie-drohen-mit-klagen-und-spammen-behoerden/",
-      "published": "Sun, 18 Oct 2026 08:02:04 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Wildgewordene OpenAI-Agenten erbeuten Krankenhausdaten, Krypto-Wallets und interne Datenbanken",
-      "link": "https://the-decoder.de/wildgewordene-openai-agenten-erbeuten-krankenhausdaten-krypto-wallets-und-interne-datenbanken/",
-      "published": "Sat, 17 Oct 2026 15:27:11 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Anthropics Claude löst 25 Jahre altes Kryptografie-Rätsel um mysteriöse NSA-Seeds",
-      "link": "https://the-decoder.de/anthropics-claude-loest-25-jahre-altes-kryptografie-raetsel-um-mysterioese-nsa-seeds/",
-      "published": "Sat, 17 Oct 2026 14:35:56 +0000",
       "source": "The Decoder"
     }
   ]
