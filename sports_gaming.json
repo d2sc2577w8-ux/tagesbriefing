@@ -1,46 +1,64 @@
 {
-  "updated_at": "2026-10-21T09:49:37.074307+00:00",
+  "updated_at": "2026-10-21T19:55:18.101504+00:00",
   "sport": [
     {
+      "title": "Champions League: Round-up – Como fegt kriselndes ManUnited vom Platz – Gala siegt bei Lille",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-como-fegt-kriselndes-manunited-vom-platz-gala-siegt-bei-lille",
+      "published": "Wed, 21 Oct 2026 20:45:15 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Curling-Trainerin Südkoreas – Tirinzoni über ihr Abenteuer: «Konnte fast nicht ‹Nein› sagen»",
+      "link": "https://www.srf.ch/sport/mehr-sport/curling/curling-trainerin-suedkoreas-tirinzoni-ueber-ihr-abenteuer-konnte-fast-nicht-nein-sagen",
+      "published": "Wed, 21 Oct 2026 18:20:12 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "WM in Rotterdam – Am Barren überragend: Schweizer turnen auf den 5. WM-Rang",
+      "link": "https://www.srf.ch/sport/mehr-sport/kunstturnen/wm-in-rotterdam-am-barren-ueberragend-schweizer-turnen-auf-den-5-wm-rang",
+      "published": "Tue, 20 Oct 2026 22:47:53 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Conference League – Auswärtsstimmung zu Hause: Thun braucht Punkte",
+      "link": "https://www.srf.ch/sport/fussball/conference-league/conference-league-auswaertsstimmung-zu-hause-thun-braucht-punkte",
+      "published": "Wed, 21 Oct 2026 21:52:25 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "5 Fragen, 5 Antworten – Favoriten und Abwesende: Das müssen Sie vor dem Ski-Winter wissen",
+      "link": "https://www.srf.ch/sport/ski-alpin/ski-alpin-allgemein/5-fragen-5-antworten-favoriten-und-abwesende-das-muessen-sie-vor-dem-ski-winter-wissen",
+      "published": "Wed, 21 Oct 2026 13:32:54 +0200",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
       "title": "Mehr Fans – Mittel begrenzt – Schweizer Frauenfussball: Finanzielle Hürden trotz Höhenflug",
       "link": "https://www.srf.ch/sport/fussball/frauen-fussball/mehr-fans-mittel-begrenzt-schweizer-frauenfussball-finanzielle-huerden-trotz-hoehenflug",
       "published": "Wed, 21 Oct 2026 11:10:52 +0200",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Debüt für Lausanne – Kurashev nach zermürbenden Monaten: «Es war sehr emotional»",
-      "link": "https://www.srf.ch/sport/eishockey/national-league/debuet-fuer-lausanne-kurashev-nach-zermuerbenden-monaten-es-war-sehr-emotional",
-      "published": "Wed, 21 Oct 2026 09:17:41 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "Conference League – Auswärtsstimmung zu Hause: Thun braucht Punkte",
+      "link": "https://www.srf.ch/sport/fussball/conference-league/conference-league-auswaertsstimmung-zu-hause-thun-braucht-punkte",
+      "published": "Wed, 21 Oct 2026 21:52:25 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "National League am Dienstag – HCD beendet ZSC-Siegesserie – Kloten schafft Befreiungsschlag",
-      "link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-dienstag-hcd-beendet-zsc-siegesserie-kloten-schafft-befreiungsschlag",
-      "published": "Tue, 20 Oct 2026 22:09:08 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "Champions League: Round-up – Como fegt kriselndes ManUnited vom Platz – Gala siegt bei Lille",
+      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-como-fegt-kriselndes-manunited-vom-platz-gala-siegt-bei-lille",
+      "published": "Wed, 21 Oct 2026 20:45:15 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "In der CL weiterhin eine Macht – Wenn PSG ernst macht, knicken auch die Ungeschlagenen ein",
-      "link": "https://www.srf.ch/sport/fussball/champions-league/in-der-cl-weiterhin-eine-macht-wenn-psg-ernst-macht-knicken-auch-die-ungeschlagenen-ein",
-      "published": "Wed, 21 Oct 2026 10:20:59 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "News aus der Super League – Stevanovic fällt nach OP monatelang aus – auch Basels Malouda out",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-stevanovic-faellt-nach-op-monatelang-aus-auch-basels-malouda-out",
+      "published": "Wed, 21 Oct 2026 14:02:55 +0200",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Internationale Fussball-News – PSG-Schock: Kvaratskhelia erleidet Kreuzbandriss",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-psg-schock-kvaratskhelia-erleidet-kreuzbandriss",
-      "published": "Wed, 21 Oct 2026 11:38:32 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Champions League, 3. Spieltag – Kracher hält Versprechen: PSG schlägt Barça spektakulär 4:2",
-      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-3-spieltag-kracher-haelt-versprechen-psg-schlaegt-barca-spektakulaer-4-2",
-      "published": "Tue, 20 Oct 2026 23:22:34 +0200",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Internationale Fussball-News – PSG-Schock: Kvaratskhelia erleidet Kreuzbandriss",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-psg-schock-kvaratskhelia-erleidet-kreuzbandriss",
-      "published": "Wed, 21 Oct 2026 11:38:32 +0200",
+      "title": "Internationale Fussball-News – Kvaratskhelia erleidet Kreuzbandriss – Rodriguez fällt aus",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-kvaratskhelia-erleidet-kreuzbandriss-rodriguez-faellt-aus",
+      "published": "Wed, 21 Oct 2026 20:55:54 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
@@ -53,62 +71,44 @@
       "title": "In der CL weiterhin eine Macht – Wenn PSG ernst macht, knicken auch die Ungeschlagenen ein",
       "link": "https://www.srf.ch/sport/fussball/champions-league/in-der-cl-weiterhin-eine-macht-wenn-psg-ernst-macht-knicken-auch-die-ungeschlagenen-ein",
       "published": "Wed, 21 Oct 2026 10:20:59 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Bayern vor Kracher in der CL – Wie schwer wiegt Olises Absenz gegen Arsenal?",
-      "link": "https://www.srf.ch/sport/fussball/champions-league/bayern-vor-kracher-in-der-cl-wie-schwer-wiegt-olises-absenz-gegen-arsenal",
-      "published": "Wed, 21 Oct 2026 08:51:39 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "CL-Duell mit Leipzig – Reals Hauptprobe für den «Clasico» – mit oder ohne Vinicius?",
-      "link": "https://www.srf.ch/sport/fussball/champions-league/cl-duell-mit-leipzig-reals-hauptprobe-fuer-den-clasico-mit-oder-ohne-vinicius",
-      "published": "Wed, 21 Oct 2026 08:47:31 +0200",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Champions League, 3. Spieltag – Kracher hält Versprechen: PSG schlägt Barça spektakulär 4:2",
-      "link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-3-spieltag-kracher-haelt-versprechen-psg-schlaegt-barca-spektakulaer-4-2",
-      "published": "Tue, 20 Oct 2026 23:22:34 +0200",
       "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Aion 2 zieht die Reißleine: Sechs massive Bannwellen in nur elf Tagen",
-      "link": "https://www.pcgames.de/Aion-2-Spiel-78910/News/Bannwelle-Release-1557343/",
-      "published": "Wed, 21 Oct 2026 11:30:00 +0200",
+      "title": "Nach 31 Jahren: Bioware macht dicht, auch Mass Effect ist vorerst Geschichte",
+      "link": "https://www.pcgames.de/Bioware-Firma-15280/News/Bioware-macht-dicht-EA-stoppt-auch-das-neue-Mass-Effect-1557441/",
+      "published": "Wed, 21 Oct 2026 21:20:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "GTA 6: Vice City ist so dynamisch, dass nicht einmal die Entwickler alle Details kennen",
-      "link": "https://www.pcgames.de/GTA-6-Spiel-55239/News/Release-Vice-City-Rockstar-Jason-Schreier-Spielwelt-1557332/",
-      "published": "Wed, 21 Oct 2026 11:15:00 +0200",
+      "title": "Batman sollte durch die Hölle gehen: Handlung von Ben Afflecks geplatztem DC-Film veröffentlicht",
+      "link": "https://www.pcgames.de/DC-Extended-Universe-DCEU-Brands-266314/News/batman-kinofilm-handlung-1557400/",
+      "published": "Wed, 21 Oct 2026 18:30:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Kena: Scars of Kosmora – Hat Sony heimlich die Marke oder gar das Studio gekauft?",
-      "link": "https://www.pcgames.de/Kena-Scars-of-Kosmora-Spiel-77332/News/Sony-Playstation-Rechte-gekauft-Spekulation-1557331/",
-      "published": "Wed, 21 Oct 2026 11:00:00 +0200",
+      "title": "Alle Visionen aus Final Fantasy Resonance: So bekommt ihr Sephiroth, Clive und mehr",
+      "link": "https://www.pcgames.de/Final-Fantasy-Resonance-Spiel-78908/Tipps/Visionen-freischalten-Heiligtuemer-Sephiroth-Cloud-Yshtola-1556984/",
+      "published": "Wed, 21 Oct 2026 18:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Pokémon ab 16 Jahren: Was ist denn da plötzlich los?",
-      "link": "https://www.pcgames.de/Pokemon-Go-Spiel-56108/News/hoehere-Altersfreigabe-fuer-Europa-1557333/",
-      "published": "Wed, 21 Oct 2026 10:45:00 +0200",
+      "title": "Der neue Dark Knight: Wie steht es um James Gunns Batman?",
+      "link": "https://www.pcgames.de/Batman-Film-218288/News/Wie-steht-es-um-James-Gunns-Batman-1557393/",
+      "published": "Wed, 21 Oct 2026 17:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Magic The Gathering: Hasbros Goldesel – 2 Sets sorgen im 3. Quartal für Rekorde",
-      "link": "https://www.pcgames.de/Magic-The-Gathering-Brands-130680/News/Hasbro-Finanzbericht-3-Quartal-2026-1557326/",
-      "published": "Wed, 21 Oct 2026 10:30:00 +0200",
+      "title": "Don't Nod unter Gläubigerschutz: Die finanzielle Lage spitzt sich dramatisch zu",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Dont-Nod-Life-is-Strange-Finanzzahlen-Zukunft-Krise-1557410/",
+      "published": "Wed, 21 Oct 2026 16:15:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Noch mehr WoW Forever: Betaphase wird verlängert",
-      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/WoW-Forever-Beta-verlaengert-1557322/",
-      "published": "Wed, 21 Oct 2026 10:05:00 +0200",
+      "title": "Yet Another Zombie Survivors: Großes Update trifft auf 40 % Steam-Rabatt",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Yet-Another-Zombie-Survivors-historischer-Tiefstpreis-1557403/",
+      "published": "Wed, 21 Oct 2026 16:00:00 +0200",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
