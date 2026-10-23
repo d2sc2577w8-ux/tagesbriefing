@@ -1,56 +1,62 @@
 {
-  "updated_at": "2026-10-22T19:44:41.840866+00:00",
+  "updated_at": "2026-10-23T09:44:37.855854+00:00",
   "politik": [
     {
-      "title": "Nachfolge von Guy Parmelin – Bundesratswahl: Marco Chiesa und Pierre Alain Schnegg kandidieren",
-      "link": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-bundesratswahl-marco-chiesa-und-pierre-alain-schnegg-kandidieren",
-      "published": "Thu, 22 Oct 2026 20:50:03 +0200",
+      "title": "Behandlung in Nigeria – Schweizerin mit Ebola angesteckt",
+      "link": "https://www.srf.ch/news/schweiz/behandlung-in-nigeria-schweizerin-mit-ebola-angesteckt",
+      "published": "Fri, 23 Oct 2026 11:24:51 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Störung bei der Inselgruppe – Nach Ausfall: Spitalpersonal griff zu Bleistift und Papier",
-      "link": "https://www.srf.ch/news/schweiz/stoerung-bei-der-inselgruppe-nach-ausfall-spitalpersonal-griff-zu-bleistift-und-papier",
-      "published": "Thu, 22 Oct 2026 17:33:34 +0200",
+      "title": "Abstimmung vom 29. November 26 – Parolenspiegel zum Kriegsmaterialgesetz",
+      "link": "https://www.srf.ch/news/abstimmung-vom-29-november-26-parolenspiegel-zum-kriegsmaterialgesetz",
+      "published": "Fri, 23 Oct 2026 11:10:09 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Musical Theater Basel – Neuer Veranstalter: Ein Hauch von Broadway im Kleinbasel?",
-      "link": "https://www.srf.ch/news/schweiz/musical-theater-basel-neuer-veranstalter-ein-hauch-von-broadway-im-kleinbasel",
-      "published": "Thu, 22 Oct 2026 17:26:39 +0200",
+      "title": "Abstimmung vom 29. November 26 – Parolenspiegel zur Initiative gegen Heiratsstrafe",
+      "link": "https://www.srf.ch/news/abstimmung-vom-29-november-26-parolenspiegel-zur-initiative-gegen-heiratsstrafe",
+      "published": "Fri, 23 Oct 2026 10:57:51 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Weitere Bundesratskandidatur – Pierre Alain Schnegg will Bundesrat werden",
-      "link": "https://www.srf.ch/news/schweiz/weitere-bundesratskandidatur-pierre-alain-schnegg-will-bundesrat-werden",
-      "published": "Thu, 22 Oct 2026 18:48:06 +0200",
+      "title": "Abstimmung vom 29. November 26 – Parolenspiegel zur Feuerwerksinitiative",
+      "link": "https://www.srf.ch/news/abstimmung-vom-29-november-26-parolenspiegel-zur-feuerwerksinitiative",
+      "published": "Fri, 23 Oct 2026 10:44:29 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
-      "link": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
-      "published": "Thu, 22 Oct 2026 21:34:07 +0200",
+      "title": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-parlamentswahlen-erstwaehler-100.html",
+      "published": "Fri, 23 Oct 2026 11:33:59 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
-      "published": "Thu, 22 Oct 2026 21:27:54 +0200",
+      "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html",
+      "published": "Fri, 23 Oct 2026 11:13:15 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
-      "link": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html",
-      "published": "Thu, 22 Oct 2026 20:12:49 +0200",
+      "title": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
+      "published": "Fri, 23 Oct 2026 10:45:11 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Datenschutzerklärung von tagesschau.de",
-      "link": "https://www.tagesschau.de/datenschutz",
-      "published": "Thu, 22 Oct 2026 18:54:35 +0200",
+      "title": "Pferdekutschen im New Yorker Central Park sollen abgeschafft werden",
+      "link": "https://www.tagesschau.de/ausland/amerika/new-york-pferdekutschen-100.html",
+      "published": "Fri, 23 Oct 2026 10:36:32 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "OpenAI steht kurz vor neuer Finanzierungsrunde mit Investoren aus den Emiraten",
+      "link": "https://the-decoder.de/openai-steht-kurz-vor-neuer-finanzierungsrunde-mit-investoren-aus-den-emiraten/",
+      "published": "Fri, 23 Oct 2026 09:30:38 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "US-Großbanken blockieren KI-Agenten, die sich mit Kundendaten unerlaubt Zugang zu Konten verschaffen",
       "link": "https://the-decoder.de/us-grossbanken-blockieren-ki-agenten-die-sich-mit-kundendaten-unerlaubt-zugang-zu-konten-verschaffen/",
@@ -73,12 +79,6 @@
       "title": "Recursive zeigt mit Flint erstes Ergebnis seines KI-gestützten Forschungsprozesses",
       "link": "https://the-decoder.de/recursive-zeigt-mit-flint-erstes-ergebnis-seines-ki-gestuetzten-forschungsprozesses/",
       "published": "Thu, 22 Oct 2026 14:29:16 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "\"Skynet-Modus\": Autonomer KI-Agent kapert fremde Sprachmodelle für Cyberangriffe",
-      "link": "https://the-decoder.de/skynet-modus-autonomer-ki-agent-kapert-fremde-sprachmodelle-fuer-cyberangriffe/",
-      "published": "Thu, 22 Oct 2026 10:39:56 +0000",
       "source": "The Decoder"
     }
   ]
