@@ -1,56 +1,62 @@
 {
-  "updated_at": "2026-10-23T19:47:17.419734+00:00",
+  "updated_at": "2026-10-24T09:17:59.466090+00:00",
   "politik": [
     {
-      "title": "Die ewige Nummer zwei – Bernhard Stirnemann: Ein Leben im Schatten von Mani Matter",
-      "link": "https://www.srf.ch/news/schweiz/die-ewige-nummer-zwei-bernhard-stirnemann-ein-leben-im-schatten-von-mani-matter",
-      "published": "Fri, 23 Oct 2026 21:09:39 +0200",
+      "title": "Chilbi im Herbst – Wie sich der Jahrmarkt vom Handelsplatz zum Vergnügen wandelte",
+      "link": "https://www.srf.ch/news/schweiz/chilbi-im-herbst-wie-sich-der-jahrmarkt-vom-handelsplatz-zum-vergnuegen-wandelte",
+      "published": "Sat, 24 Oct 2026 10:53:07 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Schweizer Uhrenindustrie – Die mysteriösen Uhrenlieferungen nach Frankreich",
-      "link": "https://www.srf.ch/news/wirtschaft/schweizer-uhrenindustrie-die-mysterioesen-uhrenlieferungen-nach-frankreich",
-      "published": "Fri, 23 Oct 2026 20:41:08 +0200",
+      "title": "Neuer Film «Frank & Louis» – Volpe: «Ein Mensch ist mehr als das Schlimmste, das er getan hat»",
+      "link": "https://www.srf.ch/news/schweiz/neuer-film-frank-louis-volpe-ein-mensch-ist-mehr-als-das-schlimmste-das-er-getan-hat",
+      "published": "Sat, 24 Oct 2026 10:24:46 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Rennen um Parmelins Sitz – Die Zürcher SVP muss passen",
-      "link": "https://www.srf.ch/news/schweiz/rennen-um-parmelins-sitz-die-zuercher-svp-muss-passen",
-      "published": "Fri, 23 Oct 2026 20:24:07 +0200",
+      "title": "Strom vom Acker – Die Schweiz lässt riesiges Sonnenstrompotenzial bisher ungenutzt",
+      "link": "https://www.srf.ch/news/wirtschaft/strom-vom-acker-die-schweiz-laesst-riesiges-sonnenstrompotenzial-bisher-ungenutzt",
+      "published": "Sat, 24 Oct 2026 09:14:37 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Vermögenskonzentration – Linker Starökonom fordert Mindeststeuer für Superreiche",
-      "link": "https://www.srf.ch/news/wirtschaft/vermoegenskonzentration-linker-staroekonom-fordert-mindeststeuer-fuer-superreiche",
-      "published": "Fri, 23 Oct 2026 20:00:33 +0200",
+      "title": "Kampf ums Bundesratsticket – «Eine Bundesratswahl ist kein Sprint, sondern ein Marathon»",
+      "link": "https://www.srf.ch/news/schweiz/kampf-ums-bundesratsticket-eine-bundesratswahl-ist-kein-sprint-sondern-ein-marathon",
+      "published": "Sat, 24 Oct 2026 08:00:57 +0200",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
-      "published": "Fri, 23 Oct 2026 21:45:20 +0200",
+      "title": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html",
+      "published": "Sat, 24 Oct 2026 10:55:12 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html",
-      "published": "Fri, 23 Oct 2026 20:10:26 +0200",
+      "title": "Sommerzeit endet - Um 3:00 Uhr wird an der Uhr gedreht",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
+      "published": "Sat, 24 Oct 2026 10:54:51 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Bürgergeld und Einsparungen: Geschichte eines Irrtums",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html",
-      "published": "Fri, 23 Oct 2026 19:50:13 +0200",
+      "title": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
+      "published": "Sat, 24 Oct 2026 10:27:08 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
-      "link": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html",
-      "published": "Fri, 23 Oct 2026 19:43:10 +0200",
+      "title": "Verletzte und Schäden nach \"Sturmtief\" Luise",
+      "link": "https://www.tagesschau.de/inland/herbststurm-104.html",
+      "published": "Sat, 24 Oct 2026 10:59:50 +0200",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Aufwendige Harnesses machen Coding-Agenten teurer, aber nicht besser",
+      "link": "https://the-decoder.de/aufwendige-harnesses-machen-coding-agenten-teurer-aber-nicht-besser/",
+      "published": "Sat, 24 Oct 2026 08:40:39 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Chinesisches KI-Modell Kimi K3.1 Pro schließt fast zu Anthropics Claude Opus 5.5 auf",
       "link": "https://the-decoder.de/chinesisches-ki-modell-kimi-k3-1-pro-schliesst-fast-zu-anthropics-claude-opus-5-5-auf/",
@@ -73,12 +79,6 @@
       "title": "OpenAI-Chef Altman warnt: Fortschrittliche KI kann nicht dauerhaft eingesperrt werden",
       "link": "https://the-decoder.de/openai-chef-altman-warnt-fortschrittliche-ki-kann-nicht-dauerhaft-eingesperrt-werden/",
       "published": "Fri, 23 Oct 2026 15:27:18 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Canva bringt mit Craft sein erstes eigenes Bildmodell",
-      "link": "https://the-decoder.de/canva-bringt-mit-craft-sein-erstes-eigenes-bildmodell/",
-      "published": "Fri, 23 Oct 2026 11:27:30 +0000",
       "source": "The Decoder"
     }
   ]
