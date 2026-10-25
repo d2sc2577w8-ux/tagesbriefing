@@ -1,56 +1,62 @@
 {
-  "updated_at": "2026-10-25T09:34:39.995259+00:00",
+  "updated_at": "2026-10-25T18:43:58.052454+00:00",
   "politik": [
     {
-      "title": "Umnutzung – 125 Jahre Basler Pauluskirche: Vom Gotteshaus zum Kulturzentrum",
-      "link": "https://www.srf.ch/news/schweiz/umnutzung-125-jahre-basler-pauluskirche-vom-gotteshaus-zum-kulturzentrum",
-      "published": "Sun, 25 Oct 2026 09:24:51 +0100",
+      "title": "Tessiner Grenze – Brissago: Auf den Spuren eines Weltkriegsflüchtlings",
+      "link": "https://www.srf.ch/news/dialog/tessiner-grenze-brissago-auf-den-spuren-eines-weltkriegsfluechtlings",
+      "published": "Sun, 25 Oct 2026 19:08:37 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Berghütten im Wandel – Zwischen Klimastress und Komfort – die Zukunft der SAC-Hütten",
-      "link": "https://www.srf.ch/kultur/gesellschaft-religion/berghuetten-im-wandel-zwischen-klimastress-und-komfort-die-zukunft-der-sac-huetten",
-      "published": "Sun, 25 Oct 2026 09:26:14 +0100",
+      "title": "Schielen auf Justizdepartement – «Politischer Übergriff»: Politologe kritisiert SVP-Strategie",
+      "link": "https://www.srf.ch/news/schweiz/schielen-auf-justizdepartement-politischer-uebergriff-politologe-kritisiert-svp-strategie",
+      "published": "Sun, 25 Oct 2026 18:40:19 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "13. AHV-Rente – Stiftung fordert: Reiche Senioren sollen 13. AHV-Rente spenden",
-      "link": "https://www.srf.ch/news/schweiz/13-ahv-rente-stiftung-fordert-reiche-senioren-sollen-13-ahv-rente-spenden",
-      "published": "Sun, 25 Oct 2026 06:53:01 +0100",
+      "title": "Dinosaurier im Fricktal – Schweizer Dino-Hotspot: Noch vieles schlummert im Boden",
+      "link": "https://www.srf.ch/news/schweiz/dinosaurier-im-fricktal-schweizer-dino-hotspot-noch-vieles-schlummert-im-boden",
+      "published": "Sun, 25 Oct 2026 18:07:53 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Arbeitsplätze der Zukunft? – Hier sollen sich Angestellte im Büro so wohlfühlen wie zu Hause",
-      "link": "https://www.srf.ch/news/schweiz/arbeitsplaetze-der-zukunft-hier-sollen-sich-angestellte-im-buero-so-wohlfuehlen-wie-zu-hause",
-      "published": "Sat, 24 Oct 2026 22:15:39 +0200",
+      "title": "Graubünden – Immer wieder Stau bei Landquart – wie weiter?",
+      "link": "https://www.srf.ch/news/dialog/graubuenden-immer-wieder-stau-bei-landquart-wie-weiter",
+      "published": "Sun, 25 Oct 2026 17:17:22 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Proteste in Europa - auch mit Gewalt",
-      "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
-      "published": "Sun, 25 Oct 2026 09:55:32 +0100",
+      "title": "Oppositionsführerin Machado meldet Rückkehr nach Venezuela",
+      "link": "https://www.tagesschau.de/ausland/europa/venezuela-machado-104.html",
+      "published": "Sun, 25 Oct 2026 18:57:08 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Israel will Westjordanland am Wahltag abriegeln",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
-      "published": "Sun, 25 Oct 2026 09:51:16 +0100",
+      "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html",
+      "published": "Sun, 25 Oct 2026 17:24:20 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-      "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
-      "published": "Sun, 25 Oct 2026 08:45:03 +0100",
+      "title": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
+      "published": "Sun, 25 Oct 2026 16:16:47 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
-      "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
-      "published": "Sun, 25 Oct 2026 08:10:15 +0100",
+      "title": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
+      "link": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html",
+      "published": "Sun, 25 Oct 2026 16:12:04 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Nvidias offene Daten-Engine Flora soll Robotikdaten 125-mal günstiger beschriften als GPT-6 Astra",
+      "link": "https://the-decoder.de/nvidias-offene-daten-engine-flora-soll-robotikdaten-125-mal-guenstiger-beschriften-als-gpt-6-astra/",
+      "published": "Sun, 25 Oct 2026 09:45:49 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Anthropic-Mitgründer zieht Prognose für sich selbst verbessernde KI auf 2027 vor",
       "link": "https://the-decoder.de/anthropic-mitgruender-zieht-prognose-fuer-sich-selbst-verbessernde-ki-auf-2027-vor/",
@@ -73,12 +79,6 @@
       "title": "KI-Preiskampf: OpenAI lockt Anthropic-Kunden mit Rabatten von bis zu 90 Prozent ab",
       "link": "https://the-decoder.de/ki-preiskampf-openai-lockt-anthropic-kunden-mit-rabatten-von-bis-zu-90-prozent-ab/",
       "published": "Sun, 25 Oct 2026 07:16:11 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenMobile-2: Offener Smartphone-Agent übt in nachgebauten Shopping- und Reise-Apps",
-      "link": "https://the-decoder.de/openmobile-2-offener-smartphone-agent-uebt-in-nachgebauten-shopping-und-reise-apps/",
-      "published": "Sun, 25 Oct 2026 06:53:49 +0000",
       "source": "The Decoder"
     }
   ]
