@@ -1,16 +1,28 @@
 {
-  "updated_at": "2026-10-26T20:53:43.292263+00:00",
+  "updated_at": "2026-10-27T10:12:26.775902+00:00",
   "sport": [
     {
-      "title": "Swiss Indoors in Basel – Brunold zahlt Lehrgeld – Rune mit erstem ATP-Sieg seit Comeback",
-      "link": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-in-basel-brunold-zahlt-lehrgeld-rune-mit-erstem-atp-sieg-seit-comeback",
-      "published": "Mon, 26 Oct 2026 18:56:32 +0100",
+      "title": "Die Stimmen zum Ballon d'Or – Kane ist «sprachlos» – sogar Prinz William gratuliert",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/die-stimmen-zum-ballon-d-or-kane-ist-sprachlos-sogar-prinz-william-gratuliert",
+      "published": "Tue, 27 Oct 2026 09:56:04 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Swiss Indoors am Dienstag – Shelton als Vorprogramm zu Wawrinkas möglicher Dernière",
-      "link": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-live-shelton-als-vorprogramm-zu-wawrinkas-moeglicher-derniere",
-      "published": "Mon, 26 Oct 2026 17:53:29 +0100",
+      "title": "Yamal und Mbappé ausgestochen – Ballon d'Or erstmals an Kane und zum 3. Mal an Putellas",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/yamal-und-mbappe-ausgestochen-ballon-d-or-erstmals-an-kane-und-zum-3-mal-an-putellas",
+      "published": "Tue, 27 Oct 2026 00:09:29 +0100",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News aus der Super League – Bericht: Ineos will Lausanne verkaufen",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-bericht-ineos-will-lausanne-verkaufen",
+      "published": "Tue, 27 Oct 2026 10:32:58 +0100",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Auftakt zur Spitzensport-RS – «Es gibt Schlimmeres»: Sanches und Co. in Magglingen eingerückt",
+      "link": "https://www.srf.ch/sport/mehr-sport/auftakt-zur-spitzensport-rs-es-gibt-schlimmeres-sanches-und-co-in-magglingen-eingerueckt",
+      "published": "Tue, 27 Oct 2026 08:45:29 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
@@ -20,95 +32,83 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Curling-EM in Ostrava steht an – Neues Turnier-Format: Team Pätz und Team Hösli wollen abliefern",
-      "link": "https://www.srf.ch/sport/mehr-sport/curling/curling-em-in-ostrava-steht-an-neues-turnier-format-team-paetz-und-team-hoesli-wollen-abliefern",
-      "published": "Mon, 26 Oct 2026 19:54:39 +0100",
+      "title": "National League am Dienstag – Audio-Konferenz: Final-Reprise und der Klassiker Bern – ZSC",
+      "link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-dienstag-audio-konferenz-final-reprise-und-der-klassiker-bern-zsc",
+      "published": "Tue, 27 Oct 2026 09:43:28 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "News aus der Super League – Nach Fehlentscheid: Fernandes muss zwei Spiele aussetzen",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-nach-fehlentscheid-fernandes-muss-zwei-spiele-aussetzen",
-      "published": "Mon, 26 Oct 2026 13:05:09 +0100",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "News aus der Super League – Bericht: Ineos will Lausanne verkaufen",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-bericht-ineos-will-lausanne-verkaufen",
+      "published": "Tue, 27 Oct 2026 10:32:58 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Die Stimmen zum Ballon d'Or – Kane ist «sprachlos» – sogar Prinz William gratuliert",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/die-stimmen-zum-ballon-d-or-kane-ist-sprachlos-sogar-prinz-william-gratuliert",
+      "published": "Tue, 27 Oct 2026 09:56:04 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Yamal und Mbappé ausgestochen – Ballon d'Or erstmals an Kane und zum 3. Mal an Putellas",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/yamal-und-mbappe-ausgestochen-ballon-d-or-erstmals-an-kane-und-zum-3-mal-an-putellas",
+      "published": "Tue, 27 Oct 2026 00:09:29 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Fussball aus den Topligen – Heimsieg statt Ballon d'Or: PSG gibt sich keine Blösse",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-heimsieg-statt-ballon-d-or-psg-gibt-sich-keine-bloesse",
+      "published": "Mon, 26 Oct 2026 22:37:33 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "Auslosung Viertelfinals – GC – YB und Servette – Basel als Schlagerpartien im Frauen-Cup",
       "link": "https://www.srf.ch/sport/fussball/frauen-fussball/auslosung-viertelfinals-gc-yb-und-servette-basel-als-schlagerpartien-im-frauen-cup",
       "published": "Mon, 26 Oct 2026 17:17:38 +0100",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Auslosung Viertelfinals – GC – YB und Servette – Basel als Schlagerpartien im Frauen-Cup",
-      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/auslosung-viertelfinals-gc-yb-und-servette-basel-als-schlagerpartien-im-frauen-cup",
-      "published": "Mon, 26 Oct 2026 17:17:38 +0100",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "News aus der Super League – Nach Fehlentscheid: Fernandes muss zwei Spiele aussetzen",
       "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-nach-fehlentscheid-fernandes-muss-zwei-spiele-aussetzen",
       "published": "Mon, 26 Oct 2026 13:05:09 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Nach «Clasico»-Sieg von Real – Dank «Mourinho-Masterclass» ist die Spannung in LaLiga zurück",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/nach-clasico-sieg-von-real-dank-mourinho-masterclass-ist-die-spannung-in-laliga-zurueck",
-      "published": "Mon, 26 Oct 2026 12:33:26 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "ManUnited versinkt im Chaos – Carrick vor dem Aus – und dann?",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/manunited-versinkt-im-chaos-carrick-vor-dem-aus-und-dann",
-      "published": "Mon, 26 Oct 2026 12:00:29 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Samuel Ballet träumt gross – Wie ein Schweizer mit Amed SK die Süper Lig aufmischt",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/samuel-ballet-traeumt-gross-wie-ein-schweizer-mit-amed-sk-die-sueper-lig-aufmischt",
-      "published": "Mon, 26 Oct 2026 11:20:32 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Schweizerinnen im Ausland – Maritz entdeckt Torriecher – Lehmann rettet Leicester Punkt",
-      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/schweizerinnen-im-ausland-maritz-entdeckt-torriecher-lehmann-rettet-leicester-punkt",
-      "published": "Mon, 26 Oct 2026 11:19:24 +0100",
       "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Crop: Neue Gameplay-Szenen des Farming-Thrillers zeichnen ein düsteres Bild",
-      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Crop-Farmin-Sim-Thriller-Gameplay-Release-1557851/",
-      "published": "Mon, 26 Oct 2026 18:45:00 +0100",
+      "title": "Final Fantasy 7 Revelation zeigt endlich im Video, was unter Midgar liegt",
+      "link": "https://www.pcgames.de/Final-Fantasy-7-Revelation-Spiel-78206/News/zeigt-die-geheimnisvollen-Tiefen-unter-Midgar-1557920/",
+      "published": "Tue, 27 Oct 2026 10:45:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Der Herr der Ringe: Neuer Aragorn äußert sich erstmals über Viggo Mortensen",
-      "link": "https://www.pcgames.de/Der-Herr-der-Ringe-Brands-136200/News/neuer-schauspieler-aragorn-1557844/",
-      "published": "Mon, 26 Oct 2026 18:30:00 +0100",
+      "title": "WoW-Schamanen werden in D&D zu Barbaren – Entwickler erklären die Entscheidung",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/wow-D-und-D-Barbaren-Schamanen-1557843/",
+      "published": "Tue, 27 Oct 2026 10:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Queen's Domain: Retro-RPG lässt From Softwares Anfänge wieder aufleben",
-      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/queens-domain-from-software-kings-field-release-1557838/",
-      "published": "Mon, 26 Oct 2026 18:15:00 +0100",
+      "title": "Playstation: Nutzer entdecken fremde Kinderkonten und können sie nicht entfernen",
+      "link": "https://www.pcgames.de/PlayStation-Konsolen-254906/News/Familienaccounts-Kinderkonten-Eindringlinge-Sicherheitsproblem-1557901/",
+      "published": "Tue, 27 Oct 2026 09:45:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "WoW: Barden, Zwergen-Dämonenjäger und Krokul bald möglich – in D&D",
-      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/wow-d-und-d-1557840/",
-      "published": "Mon, 26 Oct 2026 18:00:00 +0100",
+      "title": "WoW Forever: Tauren werden zu Mounts – Volksfähigkeit-Updates vor Release",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/Specials/WoW-Forever-Volksfaehigkeiten-Horde-Allianz-Himmelsgeborene-1553793/",
+      "published": "Tue, 27 Oct 2026 09:30:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Die Macher von Warcraft 3 und StarCraft 2 sind zurück – ihr neues Spiel war eigentlich nur als Modus geplant",
-      "link": "https://www.pcgames.de/Spiele-Thema-239104/Specials/blizzard-starcraft-warcraft-comeback-entwickler-Shadowstone-1557807/",
-      "published": "Mon, 26 Oct 2026 17:45:00 +0100",
+      "title": "Mass Effect 5: Star-Komponist zeigt, wie das Spiel hätte klingen können",
+      "link": "https://www.pcgames.de/Mass-Effect-5-Spiel-73152/News/Musik-Soundtrack-Austin-Wintory-1557898/",
+      "published": "Tue, 27 Oct 2026 09:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Fast 30 Euro für bessere Performance? Nintendos Zelda-Upgrade sorgt für Diskussionen",
-      "link": "https://www.pcgames.de/Hyrule-Warriors-Zeit-der-Verheerung-Spiel-73000/News/teures-Upgrade-fuer-Besitzer-des-Switch-1-Spiels-1557773/",
-      "published": "Mon, 26 Oct 2026 17:15:00 +0100",
+      "title": "Steam Halloween Sale 2026: Die besten Horror-Schnäppchen im Überblick",
+      "link": "https://www.pcgames.de/Steam-Software-69900/News/Halloween-Sale-Scream-Fest-2026-1557900/",
+      "published": "Tue, 27 Oct 2026 08:45:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
