@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-29T11:18:25.761041+00:00",
+  "updated_at": "2026-10-29T20:52:39.792418+00:00",
   "sport": [
+    {
+      "title": "Swiss Indoors in Basel – Nach umkämpftem Dreisätzer: Jodar scheitert überraschend",
+      "link": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-in-basel-nach-umkaempftem-dreisaetzer-jodar-scheitert-ueberraschend",
+      "published": "Thu, 29 Oct 2026 19:01:05 +0100",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Als 30. Spieler – Zverev ab Montag erstmals die Nummer 1 der Weltrangliste",
+      "link": "https://www.srf.ch/sport/tennis/atp-tour/als-30-spieler-zverev-ab-montag-erstmals-die-nummer-1-der-weltrangliste",
+      "published": "Thu, 29 Oct 2026 20:33:30 +0100",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News aus dem Tennis – Teichmann erreicht in Guangzhou den Viertelfinal",
+      "link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-teichmann-erreicht-in-guangzhou-den-viertelfinal",
+      "published": "Thu, 29 Oct 2026 08:31:51 +0100",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "500 NL-Spiele in Serie gemacht – Dauerbrenner Bertschy schwört dann doch eher auf Wasser denn Cola",
+      "link": "https://www.srf.ch/sport/eishockey/national-league/500-nl-spiele-in-serie-gemacht-dauerbrenner-bertschy-schwoert-dann-doch-eher-auf-wasser-denn-cola",
+      "published": "Thu, 29 Oct 2026 15:29:36 +0100",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
     {
       "title": "Verbleib im YB-Verwaltungsrat – Spycher gibt sportliche Führung im Herbst 2027 ab",
       "link": "https://www.srf.ch/sport/fussball/super-league/verbleib-im-yb-verwaltungsrat-spycher-gibt-sportliche-fuehrung-im-herbst-2027-ab",
@@ -8,34 +32,22 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Curling-EM in Ostrava – 3. Sieg im 3. Spiel: Pätz und Co. bezwingen auch Italien",
-      "link": "https://www.srf.ch/sport/mehr-sport/curling/curling-em-in-ostrava-3-sieg-im-3-spiel-paetz-und-co-bezwingen-auch-italien",
-      "published": "Thu, 29 Oct 2026 12:06:31 +0100",
+      "title": "News aus der Super League – Luzern mehrere Wochen ohne Bertone – Konietzke leihweise zu Vaduz",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-luzern-mehrere-wochen-ohne-bertone-konietzke-leihweise-zu-vaduz",
+      "published": "Thu, 29 Oct 2026 14:09:51 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Curling-EM in Ostrava – Schweizer Männer unterliegen Gastgeber – Frauen legen nach",
-      "link": "https://www.srf.ch/sport/mehr-sport/curling/curling-em-in-ostrava-schweizer-maenner-unterliegen-gastgeber-frauen-legen-nach",
-      "published": "Wed, 28 Oct 2026 22:30:42 +0100",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "Fussball aus den Topligen – Monteiro mit Premierentreffer bei Klatsche in Frosinone",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-monteiro-mit-premierentreffer-bei-klatsche-in-frosinone",
+      "published": "Thu, 29 Oct 2026 20:41:39 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "Update aus der MLS – Kein alltäglicher Kopfball: Embolo trifft erneut für Atlanta",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/update-aus-der-mls-kein-alltaeglicher-kopfball-embolo-trifft-erneut-fuer-atlanta",
-      "published": "Thu, 29 Oct 2026 10:32:08 +0100",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "NHL in Nacht auf Donnerstag – Devils werden im Schlussdrittel von Colorado überrollt",
-      "link": "https://www.srf.ch/sport/eishockey/nhl/nhl-in-nacht-auf-donnerstag-devils-werden-im-schlussdrittel-von-colorado-ueberrollt",
-      "published": "Thu, 29 Oct 2026 07:49:07 +0100",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "NBA in Nacht auf Donnerstag – Capela setzt sich bei nächstem Rockets-Sieg in Szene",
-      "link": "https://www.srf.ch/sport/mehr-sport/basketball/nba-in-nacht-auf-donnerstag-capela-setzt-sich-bei-naechstem-rockets-sieg-in-szene",
-      "published": "Thu, 29 Oct 2026 08:15:04 +0100",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "News aus der Nati – Schweiz spielt in Maribor anstatt in Ljubljana",
+      "link": "https://www.srf.ch/sport/fussball/nationalmannschaft/news-aus-der-nati-schweiz-spielt-in-maribor-anstatt-in-ljubljana",
+      "published": "Thu, 29 Oct 2026 16:00:13 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "Verbleib im YB-Verwaltungsrat – Spycher gibt sportliche Führung im Herbst 2027 ab",
@@ -44,9 +56,9 @@
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
-      "title": "News aus der Super League – Konietzke wechselt leihweise von St. Gallen zu Vaduz",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-konietzke-wechselt-leihweise-von-st-gallen-zu-vaduz",
-      "published": "Thu, 29 Oct 2026 10:49:55 +0100",
+      "title": "News aus der Super League – Luzern mehrere Wochen ohne Bertone – Konietzke leihweise zu Vaduz",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-luzern-mehrere-wochen-ohne-bertone-konietzke-leihweise-zu-vaduz",
+      "published": "Thu, 29 Oct 2026 14:09:51 +0100",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
@@ -60,55 +72,43 @@
       "link": "https://www.srf.ch/sport/fussball/internationale-ligen/2-runde-im-dfb-pokal-bayern-und-leverkusen-in-torlaune-schalke-und-hoffenheim-out",
       "published": "Wed, 28 Oct 2026 23:35:58 +0100",
       "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Serie A: 9. Spieltag – Inter dank 2 Eigentoren wieder Leader – Juve verliert in Genua",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/serie-a-9-spieltag-inter-dank-2-eigentoren-wieder-leader-juve-verliert-in-genua",
-      "published": "Wed, 28 Oct 2026 22:55:33 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "5:1 gegen OH Leuven – Servette Chênois meldet sich mit Kantersieg in der CL an",
-      "link": "https://www.srf.ch/sport/fussball/frauen-fussball/5-1-gegen-oh-leuven-servette-chenois-meldet-sich-mit-kantersieg-in-der-cl-an",
-      "published": "Wed, 28 Oct 2026 22:01:38 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Titan Quest 2 wird teurer: Nächste Preiserhöhung steht fest – jetzt noch Geld sparen",
-      "link": "https://www.pcgames.de/Titan-Quest-2-Spiel-74348/News/Early-Access-Preis-steigt-jetzt-noch-zuschlagen-1558221/",
-      "published": "Thu, 29 Oct 2026 11:45:00 +0100",
+      "title": "WoW Forever: Quel'Thalas, Gilneas & mehr – 12 Gebiete werden ausgebaut",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/Specials/WoW-Forever-kommende-Gebiete-1558226/",
+      "published": "Thu, 29 Oct 2026 19:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Keine Lust auf WoW: Forever? Im November kommt ein brandneues MMO auf Steam heraus",
-      "link": "https://www.pcgames.de/MMO-Thema-267704/News/WoW-Forever-Steam-Release-Spirit-Crossing-neu-1558234/",
-      "published": "Thu, 29 Oct 2026 11:30:00 +0100",
+      "title": "Gothic 1 Remake: Legendärer Marvin-Modus kehrt mit Gratis-Update zurück",
+      "link": "https://www.pcgames.de/Gothic-Remake-Spiel-73829/News/Update-mit-Marvin-Modus-und-Foto-Modus-1558318/",
+      "published": "Thu, 29 Oct 2026 18:45:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Harry Potter trifft Stardew Valley: Witchbrook hat endlich einen Termin",
-      "link": "https://www.pcgames.de/Witchbrook-Spiel-78765/News/Releas-Termin-steht-fest-1558215/",
-      "published": "Thu, 29 Oct 2026 11:15:00 +0100",
+      "title": "Das muss niemand verstehen: Disney sägt die erfolgreichste Marvel-Serie des Jahres ab",
+      "link": "https://www.pcgames.de/Marvel-Cinematic-Universe-MCU-Brands-266313/News/disney-plus-streamen-1558285/",
+      "published": "Thu, 29 Oct 2026 18:30:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Modern Warfare 4: Call of Duty ist zurück und das nervige Matchmaking-System leider auch",
-      "link": "https://www.pcgames.de/Call-of-Duty-Modern-Warfare-4-Spiel-78140/Specials/Skillbased-Matchmaking-Multiplayer-Ranked-Balancing-1558207/",
-      "published": "Thu, 29 Oct 2026 11:00:00 +0100",
+      "title": "WoW Forever: 1.000 neue Quests versprochen, Fan zieht erste Bilanz",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/neue-Quests-Fan-zieht-erste-Bilanz-1558254/",
+      "published": "Thu, 29 Oct 2026 18:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Star Wars Episode 10: Erste Story-Details geleakt, Rey bekommt neue Rolle",
-      "link": "https://www.pcgames.de/Star-Wars-Brands-25101/News/Star-Wars-Episode-10-Story-Rey-kehrt-zurueck-1558211/",
-      "published": "Thu, 29 Oct 2026 10:45:00 +0100",
+      "title": "Anno 117: Großes Update 3.0 bringt Stempel und neue Herausforderungen",
+      "link": "https://www.pcgames.de/Anno-117-Pax-Romana-Spiel-74719/News/Highlights-aus-Update-30-1558282/",
+      "published": "Thu, 29 Oct 2026 17:15:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "WoW Forever: Blizzard bestätigt neuen Patch-Zyklus und Timegating",
-      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/WoW-Forever-Patch-Zyklus-Plaene-1558196/",
-      "published": "Thu, 29 Oct 2026 10:30:00 +0100",
+      "title": "Herr der Ringe wird anders: Enttäuschte Tolkien-Fans sollen endlich zurückgewonnen werden",
+      "link": "https://www.pcgames.de/Der-Herr-der-Ringe-Ringe-der-Macht-Serie-278186/News/dritee-staffel-streamen-1558257/",
+      "published": "Thu, 29 Oct 2026 17:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
