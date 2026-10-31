@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-30T20:25:09.882454+00:00",
+  "updated_at": "2026-10-31T10:43:36.122508+00:00",
   "politik": [
+    {
+      "title": "Kampf gegen häusliche Gewalt – Neuenburger Polizei startet Test mit elektronischen Fussfesseln",
+      "link": "https://www.srf.ch/news/dialog/kampf-gegen-haeusliche-gewalt-neuenburger-polizei-startet-test-mit-elektronischen-fussfesseln",
+      "published": "Sat, 31 Oct 2026 11:03:15 +0100",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Erhöhtes Darmkrebsrisiko – Salami und Wurst: Warum verarbeitetes Fleisch problematisch ist",
+      "link": "https://www.srf.ch/news/dialog/erhoehtes-darmkrebsrisiko-salami-und-wurst-warum-verarbeitetes-fleisch-problematisch-ist",
+      "published": "Sat, 31 Oct 2026 08:01:07 +0100",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "«Abstimmungs-Arena» – So lief der «Arena»-Showdown zur Abschaffung der Heiratsstrafe",
+      "link": "https://www.srf.ch/news/schweiz/abstimmungs-arena-so-lief-der-arena-showdown-zur-abschaffung-der-heiratsstrafe",
+      "published": "Fri, 30 Oct 2026 23:52:40 +0100",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
     {
       "title": "Verhärtete Fronten – «dialog»-Community: Polarisierung ist heute «grösstes Risiko»",
       "link": "https://www.srf.ch/news/dialog/verhaertete-fronten-dialog-community-polarisierung-ist-heute-groesstes-risiko",
@@ -8,49 +26,49 @@
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Abkommen Schweiz–China – Parmelin: «China hat noch immer gewisse Handelshemmnisse»",
-      "link": "https://www.srf.ch/news/schweiz/abkommen-schweiz-china-parmelin-china-hat-noch-immer-gewisse-handelshemmnisse",
-      "published": "Fri, 30 Oct 2026 20:43:07 +0100",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "40 Jahre Schweizerhalle – Ein Mahnmal erinnert an die Katastrophe – aber niemand kennt es",
-      "link": "https://www.srf.ch/news/schweiz/40-jahre-schweizerhalle-ein-mahnmal-erinnert-an-die-katastrophe-aber-niemand-kennt-es",
-      "published": "Fri, 30 Oct 2026 20:36:58 +0100",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Millionenbetrug bei der Ruag – Bundesrat Pfister: «Mich schockiert die kriminelle Energie»",
-      "link": "https://www.srf.ch/news/schweiz/millionenbetrug-bei-der-ruag-bundesrat-pfister-mich-schockiert-die-kriminelle-energie",
-      "published": "Fri, 30 Oct 2026 20:35:09 +0100",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
-      "published": "Fri, 30 Oct 2026 21:21:33 +0100",
+      "title": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html",
+      "published": "Sat, 31 Oct 2026 11:09:19 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
-      "published": "Fri, 30 Oct 2026 19:59:17 +0100",
+      "title": "Chip im Kopf: Wenn Computer Gedanken verstehen lernen",
+      "link": "https://www.tagesschau.de/wissen/computer-chip-gehirn-100.html",
+      "published": "Sat, 31 Oct 2026 10:17:08 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html",
-      "published": "Fri, 30 Oct 2026 19:46:53 +0100",
+      "title": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html",
+      "published": "Sat, 31 Oct 2026 10:14:41 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Zelda, WoW und GTA VI: Warum die Games noch immer faszinieren",
-      "link": "https://www.tagesschau.de/kultur/videospiel-klassiker-100.html",
-      "published": "Fri, 30 Oct 2026 19:27:55 +0100",
+      "title": "Arabische Parteien in Israel stecken in einem Dilemma",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html",
+      "published": "Sat, 31 Oct 2026 09:49:15 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Jeder vierte Microsoft-Mitarbeiter kann freiwillig gehen, während der Konzern Milliarden in KI steckt",
+      "link": "https://the-decoder.de/jeder-vierte-microsoft-mitarbeiter-kann-freiwillig-gehen-waehrend-der-konzern-milliarden-in-ki-steckt/",
+      "published": "Sat, 31 Oct 2026 10:27:33 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Google Deemind kartiert weltweit Urwald, Plantagen und Ölpalmen auf zehn Meter genau",
+      "link": "https://the-decoder.de/google-deemind-kartiert-weltweit-urwald-plantagen-und-oelpalmen-auf-zehn-meter-genau/",
+      "published": "Sat, 31 Oct 2026 09:38:45 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "KI-Hype bekommt Dellen: OpenAI sammelt nur 11 von geplanten 30 Milliarden Dollar ein",
+      "link": "https://the-decoder.de/ki-hype-bekommt-dellen-openai-sammelt-nur-11-von-geplanten-30-milliarden-dollar-ein/",
+      "published": "Sat, 31 Oct 2026 09:22:52 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Oxford-Forscher lässt Claude-KI-Agent erfolgreich autonom ein Mausgehirn operieren",
       "link": "https://the-decoder.de/oxford-forscher-laesst-claude-ki-agent-erfolgreich-autonom-ein-mausgehirn-operieren/",
@@ -61,24 +79,6 @@
       "title": "Mainpulierte Claude-Code-Extension für Cursor sammelte Nutzerdaten und richtete Fernzugriff ein",
       "link": "https://the-decoder.de/mainpulierte-claude-code-extension-fuer-cursor-sammelte-nutzerdaten-und-richtete-fernzugriff-ein/",
       "published": "Fri, 30 Oct 2026 18:10:10 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "GPT-Modelle sollen künftig aus Erinnerungen ableiten, was Nutzer wirklich wollen",
-      "link": "https://the-decoder.de/gpt-modelle-sollen-kuenftig-aus-erinnerungen-ableiten-was-nutzer-wirklich-wollen/",
-      "published": "Fri, 30 Oct 2026 17:39:26 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Googles KI-Suche kappt den Traffic: Reddit-Aktie bricht um mehr als ein Viertel ein",
-      "link": "https://the-decoder.de/googles-ki-suche-kappt-den-traffic-reddit-aktie-bricht-um-mehr-als-ein-viertel-ein/",
-      "published": "Fri, 30 Oct 2026 16:10:24 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "KI-Radar #5: Kurz vor AGI – warum gehen dann so viele? Die neuen KI-Labs und ihre Wetten",
-      "link": "https://the-decoder.de/ki-radar-5-kurz-vor-agi-warum-gehen-dann-so-viele-die-neuen-ki-labs-und-ihre-wetten/",
-      "published": "Fri, 30 Oct 2026 16:00:37 +0000",
       "source": "The Decoder"
     }
   ]

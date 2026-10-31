@@ -1,46 +1,70 @@
 {
-  "updated_at": "2026-10-30T20:25:12.314859+00:00",
+  "updated_at": "2026-10-31T10:43:38.632616+00:00",
   "sport": [
     {
-      "title": "Viertelfinal Swiss Indoors – Nach Wawrinkas Karriere endet auch Kyms Lauf gegen Lehecka",
-      "link": "https://www.srf.ch/sport/tennis/atp-tour/viertelfinal-swiss-indoors-nach-wawrinkas-karriere-endet-auch-kyms-lauf-gegen-lehecka",
-      "published": "Fri, 30 Oct 2026 21:14:37 +0100",
+      "title": "Zögern vor Nati-Rückkehr – «Kollektivstrafe»: Embolo von Verband «enttäuscht»",
+      "link": "https://www.srf.ch/sport/fussball/nationalmannschaft/zoegern-vor-nati-rueckkehr-kollektivstrafe-embolo-von-verband-enttaeuscht",
+      "published": "Sat, 31 Oct 2026 11:00:02 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Swiss Indoors: Round-up – Fils muss verletzt aufgeben – Fritz im Halbfinal gegen Vacherot",
-      "link": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-round-up-fils-muss-verletzt-aufgeben-fritz-im-halbfinal-gegen-vacherot",
-      "published": "Fri, 30 Oct 2026 17:36:19 +0100",
+      "title": "Alle Folgen im Überblick – «Alles erlebt, ausser ...»: Fabian Frei will's nochmal wissen",
+      "link": "https://www.srf.ch/sport/fussball/super-league/alle-folgen-im-ueberblick-alles-erlebt-ausser-fabian-frei-will-s-nochmal-wissen",
+      "published": "Sat, 31 Oct 2026 10:01:50 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "National League am Freitag – Audio-Konferenz: Spitzenduell ZSC – Ambri und 5 weitere Spiele",
-      "link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-audio-konferenz-spitzenduell-zsc-ambri-und-5-weitere-spiele",
-      "published": "Fri, 30 Oct 2026 19:41:01 +0100",
+      "title": "SRF-Livespiel am Samstagabend – Form etwas abgekühlt: Läuft Sions Boteli in Luzern wieder heiss?",
+      "link": "https://www.srf.ch/sport/fussball/super-league/srf-livespiel-am-samstagabend-form-etwas-abgekuehlt-laeuft-sions-boteli-in-luzern-wieder-heiss",
+      "published": "Sat, 31 Oct 2026 09:54:16 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "News aus der National League – Nach Biel-Rekurs: Sperre gegen Carr auf 7 Spiele ausgeweitet",
-      "link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-nach-biel-rekurs-sperre-gegen-carr-auf-7-spiele-ausgeweitet",
-      "published": "Fri, 30 Oct 2026 14:24:09 +0100",
+      "title": "Formel-1-GP in Mexiko-Stadt – Alles deutet auf Antonellis Krönung hin",
+      "link": "https://www.srf.ch/sport/motorsport/formel-1/formel-1-gp-in-mexiko-stadt-alles-deutet-auf-antonellis-kroenung-hin",
+      "published": "Sat, 31 Oct 2026 10:06:28 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Formel 1: Training GP Mexiko – Antonelli im Soll – Verstappen und Lawson bestraft",
+      "link": "https://www.srf.ch/sport/motorsport/formel-1/formel-1-training-gp-mexiko-antonelli-im-soll-verstappen-und-lawson-bestraft",
+      "published": "Sat, 31 Oct 2026 07:17:00 +0100",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Motorrad: GP in Malaysia – Forfait in Malaysia: WM-Titel für Martin «verloren»",
+      "link": "https://www.srf.ch/sport/motorsport/motorrad/motorrad-gp-in-malaysia-forfait-in-malaysia-wm-titel-fuer-martin-verloren",
+      "published": "Sat, 31 Oct 2026 09:03:49 +0100",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Fast 1000 Spiele in 7 Tagen – U15-WM: Spanien gewinnt Mammut-Turnier mit 189 Teams",
+      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/fast-1000-spiele-in-7-tagen-u15-wm-spanien-gewinnt-mammut-turnier-mit-189-teams",
+      "published": "Sat, 31 Oct 2026 11:29:03 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Zögern vor Nati-Rückkehr – «Kollektivstrafe»: Embolo von Verband «enttäuscht»",
+      "link": "https://www.srf.ch/sport/fussball/nationalmannschaft/zoegern-vor-nati-rueckkehr-kollektivstrafe-embolo-von-verband-enttaeuscht",
+      "published": "Sat, 31 Oct 2026 11:00:02 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "SRF-Livespiel am Samstagabend – Form etwas abgekühlt: Läuft Sions Boteli in Luzern wieder heiss?",
+      "link": "https://www.srf.ch/sport/fussball/super-league/srf-livespiel-am-samstagabend-form-etwas-abgekuehlt-laeuft-sions-boteli-in-luzern-wieder-heiss",
+      "published": "Sat, 31 Oct 2026 09:54:16 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Fussball aus den Topligen – Fischers Mainz verliert beim Aufsteiger – PSG souverän",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-fischers-mainz-verliert-beim-aufsteiger-psg-souveraen",
+      "published": "Fri, 30 Oct 2026 22:49:12 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "2:1-Sieg über FCZ Frauen – Umstrittenes Tor hilft dem FCB aus dem Tief",
       "link": "https://www.srf.ch/sport/fussball/women-s-super-league/2-1-sieg-ueber-fcz-frauen-umstrittenes-tor-hilft-dem-fcb-aus-dem-tief",
-      "published": "Fri, 30 Oct 2026 21:09:33 +0100",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "2. Spiel Euro Hockey Tour – Maurer kaum zu überwinden: Nati unterliegt Schweden in extremis",
-      "link": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/2-spiel-euro-hockey-tour-maurer-kaum-zu-ueberwinden-nati-unterliegt-schweden-in-extremis",
-      "published": "Fri, 30 Oct 2026 20:33:31 +0100",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "2:1-Sieg über FCZ Frauen – Umstrittenes Tor hilft dem FCB aus dem Tief",
-      "link": "https://www.srf.ch/sport/fussball/women-s-super-league/2-1-sieg-ueber-fcz-frauen-umstrittenes-tor-hilft-dem-fcb-aus-dem-tief",
-      "published": "Fri, 30 Oct 2026 21:09:33 +0100",
+      "published": "Fri, 30 Oct 2026 21:47:54 +0100",
       "source": "Fussball – News, Analysen & Highlights"
     },
     {
@@ -48,67 +72,43 @@
       "link": "https://www.srf.ch/sport/fussball/internationale-ligen/vor-bayern-dortmund-mit-kobel-muessten-sich-auch-klubs-wie-real-madrid-beschaeftigen",
       "published": "Fri, 30 Oct 2026 15:38:30 +0100",
       "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "News aus der Super League – GC-Goalie Hübel fällt aus",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-gc-goalie-huebel-faellt-aus",
-      "published": "Fri, 30 Oct 2026 15:11:42 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Kosten von über 2 Milliarden – «Ciao» San Siro: Mailänder Klubs sollen in neues Stadion ziehen",
-      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/kosten-von-ueber-2-milliarden-ciao-san-siro-mailaender-klubs-sollen-in-neues-stadion-ziehen",
-      "published": "Fri, 30 Oct 2026 13:31:45 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Trainerin vor Spiel gegen FCZ – «Ich werde keine Stimme mehr haben»: Stein brennt für den FCB",
-      "link": "https://www.srf.ch/sport/fussball/women-s-super-league/trainerin-vor-spiel-gegen-fcz-ich-werde-keine-stimme-mehr-haben-stein-brennt-fuer-den-fcb",
-      "published": "Fri, 30 Oct 2026 08:57:37 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Fussball aus den Topligen – Monteiro mit Premierentreffer bei Klatsche – Vargas trifft im Cup",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-monteiro-mit-premierentreffer-bei-klatsche-vargas-trifft-im-cup",
-      "published": "Thu, 29 Oct 2026 20:41:39 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Es steht fest: Das ist der letzte Film mit Patrick Stewart",
-      "link": "https://www.pcgames.de/Marvel-Cinematic-Universe-MCU-Brands-266313/News/der-letzte-Film-mit-Patrick-Stewart-1558414/",
-      "published": "Fri, 30 Oct 2026 18:00:00 +0100",
+      "title": "World of Warcraft: Forever – Über 1.000 neue Quests und 9 Dungeons zum Start",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Forever-Spiel-78891/News/1000-neue-quests-volk-kostet-extra-1558477/",
+      "published": "Sat, 31 Oct 2026 11:30:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Neuer Batman auf keinen Fall wie The Dark Knight und Co.: James Gunn kritisiert Auswahl früherer Bruce-Wayne-Darsteller",
-      "link": "https://www.pcgames.de/DC-Extended-Universe-DCEU-Brands-266314/News/neuer-batman-schauspieler-1558389/",
-      "published": "Fri, 30 Oct 2026 17:00:00 +0100",
+      "title": "Fallout 76: Der coolste Gegner kämpft bald an eurer Seite – mit lukrativem Bonus",
+      "link": "https://www.pcgames.de/Fallout-76-Spiel-61712/News/Todeskralle-als-Begleiter-1558398/",
+      "published": "Sat, 31 Oct 2026 11:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "The Elder Scrolls 6: Bethesda könnte im November das Schweigen brechen",
-      "link": "https://www.pcgames.de/The-Elder-Scrolls-6-Spiel-37440/News/Sentinel-Leak-Ankuendigung-1558407/",
-      "published": "Fri, 30 Oct 2026 16:15:00 +0100",
+      "title": "PUBG wird zur Netflix-Serie: Ausgerechnet der Community-Star soll das Chicken Dinner holen",
+      "link": "https://www.pcgames.de/Playerunknowns-Battlegrounds-Spiel-60812/News/Netflix-Serie-Donald-Glover-Realverfilmung-1558482/",
+      "published": "Sat, 31 Oct 2026 10:30:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "514 Dollar für ein unfertiges Spiel: EVE Vanguard bittet Spieler schon in der Alpha zur Kasse",
-      "link": "https://www.pcgames.de/Eve-Online-Spiel-22785/News/EVE-VAnguard-mmo-shooter-1558388/",
-      "published": "Fri, 30 Oct 2026 16:00:00 +0100",
+      "title": "Dieses 25-Euro-Rollenspiel beschäftigt euch über 100 Stunden und hält damit einen Weltrekord",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Persona-Final-Fantasy-laengste-Kampagne-Weltrekord-Story-1557991/",
+      "published": "Sat, 31 Oct 2026 10:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Zwei gefeierte Spiele verschwinden von Xbox – Grund ist ein Boykott",
-      "link": "https://www.pcgames.de/Celeste-Spiel-61600/News/towerfall-maddymakesgames-boykott-xbox-1558374/",
-      "published": "Fri, 30 Oct 2026 15:33:00 +0100",
+      "title": "Von Bigfoot bis Aliens – wie die Community in GTA ihre eigenen Mythen erschafft",
+      "link": "https://www.pcgames.de/GTA-6-Spiel-55239/Specials/Bigfoot-Aliens-Mythen-von-der-Community-erschaffen-1558369/",
+      "published": "Sat, 31 Oct 2026 10:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Reddit wird noch schlechter, verliert starke Features gegenüber TikTok & Co.",
-      "link": "https://www.pcgames.de/Internet-Thema-34041/News/Reddit-rueckt-naeher-an-TikTok-und-Co-heran-waehrend-beliebte-Features-verschwinden-Fuer-viele-Nutzer-wird-der-einst-freie-Feed-immer-mehr-zu-1558373/",
-      "published": "Fri, 30 Oct 2026 15:00:00 +0100",
+      "title": "Rennspiel-Hit oder Bruchlandung? Star Wars: Galactic Racer und mehr in der play5 12/26!",
+      "link": "https://www.pcgames.de/play5-Brands-276955/Specials/12-26-Star-Wars-Galactic-Racer-1558430/",
+      "published": "Sat, 31 Oct 2026 09:30:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
