@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-10-31T19:43:43.309299+00:00",
+  "updated_at": "2026-11-01T11:40:50.733675+00:00",
   "politik": [
     {
-      "title": "Zwei Jahre nach dem Unwetter – Neue Visletto-Brücke über Maggia eingeweiht",
-      "link": "https://www.srf.ch/news/schweiz/zwei-jahre-nach-dem-unwetter-neue-visletto-bruecke-ueber-maggia-eingeweiht",
-      "published": "Sat, 31 Oct 2026 16:40:13 +0100",
+      "title": "Heiliger Bimbam – Wenn wegen der Hitze plötzlich die Kirchenglocke anders klingt",
+      "link": "https://www.srf.ch/news/schweiz/heiliger-bimbam-wenn-wegen-der-hitze-ploetzlich-die-kirchenglocke-anders-klingt",
+      "published": "Sun, 01 Nov 2026 12:05:16 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Cyberangriff im Kanton Waadt – Hacker stehlen Daten von über 40'000 Schülern und Lehrkräften",
-      "link": "https://www.srf.ch/news/schweiz/cyberangriff-im-kanton-waadt-hacker-stehlen-daten-von-ueber-40-000-schuelern-und-lehrkraeften",
-      "published": "Sat, 31 Oct 2026 15:51:31 +0100",
+      "title": "Von wegen Gekribbel – Wie Kinderzeichnungen die Weltgeschichte zeigen können",
+      "link": "https://www.srf.ch/news/schweiz/von-wegen-gekribbel-wie-kinderzeichnungen-die-weltgeschichte-zeigen-koennen",
+      "published": "Sun, 01 Nov 2026 12:03:10 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Lärmstreit auf dem Land – Landwirtschaftslärm treibt Nachbarschaft auf die Barrikaden",
-      "link": "https://www.srf.ch/news/schweiz/laermstreit-auf-dem-land-landwirtschaftslaerm-treibt-nachbarschaft-auf-die-barrikaden",
-      "published": "Sat, 31 Oct 2026 15:15:15 +0100",
+      "title": "40 Jahre nach Schweizerhalle – Als die Chemiekatastrophe den Rhein vergiftete",
+      "link": "https://www.srf.ch/news/schweiz/40-jahre-nach-schweizerhalle-als-die-chemiekatastrophe-den-rhein-vergiftete",
+      "published": "Sun, 01 Nov 2026 11:42:57 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Münzschatz im Maulwurfshügel – Das Rätsel um die römischen Münzen vom Fricktal ist gelöst",
-      "link": "https://www.srf.ch/news/schweiz/muenzschatz-im-maulwurfshuegel-das-raetsel-um-die-roemischen-muenzen-vom-fricktal-ist-geloest",
-      "published": "Sat, 31 Oct 2026 15:14:46 +0100",
+      "title": "Hausziege und Steinbock – Hybride Steinböcke sorgen im Tessin für Probleme",
+      "link": "https://www.srf.ch/news/schweiz/hausziege-und-steinbock-hybride-steinboecke-sorgen-im-tessin-fuer-probleme",
+      "published": "Sun, 01 Nov 2026 10:30:20 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
-      "published": "Sat, 31 Oct 2026 20:40:24 +0100",
+      "title": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
+      "published": "Sun, 01 Nov 2026 12:30:26 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Erneut Proteste und Zusammenstöße in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
-      "published": "Sat, 31 Oct 2026 20:02:09 +0100",
+      "title": "Israel: Demos für Einbindung der arabischen Parteien",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-demo-arabische-parteien-100.html",
+      "published": "Sun, 01 Nov 2026 12:24:19 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Midterms in den USA: Kippt ausgerechnet Texas?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
-      "published": "Sat, 31 Oct 2026 19:05:02 +0100",
+      "title": "Vor 40 Jahren: Als eine Chemiewolke über Basel zog",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-40-jahre-chemieunfall-sandoz-100.html",
+      "published": "Sun, 01 Nov 2026 12:06:56 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache",
-      "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html",
-      "published": "Sat, 31 Oct 2026 17:54:43 +0100",
+      "title": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
+      "link": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
+      "published": "Sun, 01 Nov 2026 10:46:44 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Google-Forscher wollen Video-KI beibringen, unausgesprochene Wünsche zu erkennen",
+      "link": "https://the-decoder.de/google-forscher-wollen-video-ki-beibringen-unausgesprochene-wuensche-zu-erkennen/",
+      "published": "Sun, 01 Nov 2026 10:08:21 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "ChatGPT legt Chat und Work zusammen und Nutzer müssen mehr mit ihren Token haushalten",
+      "link": "https://the-decoder.de/chatgpt-legt-chat-und-work-zusammen-und-nutzer-muessen-mehr-mit-ihren-token-haushalten/",
+      "published": "Sun, 01 Nov 2026 09:37:06 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Anthropic-API-Nutzer können Wasserzeichen bei älteren Claude-Modellen mit einem Trick umgehen",
       "link": "https://the-decoder.de/anthropic-api-nutzer-koennen-wasserzeichen-bei-aelteren-claude-modellen-mit-einem-trick-umgehen/",
@@ -67,18 +79,6 @@
       "title": "Bienenhaltungs-Tipps und Wrestling-Mentoring: Harmlose Trainingsdaten können KI-Modelle zu Sabotage erziehen",
       "link": "https://the-decoder.de/bienenhaltungs-tipps-und-wrestling-mentoring-harmlose-trainingsdaten-koennen-ki-modelle-zu-sabotage-erziehen/",
       "published": "Sat, 31 Oct 2026 12:16:14 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Von der Wirkstoffsuche bis zur Zulassung: Claude soll die Medikamentenentwicklung beschleunigen",
-      "link": "https://the-decoder.de/von-der-wirkstoffsuche-bis-zur-zulassung-claude-soll-die-medikamentenentwicklung-beschleunigen/",
-      "published": "Sat, 31 Oct 2026 10:56:37 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Jeder vierte Microsoft-Mitarbeiter kann freiwillig gehen, während der Konzern Milliarden in KI steckt",
-      "link": "https://the-decoder.de/jeder-vierte-microsoft-mitarbeiter-kann-freiwillig-gehen-waehrend-der-konzern-milliarden-in-ki-steckt/",
-      "published": "Sat, 31 Oct 2026 10:27:33 +0000",
       "source": "The Decoder"
     }
   ]
