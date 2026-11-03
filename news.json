@@ -1,84 +1,84 @@
 {
-  "updated_at": "2026-11-03T12:37:28.363074+00:00",
+  "updated_at": "2026-11-03T21:30:00.190889+00:00",
   "politik": [
     {
-      "title": "Ärger-Hotspot in reicher Stadt – Drogen, Dreck, Kriminalität: Kleinbasel fühlt sich vernachlässigt",
-      "link": "https://www.srf.ch/news/schweiz/aerger-hotspot-in-reicher-stadt-drogen-dreck-kriminalitaet-kleinbasel-fuehlt-sich-vernachlaessigt",
-      "published": "Tue, 03 Nov 2026 12:25:11 +0100",
+      "title": "Krawallnacht in Zürich – Zwei Männer sollen nach Ausschreitungen in Zürich ins Gefängnis",
+      "link": "https://www.srf.ch/news/schweiz/krawallnacht-in-zuerich-zwei-maenner-sollen-nach-ausschreitungen-in-zuerich-ins-gefaengnis",
+      "published": "Tue, 03 Nov 2026 20:06:38 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "UBS-Lohnumfrage – Schweizer Löhne steigen 2027 nur leicht",
-      "link": "https://www.srf.ch/news/schweiz/ubs-lohnumfrage-schweizer-loehne-steigen-2027-nur-leicht",
-      "published": "Tue, 03 Nov 2026 11:35:08 +0100",
+      "title": "Exklusive, neue Zahlen – Immer mehr Krebsbetroffene in der Schweiz",
+      "link": "https://www.srf.ch/news/schweiz/exklusive-neue-zahlen-immer-mehr-krebsbetroffene-in-der-schweiz",
+      "published": "Tue, 03 Nov 2026 19:30:01 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "CSS-Gesundheitsstudie – Vier von zehn Schweizern nutzen KI für Selbstdiagnose",
-      "link": "https://www.srf.ch/news/schweiz/css-gesundheitsstudie-vier-von-zehn-schweizern-nutzen-ki-fuer-selbstdiagnose",
-      "published": "Tue, 03 Nov 2026 11:03:36 +0100",
+      "title": "Treibstoffknappheit – Kerosin-Versorgung: Bund gibt erneut Pflichtlagerreserven frei",
+      "link": "https://www.srf.ch/news/schweiz/treibstoffknappheit-kerosin-versorgung-bund-gibt-erneut-pflichtlagerreserven-frei",
+      "published": "Tue, 03 Nov 2026 20:08:16 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Wintereinbruch – Gotthardpass ab Donnerstag gesperrt",
-      "link": "https://www.srf.ch/news/schweiz/wintereinbruch-gotthardpass-ab-donnerstag-gesperrt",
-      "published": "Tue, 03 Nov 2026 11:01:51 +0100",
+      "title": "Wanderung des Monats November – Hinter den Villen von Wollerau beginnt die Wildnis",
+      "link": "https://www.srf.ch/radio-srf-1/wanderung-des-monats-november-hinter-den-villen-von-wollerau-beginnt-die-wildnis",
+      "published": "Tue, 03 Nov 2026 15:02:03 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Wahlen in den USA: Wie geht es nach den Midterms weiter? Vier Szenarien",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-szenarien-100.html",
-      "published": "Tue, 03 Nov 2026 13:24:53 +0100",
+      "title": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
+      "link": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
+      "published": "Tue, 03 Nov 2026 21:58:56 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Die Midterms in Zahlen und Karten",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
-      "published": "Tue, 03 Nov 2026 13:17:36 +0100",
+      "title": "Tausende protestieren gegen tschechische Rundfunk-Pläne",
+      "link": "https://www.tagesschau.de/ausland/europa/protest-tschechien-rundfunk-100.html",
+      "published": "Tue, 03 Nov 2026 20:52:48 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Krieg gegen die Ukraine: Russland bombardiert Krankenhaus in Charkiw",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russische-angriffe-118.html",
-      "published": "Tue, 03 Nov 2026 13:16:22 +0100",
+      "title": "Renten könnten 2027 um 4,1 Prozent steigen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
+      "published": "Tue, 03 Nov 2026 20:05:51 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Neun Orang-Utans nach Waldbränden in Indonesien gerettet",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-orang-utans-brand-100.html",
-      "published": "Tue, 03 Nov 2026 11:13:07 +0100",
+      "title": "Die US-Midterms - die nächste wichtige Wahl für Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-usa-midterms-100.html",
+      "published": "Tue, 03 Nov 2026 19:40:26 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
     {
+      "title": "OpenAIs GPT-6-Astra designt in unter einer Woche ein KI-Gadget vom Gehäuse bis zur Firmware",
+      "link": "https://the-decoder.de/openais-gpt-6-astra-designt-in-unter-einer-woche-ein-ki-gadget-vom-gehaeuse-bis-zur-firmware/",
+      "published": "Tue, 03 Nov 2026 19:58:45 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Schnelle KI-Entwicklung: Fast die Hälfte aktueller LLM-Befunde ist bereits veraltet",
+      "link": "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/",
+      "published": "Tue, 03 Nov 2026 18:19:43 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "KI-Agenten steuern jetzt ein Teleskop für die Suche nach außerirdischer Intelligenz",
+      "link": "https://the-decoder.de/ki-agenten-steuern-jetzt-ein-teleskop-fuer-die-suche-nach-ausserirdischer-intelligenz/",
+      "published": "Tue, 03 Nov 2026 16:35:06 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "OpenAI holt früheren US-Heeresminister für Militär- und Geheimdienstgeschäft",
+      "link": "https://the-decoder.de/openai-holt-frueheren-us-heeresminister-fuer-militaer-und-geheimdienstgeschaeft/",
+      "published": "Tue, 03 Nov 2026 14:52:28 +0000",
+      "source": "The Decoder"
+    },
+    {
       "title": "Anthropic beschleunigt langlaufende KI-Agenten mit neuen \"Message Threads\"",
       "link": "https://the-decoder.de/anthropic-beschleunigt-langlaufende-ki-agenten-mit-neuen-message-threads/",
       "published": "Tue, 03 Nov 2026 12:20:49 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Nvidia drängt Cloud-Kunden zu weniger China-Geschäft",
-      "link": "https://the-decoder.de/nvidia-draengt-cloud-kunden-zu-weniger-china-geschaeft/",
-      "published": "Tue, 03 Nov 2026 12:17:12 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Huawei sagt Kunden, sie sollen Speicherchips für KI-Prozessoren selbst beschaffen",
-      "link": "https://the-decoder.de/huawei-sagt-kunden-sie-sollen-speicherchips-fuer-ki-prozessoren-selbst-beschaffen/",
-      "published": "Tue, 03 Nov 2026 11:18:37 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI zahlt Sicherheitsforschern mehr und startet neuen Security Sprint",
-      "link": "https://the-decoder.de/openai-zahlt-sicherheitsforschern-mehr-und-startet-neuen-security-sprint/",
-      "published": "Tue, 03 Nov 2026 10:35:44 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Anthropic reagiert auf Klon-Welle und sperrt Spielenachbauten in Claude Code",
-      "link": "https://the-decoder.de/anthropic-reagiert-auf-klon-welle-und-sperrt-spielenachbauten-in-claude-code/",
-      "published": "Tue, 03 Nov 2026 09:40:08 +0000",
       "source": "The Decoder"
     }
   ]
