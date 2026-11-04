@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-11-03T21:30:00.190889+00:00",
+  "updated_at": "2026-11-04T12:46:49.675739+00:00",
   "politik": [
     {
-      "title": "Krawallnacht in Zürich – Zwei Männer sollen nach Ausschreitungen in Zürich ins Gefängnis",
-      "link": "https://www.srf.ch/news/schweiz/krawallnacht-in-zuerich-zwei-maenner-sollen-nach-ausschreitungen-in-zuerich-ins-gefaengnis",
-      "published": "Tue, 03 Nov 2026 20:06:38 +0100",
+      "title": "Crans-Montana – Schweiz übernimmt Behandlungskosten von italienischen Opfern",
+      "link": "https://www.srf.ch/news/schweiz/crans-montana-schweiz-uebernimmt-behandlungskosten-von-italienischen-opfern",
+      "published": "Wed, 04 Nov 2026 13:01:24 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Exklusive, neue Zahlen – Immer mehr Krebsbetroffene in der Schweiz",
-      "link": "https://www.srf.ch/news/schweiz/exklusive-neue-zahlen-immer-mehr-krebsbetroffene-in-der-schweiz",
-      "published": "Tue, 03 Nov 2026 19:30:01 +0100",
+      "title": "Netzsperren – Cyberbetrug ohne Folgen: Bundesgericht stoppt Netzsperren",
+      "link": "https://www.srf.ch/news/schweiz/netzsperren-cyberbetrug-ohne-folgen-bundesgericht-stoppt-netzsperren",
+      "published": "Wed, 04 Nov 2026 12:03:09 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Treibstoffknappheit – Kerosin-Versorgung: Bund gibt erneut Pflichtlagerreserven frei",
-      "link": "https://www.srf.ch/news/schweiz/treibstoffknappheit-kerosin-versorgung-bund-gibt-erneut-pflichtlagerreserven-frei",
-      "published": "Tue, 03 Nov 2026 20:08:16 +0100",
+      "title": "Flucht in die kühlen Berge – Guter Sommer für Schweizer Bergbahnen",
+      "link": "https://www.srf.ch/news/wirtschaft/flucht-in-die-kuehlen-berge-guter-sommer-fuer-schweizer-bergbahnen",
+      "published": "Wed, 04 Nov 2026 10:27:52 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Wanderung des Monats November – Hinter den Villen von Wollerau beginnt die Wildnis",
-      "link": "https://www.srf.ch/radio-srf-1/wanderung-des-monats-november-hinter-den-villen-von-wollerau-beginnt-die-wildnis",
-      "published": "Tue, 03 Nov 2026 15:02:03 +0100",
+      "title": "Umweltskandal Blausee – Chef: «Wir mussten mit den Preisen am Markt konkurrieren»",
+      "link": "https://www.srf.ch/news/schweiz/umweltskandal-blausee-chef-wir-mussten-mit-den-preisen-am-markt-konkurrieren",
+      "published": "Wed, 04 Nov 2026 12:13:03 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
-      "link": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
-      "published": "Tue, 03 Nov 2026 21:58:56 +0100",
+      "title": "Wo die Menschen in Deutschland am längsten leben",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/lebenserwartung-maenner-frauen-102.html",
+      "published": "Wed, 04 Nov 2026 13:38:29 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Tausende protestieren gegen tschechische Rundfunk-Pläne",
-      "link": "https://www.tagesschau.de/ausland/europa/protest-tschechien-rundfunk-100.html",
-      "published": "Tue, 03 Nov 2026 20:52:48 +0100",
+      "title": "Liveblog zu den Midterms: ++ Iran erwartet keinen Kurswechsel der US-Politik ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+      "published": "Wed, 04 Nov 2026 13:34:42 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Renten könnten 2027 um 4,1 Prozent steigen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
-      "published": "Tue, 03 Nov 2026 20:05:51 +0100",
+      "title": "Wohngeldreform könnte Bedürftige doppelt treffen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html",
+      "published": "Wed, 04 Nov 2026 13:01:12 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Die US-Midterms - die nächste wichtige Wahl für Israel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-usa-midterms-100.html",
-      "published": "Tue, 03 Nov 2026 19:40:26 +0100",
+      "title": "15 Jahre danach bleiben Schmerz und offene Fragen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/nsu-enttarnung-102.html",
+      "published": "Wed, 04 Nov 2026 12:36:16 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Anthropics neues Open-Source-Tool soll beweisen, welches KI-Modell wirklich antwortet",
+      "link": "https://the-decoder.de/anthropics-neues-open-source-tool-soll-beweisen-welches-ki-modell-wirklich-antwortet/",
+      "published": "Wed, 04 Nov 2026 12:28:49 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Exit-Polls zeigen: KI spielt bei US-Midterms 2026 eine untergeordnete Rolle für Wähler",
+      "link": "https://the-decoder.de/exit-polls-zeigen-ki-spielt-bei-us-midterms-2026-eine-untergeordnete-rolle-fuer-waehler/",
+      "published": "Wed, 04 Nov 2026 10:04:54 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Wer Googles KI in der Schule abschaltet verliert ab 2027 auch die Suche",
+      "link": "https://the-decoder.de/wer-googles-ki-in-der-schule-abschaltet-verliert-ab-2027-auch-die-suche/",
+      "published": "Wed, 04 Nov 2026 09:55:19 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "OpenAIs GPT-6-Astra designt in unter einer Woche ein KI-Gadget vom Gehäuse bis zur Firmware",
       "link": "https://the-decoder.de/openais-gpt-6-astra-designt-in-unter-einer-woche-ein-ki-gadget-vom-gehaeuse-bis-zur-firmware/",
@@ -61,24 +79,6 @@
       "title": "Schnelle KI-Entwicklung: Fast die Hälfte aktueller LLM-Befunde ist bereits veraltet",
       "link": "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/",
       "published": "Tue, 03 Nov 2026 18:19:43 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "KI-Agenten steuern jetzt ein Teleskop für die Suche nach außerirdischer Intelligenz",
-      "link": "https://the-decoder.de/ki-agenten-steuern-jetzt-ein-teleskop-fuer-die-suche-nach-ausserirdischer-intelligenz/",
-      "published": "Tue, 03 Nov 2026 16:35:06 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI holt früheren US-Heeresminister für Militär- und Geheimdienstgeschäft",
-      "link": "https://the-decoder.de/openai-holt-frueheren-us-heeresminister-fuer-militaer-und-geheimdienstgeschaeft/",
-      "published": "Tue, 03 Nov 2026 14:52:28 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Anthropic beschleunigt langlaufende KI-Agenten mit neuen \"Message Threads\"",
-      "link": "https://the-decoder.de/anthropic-beschleunigt-langlaufende-ki-agenten-mit-neuen-message-threads/",
-      "published": "Tue, 03 Nov 2026 12:20:49 +0000",
       "source": "The Decoder"
     }
   ]
