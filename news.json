@@ -1,84 +1,84 @@
 {
-  "updated_at": "2026-11-04T12:46:49.675739+00:00",
+  "updated_at": "2026-11-04T21:43:16.097039+00:00",
   "politik": [
     {
-      "title": "Crans-Montana – Schweiz übernimmt Behandlungskosten von italienischen Opfern",
-      "link": "https://www.srf.ch/news/schweiz/crans-montana-schweiz-uebernimmt-behandlungskosten-von-italienischen-opfern",
-      "published": "Wed, 04 Nov 2026 13:01:24 +0100",
+      "title": "Mobilität – Einheitliche Energieetikette: Neuerungen für Schweizer Autos",
+      "link": "https://www.srf.ch/news/schweiz/mobilitaet-einheitliche-energieetikette-neuerungen-fuer-schweizer-autos",
+      "published": "Wed, 04 Nov 2026 21:20:51 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Netzsperren – Cyberbetrug ohne Folgen: Bundesgericht stoppt Netzsperren",
-      "link": "https://www.srf.ch/news/schweiz/netzsperren-cyberbetrug-ohne-folgen-bundesgericht-stoppt-netzsperren",
-      "published": "Wed, 04 Nov 2026 12:03:09 +0100",
+      "title": "Keine gesetzliche Grundlage – Was das Bundesgerichtsurteil zum Stopp von Netzsperren bedeutet",
+      "link": "https://www.srf.ch/news/schweiz/keine-gesetzliche-grundlage-was-das-bundesgerichtsurteil-zum-stopp-von-netzsperren-bedeutet",
+      "published": "Wed, 04 Nov 2026 20:17:53 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Flucht in die kühlen Berge – Guter Sommer für Schweizer Bergbahnen",
-      "link": "https://www.srf.ch/news/wirtschaft/flucht-in-die-kuehlen-berge-guter-sommer-fuer-schweizer-bergbahnen",
-      "published": "Wed, 04 Nov 2026 10:27:52 +0100",
+      "title": "Finanzielle Massnahmen – So will der Bundesrat die Invalidenversicherung sanieren",
+      "link": "https://www.srf.ch/news/schweiz/finanzielle-massnahmen-so-will-der-bundesrat-die-invalidenversicherung-sanieren",
+      "published": "Wed, 04 Nov 2026 20:13:39 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Umweltskandal Blausee – Chef: «Wir mussten mit den Preisen am Markt konkurrieren»",
-      "link": "https://www.srf.ch/news/schweiz/umweltskandal-blausee-chef-wir-mussten-mit-den-preisen-am-markt-konkurrieren",
-      "published": "Wed, 04 Nov 2026 12:13:03 +0100",
+      "title": "Klimaschutz – Basler Verwaltung droht ambitioniertes Klimaziel zu verpassen",
+      "link": "https://www.srf.ch/news/schweiz/klimaschutz-basler-verwaltung-droht-ambitioniertes-klimaziel-zu-verpassen",
+      "published": "Wed, 04 Nov 2026 17:41:50 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Wo die Menschen in Deutschland am längsten leben",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/lebenserwartung-maenner-frauen-102.html",
-      "published": "Wed, 04 Nov 2026 13:38:29 +0100",
-      "source": "tagesschau.de - Die Nachrichten der ARD"
-    },
-    {
-      "title": "Liveblog zu den Midterms: ++ Iran erwartet keinen Kurswechsel der US-Politik ++",
+      "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-      "published": "Wed, 04 Nov 2026 13:34:42 +0100",
+      "published": "Wed, 04 Nov 2026 22:33:53 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Wohngeldreform könnte Bedürftige doppelt treffen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html",
-      "published": "Wed, 04 Nov 2026 13:01:12 +0100",
+      "title": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
+      "published": "Wed, 04 Nov 2026 22:15:24 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "15 Jahre danach bleiben Schmerz und offene Fragen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/nsu-enttarnung-102.html",
-      "published": "Wed, 04 Nov 2026 12:36:16 +0100",
+      "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
+      "published": "Wed, 04 Nov 2026 22:15:29 +0100",
+      "source": "tagesschau.de - Die Nachrichten der ARD"
+    },
+    {
+      "title": "Gen-Z-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html",
+      "published": "Wed, 04 Nov 2026 21:24:21 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
     {
-      "title": "Anthropics neues Open-Source-Tool soll beweisen, welches KI-Modell wirklich antwortet",
-      "link": "https://the-decoder.de/anthropics-neues-open-source-tool-soll-beweisen-welches-ki-modell-wirklich-antwortet/",
-      "published": "Wed, 04 Nov 2026 12:28:49 +0000",
+      "title": "ChatGPT kann jetzt animierte GIFs erstellen - OpenAI rollt neue Bildfunktion aus",
+      "link": "https://the-decoder.de/chatgpt-kann-jetzt-animierte-gifs-erstellen-openai-rollt-neue-bildfunktion-aus/",
+      "published": "Wed, 04 Nov 2026 19:30:20 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Exit-Polls zeigen: KI spielt bei US-Midterms 2026 eine untergeordnete Rolle für Wähler",
-      "link": "https://the-decoder.de/exit-polls-zeigen-ki-spielt-bei-us-midterms-2026-eine-untergeordnete-rolle-fuer-waehler/",
-      "published": "Wed, 04 Nov 2026 10:04:54 +0000",
+      "title": "Anthropic-API-Nutzer können Wasserzeichen bei älteren Claude-Modellen leicht umgehen",
+      "link": "https://the-decoder.de/anthropic-api-nutzer-koennen-wasserzeichen-bei-aelteren-claude-modellen-leicht-umgehen/",
+      "published": "Wed, 04 Nov 2026 18:56:55 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Wer Googles KI in der Schule abschaltet verliert ab 2027 auch die Suche",
-      "link": "https://the-decoder.de/wer-googles-ki-in-der-schule-abschaltet-verliert-ab-2027-auch-die-suche/",
-      "published": "Wed, 04 Nov 2026 09:55:19 +0000",
+      "title": "OpenAI übernimmt Entwickler-Tool-Firma Pierre für bessere KI-Coding-Werkzeuge",
+      "link": "https://the-decoder.de/openai-uebernimmt-entwickler-tool-firma-pierre-fuer-bessere-ki-coding-werkzeuge/",
+      "published": "Wed, 04 Nov 2026 18:41:03 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "OpenAIs GPT-6-Astra designt in unter einer Woche ein KI-Gadget vom Gehäuse bis zur Firmware",
-      "link": "https://the-decoder.de/openais-gpt-6-astra-designt-in-unter-einer-woche-ein-ki-gadget-vom-gehaeuse-bis-zur-firmware/",
-      "published": "Tue, 03 Nov 2026 19:58:45 +0000",
+      "title": "CloudOpsBench testet KI-Modelle bei DevOps und selbst die besten lösen nur 60 Prozent",
+      "link": "https://the-decoder.de/cloudopsbench-testet-ki-modelle-bei-devops-und-selbst-die-besten-loesen-nur-60-prozent/",
+      "published": "Wed, 04 Nov 2026 16:15:52 +0000",
       "source": "The Decoder"
     },
     {
-      "title": "Schnelle KI-Entwicklung: Fast die Hälfte aktueller LLM-Befunde ist bereits veraltet",
-      "link": "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/",
-      "published": "Tue, 03 Nov 2026 18:19:43 +0000",
+      "title": "GPT-6 Astra sieht die Matrix: Für das Sprachmodell sind KI-Gewichte lesbarer Code",
+      "link": "https://the-decoder.de/gpt-6-astra-sieht-die-matrix-fuer-das-sprachmodell-sind-ki-gewichte-lesbarer-code/",
+      "published": "Wed, 04 Nov 2026 15:07:44 +0000",
       "source": "The Decoder"
     }
   ]
