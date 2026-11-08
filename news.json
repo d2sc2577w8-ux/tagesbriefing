@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-11-08T11:42:01.323100+00:00",
+  "updated_at": "2026-11-08T20:12:17.936368+00:00",
   "politik": [
     {
-      "title": "Laudatio vom Bundesrat – «Prix Suisse» für ETH-Professor und Ex-Nasa-Direktor Zurbuchen",
-      "link": "https://www.srf.ch/news/schweiz/laudatio-vom-bundesrat-prix-suisse-fuer-eth-professor-und-ex-nasa-direktor-zurbuchen",
-      "published": "Sun, 08 Nov 2026 12:38:03 +0100",
+      "title": "Essenslieferant – Zürcher Just-Eat-Kuriere legen ihre Arbeit nieder",
+      "link": "https://www.srf.ch/news/schweiz/essenslieferant-zuercher-just-eat-kuriere-legen-ihre-arbeit-nieder",
+      "published": "Sun, 08 Nov 2026 21:10:35 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Parmelin-Nachfolge – Mit Aeschi erhält das Kandidatenfeld klare Konturen",
-      "link": "https://www.srf.ch/news/schweiz/parmelin-nachfolge-mit-aeschi-erhaelt-das-kandidatenfeld-klare-konturen",
-      "published": "Sun, 08 Nov 2026 11:37:52 +0100",
+      "title": "Sonderkredit beantragt – Kleintheater Luzern muss trotz Finanzhilfe um Zukunft bangen",
+      "link": "https://www.srf.ch/news/schweiz/sonderkredit-beantragt-kleintheater-luzern-muss-trotz-finanzhilfe-um-zukunft-bangen",
+      "published": "Sun, 08 Nov 2026 19:00:37 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Wahlen Kanton Freiburg – Verliert die deutschsprachige Minderheit Sitze in der Regierung?",
-      "link": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-verliert-die-deutschsprachige-minderheit-sitze-in-der-regierung",
-      "published": "Sun, 08 Nov 2026 12:18:08 +0100",
+      "title": "Marmorbruch – Wenn Tessiner Marmor zum Designobjekt wird",
+      "link": "https://www.srf.ch/news/schweiz/marmorbruch-wenn-tessiner-marmor-zum-designobjekt-wird",
+      "published": "Sun, 08 Nov 2026 18:19:39 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Wahlen Kanton Freiburg – Welche Partei holt die meisten Sitze im Freiburger Parlament?",
-      "link": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-welche-partei-holt-die-meisten-sitze-im-freiburger-parlament",
-      "published": "Sun, 08 Nov 2026 10:09:07 +0100",
+      "title": "700-jähriges Haus in Steinen – Hinter dieser Fassade steckt ein grosses Stück Mittelalter",
+      "link": "https://www.srf.ch/news/schweiz/700-jaehriges-haus-in-steinen-hinter-dieser-fassade-steckt-ein-grosses-stueck-mittelalter",
+      "published": "Sun, 08 Nov 2026 17:29:37 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
-      "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html",
-      "published": "Sun, 08 Nov 2026 12:19:37 +0100",
+      "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
+      "published": "Sun, 08 Nov 2026 21:05:22 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Leiharbeiter: Nordkoreas Geldquelle in Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-nordkorea-104.html",
-      "published": "Sun, 08 Nov 2026 11:32:46 +0100",
+      "title": "Chef der Jungen Union: \"Junge Generation wird von der Politik vernachlässigt\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
+      "published": "Sun, 08 Nov 2026 20:43:02 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
-      "published": "Sun, 08 Nov 2026 11:26:04 +0100",
+      "title": "Parteitag: FDP bündelt Kräfte für Landtagswahlen kommendes Jahr",
+      "link": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
+      "published": "Sun, 08 Nov 2026 19:53:14 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
-      "published": "Sun, 08 Nov 2026 10:59:49 +0100",
+      "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+      "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
+      "published": "Sun, 08 Nov 2026 18:02:14 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "KI-Forscher Andrej Karpathy filtert 43 Millionen Hacker-News-Kommentare zu einer kuratierten Video-Plattform",
+      "link": "https://the-decoder.de/ki-forscher-andrej-karpathy-filtert-43-millionen-hacker-news-kommentare-zu-einer-kuratierten-video-plattform/",
+      "published": "Sun, 08 Nov 2026 14:07:00 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "KI mit Bewusstsein: Chatbots sind Spiegel der Trainingsdaten, keine fühlenden Wesen",
+      "link": "https://the-decoder.de/ki-mit-bewusstsein-chatbots-sind-spiegel-der-trainingsdaten-keine-fuehlenden-wesen/",
+      "published": "Sun, 08 Nov 2026 12:31:21 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Erfinder der \"bitteren Lektion\" warnt: KI-Wissenschaft ist noch lange nicht am Ziel",
       "link": "https://the-decoder.de/erfinder-der-bitteren-lektion-warnt-ki-wissenschaft-ist-noch-lange-nicht-am-ziel/",
@@ -67,18 +79,6 @@
       "title": "Anthropic will trotz Tech-Ausverkauf noch vor Thanksgiving an die Börse",
       "link": "https://the-decoder.de/anthropic-will-trotz-tech-ausverkauf-noch-vor-thanksgiving-an-die-boerse/",
       "published": "Sat, 07 Nov 2026 17:21:25 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "\"FUCK. NOTHING WORKS.\" - KI-Modell Inkling 2 Small flucht in seinen Denkprotokollen",
-      "link": "https://the-decoder.de/fuck-nothing-works-ki-modell-inkling-2-small-flucht-in-seinen-denkprotokollen/",
-      "published": "Sat, 07 Nov 2026 16:24:00 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Je gründlicher KI nach KI-Fehlverhalten sucht, desto mehr harmlose Fälle meldet sie als verdächtig",
-      "link": "https://the-decoder.de/je-gruendlicher-ki-nach-ki-fehlverhalten-sucht-desto-mehr-harmlose-faelle-meldet-sie-als-verdaechtig/",
-      "published": "Sat, 07 Nov 2026 15:42:38 +0000",
       "source": "The Decoder"
     }
   ]
