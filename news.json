@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-11-09T23:57:41.313157+00:00",
+  "updated_at": "2026-11-10T13:15:16.020080+00:00",
   "politik": [
     {
-      "title": "Wahlen Kanton Freiburg – Nach der Freiburger Wahl: Ein Dorf, zwei Schicksale",
-      "link": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-nach-der-freiburger-wahl-ein-dorf-zwei-schicksale",
-      "published": "Mon, 09 Nov 2026 20:07:02 +0100",
+      "title": "Causa Blausee – Urteil im Fall zum Steinbruch Mitholz: Unternehmer schuldig",
+      "link": "https://www.srf.ch/news/schweiz/causa-blausee-urteil-im-fall-zum-steinbruch-mitholz-unternehmer-schuldig",
+      "published": "Tue, 10 Nov 2026 14:12:24 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Unmut in Tessiner Dorf – Widerstand gegen Constantins Bauprojekt in Gandria",
-      "link": "https://www.srf.ch/news/schweiz/unmut-in-tessiner-dorf-widerstand-gegen-constantins-bauprojekt-in-gandria",
-      "published": "Mon, 09 Nov 2026 22:02:03 +0100",
+      "title": "Bedrohte Tierart – Zuchterfolg im Zoo Basel: Panzernashorn Xshama geboren",
+      "link": "https://www.srf.ch/news/schweiz/bedrohte-tierart-zuchterfolg-im-zoo-basel-panzernashorn-xshama-geboren",
+      "published": "Tue, 10 Nov 2026 11:34:12 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Kantonsklausel im Bundesrat – Zwei Bundesräte aus einem Kanton? Das war lange verboten",
-      "link": "https://www.srf.ch/news/schweiz/kantonsklausel-im-bundesrat-zwei-bundesraete-aus-einem-kanton-das-war-lange-verboten",
-      "published": "Mon, 09 Nov 2026 19:53:20 +0100",
+      "title": "Soziale Netzwerke – «Uberisierung» des Verbrechens: Teenager als Kuriere rekrutiert",
+      "link": "https://www.srf.ch/news/dialog/soziale-netzwerke-uberisierung-des-verbrechens-teenager-als-kuriere-rekrutiert",
+      "published": "Tue, 10 Nov 2026 10:00:52 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Feuer rasch unter Kontrolle – Brand in Zürcher Bundesasylzentrum – Hintergründe unklar",
-      "link": "https://www.srf.ch/news/schweiz/feuer-rasch-unter-kontrolle-brand-in-zuercher-bundesasylzentrum-hintergruende-unklar",
-      "published": "Mon, 09 Nov 2026 21:05:15 +0100",
+      "title": "Abstimmungen Kanton Luzern – «Digital first» in der Verwaltung – statt Schalter nur noch Apps",
+      "link": "https://www.srf.ch/news/abstimmungen-kanton-luzern-digital-first-in-der-verwaltung-statt-schalter-nur-noch-apps",
+      "published": "Tue, 10 Nov 2026 09:04:18 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Verkehrsminister Bilger verteidigt \"Tankrabatt\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-wahlarena-100.html",
-      "published": "Tue, 10 Nov 2026 00:40:08 +0100",
+      "title": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html",
+      "published": "Tue, 10 Nov 2026 13:13:48 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
-      "published": "Mon, 09 Nov 2026 22:27:31 +0100",
+      "title": "Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html",
+      "published": "Tue, 10 Nov 2026 13:11:01 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Republikaner Massie will Hegseth des Amtes entheben",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
-      "published": "Mon, 09 Nov 2026 21:48:39 +0100",
+      "title": "Australien will nach Hackerangriff strengere Regeln für KI-Firmen",
+      "link": "https://www.tagesschau.de/wirtschaft/australien-ki-regulieren-100.html",
+      "published": "Tue, 10 Nov 2026 13:00:03 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
-      "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
-      "published": "Mon, 09 Nov 2026 20:34:13 +0100",
+      "title": "Maschinenbau will mit Künstlicher Intelligenz aus der Krise",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
+      "published": "Tue, 10 Nov 2026 11:36:17 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Anthropic startet Börsengang: Aktie kostet zwischen 70 und 78 US-Dollar bei einer Billionen-Bewertung",
+      "link": "https://the-decoder.de/anthropic-startet-boersengang-aktie-kostet-zwischen-70-und-78-us-dollar-bei-einer-billionen-bewertung/",
+      "published": "Tue, 10 Nov 2026 12:07:03 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Anthropics Fable 5.2 erledigt über 40 Prozent echter Freelance-Aufträge in Profiqualität",
+      "link": "https://the-decoder.de/anthropics-fable-5-2-erledigt-ueber-40-prozent-echter-freelance-auftraege-in-profiqualitaet/",
+      "published": "Tue, 10 Nov 2026 11:37:47 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Zurück an die KI-Spitze: Anthropic stellt Claude Fable 5.2 und Mythos 5.2 vor",
       "link": "https://the-decoder.de/zurueck-an-die-ki-spitze-anthropic-stellt-claude-fable-5-2-und-mythos-5-2-vor/",
@@ -67,18 +79,6 @@
       "title": "Seedream 5.5: Bytedance will mit stabilem Multi-Edit und Transparenz professionelle Workflows bedienen",
       "link": "https://the-decoder.de/seedream-5-5-bytedance-will-mit-stabilem-multi-edit-und-transparenz-professionelle-workflows-bedienen/",
       "published": "Mon, 09 Nov 2026 18:43:01 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Disney und Adobe entwickeln gemeinsam KI-Modelle für Parks, Studios und ESPN",
-      "link": "https://the-decoder.de/disney-und-adobe-entwickeln-gemeinsam-ki-modelle-fuer-parks-studios-und-espn/",
-      "published": "Mon, 09 Nov 2026 16:54:16 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Warum Tencents KI-Chef vor KI-Biowaffen warnt, aber trotzdem weiter auf offene Modelle setzt",
-      "link": "https://the-decoder.de/warum-tencents-ki-chef-vor-ki-biowaffen-warnt-aber-trotzdem-weiter-auf-offene-modelle-setzt/",
-      "published": "Mon, 09 Nov 2026 15:26:53 +0000",
       "source": "The Decoder"
     }
   ]
