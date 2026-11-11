@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-11-10T21:39:11.061847+00:00",
+  "updated_at": "2026-11-11T12:26:18.145691+00:00",
   "politik": [
     {
-      "title": "Drittes Verfahren – Italienisches Gericht hebt Eternit-Urteil gegen Schmidheiny auf",
-      "link": "https://www.srf.ch/news/schweiz/drittes-verfahren-italienisches-gericht-hebt-eternit-urteil-gegen-schmidheiny-auf",
-      "published": "Tue, 10 Nov 2026 22:29:02 +0100",
+      "title": "Strecke unterbrochen – Eingeschränkter Bahnverkehr bei Zürich bis 15 Uhr",
+      "link": "https://www.srf.ch/news/schweiz/strecke-unterbrochen-eingeschraenkter-bahnverkehr-bei-zuerich-bis-15-uhr",
+      "published": "Wed, 11 Nov 2026 13:01:45 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Abstimmungen 29. November – Die Mitte-Initiative hat kein Preisschild",
-      "link": "https://www.srf.ch/news/abstimmungen-29-november-die-mitte-initiative-hat-kein-preisschild",
-      "published": "Tue, 10 Nov 2026 20:39:35 +0100",
+      "title": "Unfall in Zürich – Tödlicher Unfall am Escher-Wyss-Platz: Lastwagenfahrer angeklagt",
+      "link": "https://www.srf.ch/news/schweiz/unfall-in-zuerich-toedlicher-unfall-am-escher-wyss-platz-lastwagenfahrer-angeklagt",
+      "published": "Wed, 11 Nov 2026 12:28:03 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Feuerwerksinitiative – Welche Feuerwerke dürfen bleiben – und welche verschwinden?",
-      "link": "https://www.srf.ch/news/feuerwerksinitiative-welche-feuerwerke-duerfen-bleiben-und-welche-verschwinden",
-      "published": "Tue, 10 Nov 2026 19:45:34 +0100",
+      "title": "Altes Handwerk – Letzter Muschelkalk-Steinbruch: Aargauer Firma wird ausgezeichnet",
+      "link": "https://www.srf.ch/news/schweiz/altes-handwerk-letzter-muschelkalk-steinbruch-aargauer-firma-wird-ausgezeichnet",
+      "published": "Wed, 11 Nov 2026 11:28:32 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Abstimmung Stadt Luzern – Politische Mitsprache ab 14: Zu früh oder genau richtig?",
-      "link": "https://www.srf.ch/news/abstimmung-stadt-luzern-politische-mitsprache-ab-14-zu-frueh-oder-genau-richtig",
-      "published": "Tue, 10 Nov 2026 17:37:48 +0100",
+      "title": "Start der fünften Jahreszeit – Bern sperrt einen Bären ein: 5 besondere Fasnachtsbräuche",
+      "link": "https://www.srf.ch/radio-srf-1/start-der-fuenften-jahreszeit-bern-sperrt-einen-baeren-ein-5-besondere-fasnachtsbraeuche",
+      "published": "Wed, 11 Nov 2026 10:57:53 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
-      "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
-      "published": "Tue, 10 Nov 2026 22:08:29 +0100",
+      "title": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html",
+      "published": "Wed, 11 Nov 2026 13:07:44 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
-      "published": "Tue, 10 Nov 2026 22:04:36 +0100",
+      "title": "Ukraine-Verhandlungen: Russland plant kein Treffen mit Europäern",
+      "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-abu-dhabi-eu-100.html",
+      "published": "Wed, 11 Nov 2026 12:27:20 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Schüsse in Hamburg: Verdächtiger tot, weitere Leichen in Süddeutschland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html",
-      "published": "Tue, 10 Nov 2026 18:27:27 +0100",
+      "title": "Wenn Klimaschutz überfordert",
+      "link": "https://www.tagesschau.de/wissen/klima/klimaschutz-212.html",
+      "published": "Wed, 11 Nov 2026 12:02:47 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Marktbericht: Der DAX wird zurückgepfiffen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
-      "published": "Tue, 10 Nov 2026 18:21:50 +0100",
+      "title": "\"Tankrabatt\" drückt Inflation im Oktober",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-spritpreise-oktober-100.html",
+      "published": "Wed, 11 Nov 2026 12:00:32 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Grok-Apps legen Interna von SpaceXSI und X sowie Patientendaten offen",
+      "link": "https://the-decoder.de/grok-apps-legen-interna-von-spacexsi-und-x-sowie-patientendaten-offen/",
+      "published": "Wed, 11 Nov 2026 11:53:07 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Britische Behörde droht Hochschulen mit Sanktionen falls sie keine KI-sicheren Prüfungsformate einführen",
+      "link": "https://the-decoder.de/britische-behoerde-droht-hochschulen-mit-sanktionen-falls-sie-keine-ki-sicheren-pruefungsformate-einfuehren/",
+      "published": "Wed, 11 Nov 2026 11:13:46 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "OpenAI steigert Quartalsumsatz auf 10 Milliarden US-Dollar bei weiterhin gigantischen Verlusten",
+      "link": "https://the-decoder.de/openai-steigert-quartalsumsatz-auf-10-milliarden-us-dollar-bei-weiterhin-gigantischen-verlusten/",
+      "published": "Wed, 11 Nov 2026 10:37:47 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "\"Businesses in ChatGPT\": OpenAI macht ChatGPT zur Unternehmensplattform mit KI-Agenten für den Kundenkontakt",
       "link": "https://the-decoder.de/businesses-in-chatgpt-openai-macht-chatgpt-zur-unternehmensplattform-mit-ki-agenten-fuer-den-kundenkontakt/",
@@ -61,24 +79,6 @@
       "title": "Claude-App bekommt Tabellen, Whiteboards und eingebettete Partner-Apps",
       "link": "https://the-decoder.de/claude-app-bekommt-tabellen-whiteboards-und-eingebettete-partner-apps/",
       "published": "Tue, 10 Nov 2026 19:30:40 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "GR00T 2 zeigt Nvidias neuen Kurs bei KI-Modellen für Roboter",
-      "link": "https://the-decoder.de/gr00t-2-zeigt-nvidias-neuen-kurs-bei-ki-modellen-fuer-roboter/",
-      "published": "Tue, 10 Nov 2026 18:23:52 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Google startet Gemini 4 Carbon mit neuer Agenten-Schwarm-Funktion",
-      "link": "https://the-decoder.de/google-startet-gemini-4-carbon-mit-neuer-agenten-schwarm-funktion/",
-      "published": "Tue, 10 Nov 2026 17:47:13 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Google Deepmind schickt neues Robotik-Modell auf die Mercedes-Benz-Produktionslinie",
-      "link": "https://the-decoder.de/google-deepmind-schickt-neues-robotik-modell-auf-die-mercedes-benz-produktionslinie/",
-      "published": "Tue, 10 Nov 2026 16:44:10 +0000",
       "source": "The Decoder"
     }
   ]
