@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-11-13T21:48:16.708303+00:00",
+  "updated_at": "2026-11-14T12:12:08.855503+00:00",
   "politik": [
     {
-      "title": "SBB testen Strom-Blackout – Provozierter Stromausfall: Züge nach drei Minuten wieder am Netz",
-      "link": "https://www.srf.ch/news/schweiz/sbb-testen-strom-blackout-provozierter-stromausfall-zuege-nach-drei-minuten-wieder-am-netz",
+      "title": "Die etwas anderen News – Jugendproteste: Alle distanzieren sich gewaltig von Gewalt",
+      "link": "https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-jugendproteste-alle-distanzieren-sich-gewaltig-von-gewalt",
+      "published": "Sat, 14 Nov 2026 13:08:23 +0100",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Neue Krebsbehandlung – Gleiche Diagnose – unterschiedliche Entscheide der Krankenkassen",
+      "link": "https://www.srf.ch/news/dialog/neue-krebsbehandlung-gleiche-diagnose-unterschiedliche-entscheide-der-krankenkassen",
+      "published": "Sat, 14 Nov 2026 09:09:24 +0100",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "Umstrittener Goldhandel – Studie: Strengere Dubai-Regeln für Gold greifen kaum",
+      "link": "https://www.srf.ch/news/schweiz/umstrittener-goldhandel-studie-strengere-dubai-regeln-fuer-gold-greifen-kaum",
+      "published": "Sat, 14 Nov 2026 08:08:58 +0100",
+      "source": "Schweiz – News aus dem Inland – SRF"
+    },
+    {
+      "title": "SBB testet Strom-Blackout – Provozierter Stromausfall: Züge nach drei Minuten wieder am Netz",
+      "link": "https://www.srf.ch/news/schweiz/sbb-testet-strom-blackout-provozierter-stromausfall-zuege-nach-drei-minuten-wieder-am-netz",
       "published": "Fri, 13 Nov 2026 22:35:38 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Konsum nicht empfohlen – Warnung: Listerien in Mini-Pouletfilets bei Aldi",
-      "link": "https://www.srf.ch/news/schweiz/konsum-nicht-empfohlen-warnung-listerien-in-mini-pouletfilets-bei-aldi",
-      "published": "Fri, 13 Nov 2026 19:40:40 +0100",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Swissness-Label – Wer mit dem Schweizerkreuz wirbt, soll in der Schweiz produzieren",
-      "link": "https://www.srf.ch/news/schweiz/swissness-label-wer-mit-dem-schweizerkreuz-wirbt-soll-in-der-schweiz-produzieren",
-      "published": "Fri, 13 Nov 2026 19:17:20 +0100",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "Pro & Kontra zu den Vorlagen – Interaktiver Abstimmungskompass: Welche Argumente überzeugen Sie?",
-      "link": "https://www.srf.ch/news/schweiz/pro-kontra-zu-den-vorlagen-interaktiver-abstimmungskompass-welche-argumente-ueberzeugen-sie-2",
-      "published": "Fri, 13 Nov 2026 19:01:16 +0100",
-      "source": "Schweiz – News aus dem Inland – SRF"
-    },
-    {
-      "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
-      "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
-      "published": "Fri, 13 Nov 2026 22:37:39 +0100",
+      "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+      "link": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+      "published": "Sat, 14 Nov 2026 12:11:58 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
-      "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
-      "published": "Fri, 13 Nov 2026 20:06:39 +0100",
+      "title": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+      "published": "Sat, 14 Nov 2026 11:17:44 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
-      "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
-      "published": "Fri, 13 Nov 2026 19:44:23 +0100",
+      "title": "Bahn zieht positive Bilanz zu Alkoholverbot an Bahnhöfen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
+      "published": "Sat, 14 Nov 2026 11:07:05 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-      "published": "Fri, 13 Nov 2026 18:57:57 +0100",
+      "title": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
+      "link": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
+      "published": "Sat, 14 Nov 2026 09:15:06 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Claude Mythos war kein Ausreißer, sondern Teil eines sich beschleunigenden Trends, sagt Ex-Forscher",
+      "link": "https://the-decoder.de/claude-mythos-war-kein-ausreisser-sondern-teil-eines-sich-beschleunigenden-trends-sagt-ex-forscher/",
+      "published": "Sat, 14 Nov 2026 10:48:41 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "OpenAI verteilt Robotik-Forscher auf andere Teams, weil Allzweckmodelle spezialisierte Robotik-KI überflüssig machen",
+      "link": "https://the-decoder.de/openai-verteilt-robotik-forscher-auf-andere-teams-weil-allzweckmodelle-spezialisierte-robotik-ki-ueberfluessig-machen/",
+      "published": "Sat, 14 Nov 2026 10:35:51 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Robotermodell als Open Source: Runway gibt Robotik-Modell Praxis-1 mit Gewichten frei",
+      "link": "https://the-decoder.de/robotermodell-als-open-source-runway-gibt-robotik-modell-praxis-1-mit-gewichten-frei/",
+      "published": "Sat, 14 Nov 2026 09:34:45 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Nvidia-CEO Jensen Huang: Affären wohl nicht Hauptgrund für seinen Rücktritt",
       "link": "https://the-decoder.de/nvidia-ceo-jensen-huang-affaeren-wohl-nicht-hauptgrund-fuer-seinen-ruecktritt/",
@@ -61,24 +79,6 @@
       "title": "Nach SpaceX-Vorbild: Auch beim Anthropic-IPO bleiben chinesische Bieter außen vor",
       "link": "https://the-decoder.de/nach-spacex-vorbild-auch-beim-anthropic-ipo-bleiben-chinesische-bieter-aussen-vor/",
       "published": "Fri, 13 Nov 2026 17:39:53 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI startet mit der ChatGPT Wallet einen zweiten Anlauf beim KI-Shopping",
-      "link": "https://the-decoder.de/openai-startet-mit-der-chatgpt-wallet-einen-zweiten-anlauf-beim-ki-shopping/",
-      "published": "Fri, 13 Nov 2026 16:49:21 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Claude for Manufacturing: Anthropics neues Plugin macht KI zum Assistenten in der Industrieautomation",
-      "link": "https://the-decoder.de/claude-for-manufacturing-anthropics-neues-plugin-macht-ki-zum-assistenten-in-der-industrieautomation/",
-      "published": "Fri, 13 Nov 2026 16:31:45 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "US-Gewerkschaften erkämpfen Schutz vor KI-Überwachung und automatisierten Kündigungen im öffentlichen Dienst",
-      "link": "https://the-decoder.de/us-gewerkschaften-erkaempfen-schutz-vor-ki-ueberwachung-und-automatisierten-kuendigungen-im-oeffentlichen-dienst/",
-      "published": "Fri, 13 Nov 2026 15:49:53 +0000",
       "source": "The Decoder"
     }
   ]
