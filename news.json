@@ -1,56 +1,62 @@
 {
-  "updated_at": "2026-11-15T12:30:37.655596+00:00",
+  "updated_at": "2026-11-15T20:49:38.988789+00:00",
   "politik": [
     {
-      "title": "Jobkiller KI – KI statt Berufseinsteiger: Wer gibt den Jungen noch eine Chance?",
-      "link": "https://www.srf.ch/news/schweiz/jobkiller-ki-ki-statt-berufseinsteiger-wer-gibt-den-jungen-noch-eine-chance",
-      "published": "Sun, 15 Nov 2026 11:49:23 +0100",
+      "title": "Waffenexporte – Schweizer Munition gelangte über Umwege nach Russland",
+      "link": "https://www.srf.ch/news/waffenexporte-schweizer-munition-gelangte-ueber-umwege-nach-russland",
+      "published": "Sun, 15 Nov 2026 18:17:42 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Energiewende im Schwerverkehr – Bei Lastwagen kommt der Umstieg auf Elektroantrieb voran",
-      "link": "https://www.srf.ch/news/dialog/energiewende-im-schwerverkehr-bei-lastwagen-kommt-der-umstieg-auf-elektroantrieb-voran",
-      "published": "Sun, 15 Nov 2026 09:07:14 +0100",
+      "title": "Bäume mit Geschichte – Wie das Tessin für den Erhalt seiner Kastanienwälder kämpft",
+      "link": "https://www.srf.ch/news/dialog/baeume-mit-geschichte-wie-das-tessin-fuer-den-erhalt-seiner-kastanienwaelder-kaempft",
+      "published": "Sun, 15 Nov 2026 18:05:03 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "1943 ermordet in Auschwitz – Die Geschichte von Hella Olstein: Opfer von Hass und Holocaust",
-      "link": "https://www.srf.ch/news/schweiz/1943-ermordet-in-auschwitz-die-geschichte-von-hella-olstein-opfer-von-hass-und-holocaust",
-      "published": "Sun, 15 Nov 2026 07:55:09 +0100",
+      "title": "Neue Velostation Schaffhausen – Schaffhauser Velostation zeigt, wie morgen gebaut werden könnte",
+      "link": "https://www.srf.ch/news/schweiz/neue-velostation-schaffhausen-schaffhauser-velostation-zeigt-wie-morgen-gebaut-werden-koennte",
+      "published": "Sun, 15 Nov 2026 17:07:34 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Über ein Drittel hört auf – Viele Lehrabbrüche: Gastro nimmt sich selbst in die Pflicht",
-      "link": "https://www.srf.ch/news/schweiz/ueber-ein-drittel-hoert-auf-viele-lehrabbrueche-gastro-nimmt-sich-selbst-in-die-pflicht",
-      "published": "Sun, 15 Nov 2026 07:28:19 +0100",
+      "title": "Kanton Zürich – 12 Kilogramm Drogen: Polizei fasst mutmassliche Dealer",
+      "link": "https://www.srf.ch/news/schweiz/kanton-zuerich-12-kilogramm-drogen-polizei-fasst-mutmassliche-dealer",
+      "published": "Sun, 15 Nov 2026 16:29:31 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Iran greift erneut US-Stützpunkt in Bahrain an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html",
-      "published": "Sun, 15 Nov 2026 12:21:27 +0100",
+      "title": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
+      "published": "Sun, 15 Nov 2026 21:23:26 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Krise im Handwerk: \"Stilles Sterben der Betriebe\"",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html",
-      "published": "Sun, 15 Nov 2026 12:15:26 +0100",
+      "title": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
+      "published": "Sun, 15 Nov 2026 19:44:55 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Sachsen-Anhalt: Weggehen dürfen, wenn es gefährlich wird",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-afd-migranten-residenzpflicht-100.html",
-      "published": "Sun, 15 Nov 2026 12:10:03 +0100",
+      "title": "Hunderte Flüchtlinge auf Kanaren angekommen",
+      "link": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
+      "published": "Sun, 15 Nov 2026 18:31:41 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Treibstoffmangel: Wie die Kubaner mit der Krise zurechtkommen",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-energiekrise-alltag-100.html",
-      "published": "Sun, 15 Nov 2026 10:46:38 +0100",
+      "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+      "published": "Sun, 15 Nov 2026 21:44:43 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Claude Fable 5.2 malt fotorealistische Gemälde Strich für Strich mit selbst geschriebenem Python-Code",
+      "link": "https://the-decoder.de/claude-fable-5-2-malt-fotorealistische-gemaelde-strich-fuer-strich-mit-selbst-geschriebenem-python-code/",
+      "published": "Sun, 15 Nov 2026 15:02:03 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Firma von Jensen Huangs Ex-Geliebter soll Nvidia-Chips für 12 Milliarden Dollar nach China vermittelt haben",
       "link": "https://the-decoder.de/firma-von-jensen-huangs-ex-geliebter-soll-nvidia-chips-fuer-12-milliarden-dollar-nach-china-vermittelt-haben/",
@@ -73,12 +79,6 @@
       "title": "\"Große Unsicherheit\": Anthropic-Chef hadert kurz vor Rekord-IPO mit der größten Wette der KI-Branche",
       "link": "https://the-decoder.de/grosse-unsicherheit-anthropic-chef-hadert-kurz-vor-rekord-ipo-mit-der-groessten-wette-der-ki-branche/",
       "published": "Sat, 14 Nov 2026 17:51:17 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Google schlägt OpenAI: Gemini 4 Carbon führt die KI-Mathe-Benchmark MathArena an",
-      "link": "https://the-decoder.de/google-schlaegt-openai-gemini-4-carbon-fuehrt-die-ki-mathe-benchmark-matharena-an/",
-      "published": "Sat, 14 Nov 2026 16:37:01 +0000",
       "source": "The Decoder"
     }
   ]
