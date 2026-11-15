@@ -1,56 +1,74 @@
 {
-  "updated_at": "2026-11-14T20:25:47.950656+00:00",
+  "updated_at": "2026-11-15T12:30:37.655596+00:00",
   "politik": [
     {
-      "title": "Pionierprojekt – Alte Matratzen, neue Chancen – Aargauer Projekt macht Schule",
-      "link": "https://www.srf.ch/news/schweiz/pionierprojekt-alte-matratzen-neue-chancen-aargauer-projekt-macht-schule",
-      "published": "Sat, 14 Nov 2026 21:15:00 +0100",
+      "title": "Jobkiller KI – KI statt Berufseinsteiger: Wer gibt den Jungen noch eine Chance?",
+      "link": "https://www.srf.ch/news/schweiz/jobkiller-ki-ki-statt-berufseinsteiger-wer-gibt-den-jungen-noch-eine-chance",
+      "published": "Sun, 15 Nov 2026 11:49:23 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Europapolitik – Abstimmung zum EU-Vertragspaket kommt wohl frühestens 2028",
-      "link": "https://www.srf.ch/news/schweiz/europapolitik-abstimmung-zum-eu-vertragspaket-kommt-wohl-fruehestens-2028",
-      "published": "Sat, 14 Nov 2026 19:15:33 +0100",
+      "title": "Energiewende im Schwerverkehr – Bei Lastwagen kommt der Umstieg auf Elektroantrieb voran",
+      "link": "https://www.srf.ch/news/dialog/energiewende-im-schwerverkehr-bei-lastwagen-kommt-der-umstieg-auf-elektroantrieb-voran",
+      "published": "Sun, 15 Nov 2026 09:07:14 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Kantonsbudget 2027 – Tausende Menschen demonstrieren in Genf gegen Sparmassnahmen",
-      "link": "https://www.srf.ch/news/schweiz/kantonsbudget-2027-tausende-menschen-demonstrieren-in-genf-gegen-sparmassnahmen",
-      "published": "Sat, 14 Nov 2026 17:57:57 +0100",
+      "title": "1943 ermordet in Auschwitz – Die Geschichte von Hella Olstein: Opfer von Hass und Holocaust",
+      "link": "https://www.srf.ch/news/schweiz/1943-ermordet-in-auschwitz-die-geschichte-von-hella-olstein-opfer-von-hass-und-holocaust",
+      "published": "Sun, 15 Nov 2026 07:55:09 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Kundgebung – Männer demonstrieren in Bern gegen Gewalt an Frauen",
-      "link": "https://www.srf.ch/news/schweiz/kundgebung-maenner-demonstrieren-in-bern-gegen-gewalt-an-frauen",
-      "published": "Sat, 14 Nov 2026 17:34:27 +0100",
+      "title": "Über ein Drittel hört auf – Viele Lehrabbrüche: Gastro nimmt sich selbst in die Pflicht",
+      "link": "https://www.srf.ch/news/schweiz/ueber-ein-drittel-hoert-auf-viele-lehrabbrueche-gastro-nimmt-sich-selbst-in-die-pflicht",
+      "published": "Sun, 15 Nov 2026 07:28:19 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Selbstzahlen oder lange Wartezeit? Kritik an Kassenärzte-Chef",
-      "link": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
-      "published": "Sat, 14 Nov 2026 20:45:01 +0100",
+      "title": "Iran greift erneut US-Stützpunkt in Bahrain an",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html",
+      "published": "Sun, 15 Nov 2026 12:21:27 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Philippinische Popsängerin Carmelle gewinnt ersten ESC in Asien",
-      "link": "https://www.tagesschau.de/kultur/esc-asia-100.html",
-      "published": "Sat, 14 Nov 2026 20:24:24 +0100",
+      "title": "Krise im Handwerk: \"Stilles Sterben der Betriebe\"",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html",
+      "published": "Sun, 15 Nov 2026 12:15:26 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html",
-      "published": "Sat, 14 Nov 2026 20:09:28 +0100",
+      "title": "Sachsen-Anhalt: Weggehen dürfen, wenn es gefährlich wird",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-afd-migranten-residenzpflicht-100.html",
+      "published": "Sun, 15 Nov 2026 12:10:03 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Protest bei der COP in Antalya: Mehr Klimagerechtigkeit gefordert",
-      "link": "https://www.tagesschau.de/ausland/europa/cop-tuerkei-protest-100.html",
-      "published": "Sat, 14 Nov 2026 19:47:48 +0100",
+      "title": "Treibstoffmangel: Wie die Kubaner mit der Krise zurechtkommen",
+      "link": "https://www.tagesschau.de/ausland/amerika/kuba-energiekrise-alltag-100.html",
+      "published": "Sun, 15 Nov 2026 10:46:38 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Firma von Jensen Huangs Ex-Geliebter soll Nvidia-Chips für 12 Milliarden Dollar nach China vermittelt haben",
+      "link": "https://the-decoder.de/firma-von-jensen-huangs-ex-geliebter-soll-nvidia-chips-fuer-12-milliarden-dollar-nach-china-vermittelt-haben/",
+      "published": "Sun, 15 Nov 2026 11:20:12 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Australische Zentralbank sieht erste KI-Effekte auf dem Arbeitsmarkt: vor allem junge Berufseinsteiger betroffen",
+      "link": "https://the-decoder.de/australische-zentralbank-sieht-erste-ki-effekte-auf-dem-arbeitsmarkt-vor-allem-junge-berufseinsteiger-betroffen/",
+      "published": "Sun, 15 Nov 2026 09:48:51 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "LongCat-2.5: Meituan gibt Gewichte seines 1,6-Billionen-Parameter-Modells für KI-Agenten frei",
+      "link": "https://the-decoder.de/longcat-2-5-meituan-gibt-gewichte-seines-16-billionen-parameter-modells-fuer-ki-agenten-frei/",
+      "published": "Sun, 15 Nov 2026 09:30:06 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "\"Große Unsicherheit\": Anthropic-Chef hadert kurz vor Rekord-IPO mit der größten Wette der KI-Branche",
       "link": "https://the-decoder.de/grosse-unsicherheit-anthropic-chef-hadert-kurz-vor-rekord-ipo-mit-der-groessten-wette-der-ki-branche/",
@@ -61,24 +79,6 @@
       "title": "Google schlägt OpenAI: Gemini 4 Carbon führt die KI-Mathe-Benchmark MathArena an",
       "link": "https://the-decoder.de/google-schlaegt-openai-gemini-4-carbon-fuehrt-die-ki-mathe-benchmark-matharena-an/",
       "published": "Sat, 14 Nov 2026 16:37:01 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Anthropic erklärt, welche Prompting-Gewohnheiten Nutzer bei Claude Opus 5.5 ablegen sollten",
-      "link": "https://the-decoder.de/anthropic-erklaert-welche-prompting-gewohnheiten-nutzer-bei-claude-opus-5-5-ablegen-sollten/",
-      "published": "Sat, 14 Nov 2026 16:14:56 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Claude Mythos war kein Ausreißer, sondern Teil eines sich beschleunigenden Trends, sagt Ex-Forscher",
-      "link": "https://the-decoder.de/claude-mythos-war-kein-ausreisser-sondern-teil-eines-sich-beschleunigenden-trends-sagt-ex-forscher/",
-      "published": "Sat, 14 Nov 2026 10:48:41 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "OpenAI verteilt Robotik-Forscher auf andere Teams, weil Allzweckmodelle spezialisierte Robotik-KI überflüssig machen",
-      "link": "https://the-decoder.de/openai-verteilt-robotik-forscher-auf-andere-teams-weil-allzweckmodelle-spezialisierte-robotik-ki-ueberfluessig-machen/",
-      "published": "Sat, 14 Nov 2026 10:35:51 +0000",
       "source": "The Decoder"
     }
   ]

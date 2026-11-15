@@ -1,41 +1,65 @@
 {
-  "updated_at": "2026-11-14T20:25:50.176954+00:00",
+  "updated_at": "2026-11-15T12:30:38.174318+00:00",
   "sport": [
     {
-      "title": "Schallmauer durchbrochen – Als erster Goalie: Genoni tritt dem 1000er-Klub bei",
-      "link": "https://www.srf.ch/sport/eishockey/national-league/schallmauer-durchbrochen-als-erster-goalie-genoni-tritt-dem-1000er-klub-bei",
-      "published": "Sat, 14 Nov 2026 19:40:18 +0100",
+      "title": "News zur Schweizer Nati – «Leichte Beschwerden»: Akanji reist vorzeitig ab",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-zur-schweizer-nati-leichte-beschwerden-akanji-reist-vorzeitig-ab",
+      "published": "Sun, 15 Nov 2026 13:25:17 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Zähringer Derby am Freitag – Derbyheld Sonny Milano verzaubert Bern (endlich) ein erstes Mal",
-      "link": "https://www.srf.ch/sport/eishockey/national-league/zaehringer-derby-am-freitag-derbyheld-sonny-milano-verzaubert-bern-endlich-ein-erstes-mal",
-      "published": "Sat, 14 Nov 2026 11:39:53 +0100",
+      "title": "Internationale Fussball-News – Washington trennt sich von Weiler",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-washington-trennt-sich-von-weiler",
+      "published": "Sun, 15 Nov 2026 13:03:56 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Weitere Sport-News – Schwimmer Ponti mit Europarekord – Triathletin Derron auf Podest",
-      "link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-schwimmer-ponti-mit-europarekord-triathletin-derron-auf-podest",
-      "published": "Sat, 14 Nov 2026 20:31:10 +0100",
+      "title": "Testspiele in Südamerika – Argentinien unterliegt Uruguay, Japan schlägt junges Brasilien",
+      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/testspiele-in-suedamerika-argentinien-unterliegt-uruguay-japan-schlaegt-junges-brasilien",
+      "published": "Sat, 14 Nov 2026 14:49:51 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Heim-Weltcup in Bern – Fechter im Team-Wettkampf erst im Final gestoppt",
-      "link": "https://www.srf.ch/sport/mehr-sport/fechten/heim-weltcup-in-bern-fechter-im-team-wettkampf-erst-im-final-gestoppt",
-      "published": "Sat, 14 Nov 2026 18:57:37 +0100",
+      "title": "Presse reagiert deutlich – Portugal erlebt Blamage: «Cristiano hat das nicht verdient»",
+      "link": "https://www.srf.ch/sport/fussball/nations-league/presse-reagiert-deutlich-portugal-erlebt-blamage-cristiano-hat-das-nicht-verdient",
+      "published": "Sun, 15 Nov 2026 11:08:40 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Trainingssturz in Levi – Kreuzbandriss: Mélanie Meillards Saison ist bereits wieder vorbei",
-      "link": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/trainingssturz-in-levi-kreuzbandriss-melanie-meillards-saison-ist-bereits-wieder-vorbei",
-      "published": "Sat, 14 Nov 2026 16:31:49 +0100",
+      "title": "Nations League am Samstag – Dänemark watscht Portugal ab – Norwegen siegt glücklich",
+      "link": "https://www.srf.ch/sport/fussball/nations-league/nations-league-am-samstag-daenemark-watscht-portugal-ab-norwegen-siegt-gluecklich",
+      "published": "Sat, 14 Nov 2026 22:46:08 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Frauen-Slalom in Levi – Aicher kann's auch im Stangenwald – Höpli überzeugt",
-      "link": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/frauen-slalom-in-levi-aicher-kann-s-auch-im-stangenwald-hoepli-ueberzeugt",
-      "published": "Sat, 14 Nov 2026 14:05:11 +0100",
+      "title": "News aus dem Tennis – Feldbausch holt zweiten Challenger-Titel",
+      "link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-feldbausch-holt-zweiten-challenger-titel",
+      "published": "Sun, 15 Nov 2026 12:45:19 +0100",
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News zur Schweizer Nati – «Leichte Beschwerden»: Akanji reist vorzeitig ab",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-zur-schweizer-nati-leichte-beschwerden-akanji-reist-vorzeitig-ab",
+      "published": "Sun, 15 Nov 2026 13:25:17 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Internationale Fussball-News – Washington trennt sich von Weiler",
+      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-washington-trennt-sich-von-weiler",
+      "published": "Sun, 15 Nov 2026 13:03:56 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Presse reagiert deutlich – Portugal erlebt Blamage: «Cristiano hat das nicht verdient»",
+      "link": "https://www.srf.ch/sport/fussball/nations-league/presse-reagiert-deutlich-portugal-erlebt-blamage-cristiano-hat-das-nicht-verdient",
+      "published": "Sun, 15 Nov 2026 11:08:40 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
+    },
+    {
+      "title": "Nations League am Samstag – Dänemark watscht Portugal ab – Norwegen siegt glücklich",
+      "link": "https://www.srf.ch/sport/fussball/nations-league/nations-league-am-samstag-daenemark-watscht-portugal-ab-norwegen-siegt-gluecklich",
+      "published": "Sat, 14 Nov 2026 22:46:08 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "WSL am Samstag – Yverdon überrascht YB – Schlusslicht St. Gallen mit Lebenszeichen",
@@ -48,67 +72,43 @@
       "link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-pilgrim-glaenzt-bei-11-tore-spektakel",
       "published": "Sat, 14 Nov 2026 17:17:16 +0100",
       "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Testspiele in Südamerika – Argentinien unterliegt Uruguay, Japan schlägt junges Brasilien",
-      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/testspiele-in-suedamerika-argentinien-unterliegt-uruguay-japan-schlaegt-junges-brasilien",
-      "published": "Sat, 14 Nov 2026 14:49:51 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "News zur Schweizer Nati – «Belastungssteuerung»: Ndoye reist aus dem Nationalteam ab",
-      "link": "https://www.srf.ch/sport/fussball/super-league/news-zur-schweizer-nati-belastungssteuerung-ndoye-reist-aus-dem-nationalteam-ab",
-      "published": "Sat, 14 Nov 2026 14:32:55 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Bilanz nach Nati-Aufstieg – Huggel: «Das zeigt, wie breit und gut aufgestellt die Nati ist»",
-      "link": "https://www.srf.ch/sport/fussball/nationalmannschaft/bilanz-nach-nati-aufstieg-huggel-das-zeigt-wie-breit-und-gut-aufgestellt-die-nati-ist",
-      "published": "Sat, 14 Nov 2026 10:40:06 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Stimmen zum Wiederaufstieg – Trotz «keinem schönen Spiel» gingen Träume in Erfüllung",
-      "link": "https://www.srf.ch/sport/fussball/nationalmannschaft/stimmen-zum-wiederaufstieg-trotz-keinem-schoenen-spiel-gingen-traeume-in-erfuellung",
-      "published": "Fri, 13 Nov 2026 23:50:13 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Warum denn erst jetzt? God of War: Sons of Sparta erscheint mit neuen Modi für PS4",
-      "link": "https://www.pcgames.de/God-of-War-Sons-of-Sparta-Spiel-77322/News/PS5-Spiel-kommt-fuer-PS4-1560005/",
-      "published": "Sat, 14 Nov 2026 18:00:00 +0100",
+      "title": "Persona 6: Website-Änderung weckt Hoffnung auf neuen Trailer",
+      "link": "https://www.pcgames.de/Persona-6-Spiel-74175/News/website-aenderung-game-awards-enthuellung-1560022/",
+      "published": "Sun, 15 Nov 2026 13:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Backloggd: Das Letterboxd für Gaming bekommt bald eine offizielle App",
-      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Spiele-Datenbank-Backloggd-bald-auch-auf-mobilen-Geraeten-1560004/",
-      "published": "Sat, 14 Nov 2026 16:45:00 +0100",
+      "title": "GTA 6: Tracklist des Albums geleakt, u.a. mit Playboi Carti, Dua Lipa, Camila Cabello, Travis Scott und Lana Del Rey",
+      "link": "https://www.pcgames.de/GTA-6-Spiel-55239/News/Kompletter-Soundtrack-zum-Game-geleakt-1560023/",
+      "published": "Sun, 15 Nov 2026 12:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "25 Jahre Xbox: Zum Jubiläum schenkt Microsoft euch 25 Spiele - wenn ihr einen PC kauft ...",
-      "link": "https://www.pcgames.de/Microsoft-Xbox-Konsolen-18125/News/25-Gratis-Spiele-bei-Kauf-eines-neuen-PCs-1559998/",
-      "published": "Sat, 14 Nov 2026 15:45:00 +0100",
+      "title": "Fable: Neues Gameplay zeigt Deepwood, verfluchte Gegner und neue Charaktere",
+      "link": "https://www.pcgames.de/Fable-Spiel-23036/News/neues-gameplay-deepwood-verfluchter-wald-1560019/",
+      "published": "Sun, 15 Nov 2026 11:30:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Neue Stranger Things-Realserie ist bestätigt: Das wissen wir über Other Worlds",
-      "link": "https://www.pcgames.de/Stranger-Things-Serie-264824/News/Other-Worlds-soll-2028-die-Vorgeschichte-der-Erfolgsserie-erzaehlen-1560000/",
-      "published": "Sat, 14 Nov 2026 15:00:00 +0100",
+      "title": "Blood of Dawnwalker: Patch 1.2 bringt New Game Plus und neue Levelgrenze",
+      "link": "https://www.pcgames.de/The-Blood-of-Dawnwalker-Spiel-75056/News/New-Game-Plus-angekuendigt-1560015/",
+      "published": "Sun, 15 Nov 2026 11:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "GTA 6: Neue Karteninformationen durch Collector's-Box-Leak",
-      "link": "https://www.pcgames.de/GTA-6-Spiel-55239/News/Offizielle-Karte-von-Leonida-geleakt-1560002/",
-      "published": "Sat, 14 Nov 2026 14:15:00 +0100",
+      "title": "WoW Forever: Blizzard versteckt bereits Hinweise auf zukünftige Updates – und die Spieler übersehen sie",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/wow-forever-zukunft-1559950/",
+      "published": "Sun, 15 Nov 2026 10:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Zelda: Vor Breath of the Wild steckte die Reihe laut Ex-Nintendo-Mitarbeitern in einer Krise",
-      "link": "https://www.pcgames.de/The-Legend-of-Zelda-Breath-of-the-Wild-Spiel-55092/News/krise-nintendo-1559999/",
-      "published": "Sat, 14 Nov 2026 13:30:00 +0100",
+      "title": "Rennspiel-Hit oder Bruchlandung? Star Wars: Galactic Racer und mehr in der play5 12/26!",
+      "link": "https://www.pcgames.de/play5-Brands-276955/Specials/12-26-Star-Wars-Galactic-Racer-1558430/",
+      "published": "Sun, 15 Nov 2026 09:30:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
