@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-18T13:56:11.397304+00:00",
+  "updated_at": "2026-11-18T22:50:43.479274+00:00",
   "sport": [
+    {
+      "title": "Champions Hockey League – Keine Genfer Wunder-Wende: Freiburg verwaltet Vorsprung souverän",
+      "link": "https://www.srf.ch/sport/eishockey/champions-hockey-league/champions-hockey-league-keine-genfer-wunder-wende-freiburg-verwaltet-vorsprung-souveraen",
+      "published": "Wed, 18 Nov 2026 22:02:52 +0100",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Zug feiert Heimsieg über Ajoie – Nach 114 torlosen Spielen: Stadler trifft und wird Matchwinner",
+      "link": "https://www.srf.ch/sport/eishockey/national-league/zug-feiert-heimsieg-ueber-ajoie-nach-114-torlosen-spielen-stadler-trifft-und-wird-matchwinner",
+      "published": "Wed, 18 Nov 2026 21:59:45 +0100",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "Verzicht auch auf WM & X-Games – Ragettli wird diese Saison keine «grossen» Wettkämpfe bestreiten",
+      "link": "https://www.srf.ch/sport/mehr-sport/ski-freestyle/verzicht-auch-auf-wm-x-games-ragettli-wird-diese-saison-keine-grossen-wettkaempfe-bestreiten",
+      "published": "Wed, 18 Nov 2026 17:47:09 +0100",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News aus der Super League – Stocker bleibt bei Basel Sportlicher Leiter",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-stocker-bleibt-bei-basel-sportlicher-leiter",
+      "published": "Wed, 18 Nov 2026 20:31:30 +0100",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
+    {
+      "title": "News aus dem Radsport – Roglic zu Team mit Schweizer Lizenz – Romandie-Route bekannt",
+      "link": "https://www.srf.ch/sport/rad/news-aus-dem-radsport-roglic-zu-team-mit-schweizer-lizenz-romandie-route-bekannt",
+      "published": "Wed, 18 Nov 2026 22:44:22 +0100",
+      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+    },
     {
       "title": "Saison mit Heim-WM futsch – Meillard: «Schwierig, diese Verletzung zu akzeptieren»",
       "link": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/saison-mit-heim-wm-futsch-meillard-schwierig-diese-verletzung-zu-akzeptieren",
@@ -8,34 +38,10 @@
       "source": "Sport News aus der Schweiz und International – Sport – SRF"
     },
     {
-      "title": "Kings-Stürmer wieder zurück – Fiala: «Habe mir die Szene der Verletzung nie angeschaut»",
-      "link": "https://www.srf.ch/sport/eishockey/nhl/kings-stuermer-wieder-zurueck-fiala-habe-mir-die-szene-der-verletzung-nie-angeschaut",
-      "published": "Wed, 18 Nov 2026 11:34:36 +0100",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "NHL in der Nacht auf Mittwoch – Erster Sieg für Fiala, Josi geht unter",
-      "link": "https://www.srf.ch/sport/eishockey/nhl/nhl-in-der-nacht-auf-mittwoch-erster-sieg-fuer-fiala-josi-geht-unter",
-      "published": "Wed, 18 Nov 2026 07:28:52 +0100",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Anaheim-Stürmer «on fire» – Vier Hattricks in einem Monat: Gauthier schreibt NHL-Geschichte",
-      "link": "https://www.srf.ch/sport/eishockey/nhl/anaheim-stuermer-on-fire-vier-hattricks-in-einem-monat-gauthier-schreibt-nhl-geschichte",
-      "published": "Wed, 18 Nov 2026 10:20:18 +0100",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "SRF-Interview – Schär: «Ich hatte Zweifel, ob es überhaupt weitergehen kann»",
-      "link": "https://www.srf.ch/sport/fussball/internationale-ligen/srf-interview-schaer-ich-hatte-zweifel-ob-es-ueberhaupt-weitergehen-kann",
-      "published": "Wed, 18 Nov 2026 09:41:46 +0100",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
-    },
-    {
-      "title": "Wann, wer, was? – Kandidaten, Zeitplan, Stimmen: Übersicht zur Fifa-Präsidentenwahl",
-      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/wann-wer-was-kandidaten-zeitplan-stimmen-uebersicht-zur-fifa-praesidentenwahl",
-      "published": "Wed, 18 Nov 2026 09:03:05 +0100",
-      "source": "Sport News aus der Schweiz und International – Sport – SRF"
+      "title": "News aus der Super League – Stocker bleibt bei Basel Sportlicher Leiter",
+      "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-stocker-bleibt-bei-basel-sportlicher-leiter",
+      "published": "Wed, 18 Nov 2026 20:31:30 +0100",
+      "source": "Fussball – News, Analysen & Highlights"
     },
     {
       "title": "Internationale Fussball-News – Weltmeister Mata tritt zurück – Kompany vor Rückkehr",
@@ -66,49 +72,43 @@
       "link": "https://www.srf.ch/sport/fussball/nations-league/nations-league-gruppe-a4-norwegen-dramatisch-im-viertelfinal-portugal-schlaegt-wales",
       "published": "Tue, 17 Nov 2026 22:47:59 +0100",
       "source": "Fussball – News, Analysen & Highlights"
-    },
-    {
-      "title": "Englischer Ex-Starstürmer – Rooney spricht über Tiefpunkt: «Habe an Suizid gedacht»",
-      "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/englischer-ex-starstuermer-rooney-spricht-ueber-tiefpunkt-habe-an-suizid-gedacht",
-      "published": "Tue, 17 Nov 2026 17:21:43 +0100",
-      "source": "Fussball – News, Analysen & Highlights"
     }
   ],
   "gaming": [
     {
-      "title": "Path of Exile 2: Neuerungen in Version 1.0, die jeder kennen sollte",
-      "link": "https://www.pcgames.de/Path-of-Exile-2-Spiel-72499/Specials/Patch-10-Casual-Highlights-1560281/",
-      "published": "Wed, 18 Nov 2026 14:00:00 +0100",
+      "title": "WoW: Mit diesem simplen Trick sieht Forever gleich viel hübscher aus",
+      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Forever-Grafik-Trick-HDR-einschalten-1560429/",
+      "published": "Wed, 18 Nov 2026 18:30:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "WoW Forever: Fast wieder in der WotLK-Hochzeit – Blizzard teilt historische Zahlen",
-      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/WoW-Forever-Rekorde-Statistiken-1560372/",
-      "published": "Wed, 18 Nov 2026 13:00:00 +0100",
+      "title": "3 Body Problems geht endlich weiter – Netflix zeigt ersten Teaser",
+      "link": "https://www.pcgames.de/Netflix-Firma-259629/News/3-Body-Problem-2-Staffel-1560378/",
+      "published": "Wed, 18 Nov 2026 18:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "GTA 6 im Test: Starke Story und fantastische Charaktere – doch der eigentliche Star ist die Spielwelt",
-      "link": "https://www.pcgames.de/GTA-6-Spiel-55239/Tests/Review-Rockstar-Wertung-Lucia-Jason-1560203/",
-      "published": "Wed, 18 Nov 2026 12:00:00 +0100",
+      "title": "Splatoon Raiders: Nintendo veröffentlicht kostenlose Demo für Switch 2",
+      "link": "https://www.pcgames.de/Splatoon-Raiders-Spiel-78779/News/Kostenlose-Demo-Nintendo-Switch-2-1560452/",
+      "published": "Wed, 18 Nov 2026 17:15:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Messenger of Death: Black Mirror kehrt nach 23 Jahren zu seinen Wurzeln zurück",
-      "link": "https://www.pcgames.de/Black-Mirror-Der-dunkle-Spiegel-der-Seele-Spiel-19024/News/Messenger-of-Death-Blood-Bond-Prequel-Termin-Release-1560349/",
-      "published": "Wed, 18 Nov 2026 11:45:00 +0100",
+      "title": "30 Euro für GTA 6 in einer Stunde: Media Markt bietet kuriosen Service",
+      "link": "https://www.pcgames.de/GTA-6-Spiel-55239/News/Media-Markt-Angebot-Download-1560424/",
+      "published": "Wed, 18 Nov 2026 17:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "WoW Forever: Alle Jäger wollen dieses Pet – doch jetzt gibt es endlich eine Alternative",
-      "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Forever-Jaeger-Haustier-Pet-zaehmen-Katze-Zerbrochener-Zahn-neu-1560380/",
-      "published": "Wed, 18 Nov 2026 11:00:00 +0100",
+      "title": "Neue Bagger-Simulation Dirt Town wird zum absoluten Steam-Geheimtipp",
+      "link": "https://www.pcgames.de/Spiele-Thema-239104/News/Dirt-Town-kostenlose-Demo-1560420/",
+      "published": "Wed, 18 Nov 2026 16:15:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     },
     {
-      "title": "Project Gotham Racing 4 feiert nach 19 Jahren sein überraschendes PC-Comeback",
-      "link": "https://www.pcgames.de/Project-Gotham-Racing-4-Spiel-28617/News/Rennspiel-dank-Fanprojekt-auf-PC-1560371/",
-      "published": "Wed, 18 Nov 2026 10:15:00 +0100",
+      "title": "GTA 6: Gaming im Game – alle vier Videospiele und ihre Fundorte",
+      "link": "https://www.pcgames.de/GTA-6-Spiel-55239/Specials/Videpspiele-im-Spiel-Konsole-Arcade-Fundorte-1560149/",
+      "published": "Wed, 18 Nov 2026 16:00:00 +0100",
       "source": "PCGames: Wissen, was gespielt wird!"
     }
   ]
