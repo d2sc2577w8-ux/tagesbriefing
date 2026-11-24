@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-11-23T15:41:19.940411+00:00",
+  "updated_at": "2026-11-24T03:00:51.881227+00:00",
   "politik": [
     {
-      "title": "Erste Flocken im Mittelland – Auch im Flachland kann es diese Woche glatt werden",
-      "link": "https://www.srf.ch/news/schweiz/erste-flocken-im-mittelland-auch-im-flachland-kann-es-diese-woche-glatt-werden",
-      "published": "Mon, 23 Nov 2026 15:33:15 +0100",
+      "title": "Schweizer Büro in Nordkorea – Kim Yo Jong droht mit Schliessung von diplomatischem Büro",
+      "link": "https://www.srf.ch/news/international/schweizer-buero-in-nordkorea-kim-yo-jong-droht-mit-schliessung-von-diplomatischem-buero",
+      "published": "Tue, 24 Nov 2026 03:58:50 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Café crème und Cappuccino – Kaffeetrinken in der Beiz kostet mehr",
-      "link": "https://www.srf.ch/news/schweiz/cafe-creme-und-cappuccino-kaffeetrinken-in-der-beiz-kostet-mehr",
-      "published": "Mon, 23 Nov 2026 15:02:35 +0100",
+      "title": "Lust auf Abkühlung – Schweiz schleckte im Sommer 17 Millionen Liter Glace",
+      "link": "https://www.srf.ch/news/schweiz/lust-auf-abkuehlung-schweiz-schleckte-im-sommer-17-millionen-liter-glace",
+      "published": "Mon, 23 Nov 2026 21:17:53 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Rettung vor Zerfall – Neue Wege: Stiftung soll sich im Aargau um Kirchen kümmern",
-      "link": "https://www.srf.ch/news/schweiz/rettung-vor-zerfall-neue-wege-stiftung-soll-sich-im-aargau-um-kirchen-kuemmern",
-      "published": "Mon, 23 Nov 2026 14:23:11 +0100",
+      "title": "Kritik an geplanter Reform – Der IV geht das Geld aus: Wer zahlt die Rechnung?",
+      "link": "https://www.srf.ch/news/schweiz/kritik-an-geplanter-reform-der-iv-geht-das-geld-aus-wer-zahlt-die-rechnung",
+      "published": "Mon, 23 Nov 2026 21:14:37 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Nach SVP-Bundesratsticket – Grüne schicken Sprengkandidatin ins Rennen",
-      "link": "https://www.srf.ch/news/schweiz/nach-svp-bundesratsticket-gruene-schicken-sprengkandidatin-ins-rennen",
-      "published": "Mon, 23 Nov 2026 16:28:40 +0100",
+      "title": "Nach jahrelangem Schweigen – 30 Westschweizer Frauen werfen Heilern sexuellen Missbrauch vor",
+      "link": "https://www.srf.ch/news/dialog/nach-jahrelangem-schweigen-30-westschweizer-frauen-werfen-heilern-sexuellen-missbrauch-vor",
+      "published": "Mon, 23 Nov 2026 21:03:31 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "OBI und Toom wollen fusionieren",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/obi-toom-fusion-100.html",
-      "published": "Mon, 23 Nov 2026 16:09:32 +0100",
+      "title": "Deutschland baut künftig ukrainische Drohnen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
+      "published": "Tue, 24 Nov 2026 02:46:30 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "KI-Pioniere streiten über die Risiken",
-      "link": "https://www.tagesschau.de/wissen/ki-letzte-erfindung-der-menschheit-100.html",
-      "published": "Mon, 23 Nov 2026 15:42:41 +0100",
+      "title": "Haiti: El Salvadors Präsident Bukele wegen Militäreinsatz gefeiert",
+      "link": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
+      "published": "Tue, 24 Nov 2026 01:53:40 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Istanbuler Polizei sucht nach streunendem Löwen",
-      "link": "https://www.tagesschau.de/ausland/europa/loewe-istanbul-100.html",
-      "published": "Mon, 23 Nov 2026 15:14:38 +0100",
+      "title": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
+      "published": "Mon, 23 Nov 2026 21:11:45 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Nvidia setzt Jensen Huang wieder als Chef ein",
-      "link": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
-      "published": "Mon, 23 Nov 2026 16:18:29 +0100",
+      "title": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
+      "link": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
+      "published": "Mon, 23 Nov 2026 20:07:24 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Großes ChatGPT-Update: Bessere Antworten, sicherere Gespräche und genauere Websuche",
+      "link": "https://the-decoder.de/grosses-chatgpt-update-bessere-antworten-sicherere-gespraeche-und-genauere-websuche/",
+      "published": "Mon, 23 Nov 2026 19:49:18 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Musks KI-Firma SpaceXSI verdient ihr Geld jetzt vor allem mit Vermietung statt mit eigenen Projekten",
+      "link": "https://the-decoder.de/musks-ki-firma-spacexsi-verdient-ihr-geld-jetzt-vor-allem-mit-vermietung-statt-mit-eigenen-projekten/",
+      "published": "Mon, 23 Nov 2026 18:14:53 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "OpenAI-Chefwissenschaftler legt interne Fortschrittsmetrik offen und fordert gemeinsame Sicherheitslimits",
       "link": "https://the-decoder.de/openai-chefwissenschaftler-legt-interne-fortschrittsmetrik-offen-und-fordert-gemeinsame-sicherheitslimits/",
@@ -67,18 +79,6 @@
       "title": "Chinesische Militärforscher sehen nukleare Abschreckung durch KI in Gefahr",
       "link": "https://the-decoder.de/chinesische-militaerforscher-sehen-nukleare-abschreckung-durch-ki-in-gefahr/",
       "published": "Mon, 23 Nov 2026 14:12:23 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Z.ai lässt GLM-5.4 zweimal rechnen und ruft \"Generalized Coding\" aus",
-      "link": "https://the-decoder.de/z-ai-laesst-glm-5-4-zweimal-rechnen-und-ruft-generalized-coding-aus/",
-      "published": "Mon, 23 Nov 2026 13:21:03 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Metas KI-Chef Wang sieht Superintelligenz nahen und fordert Kurswechsel der Branche",
-      "link": "https://the-decoder.de/metas-ki-chef-wang-sieht-superintelligenz-nahen-und-fordert-kurswechsel-der-branche/",
-      "published": "Mon, 23 Nov 2026 12:19:36 +0000",
       "source": "The Decoder"
     }
   ]
