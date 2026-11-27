@@ -1,56 +1,68 @@
 {
-  "updated_at": "2026-11-27T00:18:36.427830+00:00",
+  "updated_at": "2026-11-27T14:42:34.466740+00:00",
   "politik": [
     {
-      "title": "Mutmasslicher Kriegsverbrecher – Welche Lehren zieht die Schweiz aus dem Fall Kabuga?",
-      "link": "https://www.srf.ch/news/schweiz/mutmasslicher-kriegsverbrecher-welche-lehren-zieht-die-schweiz-aus-dem-fall-kabuga",
-      "published": "Thu, 26 Nov 2026 20:23:22 +0100",
+      "title": "Wahlen Kanton Freiburg – Zweiter Wahlgang: Können Bürgerliche ihren Erfolg bestätigen?",
+      "link": "https://www.srf.ch/news/wahlen-kanton-freiburg-zweiter-wahlgang-koennen-buergerliche-ihren-erfolg-bestaetigen",
+      "published": "Fri, 27 Nov 2026 15:40:12 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Kurzer Aufenthalt, hohe Preise – Stadt Zürich zählt immer mehr Business-Wohnungen",
-      "link": "https://www.srf.ch/news/schweiz/kurzer-aufenthalt-hohe-preise-stadt-zuerich-zaehlt-immer-mehr-business-wohnungen",
-      "published": "Thu, 26 Nov 2026 20:17:20 +0100",
+      "title": "Abstimmungen Baselland – Baselland entscheidet über günstigere ÖV-Abos für Junge",
+      "link": "https://www.srf.ch/news/abstimmungen-baselland-baselland-entscheidet-ueber-guenstigere-oev-abos-fuer-junge",
+      "published": "Fri, 27 Nov 2026 15:36:36 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "«Unterwanderungs-Vorwürfe» – Junge SVP Schweiz schliesst zehn Luzerner aus",
-      "link": "https://www.srf.ch/news/schweiz/unterwanderungs-vorwuerfe-junge-svp-schweiz-schliesst-zehn-luzerner-aus",
-      "published": "Thu, 26 Nov 2026 21:57:13 +0100",
+      "title": "Lange Behandlungswartezeiten – Die Vorschläge des Bundesrates zur ADHS-Versorgung im Check",
+      "link": "https://www.srf.ch/news/schweiz/lange-behandlungswartezeiten-die-vorschlaege-des-bundesrates-zur-adhs-versorgung-im-check",
+      "published": "Fri, 27 Nov 2026 15:34:29 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Einziger Blitzer im Aargau – Kanton verlangt: Der Blitzer in Baden muss abgeschaltet werden",
-      "link": "https://www.srf.ch/news/schweiz/einziger-blitzer-im-aargau-kanton-verlangt-der-blitzer-in-baden-muss-abgeschaltet-werden",
-      "published": "Thu, 26 Nov 2026 17:59:59 +0100",
+      "title": "Abstimmung Kanton Aargau – Sinken die Steuern im Aargau weiter?",
+      "link": "https://www.srf.ch/news/abstimmung-kanton-aargau-sinken-die-steuern-im-aargau-weiter",
+      "published": "Fri, 27 Nov 2026 15:32:33 +0100",
       "source": "Schweiz – News aus dem Inland – SRF"
     },
     {
-      "title": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
-      "published": "Fri, 27 Nov 2026 01:02:22 +0100",
+      "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html",
+      "published": "Fri, 27 Nov 2026 15:13:55 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Wintereinbruch: Schneefall behindert Autoverkehr in Bayern",
-      "link": "https://www.tagesschau.de/wetter/wetterthema/schnee-bayern-autobahnsperrung-100.html",
-      "published": "Thu, 26 Nov 2026 22:54:39 +0100",
+      "title": "Deutschland: Beginn der Ski-Saison - mit Neuschnee und höheren Preisen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ski-saison-deutschland-100.html",
+      "published": "Fri, 27 Nov 2026 15:12:31 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
-      "published": "Thu, 26 Nov 2026 20:16:09 +0100",
+      "title": "Spionageverdacht: Ex-BND-Chef Hanning bleibt in Untersuchungshaft",
+      "link": "https://www.tagesschau.de/inland/bnd-hanning-untersuchungshaft-spionageverdacht-100.html",
+      "published": "Fri, 27 Nov 2026 15:10:01 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     },
     {
-      "title": "Deutsche Firmen forschen an Technik für Waffendepots im Weltraum",
-      "link": "https://www.tagesschau.de/wissen/waffendepots-orbit-100.html",
-      "published": "Thu, 26 Nov 2026 20:15:35 +0100",
+      "title": "Das plant Arbeitsminister Schweitzer für die Rente",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
+      "published": "Fri, 27 Nov 2026 15:00:01 +0100",
       "source": "tagesschau.de - Die Nachrichten der ARD"
     }
   ],
   "ki": [
+    {
+      "title": "Rockstars GTA 6 hat ein KI-Problem",
+      "link": "https://the-decoder.de/rockstars-gta-6-hat-ein-ki-problem/",
+      "published": "Fri, 27 Nov 2026 14:17:47 +0000",
+      "source": "The Decoder"
+    },
+    {
+      "title": "KI-Umbau: SAP plant laut Bericht den Abbau von mindestens 10.000 Stellen",
+      "link": "https://the-decoder.de/ki-umbau-sap-plant-laut-bericht-den-abbau-von-mindestens-10-000-stellen/",
+      "published": "Fri, 27 Nov 2026 11:35:25 +0000",
+      "source": "The Decoder"
+    },
     {
       "title": "Nicht der Riemann-Beweis ist entscheidend, sondern dass ein KI-System existiert, das ihn liefern kann",
       "link": "https://the-decoder.de/nicht-der-riemann-beweis-ist-entscheidend-sondern-dass-ein-ki-system-existiert-das-ihn-liefern-kann/",
@@ -67,18 +79,6 @@
       "title": "US-Chipregeln und Destillations-Blockaden zwingen Z.AI und Moonshot laut Insidern zur Verschiebung großer Sprachmodelle auf 2027",
       "link": "https://the-decoder.de/us-chipregeln-und-destillations-blockaden-zwingen-z-ai-und-moonshot-laut-insidern-zur-verschiebung-grosser-sprachmodelle-auf-2027/",
       "published": "Thu, 26 Nov 2026 15:22:08 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "US-Behörde genehmigt SpaceX eine Million Satelliten für KI-Rechenzentren im All",
-      "link": "https://the-decoder.de/us-behoerde-genehmigt-spacex-eine-million-satelliten-fuer-ki-rechenzentren-im-all/",
-      "published": "Thu, 26 Nov 2026 12:43:07 +0000",
-      "source": "The Decoder"
-    },
-    {
-      "title": "Microsoft zeigt, wie Hacker aus China und Nordkorea fremde Netzwerke mit autonomen KI-Agenten in Minuten übernehmen",
-      "link": "https://the-decoder.de/microsoft-zeigt-wie-hacker-aus-china-und-nordkorea-fremde-netzwerke-mit-autonomen-ki-agenten-in-minuten-uebernehmen/",
-      "published": "Thu, 26 Nov 2026 10:12:06 +0000",
       "source": "The Decoder"
     }
   ]
